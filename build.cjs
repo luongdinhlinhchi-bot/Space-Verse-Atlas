@@ -60,6 +60,10 @@ for(const city of germany.cities) for(const institution of city.institutions){
 }
 fs.writeFileSync('GERMANY-RESEARCHERS.md', germanReport.join('\n'));
 const countryData = {FIN:finland, DEU:germany};
+// Link cá nhân: url chỉ dùng cho đúng một người (hoặc được đánh dấu profile:true). Link dùng chung là trang danh sách.
+{const people=[];const walk=o=>{if(Array.isArray(o))o.forEach(walk);else if(o&&typeof o==='object'){for(const k of ['people','external'])if(Array.isArray(o[k]))o[k].forEach(p=>{if(p&&p.name&&p.url)people.push(p)});Object.values(o).forEach(walk)}};walk(countryData);
+ const n={};people.forEach(p=>n[p.url]=(n[p.url]||0)+1);people.forEach(p=>{if(p.profile===undefined)p.profile=n[p.url]===1});
+ const own=people.filter(p=>p.profile).length;console.log('Personal links: '+own+' / '+people.length);}
 const finlandGeometry = JSON.parse(fs.readFileSync('finland-geometry.json','utf8'));
 const vietnamIslands = JSON.parse(fs.readFileSync('vietnam-islands.json','utf8'));
 // Hoàng Sa & Trường Sa: bộ dữ liệu 110m không có đảo nhỏ, nên thêm ký hiệu (vẽ lớn hơn kích thước thật) vào hình Việt Nam.

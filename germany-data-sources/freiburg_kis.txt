@@ -1,7 +1,7 @@
 @inst Institut für Sonnenphysik (KIS)
 structure: Institut für Sonnenphysik (KIS), Freiburg, thuộc Hội Leibniz; các mảng: Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Solar Data Center
 structureUrl: https://www.leibniz-kis.de/en/research/
-scope: Mới làm mảng Solar Physics and Stellar Connections (trang nhóm có danh sách đủ). Ba mảng kính thiên văn, thiết bị và trung tâm dữ liệu chưa có danh sách người.
+scope: Có hai nhóm Solar Physics and Stellar Connections và Solar Telescopes theo trang nhóm. Nhóm Scientific Instrumentation và Science Data Centre chưa tìm được trang danh sách thành viên.
 
 #unit Solar Physics and Stellar Connections
 kind: Mảng nghiên cứu
@@ -18,3 +18,15 @@ pp: NCS | Markus Schmassmann; Helena Vila Crespo
 pp: THS | Stefani Kecman
 pp: Sinh viên trợ lý | Gaojian Liu; Jan Buttler
 pp: Sinh viên cử nhân | Paulina Schillinger
+
+#unit Solar Telescopes
+kind: Nhóm nghiên cứu (thuộc Dept. Observatory & Instrumentation)
+parent: Institut für Sonnenphysik (KIS)
+topics: Vận hành và phát triển kính thiên văn Mặt Trời Đức tại Teide (GREGOR, VTT); quang học thích ứng (MCAO); vật lý Mặt Trời thực nghiệm, từ tính Mặt Trời.
+note: GSTOT = German Solar Telescopes at the Observatorio del Teide.
+src: https://www.leibniz-kis.de/en/research/solar-telescopes/team
+pp: Trưởng nhóm; quản lý khoa học GSTOT | Rolf Schlichenmaier
+pp: Nhà khoa học; quản lý kỹ thuật GSTOT | Reiner Volkmer
+pp: Nhà khoa học | Thomas Berkefeld; Sergio Javier González Manrique
+pp: Phó giám đốc bộ phận PB2 — vật lý Mặt Trời lý thuyết | Jozef Bruls
+pp: Nhân viên kỹ thuật (hệ điều khiển, điện tử) | Olivier Grassin; Felix Krämer

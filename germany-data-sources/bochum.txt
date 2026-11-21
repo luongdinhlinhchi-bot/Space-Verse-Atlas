@@ -1,7 +1,7 @@
 @inst Ruhr-Universität Bochum
 structure: Astronomisches Institut (AIRUB), Fakultät für Physik und Astronomie; giám đốc điều hành (2023): Anna Franckowiak
 structureUrl: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf
-scope: Danh sách lấy từ báo cáo thường niên 2023 (Mitteilungen der AG 107, 2024) vì chưa tìm thấy bản 2024; báo cáo không gán người vào nhóm. Chưa làm nhóm Theoretische Physik IV (plasma vũ trụ và tia vũ trụ), mục RDS thứ hai của Bochum.
+scope: Astronomisches Institut lấy từ báo cáo thường niên 2023 (Mitteilungen der AG 107, 2024), không gán người vào nhóm. Theoretische Physik IV (plasma vũ trụ, tia vũ trụ, nhật quyển) lấy từ trang thành viên của chair, chia theo ba nhóm.
 
 #unit Astronomisches Institut (toàn viện)
 kind: Danh sách toàn viện
@@ -18,3 +18,34 @@ pp: THS | Frederike Apel; Elena Marci Boehnke; Niklas Espendiller; Leon Gawlytta
 pp: Sinh viên cử nhân | Nadine Altenhoff; Julia Baßier; Louis Borkhardt; Julius Dreisbach; Nisa Eyilmez; Alexander Grunewalt; Alexander Kier; Simon Pick; Jannik Pospiech; Philipp Salewsky; Fatma Yasa
 xx: Giáo sư khách mời — University of Edinburgh | Catherine Heymans
 xx: KM | Susanne Hüttemeister; Helmut Niemsch; Tom Richtler; Elmar Träbert; Kerstin Weis
+
+#unit Theoretische Physik IV — Plasma Astroparticle Physics (Tjus)
+kind: Nhóm (thuộc Lehrstuhl Theoretische Physik IV)
+parent: Fakultät für Physik und Astronomie — Theoretische Physik IV
+topics: Mô tả quá trình trong plasma vũ trụ: lan truyền tia vũ trụ, neutrino và tia gamma năng lượng cao; tham gia CTA, IBEX, IceCube.
+note: Trang thành viên chỉ ghi học vị, không ghi chức danh; "Dr." được hiểu là nghiên cứu viên sau tiến sĩ. Một số người không ghi học vị.
+src: https://www.tp4.ruhr-uni-bochum.de/members/ ; https://www.tp4.ruhr-uni-bochum.de/
+pp: GS — trưởng chair | Julia Tjus
+pp: GS (giáo sư danh dự RUB, TU Dortmund) | Wolfgang Rhode
+pp: Tiến sĩ (Dr.) — nghiên cứu viên | Sophie Aerdker; Julien Dörner; Björn Eichmann; Lukas Merten; Amal Saadallah
+pp: Thành viên (trang không ghi học vị) | Ayhan Aydin; Mert Ciftci; Jakob Dörner; Malte Engelsberg; Ahmed Mahmood; Wiktoria Pestka
+pp: Sinh viên thạc sĩ | Lukas Beiske; Jan-Niklas Bohnensack; Jonas Hackfeld; Linh Han Thanh; Jonas Hellrung; Johannes Just; Vladimir Kiselev; Niclas Krieger; Moha Mousavi; Janik Rausch; Cyrus Walther
+pp: Sinh viên cử nhân | Lukas Albrecht; Milena Brütting; Theodoros Choulouilidis; Tilman Eckstein; Marc Hubert; Alexander Kazatsky; Shubhankar Kulkarni; Magdalena Litwin; Simon Porten; Yannick Schmidt; Jannis Wagner
+
+#unit Theoretische Physik IV — Heliophysics (Fichtner)
+kind: Nhóm (thuộc Lehrstuhl Theoretische Physik IV)
+parent: Fakultät für Physik und Astronomie — Theoretische Physik IV
+topics: Vật lý nhật quyển: gió Mặt Trời, biên nhật quyển, tia vũ trụ trong nhật quyển (IBEX).
+src: https://www.tp4.ruhr-uni-bochum.de/members/ ; https://www.tp4.ruhr-uni-bochum.de/
+pp: Privatdozent — trưởng nhóm | Horst Fichtner
+pp: Tiến sĩ (Dr.) — nghiên cứu viên | Frederic Effenberger; Jens Kleimann; Klaus Scherer
+pp: Thành viên (trang không ghi học vị) | Andreas Kopp
+pp: Sinh viên thạc sĩ | Michele Arcuri; Dustin Lee Schröder; Lukas Simon Westrich
+pp: Sinh viên cử nhân | Linus Glanemann; Jolina Rolfs
+
+#unit Theoretische Physik IV — Space- and Astrophysics (Schlickeiser)
+kind: Nhóm (thuộc Lehrstuhl Theoretische Physik IV)
+parent: Fakultät für Physik und Astronomie — Theoretische Physik IV
+topics: Vật lý plasma không gian và thiên văn lý thuyết.
+src: https://www.tp4.ruhr-uni-bochum.de/members/ ; https://www.tp4.ruhr-uni-bochum.de/
+pp: GS | Reinhard Schlickeiser

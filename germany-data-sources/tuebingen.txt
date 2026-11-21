@@ -1,7 +1,7 @@
 @inst Eberhard Karls Universität Tübingen — Institut für Astronomie und Astrophysik (IAAT)
 structure: IAAT gồm các bộ phận Astronomie (Werner), Hochenergieastrophysik (Santangelo), Weltraumgestützte Astrophysik (Stelzer), Theoretische Astrophysik và Computational Physics, cùng nhóm thiết bị UV MCP
 structureUrl: https://uni-tuebingen.de/de/3059
-scope: Danh sách lấy từ bảng liên hệ nhân sự của IAAT; nhóm theo cột “Working group”. Trang dài hơn giới hạn đọc nên có thể thiếu một vài dòng ở giữa (vần S). Không gồm kỹ sư điện tử, xưởng và thư ký. Bộ phận Theoretische Astrophysik và Computational Physics chưa có danh sách thành viên.
+scope: Danh sách lấy từ bảng liên hệ nhân sự của IAAT; nhóm theo cột “Working group”. Trang dài hơn giới hạn đọc nên có thể thiếu một vài dòng ở giữa (vần S). Không gồm kỹ sư điện tử, xưởng và thư ký. Có thể thiếu một vài dòng của bảng nhân sự chung.
 
 #unit Hochenergieastrophysik (HEA)
 kind: Bộ phận (Abteilung)
@@ -49,11 +49,24 @@ pp: Nghiên cứu viên cao cấp | Jürgen Barnstedt; Sebastian Diebold
 pp: THS | Ciel Barner; Alexander Stock; Michael Schöllhorn
 pp: Sinh viên cử nhân | Daniel Barner
 
-#unit Theoretische Astrophysik và Computational Physics
-kind: Bộ phận (chưa có danh sách)
+#unit Theoretische Astrophysik
+kind: Bộ phận (Abteilung)
 parent: IAAT
-topics: Vật lý thiên văn tương đối tính, kiểm nghiệm lý thuyết hấp dẫn cải biên qua sóng hấp dẫn (nhóm Emmy Noether); vật lý tính toán (mô phỏng va chạm, sứ mệnh Hera).
-note: Chưa đọc trang thành viên của hai bộ phận này; mới ghi người phụ trách theo trang khoa Vật lý và trang viện.
-src: https://uni-tuebingen.de/de/3059 ; https://uni-tuebingen.de/de/5769
-pp: Trưởng nhóm Emmy Noether — Relativistic Astrophysics | Daniela Doneva
-pp: GS (apl.) — Computational Physics | Christoph Schäfer
+topics: Vật lý thiên văn tương đối tính: sao neutron, lỗ đen, sóng hấp dẫn; kiểm nghiệm lý thuyết hấp dẫn cải biên (nhóm Emmy Noether của Daniela Doneva).
+src: https://uni-tuebingen.de/de/3987 ; https://uni-tuebingen.de/de/3059
+pp: GS — trưởng chair (Lehrstuhlinhaber) | Kostas Kokkotas
+pp: Trưởng nhóm Emmy Noether (ghi là khách) | Daniela Doneva
+pp: PD | Saulo Soares de Albuquerque Filho; Arthur Suvorov; Sebastian Völkel
+pp: NCS | Praveen Manoharan; José Olvera Meneses; Yunqiao Xu
+pp: SV | Francesco Agus; Bunmi Ale; Hakan Das; Kostas Kourmpetis; Vyom Kulkarni; Julia Manto; Christoph Mittelstaedt; Marta Piscitelli; Jana Rühl; Umer Shahzad; Harsh Solanki
+xx: KM | Cosimo Bambi; Kostas Glampedakis; Luis C. Nunes dos Santos; Hajime Sotani; Horacio S. Vieira
+xx: LK | Hans-Peter Nollert
+
+#unit Computational Physics
+kind: Bộ phận (Abteilung)
+parent: IAAT
+topics: Vật lý tính toán: mô phỏng va chạm thiên thể nhỏ, đĩa tiền hành tinh; sứ mệnh Hera.
+note: Trưởng bộ phận cũ Wilhelm Kley đã mất; trang ghi Christoph Schäfer là điều phối viên chương trình thạc sĩ.
+src: https://uni-tuebingen.de/de/5769 ; https://uni-tuebingen.de/en/271764
+pp: GS (apl.) — điều phối chương trình thạc sĩ Astro & Particle Physics | Christoph Schäfer
+pp: SV | Richard Abele; Rabin-Prakash Dahal; Proshmit Dasgupta; Tilak-Prasad Dhakal; Sascha Eckstein; Lisa-Marie Imhof; Orane Joffray; Prakrut Rajesh; Karan Sagar; Jakob Sappler; Dennis Schwab; Yerassyl Telman

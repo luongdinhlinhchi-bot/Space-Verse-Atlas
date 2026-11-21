@@ -1,53 +1,101 @@
 @inst Universität zu Köln — I. Physikalisches Institut
-structure: I. Physikalisches Institut, Universität zu Köln — các nhóm thiên văn (workgroups)
+structure: I. Physikalisches Institut, Universität zu Köln — tám nhóm thiên văn (workgroups) của Jacob, Labadie, Riechers, Schilke, Schlemmer, Walch-Gassner, Honingh, Graf
 structureUrl: https://astro.uni-koeln.de/workgroups
-scope: Trang nhóm của từng giáo sư không hiện danh sách thành viên khi đọc tự động (nội dung tải bằng script), nên mới ghi trưởng nhóm. Chưa có danh sách người.
+scope: Thành viên lấy từ danh sách nhóm của từng giáo sư (máy chủ lecture.ph1.uni-koeln.de, trang nhóm tải bằng script) và danh bạ nhân sự của viện (có mã nhóm của từng người). Trang không ghi chức danh: người có "Dr." được ghi là nghiên cứu viên, người không có học vị thường là nghiên cứu sinh hoặc học viên. Đã bỏ xưởng cơ khí, kỹ thuật, thư ký và văn phòng SFB.
 
 #unit Molecular Spectroscopy of Astronomical Objects (Jacob)
 parent: I. Physikalisches Institut
 topics: Quang phổ phân tử của thiên thể ở bước sóng vô tuyến và milimét/dưới milimét.
 url: https://astro.uni-koeln.de/jacob
-src: https://astro.uni-koeln.de/workgroups
-pp: GSTN | Arshia M. Jacob
+src: https://astro.uni-koeln.de/jacob/research-group ; https://astro.uni-koeln.de/workgroups
+p: Arshia M. Jacob | GS — trưởng nhóm | https://astro.uni-koeln.de/jacob
+pp: NCS | Ying-Chi Hu; Morgan Owen
+pp: NCS (MPIfR) | Sarwar Khan
+pp: Học viên thạc sĩ (MPIfR) | Vikalp Sharma; Ewald Brunner
+pp: Sinh viên cử nhân | Jan Linus Kaiser; Anne Fink; Jean-Luc Tikko
 
 #unit Optical and IR Instrumentation (Labadie)
 parent: I. Physikalisches Institut
-topics: Thiết bị quang học và hồng ngoại, giao thoa kế; hình thành sao và hành tinh, thiên thể dưới sao, hành tinh ngoài Hệ Mặt Trời.
+topics: Thiết bị quang học và hồng ngoại, giao thoa kế, quang học tích hợp hồng ngoại giữa; tâm Ngân Hà (GRAVITY); hình thành sao và hành tinh, ngoại hành tinh.
 url: https://astro.uni-koeln.de/labadie
-src: https://astro.uni-koeln.de/workgroups
-pp: GSTN | Lucas Labadie
+src: https://lecture.ph1.uni-koeln.de/list/workgroup/lla/ ; https://astro.uni-koeln.de/en/mitarbeiter-innen
+p: Lucas Labadie | GS — trưởng nhóm | https://astro.uni-koeln.de/labadie
+p: Christian Straubmeier | Nghiên cứu viên (Dr.) — tâm Ngân Hà, GRAVITY | https://hera.ph1.uni-koeln.de/~cstraubm
+pp: Privatdozent — tâm Ngân Hà | Florian Peißker
+pp: Nghiên cứu viên (Dr.) | Kévin Barjot; Emma Bordier; Yigit Dallilar; Vipin Kumar; Matthias Subroweit; Philipp Weber
+pp: Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên) | Alen Kuriakose; Maria Melamed; Chinmaya Nagar; Luca Bove; Jonas von Cappeln; Adhirath Deshmukh; Brendan Dolfen; Hendrik Ehrhardt; Margo Gaßmüller; Lena Großekathöfer; Sebastian Knebel; Alessio Popovik; Naomi Schmökel; Saima Shaikh; Michael Wiest
 
 #unit Early Universe and Galaxies (Riechers)
 parent: I. Physikalisches Institut
-topics: Vũ trụ sơ khai, thiên hà, nhân thiên hà hoạt động, hình thành sao, môi trường liên sao; CCAT-prime.
+topics: Vũ trụ sơ khai, thiên hà, nhân thiên hà hoạt động, hình thành sao, môi trường liên sao; CCAT/FYST.
 url: https://astro.uni-koeln.de/riechers
-src: https://astro.uni-koeln.de/workgroups
-pp: GSTN | Dominik A. Riechers
+src: https://lecture.ph1.uni-koeln.de/list/workgroup/dri/ ; https://astro.uni-koeln.de/en/mitarbeiter-innen
+p: Dominik A. Riechers | GS — trưởng nhóm | https://astro.uni-koeln.de/riechers
+p: Volker Ossenkopf-Okada | Privatdozent | https://hera.ph1.uni-koeln.de/~ossk
+p: Nicola Schneider | Nghiên cứu viên (Dr.) | https://hera.ph1.uni-koeln.de/~nschneid
+p: Prachi Prajapati | Nghiên cứu sinh — tiến hóa thiên hà và hình thành sao | https://astro.uni-koeln.de/~prajapati
+pp: Nghiên cứu viên (Dr.) | Christof Buchbender; Ronan Higgins; Eduard Keilmann; Yoko Okada; Robert Simon; Juan Luis Verbena
+pp: Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên) | Aaron Beyer; Francesca Borg; Jonathan Clarke; Simon Dannhauer; Parit Mehta; Songnan Qi; Aditi Sinha; Theodoros Topkaras; Daniel Vieira; Florian Brettschneider
 
 #unit High-mass Star Formation and Astrochemistry (Schilke)
 parent: I. Physikalisches Institut
-topics: Hình thành sao khối lượng lớn và hoá học thiên văn; quan sát và mô hình hoá.
+topics: Hình thành sao khối lượng lớn và hoá học thiên văn; quan sát (ALMA, ALMAGAL) và mô hình hoá; Sgr B2, NGC 6334.
 url: https://astro.uni-koeln.de/schilke
-src: https://astro.uni-koeln.de/workgroups
-pp: GSTN | Peter Schilke
+src: https://lecture.ph1.uni-koeln.de/list/workgroup/psc/ ; https://astro.uni-koeln.de/en/mitarbeiter-innen
+p: Peter Schilke | GS — trưởng nhóm | https://astro.uni-koeln.de/schilke
+p: Wonju Kim | Nghiên cứu viên (Dr.) | https://wonjukim.wordpress.com
+pp: Nghiên cứu viên (Dr.) | Beth Jones; Thomas Möller; Rakesh Pandey; Tatiana Rodríguez; Fengwei Xu
+pp: Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên) | Akash Gupta; Han-Tsung Lee; Shang-Jing Lin; Eleonore Rodrigues da Costa; Flavia Carolina Santos do Amaral; Siqi Zheng; Nayab Gohar; Nick Leonhard; Darja Loges; Niclas Neuhausen; Vishalika Sharma
 
 #unit Laboratory Astrophysics (Schlemmer)
 parent: I. Physikalisches Institut
-topics: Vật lý lượng tử của phân tử liên sao, kỹ thuật quang phổ đặc biệt; Cologne Center for THz Spectroscopy.
+topics: Vật lý lượng tử của phân tử liên sao, quang phổ phòng thí nghiệm (phản ứng ion–phân tử nhiệt độ thấp, quang phổ chirped-pulse); Cologne Center for THz Spectroscopy, CDMS.
 url: https://astro.uni-koeln.de/schlemmer
-src: https://astro.uni-koeln.de/workgroups
-pp: GSTN | Stephan Schlemmer
+src: https://lecture.ph1.uni-koeln.de/list/workgroup/ssc/ ; https://astro.uni-koeln.de/en/mitarbeiter-innen
+p: Stephan Schlemmer | GS — trưởng nhóm | https://astro.uni-koeln.de/schlemmer
+p: Oskar Asvany | GS (apl.) | https://hera.ph1.uni-koeln.de/~asvany
+p: Holger S. P. Müller | Nghiên cứu viên (Dr.) — CDMS | https://hera.ph1.uni-koeln.de/~hspm
+p: Bettina Heyne | Nghiên cứu viên (Dr.) | https://astro.uni-koeln.de/~heyne
+p: Divita Gupta | Nghiên cứu viên (Dr.) | https://decodingastrochemysteries-divitagupta.com/
+p: Sven Thorwirth | Nghiên cứu viên (Dr.) | http://www.xsven.de
+pp: Nghiên cứu viên (Dr.) | Frank Lewen; Wenqin Li; Meng Li; Samuel Marlton; Ernest Michael; Thomas Salomon
+pp: Nghiên cứu viên Humboldt | Weslley Silva
+pp: Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên) | Marcel Bast; Julian Böing; Stefan Brackertz; Prachi Misra; Gabriele Panizzi; Florian Pirlet; Eline Plaar; Lise von Rötel; Lea Schneider; Chenxu Wang; Lucas Eipper; Paul Julius Fels; Florian Happ; Robin Jakobi; Ramin Rezaei; Carla Schladt; Paul Schlemmer; Annemarie Sich
 
 #unit Theoretical Astrophysics (Walch-Gassner)
 parent: I. Physikalisches Institut
-topics: Dự án SILCC, phản hồi từ sao (vùng HII, siêu tân tinh), hình thành sao, quan sát tổng hợp.
+topics: Dự án SILCC, mô phỏng 3D môi trường liên sao rối, phản hồi từ sao (vùng HII, siêu tân tinh), hình thành sao, quan sát tổng hợp.
 url: https://astro.uni-koeln.de/walch-gassner
-src: https://astro.uni-koeln.de/workgroups ; https://underconstruction-1.mathnat.uni-koeln.de/administration
-pp: GSTN — giáo sư W3 vật lý thiên văn lý thuyết | Stefanie Walch-Gassner
+src: https://lecture.ph1.uni-koeln.de/list/workgroup/swa/ ; https://astro.uni-koeln.de/en/mitarbeiter-innen
+p: Stefanie Walch-Gassner | GS — trưởng nhóm | https://astro.uni-koeln.de/walch-gassner
+p: Daniel Seifried | Privatdozent — tính toán hiệu năng cao | https://hera.ph1.uni-koeln.de/~seifried
+p: Ahmad Ali | Nghiên cứu viên (Dr.) | https://a-a-ali.github.io/
+p: Constantina Fotopoulou Rathjen | Nghiên cứu viên (Dr.) | https://astroconstant.gitlab.io/
+p: Tim-Eric Rathjen | Nghiên cứu viên (Dr.) | https://astro.uni-koeln.de/~rathjen
+pp: Nghiên cứu viên (Dr.) | Vittoria Brugaletta; Iraj Vaezzadeh; Ana Würschig; Birka Zimmermann
+pp: Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên) | Leonard Kaiser; Chiara Leonhardt; Pierre Nürnberger; Anaïs Pauchet; Taishi Ushirogi; Sebastian Vider; Michael Weis; Oerd Xhemollari; Lennart Buhlmann; Ali Cem Cakmak; Wajdee Chayeb; Alice Coors; Lars Dieper; Oskar Gebel; Svenja Geissler; Clarissa Immisch; Jo-Shui Kao; Carlo Kleefisch; Mathilda Lenz; Simon Littek; Henrik Nolte; Nuray Ortaköse; Atharv Patade; Rahul Patel; Julius Pupkes; Felix Rauprich; Christian Riesop; David Roesberg; Akshrit Sharma; Mervin Yap
 
-#unit Nhóm Honingh và nhóm Graf
+#unit Superconducting Detectors / SIS (Honingh)
 parent: I. Physikalisches Institut
-topics: Trang không ghi chủ đề.
-src: https://astro.uni-koeln.de/workgroups
-pp: TN | Netty Honingh; Urs Graf
-pp: EM | A. Eckart; J. Stutzki
+topics: Chế tạo bộ trộn siêu dẫn SIS và linh kiện cho máy thu dưới milimét.
+url: https://astro.uni-koeln.de/honingh
+src: https://astro.uni-koeln.de/en/mitarbeiter-innen ; https://astro.uni-koeln.de/workgroups
+p: Netty Honingh | Trưởng nhóm (Dr.) | https://astro.uni-koeln.de/honingh
+pp: Thành viên (không ghi học vị) | Saudamini Kulkarni; Rebeka Miklosi; Felix Münning; Damian Peregrina García; Himadri Saha; Kian Syaifoel; Xinyu Zhu
+
+#unit SubMillimeter and Terahertz Receivers (Graf)
+parent: I. Physikalisches Institut
+topics: Máy thu dưới milimét và terahertz (CHAI, GREAT, SMART), phát triển linh kiện.
+url: https://astro.uni-koeln.de/graf
+src: https://astro.uni-koeln.de/graf/staff ; https://astro.uni-koeln.de/en/mitarbeiter-innen
+p: Urs Graf | Trưởng nhóm (Dr.) | https://hera.ph1.uni-koeln.de/~graf
+pp: Nghiên cứu viên (Dr.) | Matthias Justen
+pp: Thành viên (không ghi học vị) | Sajjad Mahdizadeh; Marc Mertens; Xiaodong Ren; Pablo Tapia; Ashutosh Das; Kateryna Vynokurova
+pp: Nhân viên kỹ thuật của nhóm | Henning Adams; Ayyaz Mahmood; Bernhard Schmidt
+
+#unit Giáo sư danh dự
+parent: I. Physikalisches Institut
+topics: Tâm Ngân Hà và lỗ đen Sgr A* (Eckart); thiên văn dưới milimét, KOSMA (Stutzki).
+url: https://astro.uni-koeln.de/en/members/emeritus
+src: https://astro.uni-koeln.de/en/members/emeritus
+pp: EM | Andreas Eckart; Jürgen Stutzki

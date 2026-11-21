@@ -3370,7 +3370,7 @@ Khách mời / thành viên liên kết:
 - Kathryn Kreckel — Thành viên liên kết
 - Nicolas Martin — Thành viên liên kết
 
-Nguồn: [1](https://www.mpia.de/en/gc/staff), [2](https://www.mpia.de/institute/scientific-departments/galaxies-and-cosmology).
+Nguồn: [1](https://www.mpia.de/en/gc/staff), [2](https://www.mpia.de/institute/scientific-departments/galaxies-and-cosmology), [3](https://www.mpia.de/person/40632/1415667), [4](https://www.mpia.de/person/40631/1415667).
 
 ### [Planet Formation and Exoplanets (PFE)](https://www.mpia.de/en/pfe)
 
@@ -3814,9 +3814,9 @@ Nguồn: [1](https://univis.uni-kiel.de/formbot/dsc_3Danew_2Fpande_26dir_3Dmathe
 
 ## Universität zu Köln — I. Physikalisches Institut — Köln
 
-[Cơ cấu](https://astro.uni-koeln.de/workgroups): I. Physikalisches Institut, Universität zu Köln — các nhóm thiên văn (workgroups)
+[Cơ cấu](https://astro.uni-koeln.de/workgroups): I. Physikalisches Institut, Universität zu Köln — tám nhóm thiên văn (workgroups) của Jacob, Labadie, Riechers, Schilke, Schlemmer, Walch-Gassner, Honingh, Graf
 
-Trang nhóm của từng giáo sư không hiện danh sách thành viên khi đọc tự động (nội dung tải bằng script), nên mới ghi trưởng nhóm. Chưa có danh sách người.
+Thành viên lấy từ danh sách nhóm của từng giáo sư (máy chủ lecture.ph1.uni-koeln.de, trang nhóm tải bằng script) và danh bạ nhân sự của viện (có mã nhóm của từng người). Trang không ghi chức danh: người có "Dr." được ghi là nghiên cứu viên, người không có học vị thường là nghiên cứu sinh hoặc học viên. Đã bỏ xưởng cơ khí, kỹ thuật, thư ký và văn phòng SFB.
 
 ### [Molecular Spectroscopy of Astronomical Objects (Jacob)](https://astro.uni-koeln.de/jacob)
 
@@ -3824,72 +3824,242 @@ Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
 Quang phổ phân tử của thiên thể ở bước sóng vô tuyến và milimét/dưới milimét.
 
-- Arshia M. Jacob — Giáo sư; trưởng nhóm
+- Arshia M. Jacob — GS — trưởng nhóm
+- Ying-Chi Hu — Nghiên cứu sinh
+- Morgan Owen — Nghiên cứu sinh
+- Sarwar Khan — NCS (MPIfR)
+- Vikalp Sharma — Học viên thạc sĩ (MPIfR)
+- Ewald Brunner — Học viên thạc sĩ (MPIfR)
+- Jan Linus Kaiser — Sinh viên cử nhân
+- Anne Fink — Sinh viên cử nhân
+- Jean-Luc Tikko — Sinh viên cử nhân
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups).
+Nguồn: [1](https://astro.uni-koeln.de/jacob/research-group), [2](https://astro.uni-koeln.de/workgroups).
 
 ### [Optical and IR Instrumentation (Labadie)](https://astro.uni-koeln.de/labadie)
 
 Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
-Thiết bị quang học và hồng ngoại, giao thoa kế; hình thành sao và hành tinh, thiên thể dưới sao, hành tinh ngoài Hệ Mặt Trời.
+Thiết bị quang học và hồng ngoại, giao thoa kế, quang học tích hợp hồng ngoại giữa; tâm Ngân Hà (GRAVITY); hình thành sao và hành tinh, ngoại hành tinh.
 
-- Lucas Labadie — Giáo sư; trưởng nhóm
+- Lucas Labadie — GS — trưởng nhóm
+- Christian Straubmeier — Nghiên cứu viên (Dr.) — tâm Ngân Hà, GRAVITY
+- Florian Peißker — Privatdozent — tâm Ngân Hà
+- Kévin Barjot — Nghiên cứu viên (Dr.)
+- Emma Bordier — Nghiên cứu viên (Dr.)
+- Yigit Dallilar — Nghiên cứu viên (Dr.)
+- Vipin Kumar — Nghiên cứu viên (Dr.)
+- Matthias Subroweit — Nghiên cứu viên (Dr.)
+- Philipp Weber — Nghiên cứu viên (Dr.)
+- Alen Kuriakose — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Maria Melamed — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Chinmaya Nagar — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Luca Bove — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Jonas von Cappeln — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Adhirath Deshmukh — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Brendan Dolfen — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Hendrik Ehrhardt — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Margo Gaßmüller — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Lena Großekathöfer — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Sebastian Knebel — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Alessio Popovik — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Naomi Schmökel — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Saima Shaikh — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Michael Wiest — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups).
+Nguồn: [1](https://lecture.ph1.uni-koeln.de/list/workgroup/lla/), [2](https://astro.uni-koeln.de/en/mitarbeiter-innen).
 
 ### [Early Universe and Galaxies (Riechers)](https://astro.uni-koeln.de/riechers)
 
 Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
-Vũ trụ sơ khai, thiên hà, nhân thiên hà hoạt động, hình thành sao, môi trường liên sao; CCAT-prime.
+Vũ trụ sơ khai, thiên hà, nhân thiên hà hoạt động, hình thành sao, môi trường liên sao; CCAT/FYST.
 
-- Dominik A. Riechers — Giáo sư; trưởng nhóm
+- Dominik A. Riechers — GS — trưởng nhóm
+- Volker Ossenkopf-Okada — Privatdozent
+- Nicola Schneider — Nghiên cứu viên (Dr.)
+- Prachi Prajapati — Nghiên cứu sinh — tiến hóa thiên hà và hình thành sao
+- Christof Buchbender — Nghiên cứu viên (Dr.)
+- Ronan Higgins — Nghiên cứu viên (Dr.)
+- Eduard Keilmann — Nghiên cứu viên (Dr.)
+- Yoko Okada — Nghiên cứu viên (Dr.)
+- Robert Simon — Nghiên cứu viên (Dr.)
+- Juan Luis Verbena — Nghiên cứu viên (Dr.)
+- Aaron Beyer — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Francesca Borg — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Jonathan Clarke — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Simon Dannhauer — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Parit Mehta — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Songnan Qi — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Aditi Sinha — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Theodoros Topkaras — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Daniel Vieira — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Florian Brettschneider — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups).
+Nguồn: [1](https://lecture.ph1.uni-koeln.de/list/workgroup/dri/), [2](https://astro.uni-koeln.de/en/mitarbeiter-innen).
 
 ### [High-mass Star Formation and Astrochemistry (Schilke)](https://astro.uni-koeln.de/schilke)
 
 Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
-Hình thành sao khối lượng lớn và hoá học thiên văn; quan sát và mô hình hoá.
+Hình thành sao khối lượng lớn và hoá học thiên văn; quan sát (ALMA, ALMAGAL) và mô hình hoá; Sgr B2, NGC 6334.
 
-- Peter Schilke — Giáo sư; trưởng nhóm
+- Peter Schilke — GS — trưởng nhóm
+- Wonju Kim — Nghiên cứu viên (Dr.)
+- Beth Jones — Nghiên cứu viên (Dr.)
+- Thomas Möller — Nghiên cứu viên (Dr.)
+- Rakesh Pandey — Nghiên cứu viên (Dr.)
+- Tatiana Rodríguez — Nghiên cứu viên (Dr.)
+- Fengwei Xu — Nghiên cứu viên (Dr.)
+- Akash Gupta — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Han-Tsung Lee — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Shang-Jing Lin — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Eleonore Rodrigues da Costa — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Flavia Carolina Santos do Amaral — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Siqi Zheng — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Nayab Gohar — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Nick Leonhard — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Darja Loges — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Niclas Neuhausen — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Vishalika Sharma — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups).
+Nguồn: [1](https://lecture.ph1.uni-koeln.de/list/workgroup/psc/), [2](https://astro.uni-koeln.de/en/mitarbeiter-innen).
 
 ### [Laboratory Astrophysics (Schlemmer)](https://astro.uni-koeln.de/schlemmer)
 
 Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
-Vật lý lượng tử của phân tử liên sao, kỹ thuật quang phổ đặc biệt; Cologne Center for THz Spectroscopy.
+Vật lý lượng tử của phân tử liên sao, quang phổ phòng thí nghiệm (phản ứng ion–phân tử nhiệt độ thấp, quang phổ chirped-pulse); Cologne Center for THz Spectroscopy, CDMS.
 
-- Stephan Schlemmer — Giáo sư; trưởng nhóm
+- Stephan Schlemmer — GS — trưởng nhóm
+- Oskar Asvany — GS (apl.)
+- Holger S. P. Müller — Nghiên cứu viên (Dr.) — CDMS
+- Bettina Heyne — Nghiên cứu viên (Dr.)
+- Divita Gupta — Nghiên cứu viên (Dr.)
+- Sven Thorwirth — Nghiên cứu viên (Dr.)
+- Frank Lewen — Nghiên cứu viên (Dr.)
+- Wenqin Li — Nghiên cứu viên (Dr.)
+- Meng Li — Nghiên cứu viên (Dr.)
+- Samuel Marlton — Nghiên cứu viên (Dr.)
+- Ernest Michael — Nghiên cứu viên (Dr.)
+- Thomas Salomon — Nghiên cứu viên (Dr.)
+- Weslley Silva — Nghiên cứu viên Humboldt
+- Marcel Bast — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Julian Böing — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Stefan Brackertz — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Prachi Misra — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Gabriele Panizzi — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Florian Pirlet — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Eline Plaar — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Lise von Rötel — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Lea Schneider — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Chenxu Wang — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Lucas Eipper — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Paul Julius Fels — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Florian Happ — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Robin Jakobi — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Ramin Rezaei — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Carla Schladt — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Paul Schlemmer — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Annemarie Sich — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups).
+Nguồn: [1](https://lecture.ph1.uni-koeln.de/list/workgroup/ssc/), [2](https://astro.uni-koeln.de/en/mitarbeiter-innen).
 
 ### [Theoretical Astrophysics (Walch-Gassner)](https://astro.uni-koeln.de/walch-gassner)
 
 Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
-Dự án SILCC, phản hồi từ sao (vùng HII, siêu tân tinh), hình thành sao, quan sát tổng hợp.
+Dự án SILCC, mô phỏng 3D môi trường liên sao rối, phản hồi từ sao (vùng HII, siêu tân tinh), hình thành sao, quan sát tổng hợp.
 
-- Stefanie Walch-Gassner — GSTN — giáo sư W3 vật lý thiên văn lý thuyết
+- Stefanie Walch-Gassner — GS — trưởng nhóm
+- Daniel Seifried — Privatdozent — tính toán hiệu năng cao
+- Ahmad Ali — Nghiên cứu viên (Dr.)
+- Constantina Fotopoulou Rathjen — Nghiên cứu viên (Dr.)
+- Tim-Eric Rathjen — Nghiên cứu viên (Dr.)
+- Vittoria Brugaletta — Nghiên cứu viên (Dr.)
+- Iraj Vaezzadeh — Nghiên cứu viên (Dr.)
+- Ana Würschig — Nghiên cứu viên (Dr.)
+- Birka Zimmermann — Nghiên cứu viên (Dr.)
+- Leonard Kaiser — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Chiara Leonhardt — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Pierre Nürnberger — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Anaïs Pauchet — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Taishi Ushirogi — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Sebastian Vider — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Michael Weis — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Oerd Xhemollari — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Lennart Buhlmann — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Ali Cem Cakmak — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Wajdee Chayeb — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Alice Coors — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Lars Dieper — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Oskar Gebel — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Svenja Geissler — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Clarissa Immisch — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Jo-Shui Kao — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Carlo Kleefisch — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Mathilda Lenz — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Simon Littek — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Henrik Nolte — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Nuray Ortaköse — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Atharv Patade — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Rahul Patel — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Julius Pupkes — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Felix Rauprich — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Christian Riesop — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- David Roesberg — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Akshrit Sharma — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
+- Mervin Yap — Thành viên (không ghi học vị, thường là nghiên cứu sinh/học viên)
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups), [2](https://underconstruction-1.mathnat.uni-koeln.de/administration).
+Nguồn: [1](https://lecture.ph1.uni-koeln.de/list/workgroup/swa/), [2](https://astro.uni-koeln.de/en/mitarbeiter-innen).
 
-### [Nhóm Honingh và nhóm Graf](https://astro.uni-koeln.de/workgroups)
+### [Superconducting Detectors / SIS (Honingh)](https://astro.uni-koeln.de/honingh)
 
 Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
 
-Trang không ghi chủ đề.
+Chế tạo bộ trộn siêu dẫn SIS và linh kiện cho máy thu dưới milimét.
 
-- Netty Honingh — Trưởng nhóm nghiên cứu
-- Urs Graf — Trưởng nhóm nghiên cứu
-- A. Eckart — Danh dự (emeritus)
-- J. Stutzki — Danh dự (emeritus)
+- Netty Honingh — Trưởng nhóm (Dr.)
+- Saudamini Kulkarni — Thành viên (không ghi học vị)
+- Rebeka Miklosi — Thành viên (không ghi học vị)
+- Felix Münning — Thành viên (không ghi học vị)
+- Damian Peregrina García — Thành viên (không ghi học vị)
+- Himadri Saha — Thành viên (không ghi học vị)
+- Kian Syaifoel — Thành viên (không ghi học vị)
+- Xinyu Zhu — Thành viên (không ghi học vị)
 
-Nguồn: [1](https://astro.uni-koeln.de/workgroups).
+Nguồn: [1](https://astro.uni-koeln.de/en/mitarbeiter-innen), [2](https://astro.uni-koeln.de/workgroups).
+
+### [SubMillimeter and Terahertz Receivers (Graf)](https://astro.uni-koeln.de/graf)
+
+Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
+
+Máy thu dưới milimét và terahertz (CHAI, GREAT, SMART), phát triển linh kiện.
+
+- Urs Graf — Trưởng nhóm (Dr.)
+- Matthias Justen — Nghiên cứu viên (Dr.)
+- Sajjad Mahdizadeh — Thành viên (không ghi học vị)
+- Marc Mertens — Thành viên (không ghi học vị)
+- Xiaodong Ren — Thành viên (không ghi học vị)
+- Pablo Tapia — Thành viên (không ghi học vị)
+- Ashutosh Das — Thành viên (không ghi học vị)
+- Kateryna Vynokurova — Thành viên (không ghi học vị)
+- Henning Adams — Nhân viên kỹ thuật của nhóm
+- Ayyaz Mahmood — Nhân viên kỹ thuật của nhóm
+- Bernhard Schmidt — Nhân viên kỹ thuật của nhóm
+
+Nguồn: [1](https://astro.uni-koeln.de/graf/staff), [2](https://astro.uni-koeln.de/en/mitarbeiter-innen).
+
+### [Giáo sư danh dự](https://astro.uni-koeln.de/en/members/emeritus)
+
+Nhóm nghiên cứu. Trực thuộc: I. Physikalisches Institut.
+
+Tâm Ngân Hà và lỗ đen Sgr A* (Eckart); thiên văn dưới milimét, KOSMA (Stutzki).
+
+- Andreas Eckart — Danh dự (emeritus)
+- Jürgen Stutzki — Danh dự (emeritus)
+
+Nguồn: [1](https://astro.uni-koeln.de/en/members/emeritus).
 
 ## Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP) — Mainz
 
@@ -4085,7 +4255,7 @@ Mô phỏng vũ trụ học và cụm thiên hà; Computational Center for Parti
 - Alexandra Konrad — Học viên thạc sĩ
 - Bathia Shubhan Naveen — Học viên thạc sĩ
 
-Nguồn: [1](https://www.physik.lmu.de/observatory/en/people/).
+Nguồn: [1](https://www.physik.lmu.de/observatory/en/people/), [2](https://giovanni-tedeschi.github.io/).
 
 ### [Dynamics, Environment and Assembly of Galaxies](https://www.physik.lmu.de/observatory/en/people/)
 
@@ -4151,7 +4321,7 @@ Hình thành hành tinh và đĩa tiền hành tinh.
 - Sreejita Das — Nghiên cứu sinh
 - Franziska Krause — Học viên thạc sĩ
 
-Nguồn: [1](https://www.physik.lmu.de/observatory/en/people/).
+Nguồn: [1](https://www.physik.lmu.de/observatory/en/people/), [2](https://giovanni-tedeschi.github.io/).
 
 ### [Young Stars and Star Formation](https://www.physik.lmu.de/observatory/en/people/)
 

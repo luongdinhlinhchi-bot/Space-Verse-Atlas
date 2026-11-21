@@ -78,3 +78,10 @@ Tổng: 40 cơ quan, 179 đơn vị, 2247 người không trùng tên.
 ### Còn thiếu
 - Chỉ có trưởng nhóm: Köln, Mainz, Tautenburg, DLR. Trang nhân sự của Köln và Mainz chỉ hiện tên khi chạy script; báo cáo hai năm của Tautenburg không tải được; DLR không công bố danh sách theo bộ phận.
 - Thiếu một phần: MPIK (Mertens, Lindner), MPIA (Emeritus, Extragalactic), ZAH (chưa gán người vào nhóm), AIfA (danh sách chỉ gồm người đồng ý công khai), KIS (Scientific Instrumentation, SDC), Dortmund (nhóm Glaser).
+
+
+## Cập nhật 21/11/2026 (đợt 4): link trang cá nhân và Köln
+- Tên chỉ là link khi dẫn tới trang riêng của người đó. Link dẫn tới danh sách chung được hiện thành chữ "nguồn" nhỏ cạnh tên.
+- Lấy link cá nhân từ danh bạ của LMU, AEI (Hannover và Potsdam), ZAH, MPE, MPS, AIP, Köln (xem `link-sources/`).
+- Köln: đủ thành viên của 8 nhóm, lấy từ danh sách nhóm trên máy chủ lecture.ph1.uni-koeln.de và danh bạ của viện.
+- Còn thiếu link cá nhân: DESY (trang nhóm chỉ ghi email), MPIfR (danh bạ cũ, không có trang cá nhân) và khoảng 110 trưởng nhóm ở các viện khác. Mainz chưa đọc được vì trang tải quá chậm.

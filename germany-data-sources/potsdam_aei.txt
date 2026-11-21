@@ -1,7 +1,7 @@
 @inst Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut)
 structure: Viện ở Potsdam-Golm và Hannover; tại Potsdam có các bộ phận Astrophysical and Cosmological Relativity (giám đốc Alessandra Buonanno), Computational Relativistic Astrophysics và Quantum Gravity and Unified Theories
 structureUrl: https://www.aei.mpg.de/25873/aei-staff
-scope: Mới làm bộ phận Astrophysical and Cosmological Relativity (danh sách thành viên của bộ phận). Chưa làm bộ phận Computational Relativistic Astrophysics (Potsdam) và các nhóm sóng hấp dẫn ở Hannover (thuộc mục Leibniz Universität Hannover). Không đưa vào bộ phận lực hấp dẫn lượng tử vì không thuộc vật lý thiên văn.
+scope: Đã làm hai bộ phận vật lý thiên văn ở Potsdam (Astrophysical and Cosmological Relativity; Computational Relativistic Astrophysics). Các nhóm sóng hấp dẫn ở Hannover nằm ở mục Leibniz Universität Hannover. Không đưa vào bộ phận lực hấp dẫn lượng tử.
 
 #unit Astrophysical and Cosmological Relativity
 kind: Bộ phận (Abteilung)
@@ -19,3 +19,16 @@ pp: PD — Humboldt Research Fellow | Xue-Ting Zhang
 pp: NCS | Aurora Abbondanza; Giovanni Benetti; Alice Eleonora Cravioglio; Clemens Dittmer; Federico Fantoccoli; Cheng Foo; Aldo Javier Gamboa Castillo; Leonardo Grimaldi; Nihar Gupte; Marcus Haberland; Felix Alexander Lichtner; Tiziano Littera; Oliver Markwell; Nami Nishimura; Konstantinos Papadimos; Matteo Pegorin; Elise Sänger; Alessandro Santini; Malte Schulze; Luca Sebastiani
 pp: NCS — chung với MPI for Intelligent Systems | Cedric Ewen; Annalena Kofler
 xx: Nhà khoa học cao cấp kiêm nhiệm (adjunct) | Gustav Mogull; Maarten van de Meent; Miguel Zumalacarregui
+
+#unit Computational Relativistic Astrophysics
+kind: Bộ phận (Abteilung)
+parent: AEI Potsdam
+topics: Va chạm sao neutron đôi và hệ lỗ đen–sao neutron, suy sập lõi sao tạo lỗ đen; thuyết tương đối số, dạng sóng hấp dẫn, tổng hợp nguyên tố nặng.
+src: https://www.aei.mpg.de/343411/members-of-the-division ; https://aei.mpg.de/comp-rel-astro?c=2784
+pp: GD | Masaru Shibata
+pp: TN | Kyohei Kawaguchi; Kenta Kiuchi
+pp: Nghiên cứu viên cao cấp | Takami Kuroda
+pp: NCV (junior scientist) | Kota Hayashi
+pp: PD | Aman Agarwal; Yong Gao; Eduardo Gutiérrez; Peter Hammond; Ming-Zhe Han; Sudipta Hensh; Carlo Musolino; Joaquin Pelle; Quentin Perceval Xavier Pognan
+pp: PD — Humboldt Research Fellow | Gilad Sadeh
+pp: NCS | Matthew Beaudoin; Cédric Jockel; Matteo Stockinger; Georgios Takoushis

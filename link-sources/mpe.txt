@@ -1,0 +1,186 @@
+#inst extraterrestrische Physik
+#inst Ludwig-Maximilians
+#prefix https://www.mpe.mpg.de/mitarbeiter/
+Agudo Berbel, Alex|17587
+Albrecht, Sebastian|17590
+Altmann, Alexander|113379
+Andonie, Carolina|137822
+Andritschke, Robert|18029
+Anetjärvi, Markus|130470
+Antonelli, Valeria|103514
+Araki, Mitsunori|123277
+Artis, Emmanuel|125515
+Arturo, Antonio|17609
+Ayari, Sonia|55073
+Aydar, Catarina|126009
+Aytac, Benjamin|156197
+Baldini, Pietro|130554
+Balzer, Fabian|125005
+Barféty, Capucine|124849
+Bauer, Tobias|18114
+Baumgartner, Harald|17821
+Bavisha, Ayushkumar Kumanbhai|163304
+Becker, Werner|18152
+Behrendt, Manuel|17928
+Bender, Ralf|17626
+Berger, Alexander|99143
+Bethlehem, Jelke|129806
+Bianchini, Giacomo|179046
+Biondi, Federico|109475
+Blasi, Tomas|17630
+Blomfield, Grace|174204
+Böhringer, Hans|100013
+Boller, Thomas|17634
+Boorman, Peter|150222
+Bourdarot, Guillaume|116047
+Bovolenta, Giulia|177564
+Brennan, Seán|144270
+Buchner, Johannes|98741
+Bulbul, Esra|99226
+Bunn, Hayley|124335
+Burkert, Andreas|128044
+Burwitz, Vadim|26839
+Busch, Laura Ann|132208
+Calderón, Diego|122623
+Cao, Yixian|113827
+Caselli, Paola|29709
+Cavalcante Siviero, Maria Clara|174485
+Chen, Jianhang|130552
+Chen, Yuan|152765
+Chou, Yu-Ru|136988
+Collmar, Werner|18154
+Contarini, Sofia|131625
+Correa, Carlos Mauricio|125008
+Coulaud, Lina|170774
+Currito Ribeiro, Diogo|124850
+Das, Ankan|170773
+Dasgupta, Rupsa|153021
+Davies, Richard|17676
+de Nicola, Stefano|95264
+Dennerl, Konrad|17895
+Desiraju, Surya Kiran|146779
+Diehl, Roland|18044
+Ding, Ziyu|140673
+Donat, Clara|161443
+Dong, Zhenru|148506
+Dwelly, Tom|133584
+Eisenhauer, Frank|17705
+Elsner, Christian|98658
+Endres, Christian|38038
+Espejo Salcedo, Juan Manuel|128244
+Fabricius, Maximilian|49049
+Fellenberg, Sebastiano von|174110
+Feuchtgruber, Helmut|17729
+Finger, Gert|112207
+Flesch, Simon|148968
+Förster Schreiber, Natascha M.|17740
+Folek, Lukas|114612
+Freyberg, Michael|17950
+Friedrich, Peter|123905
+Gatuzz, Efrain|100559
+Gaur, Kiran|162825
+Genzel, Reinhard|17762
+Gerhard, Ortwin|17763
+Gil Leon, Joel|136165
+Gillessen, Stefan|18093
+Giuliano, Barbara Michela|41490
+Gracia Carpio, Javier|17856
+Grassi, Tommaso|113294
+Greiner, Jochen|17851
+Grupp, Frank|17730
+Guida, Silvia Teresa|147864
+Haberl, Frank|17748
+Haerendel, Gerhard|17794
+Hasani, Leonard|156257
+Hegedüs, Zoltán|171124
+Hu, Mingyu|135038
+Ivlev, Alexei|17845
+Jain, Shweta|174205
+Jalaeiansamani, Danial|153916
+Jiménez Redondo, Miguel|111821
+Joharle, Simran|136990
+Jolly, Jean-Baptiste|123276
+Jusko, Pavol|99637
+Kellermann, Hanna|48582
+Khokhriakova, Alena|124499
+Kienlin, Andreas von|17616
+Klecker, Berndt|17889
+Kluge, Matthias|42232
+Krause, Leon|137170
+Kravchenko, Kateryna|109476
+Laas, Jacob|37194
+Lattanzi, Valerio|38202
+Lee, Jeongha|173501
+Lee, Lai Yee Lilian|110249
+Li, Ruancun|147767
+Lin, Yuxin|114059
+Lipka, Mathias|98932
+Lutz, Dieter|48701
+Maiti, Soumadeep|134330
+Makarenko, Ekaterina|146535
+Mang, Felix|126013
+Mason, Lauren|148504
+Masoumzadeh, Nafiseh|131624
+Mazzolari, Giovanni|143201
+Meidinger, Norbert|26841
+Merloni, Andrea|17597
+Miranzo Pastor, Julián José|153020
+Monna, Anna|133261
+More, Nikhil|104828
+Müller-Seidlitz, Johannes|29714
+Nandra, Kirpal|17893
+Narayanan, Suchitra|148507
+Nestor Shachar, Amit|167206
+Ni, Qingling|125407
+Obolentseva, Marta|124226
+Ott, Thomas|17989
+Pandey, Aakash|123359
+Pastras, Stavros|124852
+Pellegrin, Theodore|137836
+Perez Fernandez, Alejandro|130471
+Piemonte, Antonello|24737
+Pineda Fornerod, Jaime|39743
+Ponti, Gabriele|104188
+Predehl, Peter|104302
+Pulsoni, Claudia|37847
+Quitián-Lara, Heidy|136989
+Rabien, Sebastian|18090
+Ramos-Ceja, Miriam E.|100341
+Rau, Arne|17604
+Roster, William|124780
+Ryu, Jaemin|153915
+Sadun Bordoni, Matteo|124851
+Saglia, Roberto|18060
+Salvato, Mara|17932
+Sánchez, Ariel|19174
+Sanders, Jeremy|18191
+Sanz Novo, Miguel|163305
+Saraf, Anirudh Mukund|126259
+Sarrami, Melika|129724
+Satpathy, Nandini|127184
+Saulder, Christoph|128744
+Schöller, Laura|137835
+Schwörer, Lukas|149330
+Shimizu, Taro|126030
+Shirley, Raphael|128187
+Singh, Himanshi|141885
+Sipilä, Olli|37982
+Spezzano, Silvia|43483
+Stanke, Thomas|123858
+Strong, Andrew|17614
+Sturm, Eckhard|18102
+Suárez Pérez, Valentina María Jesús|158640
+Tacconi, Linda|17920
+Thomas, Jens|17870
+Thomas, Luis|123587
+Tozzi, Giulia|133447
+Trümper, Joachim|19181
+Übler, Hannah|136837
+van Dishoeck, Ewine|17719
+Veredas Ramirez, Francisco Javier|114426
+Waldhör, Fabio|111748
+Yang, Chengyao|138041
+Yeung, Michael|114629
+Zhang, Xiaoyuan|124874
+Zheng, Huiwen|134113
+Zheng, Xueying|109298

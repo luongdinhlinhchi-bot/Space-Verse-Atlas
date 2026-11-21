@@ -1,7 +1,7 @@
 @inst Technische Universität Dresden — Lohrmann-Observatorium
 structure: Arbeitsgruppe Astronomie / Lohrmann-Observatorium, Institut für Planetare Geodäsie, TU Dresden; trưởng: Sergei A. Klioner
 structureUrl: https://tu-dresden.de/bu/umwelt/geo/ipg
-scope: Mới đọc trang thành viên nhóm Gaia; trang nhân sự chung của Lohrmann-Observatorium chưa đọc đầy đủ.
+scope: Đủ nhân sự theo trang "Beschäftigte" của Professur für Astronomie và trang thành viên nhóm Gaia.
 
 #unit Gaia-Gruppe (Raumastrometrie)
 parent: Lohrmann-Observatorium
@@ -9,3 +9,13 @@ topics: Đo sao vũ trụ độ chính xác cao cho sứ mệnh Gaia: định ng
 src: https://tu-dresden.de/bu/umwelt/geo/ipg/astro/raumastrometrie/mitarbeiter ; https://tu-dresden.de/tu-dresden/newsportal/news/gaia-mission-der-esa-tud-forscher-sind-bei-der-bestimmung-der-weltraum-positionen-von-etwa-einer-milliarde-sternen-dabei
 pp: GSTN — trưởng Lohrmann-Observatorium | Sergei A. Klioner
 pp: NCV | Enrico Gerlach; Jan Meichsner; Hagen Steidelmueller; Robin Geyer
+
+#unit Professur für Astronomie — nhân sự khác của Lohrmann-Observatorium
+kind: Danh sách nhân sự
+parent: Institut für Planetare Geodäsie — Professur für Astronomie
+topics: Cơ học thiên thể cổ điển và tương đối tính, hệ quy chiếu thiên văn, chuẩn tinh, mô hình hóa tương đối tính.
+note: Trang nhân sự chỉ ghi "Mitarbeiter" mà không ghi chức danh; ngạch suy từ học vị. Những người thuộc nhóm Gaia được ghi ở mục riêng. Đã bỏ thư ký và kỹ thuật viên.
+src: https://tu-dresden.de/bu/umwelt/geo/ipg/astro/die-arbeitsgruppe/beschaeftigte
+pp: Tiến sĩ (Dr.) — nghiên cứu viên | Huanchen Hu; Sven Zschocke
+pp: Có bằng thạc sĩ (thường là nghiên cứu sinh) | Ivan Dolgakov; Gabriel Rodriguez Moris; Devika Parathattil Babu
+pp: EM | Michael Soffel

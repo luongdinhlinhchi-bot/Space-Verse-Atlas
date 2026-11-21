@@ -33,6 +33,8 @@ Bản đồ thể hiện Hoàng Sa và Trường Sa thuộc Việt Nam.
 | `germany-researchers.json` | Nhà nghiên cứu theo `Cơ quan::Đơn vị`, kèm nguồn |
 | `germany-data-sources/` | Dữ liệu gốc dạng văn bản cho từng cơ quan |
 | `tools/merge_de.py` | Gộp các tệp trong `germany-data-sources/` vào hai tệp JSON của Đức |
+| `link-sources/` | Link trang cá nhân lấy từ danh bạ của từng viện (tên → URL) |
+| `tools/apply_links.py` | Gán link trang cá nhân từ `link-sources/` cho từng người; chạy lại sau mỗi lần gộp dữ liệu |
 | `tools/check_de.py` | Kiểm tra trang đã dựng trên trình duyệt (Playwright) |
 | `*-SOURCES.md`, `*-RESEARCHERS.md`, `*-UNITS.md` | Báo cáo nguồn và danh sách, `build.cjs` tự sinh lại |
 
@@ -49,10 +51,15 @@ Sau khi sửa dữ liệu dạng văn bản của Đức:
 
 ```bash
 python3 tools/merge_de.py . germany-data-sources 2026-11-21
+python3 tools/apply_links.py .
 node build.cjs
 ```
 
 Lưu ý: một số cơ quan (MPIA, MPE, MPIK, AIP, ZAH, DLR, MPA, Uni Potsdam) được sửa trực tiếp trong JSON và không có tệp trong `germany-data-sources/`.
+
+## Link của từng người
+
+Tên có gạch chân dẫn tới trang cá nhân của người đó. Nếu viện không có trang riêng cho người này, tên hiện dạng chữ thường, kèm chữ "nguồn" nhỏ dẫn tới danh sách chung có tên họ.
 
 ## Xuất bản
 

@@ -1,7 +1,7 @@
 @inst Deutsches Elektronen-Synchrotron DESY, Zeuthen
 structure: Bộ phận Vật lý hạt thiên văn (Astroparticle Physics) của DESY; giám đốc phụ trách: Christian Stegmann; các nhóm: Gamma Astronomy (David Berge), Neutrino Astronomy / Cosmology (Marek Kowalski), Astroparticle Physics Theory (Walter Winter), Research Technology (Stefan Klepser)
 structureUrl: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
-scope: Báo cáo thường niên 2024 chỉ ghi số lượng (58 nhà khoa học, 23 nghiên cứu sinh), không ghi tên; trang nhân sự của DESY chưa đọc được. Hiện mới có lãnh đạo bộ phận, trưởng nhóm và một phần nhóm lý thuyết. Nhiều giáo sư cùng làm ở DESY và các đại học (HU Berlin, Uni Potsdam, FAU, Würzburg).
+scope: Đủ danh sách ba nhóm Gamma Astronomy, Neutrino Astronomy và Theory theo trang thành viên của bộ phận Astroparticle Physics. Nhân sự CTAO gGmbH ở Zeuthen được xếp riêng vì họ thuộc tổ chức CTAO, không thuộc DESY. Nhóm Research Technology chưa có danh sách riêng.
 
 #unit Lãnh đạo bộ phận và giáo sư liên kết
 kind: Lãnh đạo
@@ -16,20 +16,45 @@ xx: Giáo sư trẻ liên kết — Universität Würzburg | Sara Buson
 
 #unit Gamma Astronomy
 parent: DESY Astroparticle Physics
-topics: Thiên văn tia gamma với H.E.S.S., CTAO, Fermi; từ trường liên thiên hà.
-src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
+topics: Thiên văn tia gamma với H.E.S.S., CTAO, Fermi, VERITAS, MAGIC; vệ tinh tử ngoại ULTRASAT; MeVCube, COSI; KM3NeT/MessMap.
+src: https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html ; https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
 pp: TN — giáo sư HU Berlin | David Berge
+pp: GD — giám đốc Astroparticle Physics, phụ trách cơ sở Zeuthen | Christian Stegmann
+pp: Trưởng nhóm Helmholtz Investigator | Lea Marcotulli
+pp: NCV | Markus Ackermann; Merlin Barschke; Sara Buson; Emma de Oña Wilhelmi; Markus Garczarczyk; Gianluca Giavitto; Timo Karg; Stefan Klepser; Dima Kostunin; Maria Krause; Gernot Maier; Thomas Murach; Gabriel Olivera; Dan Parsons; Iftach Sadeh; William Alexander Schmidt; Alexander Steiner; Jason John Watson; Francesco Zappon
+pp: EM | Johannes Knapp; Ralf Wischnewski
+pp: PD | Keenan Chatar; Miriam Eckardt; Lisa Ferro; Andrea Gokus; Arne Grimstrup; Juan Maria Haces Crespo; Tim Lukas Holch; Asghar Jafarzadeh; Eshita Joshi; Jagadeesh Kota; Michail Kravchenko; Andrea Porelli; Patrick Reutter; Markus Schulze; Sylvia Zhu
+pp: NCS | Valentyna Babur; Diana Dimitrova; Doramas Jimeno Sanchez; Luisa Ostler; Federica Sibani; Yifan Tian; Wenjuan Zhong
+xx: KM | Kathrin Egberts; Margot Boughelilba; Thomas Wehr
+xx: Sinh viên khách | Amélie Adolph; Alessandra Azzollini; James Bates; Scarlett Maria Baum; Jowita Borowska-Naguszewska; Joshua Nielsen; Anita Deka Baruah; Samuel Düringer; David Spyra; José Maria Sanchez Zaballa; Thure Wallon
+
+#unit CTAO gGmbH — cơ sở Zeuthen
+kind: Tổ chức đối tác đặt tại DESY
+parent: DESY Astroparticle Physics
+topics: Trung tâm quản lý dữ liệu khoa học của đài quan sát CTAO.
+note: Những người này làm cho CTAO gGmbH, không phải nhân viên DESY; trang không ghi chức danh.
+src: https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html
+xx: Nhân viên CTAO gGmbH (không ghi chức danh) | Nektarios Benekos; Wahib Boulakbech; Mieke Bouwhuis; Antonia Flores; Matthias Füssling; Orel Gueta; Jonas Hackfeld; Gareth Hughes; Maximilian Linhoff; Stuart McMuldroch; Andreas Meitzner; Vanessa Montes; Daniel Morcuende; Dominik Neise; Heike Prokoph; Denys Savchenko; Stefan Schlenstedt; Constantin Steppa; Samuel Spencer; Simone Tampieri; Dijana Vrbanec; Arne Wörheide
 
 #unit Neutrino Astronomy / Cosmology
 parent: DESY Astroparticle Physics
-topics: IceCube và IceCube-Gen2, RNO-G; vũ trụ học và sự kiện tạm thời.
-src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf ; https://www-zeuthen.desy.de/~bernardi/
+topics: IceCube và IceCube-Gen2, đo neutrino bằng sóng vô tuyến (RNO-G); vũ trụ học và sự kiện tạm thời.
+src: https://astroparticle-physics.desy.de/about_us/group_members/neutrino_astronomy/index_eng.html ; https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
 pp: TN — giáo sư HU Berlin | Marek Kowalski
-p: Elisa Bernardini | NCV — giáo sư HU Berlin về vật lý hạt thiên văn tia gamma và neutrino | https://www-zeuthen.desy.de/~bernardi/
+pp: TN IceCube | Markus Ackermann
+pp: NCV | Summer Blot; Anna Nelles; Jakob van Santen
+pp: EM | Hermann Kolanoski; Christian Spiering
+pp: PD | Cristina Lagunas Gualda; Satoshi Fukami; Philipp Jonas Windischhofer; Enrique Huesca Santiago; Thijs van Eeden; Yingying Guo
+pp: NCS | Sol Benkel; Carolin Klein; Akshay Eranhalodi; Felix Fischer; Annanay Jaitly; Despoina Mousadi; Teresa Pernice; Simon Pick; Zeynep Su Selcuk; Hannes Warnhofer; Cristobal Zilleruelo Canas
+pp: SV | Julian Siegmann
 
 #unit Astroparticle Physics Theory
 parent: DESY Astroparticle Physics
 topics: Tia vũ trụ, photon và neutrino năng lượng cao, tín hiệu vật chất tối; gia tốc hạt ở sóng xung kích.
-src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf ; https://uni-potsdam.de/en/astroparticle/theoretical-astroparticle-physics/group-members
+src: https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html ; https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
 pp: TN | Walter Winter
-pp: NCV | Andrew Taylor; Rafael Alejandro Porto Pereira
+pp: NCV | Martin Pohl; Rafael Alejandro Porto Pereira; Andrew Taylor
+pp: PD | Mahmoud Al-Awashra; Mateja Boskovic; Ludovica Crosato Menegazzi; Beka Modrekiladze; Stamatios Ilias Stathopoulos
+pp: NCS | Qiqi Jiang; Chao-Ming Li; Federico Testagrossa
+xx: KM | Amirfarzan Esmaeili Taklimi; Eloise Moore
+xx: Học viên khách | Octavio Gomez Flores

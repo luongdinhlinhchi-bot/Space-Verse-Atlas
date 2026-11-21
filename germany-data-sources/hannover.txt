@@ -1,17 +1,183 @@
 @inst Leibniz Universität Hannover — Institut für Gravitationsphysik
 structure: Institut für Gravitationsphysik, Leibniz Universität Hannover, làm việc chung với AEI Hannover (Max-Planck-Institut für Gravitationsphysik); bộ phận Laser Interferometry and Gravitational Wave Astronomy và Observational Relativity and Cosmology (Bruce Allen)
 structureUrl: https://www.mpg.de/152559/gravitational-physics-hanover
-scope: Mới ghi trưởng nhóm theo danh sách giảng viên của IMPRS về thiên văn sóng hấp dẫn (Hannover); chưa có danh sách thành viên từng nhóm. Danh sách nhân sự AEI Hannover rất dài và chưa đọc hết.
+scope: Gồm toàn bộ cán bộ nghiên cứu của AEI cơ sở Hannover (Teilinstitut của Max-Planck-Institut für Gravitationsphysik, làm việc chung với Institut für Gravitationsphysik của Leibniz Universität Hannover), chia theo bộ phận/nhóm chính ghi trên danh bạ AEI. Mỗi người chỉ xếp vào một nhóm chính dù danh bạ có thể ghi nhiều nhóm. Đã bỏ nhân viên hành chính, IT, xưởng cơ khí và điện tử.
 
-#unit Trưởng nhóm nghiên cứu (AEI Hannover và Leibniz Universität Hannover)
-kind: Danh sách trưởng nhóm
-parent: Institut für Gravitationsphysik / AEI Hannover
-topics: Thiên văn sóng hấp dẫn: giao thoa laser, GEO600, LISA, phân tích dữ liệu sóng hấp dẫn và pulsar (Einstein@Home), sóng hấp dẫn liên tục.
-src: https://imprs-gw.aei.mpg.de/8256/staff-and-lecturers ; https://www.aei.mpg.de/person/23697/929518 ; https://www.mpg.de/152559/gravphysik_hannover
-p: Karsten Danzmann | Giám đốc danh dự; phát ngôn viên IMPRS | https://www.aei.mpg.de/person/23697/929518
-pp: GD — Observational Relativity and Cosmology | Bruce Allen
-pp: GS (apl.) — trưởng nhóm | Gerhard Heinzel; Benno Willke
-pp: GS — trưởng nhóm | Michèle Heurs; Guido Müller
-pp: Trưởng nhóm nghiên cứu Max Planck — Continuous Gravitational Waves | M. Alessandra Papa
-pp: TN | Harald Lück; Frank Ohme; Jens Reiche
-pp: Nghiên cứu viên cao cấp — Continuous Gravitational Waves | Reinhard Prix
+
+#unit Laserinterferometrie und Gravitationswellen-Astronomie (AEI Hannover)
+parent: AEI Hannover / Leibniz Universität Hannover
+topics: Máy dò sóng hấp dẫn mặt đất: GEO600, Advanced LIGO, phát triển laser, ánh sáng nén (squeezed light), điều khiển lượng tử, Einstein-Teleskop.
+src: https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Debanjan Adhikari | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sara Al Kershi | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Esra Zerina Appavuravther | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Matteo Carlassara | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Pratik Chakraborty | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Gabriella Chiarini | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: David Cohen | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Karsten Danzmann | Giám đốc danh dự (emeritus) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Roman Godley | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sascha Gox | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Michèle Heurs | Giáo sư (Leibniz Universität Hannover) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Nived Johny | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Fumiko Kawazoe | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Riteshbhai Khadela | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Firoz Khan | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Lorenz Kies | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Nicole Knust | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Johanna Lohmann | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: James Lough | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Harald Lück | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Moritz Mehmet | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Frauke Modugno | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Andrea Harumi Navarro Montes | Trợ lý nghiên cứu sinh viên | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Imke Niehoff | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Markus Otto | Giảng viên (Lehrkraft für besondere Aufgaben) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Graziano Pascale | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jonathan W. Perry | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Lea Richtmann | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Pritam Sarkar | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Lars Schulz | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Justus Balthasar Stannek | Trợ lý nghiên cứu sinh viên | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Satoru Takano | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Henning Vahlbruch | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Anusha Vasaikar | Trợ lý nghiên cứu sinh viên | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Tim Alexander Vogel | Sinh viên (thạc sĩ) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Juliane von Wrangel | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Adrian Jan Walaschek | Sinh viên (cử nhân) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Benno Willke | Trưởng nhóm(apl. Prof.) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: David Wu | Trưởng nhóm(QuantumFrontiers) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+
+#unit Weltraum-Interferometrie (LISA, GRACE-FO)
+parent: AEI Hannover / Leibniz Universität Hannover
+topics: Giao thoa kế trong không gian: LISA và đo trọng trường GRACE Follow-On.
+src: https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Melanie Ast | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Johannes Bäuerlein | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Pallavi Bekal | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Michael Born | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Michael Britzger | Kỹ sư / quản lý dự án khoa học (Leitender Manager für Raumfahrtprojekte) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Iouri Bykov | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Maurizio Casti | Kỹ sư / quản lý dự án khoa học (Wissenschaftlicher FPGA-Ingenieur) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Carlos Javier Cura Villarreal | Trợ lý nghiên cứu sinh viên | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Megha Dave | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Juan Jose Esteban Delgado | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Reid Ferguson | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Rodrigo Garcia-Alvarez | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Christoph Gentemann | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Stefano Gozzo | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Pascal Grafe | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jan Niklas Hannse Reinhardt | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Olaf Hartwig | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Gerhard Heinzel | Trưởng nhóm(apl. Prof.) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jiang Ji Ho Zhang | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Daniel Jestrabek | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Brigitte Kaune | Nhà khoa học | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Tim Kaune | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Reshma Krishnan Sudha | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Alicia López Jaén | Kỹ sư / quản lý dự án khoa học (Wissenschaftliche Ingenieurin) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sergio Lozano Althammer | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Pablo Martinez Cano | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Narjiss Messied | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Laura Müller | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Vitali Müller | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Tim Oberschulte genannt Beckmann | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: José Alberto Ogalde Ortiz | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sarah Paczkowski | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Alvise Pizzella | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jens Reiche | Kỹ sư / quản lý dự án khoa học (Projektleiter) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Qazal Rokn | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jones Rosario | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Niklas Rother | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sariga Sachit | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Philipp Schiefer | Nghiên cứu sinh (khách) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Axel Schnitger | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Gudrun Wanner | Trưởng nhóm(QuantumFrontiers) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Kevin Weber | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Martin Weberpals | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Henry Wegener | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Daikang Wei | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Karsten Wiesner | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Lennart Wissel | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Yihao Yan | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+
+#unit Präzisionsinterferometrie und fundamentale Wechselwirkungen (Guido Müller)
+parent: AEI Hannover / Leibniz Universität Hannover
+topics: Giao thoa kế chính xác, thí nghiệm tương tác cơ bản, công nghệ cho LISA.
+src: https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Lea Bukies | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Myles R. Clark | Kỹ sư / quản lý dự án khoa học (Projektleiter) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: John Maxfred Dietl | Kỹ sư / quản lý dự án khoa học (Stellv. Systemingenieur) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Aldo Ejlli | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sourath Ghosh | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Fabian Hövel | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Kanioar Karan | Kỹ sư / quản lý dự án khoa học (Projektmanager) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Wolfgang Kastaun | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Karin Kruuse | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Prashant Manjule | Trợ lý nghiên cứu sinh viên | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Guido Müller | Giám đốc điều hành | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Ryan Netrval | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Laura Rachelle Roberts | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sanjay Singh | Kỹ sư / quản lý dự án khoa học (Wissenschaftlicher Projektkoordinator) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Ada Agnieszka Uminska | Kỹ sư / quản lý dự án khoa học (Projektleiterin) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Daniele Vetrugno | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Li-Wei Wei | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+
+#unit Beobachtungsbasierte Relativität und Kosmologie (Bruce Allen)
+parent: AEI Hannover / Leibniz Universität Hannover
+topics: Phân tích dữ liệu sóng hấp dẫn, pulsar và pulsar timing arrays, Einstein@Home, cụm máy tính Atlas.
+src: https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Bruce Allen | Giám đốc | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Oliver Behnke | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Reginald Christian Bernardo | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Xiaoming Bi | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Alexandra Botnariuc | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Colin Clark | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Oliver Dodge | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Henning Fehrmann | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Boris Goncharov | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Badri Krishnan | Nhà khoa học khách mời | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Lars Nieder | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Daniel Pook-Kolb | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Alexander Post | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Rahul Sengar | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Aravind Sreekumar Nair | Trợ lý nghiên cứu sinh viên | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Sharon Mary Tomson | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Konstantinos Tzanavaris | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Rutger van Haasteren | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Arian Leon von Blanckenburg | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Prajwal Voraganti Padmanabh | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Wang-Wei Yu | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+
+#unit Kontinuierliche Gravitationswellen (M. Alessandra Papa)
+parent: AEI Hannover / Leibniz Universität Hannover
+topics: Tìm sóng hấp dẫn liên tục từ sao neutron quay nhanh; Einstein@Home.
+src: https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Maximillian Bensch | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Vladimir Dergachev | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Heinz-Bernd Eggenstein | Kỹ sư phần mềm / tính toán nghiên cứu | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Imaan S. I. Rahim | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Prasanna Mohan Joshi | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Bernd Machenschalk | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jasper Martins | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Brian McGloughlin | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jing Ming | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Gianluca Pagliaro | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: M. Alessandra Papa | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Reinhard Prix | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Kartikey Sharma | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Zahra Shayegan | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Benjamin Steltner | Nghiên cứu viên (junior scientist) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Tarang Vashisht | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+
+#unit Kollidierende Binärsysteme (Frank Ohme)
+parent: AEI Hannover / Leibniz Universität Hannover
+topics: Mô hình hóa dạng sóng từ hệ đôi va chạm (lỗ đen, sao neutron).
+src: https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Angela Borchers Pascual | Nghiên cứu viên sau tiến sĩ | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Shrobana Ghosh | Nghiên cứu viên cao cấp | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Bero Honegger | Sinh viên (thạc sĩ) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Jannik Mielke | Nghiên cứu sinh | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Frank Ohme | Trưởng nhóm | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Göran Ratz | Sinh viên (thạc sĩ) | https://www.aei.mpg.de/337435/aei-staff?seite=6
+p: Per-Ingmar Laurens Schrake | Sinh viên (thạc sĩ) | https://www.aei.mpg.de/337435/aei-staff?seite=6

@@ -1,0 +1,182 @@
+#inst Sonnensystemforschung
+#prefix https://www.mps.mpg.de/staff/
+Angelina Abel|147198
+Matthias Ammler-von Eiff|37453
+Mohammad Anas|137366
+Azar Arghavanian|134189
+Iqbal Hossan Asif|138580
+Tarryn Aucamp|164478
+Regina Aznar Cuadrado|19596
+Zoltan Balog|173492
+Yuto Bekki|92773
+Abhiroop Bhadra|126348
+Tanayveer Bhatia|99093
+Jan Niklas Bienemann|160902
+Aaron Birch|19610
+Kamlesh Bora|127318
+Dennis Busse|115997
+Daniele Calchetti|111837
+Lucas Calvo|176189
+Robert Cameron|19627
+Lara De Carne|178853
+Alberto Carrasco Gallardo|125794
+Juan Sebastian Castellanos Duran|59296
+Sanghita Chandra|124770
+Theodosios Chatzistergos|27558
+Yajie Chen|101056
+Lakshmi Pradeep Chitta|41526
+Ulrich Christensen|19633
+Julian Cording|100945
+Maelie Coutelier|133076
+Borys Dabrowski|19635
+Cilia Damiani|52529
+Wieland Dietrich|48546
+Antoine Dolliou|139064
+Ines Dominitzki|113804
+Joanna Drazkowska|124828
+Mariem Dridi|145774
+Meghna Dutta|137678
+Rainer Enge|19654
+Rody Erftemeijer|134713
+Willi Exner|143229
+Tytrice Faison|173494
+Alex Feller|19657
+German Fernandez Rico|37457
+Pablo de Lucia Finkel|159644
+Henning Fischer|19660
+Damien Fournier|29678
+Markus Fränz|19661
+Yifeng Fu|124831
+Achim Gandorfer|19664
+Laurent Gizon|19670
+Fred Goesmann|19671
+Walter Goetz|19672
+Chian Yeh Goh|176456
+Samuel Goodyear|95822
+Lucas Guerrero|19675
+Nerea Gurrutxaga|130429
+Pablo Gutierrez-Marques|19677
+Ian Hall|131024
+Michael Hammer|156046
+Edvarda Harnes|130428
+Paul Hartogh|19683
+René Heller|47434
+Jan Hellmann|133644
+Johann Hirzberger|19697
+Thorsten Hohage|52528
+Timo Hopp|124071
+Ekaterina Ilin|173356
+Emre Isik|168245
+David Ivens|136887
+Christopher Jarchow|19709
+Chen Jiang|110318
+Michael Johnson|116001
+Arjun Kannan|136889
+Susanne Kaufmann|19715
+Rosa Keers|130430
+Thorsten Kleine|116182
+Sascha Julian Knierim|107582
+Martin Kolleck|19720
+Nadiia Kostogryz|59850
+Aron Kramer|19724
+Aswathi Krishnan Kutty|136888
+Natalie Krivova|19726
+Norbert Krupp|19730
+Diya Kumar|177655
+Andreas Lagg|19734
+Guillaume Leseigneur|133741
+Xiang Li|129698
+Xiaohong Li|130329
+Zhi-Chao Liang|46296
+Miles Lindner|128638
+Illya Lohay|130886
+Alexander Loose|19738
+Philipp Löschl|94130
+Maria Madjarska|52458
+Hamza Malik|138720
+Urs Mall|19743
+Yash Mandowara|124555
+Carolin Meyer|133081
+Frank Meyer|111831
+Vitali Mirvoda|167355
+Suprabha Mukhopadhyay|130885
+Björn Müller|105770
+Deepa Muraleedharan|133079
+Muneeb Mushtaq|135721
+Vasantharaju Naganna|135092
+Smitha Narayanamurthy|41795
+Andreas Nathues|19765
+Nawin Ngampoopun|146665
+Jonathan Nölke|112209
+Michiel van Noort|19767
+Fisayo John Oguntimehin|130423
+Patrick Alexander Ondratschek|109649
+Kuntal Patel|130330
+Maria Belen Pedreros|141593
+Hardi Peter|19781
+Maxime Piralla|128639
+Abhas Pradhan|129780
+Fabio Prencipe|136113
+Damien Przybylski|52221
+Bhinva Ram|128309
+Aarushi Rawat|130427
+Miriam Rengel|19792
+Christian Renggli|130887
+Ladislav Rezac|19793
+Tino Riethmüller|19794
+Mario Roco Moraleda|136890
+Olaf Roders|19798
+Markus Rombold|175563
+Elias Roussos|19804
+Wenzhi Ruan|130993
+Oliver Rudolph|105215
+Fee von Saltzwedel|115996
+Mariana Sanchez|153545
+Janmejoy Sarkar|152756
+Silvia Schirmer|19812
+Jesper Schou|21442
+Christian Schröder|139063
+Sonja Schuh|22481
+Udo Schühle|19815
+Alexander Shapiro|38076
+Weiyu Shen|136797
+Jude Simmons|136886
+Kunal Hardeep Singh|136114
+Akriti Sinha|156312
+Yuri Skorov|129576
+Sami Solanki|19830
+Fiona Nadine Speller|160903
+Fridolin Spitzer|124557
+Johannes Stecker|19835
+Eckhard Steinmetz|19840
+Oliver Stenzel|19842
+Daniel Sved|54843
+Istvan Szemerey|19847
+Samantha Talarowski|129623
+Duresa Temaj|130953
+Luca Teriaca|19848
+Shengyu Tian|125981
+Betty Pei-Chun Tsai|136738
+Adrian Tuschinsky|50533
+Artem Ulyanov|132034
+Vignesh Vaikundaraman|124560
+Gherardo Valori|111640
+Valeriy Vasilyev|94129
+Maxim Vavilin|136885
+Rakshitha Virupakshaiah|176004
+William Waalkes|149742
+Johanna Wagner-Farssi|19860
+Johannes Weßling|114316
+Johannes Wicht|19873
+Thomas Wiegelmann|19874
+Philipp Wittmann|156047
+Joachim Woch|19878
+Elias Wölfer|124559
+Ajay Kumar Yadav|136112
+Xin Yang|153069
+Fatma Yesil Sahan|111389
+Lisa-Marie Zeßner-Ondratschek|109648
+Chengyao Zhang|129617
+Haichen Zhao|140644
+Zisong Zhou|130425
+Xiaojue Zhu|111310
