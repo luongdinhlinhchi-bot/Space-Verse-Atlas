@@ -55,7 +55,7 @@ parent: IAAT
 topics: Vật lý thiên văn tương đối tính: sao neutron, lỗ đen, sóng hấp dẫn; kiểm nghiệm lý thuyết hấp dẫn cải biên (nhóm Emmy Noether của Daniela Doneva).
 src: https://uni-tuebingen.de/de/3987 ; https://uni-tuebingen.de/de/3059
 pp: GS — trưởng chair (Lehrstuhlinhaber) | Kostas Kokkotas
-pp: Trưởng nhóm Emmy Noether (ghi là khách) | Daniela Doneva
+pp: Cựu trưởng nhóm Emmy Noether — từ 9/2025 chuyển sang Đại học Valencia (Tây Ban Nha) | Daniela Doneva
 pp: PD | Saulo Soares de Albuquerque Filho; Arthur Suvorov; Sebastian Völkel
 pp: NCS | Praveen Manoharan; José Olvera Meneses; Yunqiao Xu
 pp: SV | Francesco Agus; Bunmi Ale; Hakan Das; Kostas Kourmpetis; Vyom Kulkarni; Julia Manto; Christoph Mittelstaedt; Marta Piscitelli; Jana Rühl; Umer Shahzad; Harsh Solanki

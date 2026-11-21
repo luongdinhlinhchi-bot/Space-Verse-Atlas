@@ -1,0 +1,40 @@
+#inst Astrophysik Potsdam
+#inst Kernphysik
+#inst Max-Planck-Institut für Astronomie
+#inst Bielefeld
+#inst Braunschweig
+#inst GSI
+#inst Jena
+#inst Tautenburg
+#inst Kassel
+#inst Tübingen
+#inst Bochum
+#inst Frankfurt
+#inst München
+#inst Radioastronomie
+#inst Technische Universität Berlin
+#inst Sonnenphysik
+#inst Stuttgart
+#inst Würzburg
+Katja Poppenhäger|https://www.aip.de/en/members/katja-poppenhager
+Manfred Lindner|https://www.mpg.de/397476/nuclear-physics-lindner
+Florian Goertz|https://groupleaders.mpdl.mpg.de/group-leader/florian-goertz/
+Gael Chauvin|https://lagrange.oca.eu/en/gael-chauvin
+Cora Uhlemann|https://www.staff.ncl.ac.uk/corauhlemann
+Jürgen Blum|https://www.oeaw.ac.at/iwf/eu/cophylab/cophylab-team/tu-braunschweig/juergen-blum
+Ferdinand Plaschke|https://gepris.dfg.de/gepris/person/535479410
+Karl-Heinz Glaßmeier|https://www.leopoldina.org/en/members/member-list/detail/karl-heinz-glassmeier
+Gabriel Martínez-Pinedo|https://www.ae-info.org/ae/User/Martínez_Pinedo_Gabriel
+Alexander V. Krivov|https://www2.astro.uni-jena.de/~krivov/contact.html
+Ralph Neuhäuser|https://gepris.dfg.de/gepris/person/1521831
+Artie Hatzes|https://en.wikipedia.org/wiki/Artie_P._Hatzes
+Thomas Giesen|https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende/prof-dr-thomas-giesen
+Daniela Doneva|https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=doneva
+Rolf Chini|https://camk.edu.pl/en/staff/514
+Camilla Juul Hansen|https://elements.science/team/wa-representative/camilla-juul-hansen/
+Phillipp Eller|https://philippeller.github.io
+L. Spitler|https://www3.mpifr-bonn.mpg.de/staff/lspitler
+D. Schulze-Makuch|https://www-astro.physik.tu-berlin.de/Astrobiology/node/19
+Rolf Schlichenmaier|https://solarnet-project.eu/Rolf-Schlichenmaier
+Alfred Krabbe|https://www.irs.uni-stuttgart.de/en/institute/team/Krabbe
+Wolfgang Dröge|https://www.physik.uni-wuerzburg.de/en/astro/people/ag-droege-retired/

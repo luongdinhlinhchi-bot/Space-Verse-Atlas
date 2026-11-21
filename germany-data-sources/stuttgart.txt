@@ -1,5 +1,5 @@
 @inst Universität Stuttgart — Deutsches SOFIA Institut
-structure: Deutsches SOFIA Institut (DSI), Universität Stuttgart; giám đốc: Alfred Krabbe
+structure: Deutsches SOFIA Institut (DSI), Universität Stuttgart; giám đốc lâu năm Alfred Krabbe đã nghỉ hưu tháng 6/2025
 structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf
 scope: Đài SOFIA ngừng hoạt động tháng 9/2022; năm 2024 DSI đóng hai cơ sở ở Mỹ (31.12.2024) và bắt đầu dự án SOFIA Data Center. Danh sách từ báo cáo thường niên 2024; không gồm nhân viên kỹ thuật, hành chính và các kỹ sư không có chức danh khoa học.
 
@@ -7,7 +7,7 @@ scope: Đài SOFIA ngừng hoạt động tháng 9/2022; năm 2024 DSI đóng ha
 parent: Deutsches SOFIA Institut
 topics: Phân tích dữ liệu hồng ngoại xa FIFI-LS: tâm Ngân Hà, vùng phân tử trung tâm (CMZ), hình thành sao khối lượng lớn ở M82 và NGC 253.
 src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf
-pp: GSTN — giám đốc DSI | Alfred Krabbe
+pp: GS — cựu giám đốc DSI, nghỉ hưu 6/2025 | Alfred Krabbe
 pp: NCV | Christof Iserlohe; Maja Kazmierczak-Barthel; Jürgen Wolf; Bernhard Schulz
 pp: NCV — nhà khoa học thiết bị FIFI-LS | Christian Fischer
 

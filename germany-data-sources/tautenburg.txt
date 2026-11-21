@@ -9,7 +9,7 @@ parent: TLS
 topics: Hành tinh ngoài Hệ Mặt Trời (vận tốc xuyên tâm, quá cảnh), hình thành sao và hành tinh trong các đám mây khí–bụi, vật lý sao, Mặt Trời; quan sát bằng kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới).
 src: https://www.tls-tautenburg.de/institute/staff ; https://www.tls-tautenburg.de/research/planets
 p: Markus Roth | Giám đốc TLS; giáo sư Đại học Jena; từ 9/2026 là thành viên Ban chấp hành Hội Thiên văn Đức (AG) | https://www.tls-tautenburg.de/institute/staff
-pp: GS | Artie Hatzes
+pp: GS — giám đốc TLS 2000–2023 | Artie Hatzes
 pp: NCV | Christian Andreas; Hans-Peter Doerr; Jochen Eislöffel; Eike W. Guenther; Michael Hartmann; Jana Köhler; Stanislav Melnikov; Hemanth Pruthvi; Veronika Schaffenroth; Daniel Sebastian; Michael Sigwarth; Bringfried Stecklum; Verena Wolf
 pp: Thành viên nghiên cứu | Sebastian Podleska; Vincent Prange; Aashana Tripathi
 

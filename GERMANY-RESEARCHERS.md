@@ -5382,7 +5382,7 @@ Nguồn: [1](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/
 
 ## Universität Stuttgart — Deutsches SOFIA Institut — Stuttgart
 
-[Cơ cấu](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf): Deutsches SOFIA Institut (DSI), Universität Stuttgart; giám đốc: Alfred Krabbe
+[Cơ cấu](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf): Deutsches SOFIA Institut (DSI), Universität Stuttgart; giám đốc lâu năm Alfred Krabbe đã nghỉ hưu tháng 6/2025
 
 Đài SOFIA ngừng hoạt động tháng 9/2022; năm 2024 DSI đóng hai cơ sở ở Mỹ (31.12.2024) và bắt đầu dự án SOFIA Data Center. Danh sách từ báo cáo thường niên 2024; không gồm nhân viên kỹ thuật, hành chính và các kỹ sư không có chức danh khoa học.
 
@@ -5392,7 +5392,7 @@ Nhóm nghiên cứu. Trực thuộc: Deutsches SOFIA Institut.
 
 Phân tích dữ liệu hồng ngoại xa FIFI-LS: tâm Ngân Hà, vùng phân tử trung tâm (CMZ), hình thành sao khối lượng lớn ở M82 và NGC 253.
 
-- Alfred Krabbe — GSTN — giám đốc DSI
+- Alfred Krabbe — GS — cựu giám đốc DSI, nghỉ hưu 6/2025
 - Christof Iserlohe — Nghiên cứu viên
 - Maja Kazmierczak-Barthel — Nghiên cứu viên
 - Jürgen Wolf — Nghiên cứu viên
@@ -5435,7 +5435,7 @@ Nhóm nghiên cứu. Trực thuộc: TLS.
 Hành tinh ngoài Hệ Mặt Trời (vận tốc xuyên tâm, quá cảnh), hình thành sao và hành tinh trong các đám mây khí–bụi, vật lý sao, Mặt Trời; quan sát bằng kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới).
 
 - Markus Roth — Giám đốc TLS; giáo sư Đại học Jena; từ 9/2026 là thành viên Ban chấp hành Hội Thiên văn Đức (AG)
-- Artie Hatzes — Giáo sư
+- Artie Hatzes — GS — giám đốc TLS 2000–2023
 - Christian Andreas — Nghiên cứu viên
 - Hans-Peter Doerr — Nghiên cứu viên
 - Jochen Eislöffel — Nghiên cứu viên
@@ -5629,7 +5629,7 @@ Bộ phận (Abteilung). Trực thuộc: IAAT.
 Vật lý thiên văn tương đối tính: sao neutron, lỗ đen, sóng hấp dẫn; kiểm nghiệm lý thuyết hấp dẫn cải biên (nhóm Emmy Noether của Daniela Doneva).
 
 - Kostas Kokkotas — GS — trưởng chair (Lehrstuhlinhaber)
-- Daniela Doneva — Trưởng nhóm Emmy Noether (ghi là khách)
+- Daniela Doneva — Cựu trưởng nhóm Emmy Noether — từ 9/2025 chuyển sang Đại học Valencia (Tây Ban Nha)
 - Saulo Soares de Albuquerque Filho — Nghiên cứu sau tiến sĩ
 - Arthur Suvorov — Nghiên cứu sau tiến sĩ
 - Sebastian Völkel — Nghiên cứu sau tiến sĩ

@@ -305,7 +305,8 @@
     {
      "name": "Katja Poppenhäger",
      "role": "Trưởng nhóm",
-     "url": "https://www.aip.de/en/research/stellar-physics/members/"
+     "url": "https://www.aip.de/en/members/katja-poppenhager",
+     "profile": true
     },
     {
      "name": "Julian Alvarado-Gomez",
@@ -6769,12 +6770,14 @@
     {
      "name": "Manfred Lindner",
      "role": "Giám đốc bộ phận",
-     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+     "url": "https://www.mpg.de/397476/nuclear-physics-lindner",
+     "profile": true
     },
     {
      "name": "Florian Goertz",
      "role": "Trưởng nhóm nghiên cứu trẻ Max Planck (NEWFO)",
-     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+     "url": "https://groupleaders.mpdl.mpg.de/group-leader/florian-goertz/",
+     "profile": true
     },
     {
      "name": "Saereh Najjari",
@@ -7087,7 +7090,8 @@
     {
      "name": "Gael Chauvin",
      "role": "Trưởng nhóm (đồng thời Directeur de Recherche CNRS, OCA)",
-     "url": "https://www.mpia.de/en/independent-research-groups/exoworlds-imaging/group"
+     "url": "https://lagrange.oca.eu/en/gael-chauvin",
+     "profile": true
     },
     {
      "name": "Oscar Carrion-Gonzalez",
@@ -7154,7 +7158,8 @@
     {
      "name": "Camilla Hansen",
      "role": "Nghiên cứu viên sau tiến sĩ",
-     "url": "https://www.mpia.de/en/LMG/stellar-spectroscopy-and-populations/members"
+     "url": "https://elements.science/team/wa-representative/camilla-juul-hansen/",
+     "profile": true
     },
     {
      "name": "Andrew Gallagher",
@@ -7577,7 +7582,8 @@
     {
      "name": "D. Schulze-Makuch",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf"
+     "url": "https://www-astro.physik.tu-berlin.de/Astrobiology/node/19",
+     "profile": true
     },
     {
      "name": "J. Heinz",
@@ -7755,7 +7761,8 @@
     {
      "name": "Cora Uhlemann",
      "role": "GSTN — từ 1.3.2024",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf"
+     "url": "https://www.staff.ncl.ac.uk/corauhlemann",
+     "profile": true
     }
    ],
    "external": [],
@@ -7984,7 +7991,8 @@
     {
      "name": "Rolf Chini",
      "role": "GS — nhà nghiên cứu cao cấp",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf"
+     "url": "https://camk.edu.pl/en/staff/514",
+     "profile": true
     },
     {
      "name": "Björn Adebahr",
@@ -9231,7 +9239,8 @@
     {
      "name": "L. Spitler",
      "role": "Trưởng nhóm Lise Meitner",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
+     "url": "https://www3.mpifr-bonn.mpg.de/staff/lspitler",
+     "profile": true
     },
     {
      "name": "N. Langer",
@@ -10430,12 +10439,14 @@
     {
      "name": "Ferdinand Plaschke",
      "role": "GS — giám đốc điều hành viện",
-     "url": "https://tu-braunschweig.de/igep/institut"
+     "url": "https://gepris.dfg.de/gepris/person/535479410",
+     "profile": true
     },
     {
      "name": "Jürgen Blum",
      "role": "GSTN — AG Blum (CoPhyLab, Eislabor, Staublabor)",
-     "url": "https://tu-braunschweig.de/igep/institut"
+     "url": "https://www.oeaw.ac.at/iwf/eu/cophylab/cophylab-team/tu-braunschweig/juergen-blum",
+     "profile": true
     },
     {
      "name": "Jessica Agarwal",
@@ -10446,7 +10457,8 @@
     {
      "name": "Karl-Heinz Glaßmeier",
      "role": "Giáo sư",
-     "url": "https://tu-braunschweig.de/igep/institut"
+     "url": "https://www.leopoldina.org/en/members/member-list/detail/karl-heinz-glassmeier",
+     "profile": true
     },
     {
      "name": "Sami Solanki",
@@ -10652,7 +10664,8 @@
     {
      "name": "Gabriel Martínez-Pinedo",
      "role": "Trưởng nhóm; trưởng Theory Department",
-     "url": "https://gsi.de/work/forschung/theorie/theory-new/nuclear-structure-and-astrophysics"
+     "url": "https://www.ae-info.org/ae/User/Martínez_Pinedo_Gabriel",
+     "profile": true
     },
     {
      "name": "Karlheinz Langanke",
@@ -11157,7 +11170,8 @@
     {
      "name": "Camilla Juul Hansen",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf"
+     "url": "https://elements.science/team/wa-representative/camilla-juul-hansen/",
+     "profile": true
     },
     {
      "name": "Luciano Rezzolla",
@@ -11417,7 +11431,8 @@
     {
      "name": "Rolf Schlichenmaier",
      "role": "Nghiên cứu viên",
-     "url": "https://www.leibniz-kis.de/en/research/solar-physics/team-1/"
+     "url": "https://solarnet-project.eu/Rolf-Schlichenmaier",
+     "profile": true
     },
     {
      "name": "Matthias Schubert",
@@ -11491,7 +11506,8 @@
     {
      "name": "Rolf Schlichenmaier",
      "role": "Trưởng nhóm; quản lý khoa học GSTOT",
-     "url": "https://www.leibniz-kis.de/en/research/solar-telescopes/team"
+     "url": "https://solarnet-project.eu/Rolf-Schlichenmaier",
+     "profile": true
     },
     {
      "name": "Reiner Volkmer",
@@ -11880,7 +11896,8 @@
     {
      "name": "Phillipp Eller",
      "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.ph.nat.tum.de/cosmic-particles/group-members"
+     "url": "https://philippeller.github.io",
+     "profile": true
     },
     {
      "name": "Chiara Bellenghi",
@@ -14799,7 +14816,8 @@
     {
      "name": "Alexander V. Krivov",
      "role": "GSTN — phát ngôn viên FOR 2285",
-     "url": "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1"
+     "url": "https://www2.astro.uni-jena.de/~krivov/contact.html",
+     "profile": true
     },
     {
      "name": "Torsten Löhne",
@@ -14842,7 +14860,8 @@
     {
      "name": "Ralph Neuhäuser",
      "role": "GS — giám đốc viện",
-     "url": "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1"
+     "url": "https://gepris.dfg.de/gepris/person/1521831",
+     "profile": true
     },
     {
      "name": "Markus Roth",
@@ -14991,7 +15010,8 @@
     {
      "name": "Thomas Giesen",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende.html"
+     "url": "https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende/prof-dr-thomas-giesen",
+     "profile": true
     },
     {
      "name": "Guido Fuchs",
@@ -18178,8 +18198,9 @@
    "people": [
     {
      "name": "Alfred Krabbe",
-     "role": "GSTN — giám đốc DSI",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf"
+     "role": "GS — cựu giám đốc DSI, nghỉ hưu 6/2025",
+     "url": "https://www.irs.uni-stuttgart.de/en/institute/team/Krabbe",
+     "profile": true
     },
     {
      "name": "Christof Iserlohe",
@@ -18278,8 +18299,9 @@
     },
     {
      "name": "Artie Hatzes",
-     "role": "Giáo sư",
-     "url": "https://www.tls-tautenburg.de/institute/staff"
+     "role": "GS — giám đốc TLS 2000–2023",
+     "url": "https://en.wikipedia.org/wiki/Artie_P._Hatzes",
+     "profile": true
     },
     {
      "name": "Christian Andreas",
@@ -18962,8 +18984,9 @@
     },
     {
      "name": "Daniela Doneva",
-     "role": "Trưởng nhóm Emmy Noether (ghi là khách)",
-     "url": "https://uni-tuebingen.de/de/3987"
+     "role": "Cựu trưởng nhóm Emmy Noether — từ 9/2025 chuyển sang Đại học Valencia (Tây Ban Nha)",
+     "url": "https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=doneva",
+     "profile": true
     },
     {
      "name": "Saulo Soares de Albuquerque Filho",
@@ -19327,7 +19350,8 @@
     {
      "name": "Wolfgang Dröge",
      "role": "GS (apl.) — đã nghỉ hưu",
-     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898"
+     "url": "https://www.physik.uni-wuerzburg.de/en/astro/people/ag-droege-retired/",
+     "profile": true
     },
     {
      "name": "Alessandra Azzollini",
