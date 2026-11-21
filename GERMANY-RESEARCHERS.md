@@ -1908,7 +1908,7 @@ Chair (Lehrstuhl). Trực thuộc: Physik-Department, TU München.
 
 Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nhân) và tìm vật chất tối (CRESST).
 
-Trang danh sách E15 cũ hiện đã gỡ (11/2026) và có thể không còn cập nhật. Đã bỏ 3 người được xác nhận đã chuyển đi: Tina Pollmann (Đại học Amsterdam từ 2020), Matteo Agostini (UCL) và Christoph Wiesinger (biên chế tại MPIK Heidelberg từ 2025).
+Trang danh sách E15 cũ hiện đã gỡ (11/2026) và có thể không còn cập nhật. Đã bỏ 4 người được xác nhận đã chuyển đi: Tina Pollmann (Đại học Amsterdam từ 2020), Matteo Agostini (UCL) Christoph Wiesinger (biên chế tại MPIK Heidelberg từ 2025) và Luca Pattavina (giáo sư Đại học Milano-Bicocca).
 
 - Stefan Schönert — Giáo sư; trưởng nhóm
 - Raimund Strauß — Trưởng nhóm Cryogenic Detectors, điều phối hợp tác NUCLEUS
@@ -1933,7 +1933,6 @@ Trang danh sách E15 cũ hiện đã gỡ (11/2026) và có thể không còn c�
 - Elizabeth Mondragon Cortes — Nhà khoa học / nghiên cứu sinh
 - Moritz Neuberger — Nhà khoa học / nghiên cứu sinh
 - Tobias Ortmann — Nhà khoa học / nghiên cứu sinh
-- Luca Maria Pattavina — Nhà khoa học / nghiên cứu sinh
 - Luigi Pertoldi — Nhà khoa học / nghiên cứu sinh
 - Lilly Peters — Nhà khoa học / nghiên cứu sinh
 - Walter Potzel — Nhà khoa học / nghiên cứu sinh

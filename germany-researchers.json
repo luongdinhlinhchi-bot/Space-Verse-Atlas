@@ -7483,13 +7483,13 @@
     {
      "name": "D. Berge",
      "role": "Giáo sư",
-     "url": "https://www.desy.de/about_desy/lead_scientists/david_berge/index_eng.html",
+     "url": "https://www.hu-berlin.de/en/people-detail-page/prof-dr-david-berge",
      "profile": true
     },
     {
      "name": "M. Kowalski",
      "role": "Giáo sư",
-     "url": "https://www.desy.de/about_desy/lead_scientists/marek_kowalski/index_eng.html",
+     "url": "https://www.hu-berlin.de/en/people-detail-page/prof-dr-marek-kowalski",
      "profile": true
     },
     {
@@ -7500,7 +7500,8 @@
     {
      "name": "J. Nordin",
      "role": "Nghiên cứu viên",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf"
+     "url": "https://www.hu-berlin.de/en/people-detail-page/dr-jakob-nordin",
+     "profile": true
     },
     {
      "name": "R. D. Parsons",
@@ -11820,11 +11821,6 @@
     },
     {
      "name": "Tobias Ortmann",
-     "role": "Nhà khoa học / nghiên cứu sinh",
-     "url": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1"
-    },
-    {
-     "name": "Luca Maria Pattavina",
      "role": "Nhà khoa học / nghiên cứu sinh",
      "url": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1"
     },
