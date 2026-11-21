@@ -1,0 +1,5 @@
+@country BEL
+checked: 2026-11-22
+pin: 5
+coordinateNote: Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.
+listSource: https://www.belspo.be/belspo/organisation/Publ/pub_ostc/sciencecon/Bel_Astro_nl.pdf

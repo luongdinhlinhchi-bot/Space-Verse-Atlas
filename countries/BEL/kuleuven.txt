@@ -1,0 +1,98 @@
+@city leuven | Leuven | 4.70, 50.88
+
+@inst KU Leuven — Instituut voor Sterrenkunde (Institute of Astronomy)
+city: leuven
+type: university
+url: https://fys.kuleuven.be/ster/
+research: Tiến hóa sao theo nghĩa rộng: địa chấn học sao, sao khối lượng thấp đã tiến hóa, hành tinh ngoài và thiết bị thiên văn (kính Mercator ở La Palma, MIRI trên JWST, PLATO).
+coverage: full
+structure: Viện Thiên văn thuộc Khoa Vật lý & Thiên văn, KU Leuven; giám đốc Hugues Sana, trưởng khoa Hans Van Winckel.
+structureUrl: https://fys.kuleuven.be/ster/staff/staff
+scope: Danh sách đầy đủ theo trang Staff (11/2026), mỗi người có trang cá nhân. Bỏ nhân viên hành chính thuần tuý; giữ người điều phối dự án có học vị tiến sĩ.
+
+#unit Instituut voor Sterrenkunde (toàn viện)
+parent: Khoa Vật lý & Thiên văn, KU Leuven
+topics: Địa chấn học sao, sao khối lượng lớn và sao đôi, gió sao và sao AGB, hành tinh ngoài và giao thoa kế, thiết bị thiên văn (MIRI, PLATO, Mercator).
+url: https://fys.kuleuven.be/ster/research/research-at-the-institute-of-astronomy
+src: https://fys.kuleuven.be/ster/staff/staff
+p: Conny Aerts | GS | https://fys.kuleuven.be/ster/staff/conny-aerts/conny-aerts
+p: Leen Decin | GS | https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin
+p: Denis Defrère | GS | https://fys.kuleuven.be/ster/staff/senior-staff/denis-defrere
+p: Eva Laplace | GS | https://fys.kuleuven.be/ster/staff/senior-staff/eva-laplace
+p: Hugues Sana | Giáo sư; giám đốc viện | https://fys.kuleuven.be/ster/staff/senior-staff/sana/hugues-sana
+p: Jon Sundqvist | GS | https://fys.kuleuven.be/ster/staff/senior-staff/JonSundqvist
+p: Hans Van Winckel | Giáo sư; trưởng khoa Vật lý & Thiên văn | https://fys.kuleuven.be/ster/staff/senior-staff/hans
+p: Alex De Koter | Giáo sư (10% tại KU Leuven) | https://fys.kuleuven.be/ster/staff/senior-staff/alex-de-koter
+p: Gijs Nelemans | Giáo sư (10% tại KU Leuven) | https://fys.kuleuven.be/ster/staff/senior-staff/gijs-nelemans
+p: Tim Van Hoolst | Giáo sư (10% tại KU Leuven) | https://fys.kuleuven.be/ster/staff/senior-staff/tim
+p: Ioannis Argyriou | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/junior-staff/ioannis-argyriou
+p: Joris De Ridder | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/senior-staff/joris
+p: Kaustubh Hakim | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/junior-staff/kaustubh-hakim
+p: Rik Huygen | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/senior-staff/rik
+p: Gert Raskin | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/senior-staff/gert
+p: Pierre Royer | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/senior-staff/pierre-royer
+p: Andrew Tkachenko | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/senior-staff/andrew-tkachenko
+p: Bart Vandenbussche | Nghiên cứu viên cấp cao | https://fys.kuleuven.be/ster/staff/senior-staff/bart
+p: Wim De Meester | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/wim-de-meester
+p: Maarten Dirickx | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/maarten-dirickx
+p: Kwinten Missiaen | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/kwinten-missiaen
+p: Wim Pessemier | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/wim-pessemier
+p: Jesus Perez Padilla | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/jesus-perez-padilla
+p: Saskia Prins | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/saskia-prins
+p: Sara Regibo | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/Dr.-sara-regibo
+p: Muhammad Salman | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/salman-salman
+p: Dries Seynaeve | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/dries-seynaeve
+p: Wannes Verstraeten | Kỹ sư / nhân viên kỹ thuật | https://fys.kuleuven.be/ster/staff/technical-staff/wannes-verstraeten
+p: Frank Backs | PD | https://fys.kuleuven.be/ster/staff/junior-staff/frank-backs
+p: Thomas Ceulemans | PD | https://fys.kuleuven.be/ster/staff/junior-staff/thomas-ceulemans
+p: Peter Chingaipe | PD | https://fys.kuleuven.be/ster/staff/junior-staff/peter-chingaipe
+p: Davey Dickson | PD | https://fys.kuleuven.be/ster/staff/junior-staff/david-dickson
+p: Florian Driessen | PD | https://fys.kuleuven.be/ster/staff/junior-staff/florian-driessen
+p: Mats Esseldeurs | PD | https://fys.kuleuven.be/ster/staff/junior-staff/mats-esseldeurs
+p: Loïc Fellay | PD | https://fys.kuleuven.be/ster/staff/junior-staff/loic-fellay
+p: Dario Fritzewski | PD | https://fys.kuleuven.be/ster/staff/junior-staff/dario-fritzewski
+p: Pablo Huijse Heise | PD | https://fys.kuleuven.be/ster/staff/junior-staff/pablo-huijse
+p: Soetkin Janssens | PD | https://fys.kuleuven.be/ster/staff/junior-staff/soetkin-janssens
+p: Camille Landri | PD | https://fys.kuleuven.be/ster/staff/junior-staff/camille-landri
+p: Bethany Ludwig | PD | https://fys.kuleuven.be/ster/staff/junior-staff/bethany-ludwig
+p: Javier Morán Fraile | PD | https://fys.kuleuven.be/ster/staff/junior-staff/javier-moran-fraile
+p: Ricardo Ochoa-Armenta | PD | https://fys.kuleuven.be/ster/staff/junior-staff/ricardo-ochoa-armenta
+p: Daniel Pauli | PD | https://fys.kuleuven.be/ster/staff/junior-staff/daniel-pauli
+p: Shreeya Shetye | PD | https://fys.kuleuven.be/ster/staff/junior-staff/shreeya-shetye
+p: Katrien Kolenberg | Nghiên cứu viên liên kết | https://fys.kuleuven.be/ster/staff/junior-staff/katrien-kolenberg
+p: Emilie Beevers | Điều phối dự án / quản lý khoa học | https://fys.kuleuven.be/ster/staff/administration/emilie-beevers
+p: Clio Gielen | Điều phối dự án / quản lý khoa học | https://fys.kuleuven.be/ster/staff/administration/clio_gielen
+p: Maddalena Reggiani | Điều phối dự án / quản lý khoa học | https://fys.kuleuven.be/ster/staff/administration/maddalena_reggiani
+p: Rose Stanley | Điều phối dự án / quản lý khoa học | https://fys.kuleuven.be/ster/staff/administration/rose-stanley
+p: Upasana Dąs | NCS | https://fys.kuleuven.be/ster/staff/phd-students/upasana-das
+p: Dwaipayan Debnath | NCS | https://fys.kuleuven.be/ster/staff/phd-students/dwaipayan-debnath
+p: Lara Delbroek | NCS | https://fys.kuleuven.be/ster/staff/phd-students/lara-delbroek
+p: Toon De Prins | NCS | https://fys.kuleuven.be/ster/staff/phd-students/toon-de-prins
+p: Kunal Deshmukh | NCS | https://fys.kuleuven.be/ster/staff/phd-students/kunal-deshmukh
+p: Mariam Haidar | NCS | https://fys.kuleuven.be/ster/staff/phd-students/mariam-haidar
+p: Linus Heinke | NCS | https://fys.kuleuven.be/ster/staff/phd-students/linus-heinke
+p: Mykyta (Nik) Kliapets | NCS | https://fys.kuleuven.be/ster/staff/phd-students/mykyta-kliapets
+p: Matteo Mallia | NCS | https://fys.kuleuven.be/ster/staff/phd-students/matteo-mallia
+p: Thomas Mattheussen | NCS | https://fys.kuleuven.be/ster/staff/phd-students/thomas-mattheussen
+p: Sofia Mesini | NCS | https://fys.kuleuven.be/ster/staff/phd-students/sofia-mesini
+p: Lorens Niehof | NCS | https://fys.kuleuven.be/ster/staff/phd-students/lorens-niehof
+p: Nuno Pereira | NCS | https://fys.kuleuven.be/ster/staff/phd-students/nuno-pereira
+p: Jonas Reichert | NCS | https://fys.kuleuven.be/ster/staff/phd-students/jonas-reichert
+p: Pieter Schillemans | NCS | https://fys.kuleuven.be/ster/staff/phd-students/pieter-schillemans
+p: Ema Šipková | NCS | https://fys.kuleuven.be/ster/staff/phd-students/ema-sipkova
+p: Julien Storm | NCS | https://fys.kuleuven.be/ster/staff/phd-students/julien-storm
+p: Dóra Takács | NCS | https://fys.kuleuven.be/ster/staff/phd-students/dora-takacs
+p: Jean-François Vaduret | NCS | https://fys.kuleuven.be/ster/staff/phd-students/jean-francois-vaduret
+p: Cassandra Van der Sijpt | NCS | https://fys.kuleuven.be/ster/staff/phd-students/cassandra-van-der-sijpt
+p: Jelle Vandersnickt | NCS | https://fys.kuleuven.be/ster/staff/phd-students/jelle-vandersnickt
+p: Sibo Van Gool | NCS | https://fys.kuleuven.be/ster/staff/phd-students/sibo-van-gool
+p: Mathijs Vanrespaille | NCS | https://fys.kuleuven.be/ster/staff/phd-students/mathijs-vanrespaille
+p: Vázsony Varga | NCS | https://fys.kuleuven.be/ster/staff/phd-students/vazsony-varga
+p: Owen Vermeulen | NCS | https://fys.kuleuven.be/ster/staff/phd-students/owen-vermeulen
+p: Jasmine Vrancken | NCS | https://fys.kuleuven.be/ster/staff/phd-students/jasmine-vrancken
+p: Haotian Wang | NCS | https://fys.kuleuven.be/ster/staff/phd-students/haotian-wang
+p: Zihan Wang | NCS | https://fys.kuleuven.be/ster/staff/phd-students/zihan-wang
+p: Bohao Chen | Nghiên cứu sinh liên kết | https://fys.kuleuven.be/ster/staff/phd-students/bohao-chen
+p: Anjana Shaju | Nghiên cứu sinh liên kết | https://fys.kuleuven.be/ster/staff/phd-students/anjana-shaju
+p: Luka Vranckx | Nghiên cứu sinh liên kết | https://fys.kuleuven.be/ster/staff/phd-students/luka-vranckx
+p: Christoffel Waelkens | EM | https://fys.kuleuven.be/ster/staff/senior-staff/christoffel-waelkens

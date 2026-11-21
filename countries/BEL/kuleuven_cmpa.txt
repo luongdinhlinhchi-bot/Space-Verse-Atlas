@@ -1,0 +1,84 @@
+@inst KU Leuven — Centre for mathematical Plasma Astrophysics (CmPA)
+city: leuven
+type: university
+url: https://wis.kuleuven.be/CmPA
+research: Vật lý plasma thiên văn: MHD Mặt Trời và vành nhật hoa, sóng và dao động nhật hoa, thời tiết không gian (mô hình EUHFORIA), gió Mặt Trời, plasma động học, mô phỏng số (MPI-AMRVAC).
+coverage: full
+structure: Trung tâm thuộc Khoa Toán, KU Leuven; trưởng trung tâm Tom Van Doorsselaere.
+structureUrl: https://wis.kuleuven.be/CmPA/staff-members-test
+scope: Danh sách đầy đủ theo sơ đồ tổ chức KU Leuven "Who's who" (đơn vị 50000434, 11/2026); bỏ 3 nhân viên hành chính/kỹ thuật. Nhóm BAP gộp cả postdoc và NCS vì trang không tách.
+
+#unit Plasma-astrophysics (toàn trung tâm)
+parent: Khoa Toán, KU Leuven
+topics: MHD Mặt Trời, địa chấn học nhật hoa, thời tiết không gian, plasma động học, tái kết nối từ, mô phỏng số.
+url: https://wis.kuleuven.be/CmPA/research
+src: https://www.kuleuven.be/wieiswie/en/unit/regional/50000434
+p: Marcel Goossens | Giáo sư danh dự | https://www.kuleuven.be/wieiswie/en/person/00006746
+p: Fabio Bacchini | Giáo sư (senior academic staff) | https://www.kuleuven.be/wieiswie/en/person/u0097167
+p: Rony Keppens | Giáo sư (senior academic staff) | https://www.kuleuven.be/wieiswie/en/person/u0016541
+p: Jasmina Magdalenić Zhukov | Giáo sư (senior academic staff) | https://www.kuleuven.be/wieiswie/en/person/u0142602
+p: Stefaan Poedts | Giáo sư (senior academic staff) | https://www.kuleuven.be/wieiswie/en/person/u0002601
+p: Tom Van Doorsselaere | Giáo sư; trưởng CmPA | https://www.kuleuven.be/wieiswie/en/person/u0041608
+p: Ketevan Arabuli | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0157906
+p: Xanthos Argyropoulos | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0183017
+p: Luka Banović | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0155743
+p: Tinatin Baratashvili | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0124639
+p: Francesco Carella | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0167620
+p: Martina Condoluci | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0184605
+p: Pietro Dazzi | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0179092
+p: Bert De Groef | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0129736
+p: Jordi De Jonghe | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0133137
+p: Johan De Keyser | Giáo sư thỉnh giảng (BIRA-IASB) | https://www.kuleuven.be/wieiswie/en/person/u0006781
+p: Felipe Nathan de Oliveira Lopes | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0178704
+p: Yari De Paep | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0181766
+p: Rayan Dhib | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0148758
+p: Ekaterina Dineva | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0160651
+p: Lingyu Dong | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0183597
+p: Paul Els | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0184080
+p: Silvia Ferro | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0164665
+p: Myrthe Flossie | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0163129
+p: Vincent Giangaspero | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0127536
+p: Panagiotis Gonidakis | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0170095
+p: Camille Granier | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0176345
+p: Miho Janvier | Giáo sư thỉnh giảng (ESA) | https://www.kuleuven.be/wieiswie/en/person/u0186869
+p: Hyun-Jin Jeong | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0176253
+p: Veronika Jercic | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0135890
+p: Adrian Kelly | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0181053
+p: Anna Krupka | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0177999
+p: Andrea Lani | Chuyên gia nghiên cứu | https://www.kuleuven.be/wieiswie/en/person/u0120340
+p: Marian Lazar | Chuyên gia nghiên cứu | https://www.kuleuven.be/wieiswie/en/person/u0058283
+p: Rong Lin | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0169146
+p: Hongtao Liu | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0158115
+p: Camille Yasmina Lorfing | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0184244
+p: José Miguel Luzia Murteira | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0183720
+p: Davide Manzini | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0190940
+p: Max McMurdo | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0175413
+p: Lars Meulenijzer | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0187530
+p: George Miloshevich | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0167590
+p: Nicolas Moens | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0118566
+p: Clarissa Mora | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0176652
+p: Angeles Moreno Guedes | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0190144
+p: Mahdi Najafiziyazi | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0175538
+p: Quentin Noraz | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0178772
+p: Shaonwita Pal | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0191168
+p: Saksham Pande | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0184004
+p: Barbara Perri | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0141437
+p: Luca Pezzini | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0151051
+p: Maximilien Péters de Bonhome | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0173103
+p: Nadja Reisinger | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0167941
+p: Ephrem Seba | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0167148
+p: Jannis Teunissen | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0109117
+p: Angelo Valentino | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0149202
+p: Alexander Vinogradov | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0178172
+p: Haopeng Wang | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0165730
+p: Paul Wilhelm | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0176245
+p: Olaf Willocx | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0181411
+p: Sihui Zhong | Nghiên cứu viên (BAP: postdoc/NCS) | https://www.kuleuven.be/wieiswie/en/person/u0174982
+p: María Luisa Alonso Tagle | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0080235
+p: Vasanth Anandan | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0181139
+p: Lidiya Annie John | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0151906
+p: Sophie Chabanski | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0169304
+p: Andreas Debrabandere | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0185243
+p: Brenda Daniela Dorsch | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0162161
+p: Jinhan Guo | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0160205
+p: Philippe Vong | NCS (doctorandus, tài trợ ngoài) | https://www.kuleuven.be/wieiswie/en/person/u0176867

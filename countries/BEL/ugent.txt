@@ -1,0 +1,45 @@
+@city gent | Gent | 3.72, 51.05
+
+@inst Universiteit Gent — Sterrenkundig Observatorium
+city: gent
+type: university
+url: https://www.ugent.be/we/physics-astronomy/en/research/astronomy
+research: Cấu trúc, nguồn gốc và tiến hóa thiên hà: bụi liên sao, thiên hà lùn, động lực học thiên hà; quan sát đa bước sóng và mô phỏng số (mã truyền bức xạ SKIRT).
+coverage: full
+structure: Nhóm Thiên văn (Sterrenkundig Observatorium) thuộc Khoa Vật lý & Thiên văn, UGent, Campus De Sterre.
+structureUrl: https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm
+scope: Danh sách đầy đủ theo trang Staff (11/2026). Người có trang UGent riêng được gắn link; một số nghiên cứu sinh chưa có trang nên dùng trang danh sách.
+
+#unit Sterrenkundig Observatorium
+parent: Khoa Vật lý & Thiên văn, UGent
+topics: Bụi liên sao và truyền bức xạ (SKIRT), thiên hà lùn, động lực học thiên hà, thiên hà xa (JWST), tiến hóa sao đôi.
+url: https://www.ugent.be/we/physics-astronomy/en/research/astronomy
+src: https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm
+p: Maarten Baes | GS | http://users.ugent.be/~mbaes
+p: Sven De Rijcke | GS | http://users.ugent.be/~sdrijcke
+p: Ilse De Looze | GS | https://phonebook.ugent.be/en/people/802000602143
+p: Pablo Marchant Campos | GS | https://orlox.github.io
+p: Arjen van der Wel | GS | http://users.ugent.be/~avdrwel/
+p: Karl Gordon | Giáo sư thỉnh giảng | https://biblio.ugent.be/person/802001041673
+p: Sharon Meidt - van der Wel | Trợ lý giáo sư (assistant professor) | https://biblio.ugent.be/person/802003059071
+p: Jérémy Chastenet | PD | https://biblio.ugent.be/nl/people/802003572969
+p: Anand Utsav Kapoor | PD | https://biblio.ugent.be/person/802003187393
+p: Florian Kirchschlager | PD | https://kirchschlager.github.io
+p: Angelos Nersesian | PD | https://anersesian.wixsite.com/anersesi
+pp: PD | Marco Pala; Nina Sartorio
+p: Daniela Barrientos Acevedo | NCS | https://research.ugent.be/web/person/daniela-barrientos-acevedo-0/en
+p: Ritavash Debnath | NCS | https://research.ugent.be/web/person/ritavash-debnath-0
+p: Andrea Gebek | NCS | http://andreagebek.com
+p: Inja Kovacic | NCS | https://research.ugent.be/web/person/inja-kovacic-0/en
+p: Arno Lauwers | NCS | https://research.ugent.be/web/person/arno-lauwers-1/en
+p: Marco Martorano | NCS | https://research.ugent.be/web/person/marco-martorano-0/en
+p: Kosei Matsumoto | NCS | https://research.ugent.be/web/person/kosei-matsumoto-0/en
+p: Eric Muires | NCS | https://research.ugent.be/web/person/eric-muires-1/en
+p: Polina Smirnova | NCS | https://research.ugent.be/web/person/polina-smirnova-0
+p: Bert Vander Meulen | NCS | https://research.ugent.be/web/person/bert-vander-meulen-0/en
+p: Stefan van der Giessen | NCS | https://research.ugent.be/web/person/stefan-van-der-giessen-0
+pp: NCS | Sena Bokona; Abdissa Emana; Francesco Grieco; Mariana Rivas Sánchez; Yolan Uyttenhove
+p: Guy Wauters | Nhân viên kỹ thuật | https://biblio.ugent.be/person/801001845885
+p: Herwig Dejonghe | EM | https://biblio.ugent.be/person/801000437466
+p: Frank Verheest | EM | https://biblio.ugent.be/person/801000105040
+p: Marko Stalevski | Nghiên cứu viên (đang biệt phái) | https://biblio.ugent.be/person/802001461504

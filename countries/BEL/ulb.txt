@@ -1,0 +1,31 @@
+@city bruxelles | Bruxelles | 4.35, 50.85
+
+@inst Université Libre de Bruxelles — Institut d'Astronomie et d'Astrophysique (IAA)
+city: bruxelles
+type: university
+url: https://astro.ulb.ac.be/
+research: Vật lý sao: sao tiến hóa và sao AGB, tổng hợp hạt nhân sao (quá trình s, r), vật lý hạt nhân thiên văn và sao neutron, sao đôi, Gaia.
+coverage: full
+structure: Viện Thiên văn và Vật lý thiên văn (IAA), Khoa Khoa học, ULB; giám đốc Alain Jorissen.
+structureUrl: https://www.astro.ulb.ac.be/pmwiki/IAA/Staff
+scope: Danh sách đầy đủ theo trang Staff (11/2026). Người có trang riêng ở ULB hoặc web cá nhân được gắn link đó; người còn lại gắn link danh sách công bố ADS của chính họ (trang Staff dùng link này).
+
+#unit Institut d'Astronomie et d'Astrophysique
+parent: Khoa Khoa học, ULB
+topics: Sao AGB và sao giàu carbon, tổng hợp hạt nhân, phương trình trạng thái và vỏ sao neutron, khối lượng hạt nhân cho vật lý thiên văn (BRUSLIB), quang phổ sao, Gaia.
+src: https://www.astro.ulb.ac.be/pmwiki/IAA/Staff
+p: Alain Jorissen | Giám đốc viện | https://www.astro.ulb.ac.be/%7Ejorissen
+p: Sophie Van Eck | GS | https://www.astro.ulb.ac.be/%7Evaneck
+p: Lionel Siess | Giám đốc nghiên cứu FNRS | https://www.astro.ulb.ac.be/%7Esiess
+p: Nicolas Chamel | Nghiên cứu viên cao cấp FNRS | https://www.astro.ulb.ac.be/%7Echamel
+p: Stéphane Goriely | Nghiên cứu viên FNRS (Research Associate) | http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Goriely%2C+S.
+p: Wouter Ryssens | Nghiên cứu viên FNRS (Research Associate) | https://www.wryssens.com
+p: Arthur Choplin | PD — FNRS | https://arthurchoplin.wixsite.com/arthur-choplin
+p: Thibault Merle | PD | https://www.astro.ulb.ac.be/%7Emerle
+p: Christos Siopis | PD — PRODEX | https://www.astro.ulb.ac.be/%7Esiopis
+pp: PD | Karan Dsilva; Adrián Sánchez Fernández; Gururaj Wagle
+p: Pawel Krynski | NCS | https://www.astro.ulb.ac.be/%7Ekrynski
+pp: NCS | Davide Dionese; Léa Planquart; Antoine Thuillier
+p: Gilles Sadowski | Lập trình viên | http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Sadowski%2C+G.
+p: Marcel Arnould | EM | http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Arnould%2C+M.
+x: Anthea Fantina | Cộng tác viên bên ngoài | http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Fantina%2C+A.

@@ -60,6 +60,10 @@ for(const city of germany.cities) for(const institution of city.institutions){
 }
 fs.writeFileSync('GERMANY-RESEARCHERS.md', germanReport.join('\n'));
 const countryData = {FIN:finland, DEU:germany};
+// Các nước khác: countries/<ISO3>.json do tools/merge_country.py sinh ra.
+if(fs.existsSync('countries')) for(const f of fs.readdirSync('countries').filter(f=>/^[A-Z]{3}\.json$/.test(f))){
+ const c=JSON.parse(fs.readFileSync('countries/'+f,'utf8')); c.autoView=!c.viewBox; countryData[c.country]=c;
+}
 // Link cá nhân: url chỉ dùng cho đúng một người (hoặc được đánh dấu profile:true). Link dùng chung là trang danh sách.
 {const people=[];const walk=o=>{if(Array.isArray(o))o.forEach(walk);else if(o&&typeof o==='object'){for(const k of ['people','external'])if(Array.isArray(o[k]))o[k].forEach(p=>{if(p&&p.name&&p.url)people.push(p)});Object.values(o).forEach(walk)}};walk(countryData);
  const n={};people.forEach(p=>n[p.url]=(n[p.url]||0)+1);people.forEach(p=>{if(p.profile===undefined)p.profile=n[p.url]===1});
@@ -88,6 +92,13 @@ const countries = data.features.map(f0 => {
  });
  const cd = countryData[f.properties.ADM0_A3];
  if(cd) cd.cities.forEach(city => {city.point=detailProjection(city.coordinates).map(v=>+v.toFixed(1));});
+ if(cd && cd.autoView){ // khung nhìn bám sát hình nước + các chấm thành phố
+  const [[x0,y0],[x1,y1]]=d3.geoPath(detailProjection).bounds(detailFeature); const pad=20;
+  const xs=[x0,x1,...cd.cities.map(c=>c.point[0])], ys=[y0,y1,...cd.cities.map(c=>c.point[1])];
+  const L=Math.min(...xs)-pad, T=Math.min(...ys)-pad, W=Math.max(...xs)-L+pad, H=Math.max(...ys)-T+pad;
+  if(W/H<1.25) cd.viewBox=[L,T,W,H].map(v=>+v.toFixed(1)).join(' ');
+  delete cd.autoView;
+ }
  return `<path class="country${cd?' has-data':''}" d="${path(f)}" data-code="${f.properties.ADM0_A3}" data-detail="${detailPath}" tabindex="0" role="button" aria-label="${esc(name)}" aria-pressed="false" data-name="${esc(name)}"><title>${esc(name)}</title></path>`;
 }).join('\n');
 const template = fs.readFileSync('template.html','utf8');

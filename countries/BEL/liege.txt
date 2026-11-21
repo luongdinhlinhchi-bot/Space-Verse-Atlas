@@ -1,0 +1,230 @@
+@city liege | Liège | 5.57, 50.63
+
+@inst Université de Liège — STAR Institute (Space sciences, Technologies and Astrophysics Research)
+city: liege
+type: university
+url: https://www.star.uliege.be/
+research: Hành tinh học, vật lý sao, thiên văn ngoài thiên hà và hạt thiên văn, thiết bị không gian; hơn 100 nhà nghiên cứu.
+coverage: full
+structure: Viện STAR gồm các phòng thí nghiệm của Khoa Vật lý thiên văn, Địa vật lý và Hải dương học (AGO) và Centre Spatial de Liège (CSL).
+structureUrl: https://www.star.uliege.be/cms/c_4951572/en/star-star-institute
+scope: Danh sách đầy đủ theo trang Members của STAR (11/2026), mỗi người có trang danh bạ ULiège riêng. Phòng thí nghiệm lấy theo dòng đơn vị ghi trong danh bạ; người có hai phòng được xếp theo phòng ghi đầu tiên.
+
+#unit PSILab — Planetary & Stellar systems Imaging Laboratory
+parent: STAR Institute
+topics: Chụp ảnh tương phản cao hành tinh ngoài và đĩa quanh sao, coronagraph (kính VLT/ELT, METIS), giao thoa kế.
+url: https://www.psilab.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Olivier Absil | Giáo sư; Giám đốc nghiên cứu FNRS (Directeur de recherches FNRS & Fonds assoc. Professeur) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182984
+p: Lorenzo König | Nghiên cứu viên FNRS (sau tiến sĩ) (Chargé de recherches FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u233327
+p: Justin Latour | Nghiên cứu sinh (Aspirant FNRS & Fonds assoc. Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239592
+p: Gilles Orban de Xivry | Chuyên viên hỗ trợ nghiên cứu (1er logisticien de recherche) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u225160
+p: Iremsu Taskin | Nghiên cứu sinh (Boursière de doctorat Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245365
+p: Patricia Van de Walle Suárez | Nghiên cứu sinh (Boursière de doctorat Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247899
+
+#unit COMETA — Comets, Meteors and Asteroids
+parent: STAR Institute
+topics: Sao chổi, thiên thạch và tiểu hành tinh; vận hành kính TRAPPIST (TRAPPIST-North/South) và SPECULOOS.
+url: http://www.cometa.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Sarah Anderson | Nghiên cứu viên FNRS (sau tiến sĩ) (Collaboratrice Chargée de recherches FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247711
+p: Elsa Blond Hanten | Nghiên cứu sinh (Boursière de doctorat Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240212
+p: Emmanuel Jehin | Giáo sư; Giám đốc nghiên cứu FNRS (Professeur Directeur de recherches FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u016342
+p: Aravind Krishnakumar | Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246982
+p: Mohamed Amine Miftah | Nghiên cứu sinh (Boursier de doctorat Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246259
+p: Elisabeta Petrescu | Nghiên cứu sinh (Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242313
+p: Sandrine Sohy | Trợ giảng / trợ lý nghiên cứu (Assistante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029748
+p: Mathieu Vander Donckt | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u238550
+
+#unit ASTA — Theoretical Stellar Astrophysics and Asteroseismology
+parent: STAR Institute
+topics: Vật lý sao lý thuyết và địa chấn học sao.
+url: http://www.asta.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Gaël Buldgen | Phó giáo sư; Giáo sư (Professeur associé Chercheur qualifié FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u220575
+p: Sema Caliskan | Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249673
+p: Marc-Antoine Dupret | Giảng viên chính (Chargé de cours) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u180263
+p: Loïc Fellay | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239205
+p: Nathan Guyot | Nghiên cứu sinh (Boursier de doctorat Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245750
+p: Saniya Khan | Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248972
+p: Xiaoyu Ma | Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245075
+p: Massimiliano Matteuzzi | Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249745
+p: Anthony Noll | Nghiên cứu viên FNRS (sau tiến sĩ) (Chargé de recherches FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248034
+p: Lucy Panier | Nghiên cứu sinh (Boursière de doctorat Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244018
+p: Manu Stalport | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u226875
+p: Anne Thoul | Phó giáo sư; Giáo sư (Professeur associé Chercheuse qualifiée FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u179424
+p: Antoine Thuillier | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u235307
+p: Valérie Van Grootel | Phó giáo sư; Giáo sư (Professeur associé Maître de recherches FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u192392
+p: Guglielmo Volpato | Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u251217
+
+#unit GAPHE — High Energy Astrophysics Group
+parent: STAR Institute
+topics: Sao khối lượng lớn đa bước sóng (vô tuyến đến tia X), sao đôi, Gaia.
+url: https://www.gaphe.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Ludovic Delchambre | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u214293
+p: Yaël Nazé | Nghiên cứu viên cao cấp FNRS; Giảng viên chính (Maître de recherches FNRS & Fonds assoc. Chargée de cours) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u184717
+p: Alžbeta Oplistilova | Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249124
+p: Grégor Rauw | Giáo sư (Professeur) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u015372
+
+#unit MEGA — Multi-wavelength Extragalactic and Galactic Astrophysics
+parent: STAR Institute
+topics: Thiên văn ngoài thiên hà và Ngân Hà đa bước sóng: thấu kính hấp dẫn, quasar, sao khối lượng lớn; kính gương lỏng ILMT.
+url: https://www.star.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Thibault Barnouin | Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249108
+p: Michaël De Becker | Giáo sư (Professeur) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u177930
+p: Maria Groyne | Nghiên cứu sinh (Aspirante FNRS & Fonds assoc. Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242883
+p: Guillaume Mahler | Giảng viên; Trợ giảng / trợ lý nghiên cứu (Maître de conférences Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243241
+p: Angelos Nersesian | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243969
+p: Dominique Sluse | Phó giáo sư; Giáo sư (Professeur associé Logisticien de recherche en chef) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185627
+
+#unit LPAP — Laboratoire de Physique Atmosphérique et Planétaire
+parent: STAR Institute
+topics: Khí quyển hành tinh và cực quang (Sao Mộc, Juno, Sao Hỏa).
+url: http://www.lpap.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Bertrand Bonfond | Phó giáo sư; Giáo sư (Professeur associé Chercheur qualifié FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201454
+p: Zachary Flimon | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247912
+p: Denis Grodent | Giáo sư chính thức; Giáo sư (Professeur ordinaire) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u015043
+p: Linus Alexander Head | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240061
+p: Benoît Hubert | Phó giáo sư; Giáo sư (Professeur associé Chercheur qualifié FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u173531
+p: Guillaume Sicorello | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u235530
+p: Lauriane Soret | Phó giáo sư; Giáo sư (Professeur associé Chercheuse qualifiée FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u210044
+p: Gilles Wautelet | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201915
+
+#unit IFPA — Fundamental Interactions in Physics and Astrophysics
+parent: STAR Institute
+topics: Tương tác cơ bản trong vật lý và vật lý thiên văn, vật lý hạt thiên văn.
+url: http://www.theo.phys.ulg.ac.be/wiki/Welcome_to_IFPA
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Jean-René Cudell | Giáo sư (Professeur) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u016589
+
+#unit Sóng hấp dẫn (OGrav)
+parent: STAR Institute
+topics: Thiên văn sóng hấp dẫn, tham gia hợp tác Virgo và Einstein Telescope.
+url: https://www.theo.phys.ulg.ac.be/wiki/Welcome_to_IFPA
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Thomas Brabant | Nghiên cứu sinh (Boursier de doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244337
+p: Maxime Fays | Giảng viên chính (Chargé de cours) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u233793
+
+#unit Sciences spatiales
+parent: STAR Institute
+topics: Khoa học không gian (nhóm thuộc AGO).
+url: https://www.star.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Cédric Baijot | Nghiên cứu sinh (Aspirant FNRS & Fonds assoc. Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246809
+p: Qiuhan He | Nghiên cứu viên FNRS (sau tiến sĩ) (Chargé de recherches FNRS & Fonds assoc.) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247867
+p: Mathilde Tasseroul | Nghiên cứu sinh (Boursière de doctorat Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245629
+
+#unit CSL — Centre Spatial de Liège
+parent: STAR Institute
+topics: Trung tâm nghiên cứu ứng dụng của ULiège: thiết kế, chế tạo và thử nghiệm thiết bị quan sát không gian (quang học, buồng chân không thử nghiệm).
+url: http://www.csl.uliege.be/
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Marine Adam | Trợ giảng / trợ lý nghiên cứu (Assistante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u193633
+p: Elena Aleshina | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u219074
+p: Francesco Allegro | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u026608
+p: Melissa Amenouche | Trợ giảng / trợ lý nghiên cứu (Assistante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246069
+p: Ann Baeke | Trưởng dự án (Cheffe de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u223505
+p: Pascal Barzin | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030170
+p: Delphine Belkacemi | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249651
+p: Pierre Bielen | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u237685
+p: Sylvain Brevers | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u217932
+p: Jérémy Brisbois | Giảng viên; Chuyên gia (Maître de conférences Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u217198
+p: Alain Carapelle | Trưởng dự án (Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u016324
+p: Agni Castias | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u026836
+p: Sélim Chaabani | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Doctorant Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240822
+p: Mallory Chermanne | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u231873
+p: Alain Chevremont | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242734
+p: Quentin Chouffart | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u210726
+p: Lionel Clermont | Giáo sư nghiên cứu; Giáo sư (Professeur de recherche) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u166566
+p: Olivier Closset | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246550
+p: Frédéric Collard | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027140
+p: Colin Dandumont | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u226250
+p: Dominique De Rauw | Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027020
+p: Florence Defraigne | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030280
+p: Céline Derette | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240254
+p: Véronique Descamps | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185916
+p: Richard Desselle | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u217050
+p: Isabelle Domken | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027290
+p: Karl Fleury-Frenette | Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029933
+p: Olivier Flock | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u165719
+p: Philippe Franssen | Kỹ sư nghiên cứu (Ingénieur de recherches) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201933
+p: Patrick Gailly | Trưởng dự án (Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030324
+p: Camille Galy | Kỹ sư tập sự (Aspirant (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u222852
+p: Catherine Gaspar | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u223989
+p: Marc Georges | Giảng viên; Trưởng dự án hệ thống (Maître de conférences Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027964
+p: Christophe Grodent | Trưởng dự án chính; Trưởng dự án (Chef de projet principal (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027212
+p: Antoine Groulard | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240772
+p: Christophe Guibert | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u235081
+p: Marc Guiot | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030233
+p: Pierre Guiton | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242316
+p: Serge Habraken | Giáo sư; Trưởng dự án (Professeur Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u014596
+p: Cédric Hardy | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239991
+p: Juriy Hastanin | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201488
+p: Clément Heine | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u250191
+p: Marie-Laure Hellin | Trưởng dự án (Cheffe de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u178098
+p: Aline Hermans | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030056
+p: Parto Ijadi Maghsoodi | Trợ giảng / trợ lý nghiên cứu (Assistante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249828
+p: Jérôme Jacobs | Kỹ sư tập sự (Aspirant (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u219699
+p: Lionel Jacques | Giảng viên chính; Chuyên gia (Chargé de cours Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u211574
+p: Anthony Kellens | Kỹ sư tập sự (Aspirant (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u227994
+p: Murielle Kirkove | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182701
+p: Ismaël Lahmaïd | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u241794
+p: Etienne Lallemand | Kỹ sư nghiên cứu (Ingénieur de recherches) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u234702
+p: Fabian Languy | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u205031
+p: Serge Lebon | Kỹ sư nghiên cứu (Licencié attaché à la recherche) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248326
+p: Gary Lejeune | Kỹ sư nghiên cứu (Ingénieur de recherches) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u179939
+p: Cedric Lenaerts | Trưởng dự án (Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u189362
+p: Célestin Libert | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247677
+p: Sylvie Liébecq | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u194345
+p: Patrick Lovat | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029494
+p: Sara Marcotte | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u211803
+p: Benoit Marquet | Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185959
+p: Timothée Martin | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249432
+p: Emmanuel Mazy | Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029270
+p: Alexandra Mazzoli | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u190403
+p: Yvan Michelson | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u238702
+p: Bertrand Mohring | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u241860
+p: Nelly Morhay | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182775
+p: Anne Orban | Trưởng dự án (Cheffe de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027025
+p: Jean-Yves Plesseria | Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u179410
+p: Pierre Popijn | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244750
+p: Frédéric Rabecki | Trưởng dự án (Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u177992
+p: Stéphane Roose | Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u028874
+p: Nicodème Rosato | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u176686
+p: Julien Rosin | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u194387
+p: Laurence Rossi | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u191632
+p: Emile Ruwet | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239376
+p: Valérie Samain | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u219593
+p: William Schmets | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Doctorant Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243567
+p: Sergei Shestov | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u241973
+p: Juan Felipe Simar | Kỹ sư tập sự (Aspirant (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u213550
+p: Paola Skutnik | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185848
+p: Guilhem Terrasa | Kỹ sư tập sự (Aspirant (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u229719
+p: Tanguy Thibert | Trưởng dự án (Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182990
+p: Cédric Thizy | Trưởng dự án (Chef de projet (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u186093
+p: Clément Thomas | Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242806
+p: Isabelle Tychon | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027697
+p: Erwin Van den Bergh | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u251189
+p: Jean-François Vandenrijt | Chuyên gia (Spécialiste (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u194964
+p: Josiane Verstraelen | Nhân viên (trang không ghi chức danh) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u164366
+p: Jesus Vilaboa Perez | Trợ giảng / trợ lý nghiên cứu (Assistant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u233041
+p: Yuchen Zhao | Kỹ sư tập sự (Aspirante (Space)) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u226172
+
+#unit Nghiên cứu sinh và thành viên chưa ghi nhóm
+parent: STAR Institute
+topics: Thành viên STAR mà danh bạ không ghi phòng thí nghiệm.
+url: https://www.star.uliege.be/cms/c_4958328/en/star-members
+src: https://www.star.uliege.be/cms/c_4958328/en/star-members
+p: Grégory Adam | Nghiên cứu sinh (Boursier de doctorat Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249045
+p: Sid Ahmed Amraoui | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249310
+p: Ludo Bissot | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244084
+p: Niyati Desai | Nhà nghiên cứu khách mời (Chercheuse visiteuse) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u250881
+p: Antoine Dessart | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243630
+p: Sara Filali | Nghiên cứu sinh (Doctorante) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u236969
+p: Hugo Joly | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248699
+p: Stéphane Lizin | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u234686
+p: Mohammad Hassan Naddaf Moghaddam | Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243814
+p: Rakesh Nath Ranga | Nghiên cứu sinh (Doctorant) | https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u231248

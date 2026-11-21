@@ -1,0 +1,2440 @@
+{
+ "cities": [
+  {
+   "id": "leuven",
+   "city": "Leuven",
+   "coordinates": [
+    4.7,
+    50.88
+   ],
+   "institutions": [
+    {
+     "name": "KU Leuven — Instituut voor Sterrenkunde (Institute of Astronomy)",
+     "type": "university",
+     "research": "Tiến hóa sao theo nghĩa rộng: địa chấn học sao, sao khối lượng thấp đã tiến hóa, hành tinh ngoài và thiết bị thiên văn (kính Mercator ở La Palma, MIRI trên JWST, PLATO).",
+     "url": "https://fys.kuleuven.be/ster/",
+     "coverage": "full",
+     "structure": "Viện Thiên văn thuộc Khoa Vật lý & Thiên văn, KU Leuven; giám đốc Hugues Sana, trưởng khoa Hans Van Winckel.",
+     "structureUrl": "https://fys.kuleuven.be/ster/staff/staff",
+     "scopeNote": "Danh sách đầy đủ theo trang Staff (11/2026), mỗi người có trang cá nhân. Bỏ nhân viên hành chính thuần tuý; giữ người điều phối dự án có học vị tiến sĩ.",
+     "units": [
+      {
+       "name": "Instituut voor Sterrenkunde (toàn viện)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Vật lý & Thiên văn, KU Leuven",
+       "topics": "Địa chấn học sao, sao khối lượng lớn và sao đôi, gió sao và sao AGB, hành tinh ngoài và giao thoa kế, thiết bị thiên văn (MIRI, PLATO, Mercator).",
+       "url": "https://fys.kuleuven.be/ster/research/research-at-the-institute-of-astronomy",
+       "researchers": {
+        "people": [
+         {
+          "name": "Conny Aerts",
+          "role": "Giáo sư",
+          "url": "https://fys.kuleuven.be/ster/staff/conny-aerts/conny-aerts"
+         },
+         {
+          "name": "Leen Decin",
+          "role": "Giáo sư",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin"
+         },
+         {
+          "name": "Denis Defrère",
+          "role": "Giáo sư",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/denis-defrere"
+         },
+         {
+          "name": "Eva Laplace",
+          "role": "Giáo sư",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/eva-laplace"
+         },
+         {
+          "name": "Hugues Sana",
+          "role": "Giáo sư; giám đốc viện",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/sana/hugues-sana"
+         },
+         {
+          "name": "Jon Sundqvist",
+          "role": "Giáo sư",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/JonSundqvist"
+         },
+         {
+          "name": "Hans Van Winckel",
+          "role": "Giáo sư; trưởng khoa Vật lý & Thiên văn",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/hans"
+         },
+         {
+          "name": "Alex De Koter",
+          "role": "Giáo sư (10% tại KU Leuven)",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/alex-de-koter"
+         },
+         {
+          "name": "Gijs Nelemans",
+          "role": "Giáo sư (10% tại KU Leuven)",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/gijs-nelemans"
+         },
+         {
+          "name": "Tim Van Hoolst",
+          "role": "Giáo sư (10% tại KU Leuven)",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/tim"
+         },
+         {
+          "name": "Ioannis Argyriou",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/ioannis-argyriou"
+         },
+         {
+          "name": "Joris De Ridder",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/joris"
+         },
+         {
+          "name": "Kaustubh Hakim",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/kaustubh-hakim"
+         },
+         {
+          "name": "Rik Huygen",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/rik"
+         },
+         {
+          "name": "Gert Raskin",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/gert"
+         },
+         {
+          "name": "Pierre Royer",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/pierre-royer"
+         },
+         {
+          "name": "Andrew Tkachenko",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/andrew-tkachenko"
+         },
+         {
+          "name": "Bart Vandenbussche",
+          "role": "Nghiên cứu viên cấp cao",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/bart"
+         },
+         {
+          "name": "Wim De Meester",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/wim-de-meester"
+         },
+         {
+          "name": "Maarten Dirickx",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/maarten-dirickx"
+         },
+         {
+          "name": "Kwinten Missiaen",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/kwinten-missiaen"
+         },
+         {
+          "name": "Wim Pessemier",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/wim-pessemier"
+         },
+         {
+          "name": "Jesus Perez Padilla",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/jesus-perez-padilla"
+         },
+         {
+          "name": "Saskia Prins",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/saskia-prins"
+         },
+         {
+          "name": "Sara Regibo",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/Dr.-sara-regibo"
+         },
+         {
+          "name": "Muhammad Salman",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/salman-salman"
+         },
+         {
+          "name": "Dries Seynaeve",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/dries-seynaeve"
+         },
+         {
+          "name": "Wannes Verstraeten",
+          "role": "Kỹ sư / nhân viên kỹ thuật",
+          "url": "https://fys.kuleuven.be/ster/staff/technical-staff/wannes-verstraeten"
+         },
+         {
+          "name": "Frank Backs",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/frank-backs"
+         },
+         {
+          "name": "Thomas Ceulemans",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/thomas-ceulemans"
+         },
+         {
+          "name": "Peter Chingaipe",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/peter-chingaipe"
+         },
+         {
+          "name": "Davey Dickson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/david-dickson"
+         },
+         {
+          "name": "Florian Driessen",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/florian-driessen"
+         },
+         {
+          "name": "Mats Esseldeurs",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/mats-esseldeurs"
+         },
+         {
+          "name": "Loïc Fellay",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/loic-fellay"
+         },
+         {
+          "name": "Dario Fritzewski",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/dario-fritzewski"
+         },
+         {
+          "name": "Pablo Huijse Heise",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/pablo-huijse"
+         },
+         {
+          "name": "Soetkin Janssens",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/soetkin-janssens"
+         },
+         {
+          "name": "Camille Landri",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/camille-landri"
+         },
+         {
+          "name": "Bethany Ludwig",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/bethany-ludwig"
+         },
+         {
+          "name": "Javier Morán Fraile",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/javier-moran-fraile"
+         },
+         {
+          "name": "Ricardo Ochoa-Armenta",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/ricardo-ochoa-armenta"
+         },
+         {
+          "name": "Daniel Pauli",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/daniel-pauli"
+         },
+         {
+          "name": "Shreeya Shetye",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/shreeya-shetye"
+         },
+         {
+          "name": "Katrien Kolenberg",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://fys.kuleuven.be/ster/staff/junior-staff/katrien-kolenberg"
+         },
+         {
+          "name": "Emilie Beevers",
+          "role": "Điều phối dự án / quản lý khoa học",
+          "url": "https://fys.kuleuven.be/ster/staff/administration/emilie-beevers"
+         },
+         {
+          "name": "Clio Gielen",
+          "role": "Điều phối dự án / quản lý khoa học",
+          "url": "https://fys.kuleuven.be/ster/staff/administration/clio_gielen"
+         },
+         {
+          "name": "Maddalena Reggiani",
+          "role": "Điều phối dự án / quản lý khoa học",
+          "url": "https://fys.kuleuven.be/ster/staff/administration/maddalena_reggiani"
+         },
+         {
+          "name": "Rose Stanley",
+          "role": "Điều phối dự án / quản lý khoa học",
+          "url": "https://fys.kuleuven.be/ster/staff/administration/rose-stanley"
+         },
+         {
+          "name": "Upasana Dąs",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/upasana-das"
+         },
+         {
+          "name": "Dwaipayan Debnath",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/dwaipayan-debnath"
+         },
+         {
+          "name": "Lara Delbroek",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/lara-delbroek"
+         },
+         {
+          "name": "Toon De Prins",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/toon-de-prins"
+         },
+         {
+          "name": "Kunal Deshmukh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/kunal-deshmukh"
+         },
+         {
+          "name": "Mariam Haidar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/mariam-haidar"
+         },
+         {
+          "name": "Linus Heinke",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/linus-heinke"
+         },
+         {
+          "name": "Mykyta (Nik) Kliapets",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/mykyta-kliapets"
+         },
+         {
+          "name": "Matteo Mallia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/matteo-mallia"
+         },
+         {
+          "name": "Thomas Mattheussen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/thomas-mattheussen"
+         },
+         {
+          "name": "Sofia Mesini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/sofia-mesini"
+         },
+         {
+          "name": "Lorens Niehof",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/lorens-niehof"
+         },
+         {
+          "name": "Nuno Pereira",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/nuno-pereira"
+         },
+         {
+          "name": "Jonas Reichert",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/jonas-reichert"
+         },
+         {
+          "name": "Pieter Schillemans",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/pieter-schillemans"
+         },
+         {
+          "name": "Ema Šipková",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/ema-sipkova"
+         },
+         {
+          "name": "Julien Storm",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/julien-storm"
+         },
+         {
+          "name": "Dóra Takács",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/dora-takacs"
+         },
+         {
+          "name": "Jean-François Vaduret",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/jean-francois-vaduret"
+         },
+         {
+          "name": "Cassandra Van der Sijpt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/cassandra-van-der-sijpt"
+         },
+         {
+          "name": "Jelle Vandersnickt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/jelle-vandersnickt"
+         },
+         {
+          "name": "Sibo Van Gool",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/sibo-van-gool"
+         },
+         {
+          "name": "Mathijs Vanrespaille",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/mathijs-vanrespaille"
+         },
+         {
+          "name": "Vázsony Varga",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/vazsony-varga"
+         },
+         {
+          "name": "Owen Vermeulen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/owen-vermeulen"
+         },
+         {
+          "name": "Jasmine Vrancken",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/jasmine-vrancken"
+         },
+         {
+          "name": "Haotian Wang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/haotian-wang"
+         },
+         {
+          "name": "Zihan Wang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/zihan-wang"
+         },
+         {
+          "name": "Bohao Chen",
+          "role": "Nghiên cứu sinh liên kết",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/bohao-chen"
+         },
+         {
+          "name": "Anjana Shaju",
+          "role": "Nghiên cứu sinh liên kết",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/anjana-shaju"
+         },
+         {
+          "name": "Luka Vranckx",
+          "role": "Nghiên cứu sinh liên kết",
+          "url": "https://fys.kuleuven.be/ster/staff/phd-students/luka-vranckx"
+         },
+         {
+          "name": "Christoffel Waelkens",
+          "role": "Danh dự (emeritus)",
+          "url": "https://fys.kuleuven.be/ster/staff/senior-staff/christoffel-waelkens"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://fys.kuleuven.be/ster/staff/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "KU Leuven — Centre for mathematical Plasma Astrophysics (CmPA)",
+     "type": "university",
+     "research": "Vật lý plasma thiên văn: MHD Mặt Trời và vành nhật hoa, sóng và dao động nhật hoa, thời tiết không gian (mô hình EUHFORIA), gió Mặt Trời, plasma động học, mô phỏng số (MPI-AMRVAC).",
+     "url": "https://wis.kuleuven.be/CmPA",
+     "coverage": "full",
+     "structure": "Trung tâm thuộc Khoa Toán, KU Leuven; trưởng trung tâm Tom Van Doorsselaere.",
+     "structureUrl": "https://wis.kuleuven.be/CmPA/staff-members-test",
+     "scopeNote": "Danh sách đầy đủ theo sơ đồ tổ chức KU Leuven \"Who's who\" (đơn vị 50000434, 11/2026); bỏ 3 nhân viên hành chính/kỹ thuật. Nhóm BAP gộp cả postdoc và NCS vì trang không tách.",
+     "units": [
+      {
+       "name": "Plasma-astrophysics (toàn trung tâm)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Toán, KU Leuven",
+       "topics": "MHD Mặt Trời, địa chấn học nhật hoa, thời tiết không gian, plasma động học, tái kết nối từ, mô phỏng số.",
+       "url": "https://wis.kuleuven.be/CmPA/research",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marcel Goossens",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/00006746"
+         },
+         {
+          "name": "Fabio Bacchini",
+          "role": "Giáo sư (senior academic staff)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0097167"
+         },
+         {
+          "name": "Rony Keppens",
+          "role": "Giáo sư (senior academic staff)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0016541"
+         },
+         {
+          "name": "Jasmina Magdalenić Zhukov",
+          "role": "Giáo sư (senior academic staff)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0142602"
+         },
+         {
+          "name": "Stefaan Poedts",
+          "role": "Giáo sư (senior academic staff)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0002601"
+         },
+         {
+          "name": "Tom Van Doorsselaere",
+          "role": "Giáo sư; trưởng CmPA",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0041608"
+         },
+         {
+          "name": "Ketevan Arabuli",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0157906"
+         },
+         {
+          "name": "Xanthos Argyropoulos",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0183017"
+         },
+         {
+          "name": "Luka Banović",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0155743"
+         },
+         {
+          "name": "Tinatin Baratashvili",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0124639"
+         },
+         {
+          "name": "Francesco Carella",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0167620"
+         },
+         {
+          "name": "Martina Condoluci",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0184605"
+         },
+         {
+          "name": "Pietro Dazzi",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0179092"
+         },
+         {
+          "name": "Bert De Groef",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0129736"
+         },
+         {
+          "name": "Jordi De Jonghe",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0133137"
+         },
+         {
+          "name": "Johan De Keyser",
+          "role": "Giáo sư thỉnh giảng (BIRA-IASB)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0006781"
+         },
+         {
+          "name": "Felipe Nathan de Oliveira Lopes",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0178704"
+         },
+         {
+          "name": "Yari De Paep",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0181766"
+         },
+         {
+          "name": "Rayan Dhib",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0148758"
+         },
+         {
+          "name": "Ekaterina Dineva",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0160651"
+         },
+         {
+          "name": "Lingyu Dong",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0183597"
+         },
+         {
+          "name": "Paul Els",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0184080"
+         },
+         {
+          "name": "Silvia Ferro",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0164665"
+         },
+         {
+          "name": "Myrthe Flossie",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0163129"
+         },
+         {
+          "name": "Vincent Giangaspero",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0127536"
+         },
+         {
+          "name": "Panagiotis Gonidakis",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0170095"
+         },
+         {
+          "name": "Camille Granier",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0176345"
+         },
+         {
+          "name": "Miho Janvier",
+          "role": "Giáo sư thỉnh giảng (ESA)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0186869"
+         },
+         {
+          "name": "Hyun-Jin Jeong",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0176253"
+         },
+         {
+          "name": "Veronika Jercic",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0135890"
+         },
+         {
+          "name": "Adrian Kelly",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0181053"
+         },
+         {
+          "name": "Anna Krupka",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0177999"
+         },
+         {
+          "name": "Andrea Lani",
+          "role": "Chuyên gia nghiên cứu",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0120340"
+         },
+         {
+          "name": "Marian Lazar",
+          "role": "Chuyên gia nghiên cứu",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0058283"
+         },
+         {
+          "name": "Rong Lin",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0169146"
+         },
+         {
+          "name": "Hongtao Liu",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0158115"
+         },
+         {
+          "name": "Camille Yasmina Lorfing",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0184244"
+         },
+         {
+          "name": "José Miguel Luzia Murteira",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0183720"
+         },
+         {
+          "name": "Davide Manzini",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0190940"
+         },
+         {
+          "name": "Max McMurdo",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0175413"
+         },
+         {
+          "name": "Lars Meulenijzer",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0187530"
+         },
+         {
+          "name": "George Miloshevich",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0167590"
+         },
+         {
+          "name": "Nicolas Moens",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0118566"
+         },
+         {
+          "name": "Clarissa Mora",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0176652"
+         },
+         {
+          "name": "Angeles Moreno Guedes",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0190144"
+         },
+         {
+          "name": "Mahdi Najafiziyazi",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0175538"
+         },
+         {
+          "name": "Quentin Noraz",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0178772"
+         },
+         {
+          "name": "Shaonwita Pal",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0191168"
+         },
+         {
+          "name": "Saksham Pande",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0184004"
+         },
+         {
+          "name": "Barbara Perri",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0141437"
+         },
+         {
+          "name": "Luca Pezzini",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0151051"
+         },
+         {
+          "name": "Maximilien Péters de Bonhome",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0173103"
+         },
+         {
+          "name": "Nadja Reisinger",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0167941"
+         },
+         {
+          "name": "Ephrem Seba",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0167148"
+         },
+         {
+          "name": "Jannis Teunissen",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0109117"
+         },
+         {
+          "name": "Angelo Valentino",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0149202"
+         },
+         {
+          "name": "Alexander Vinogradov",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0178172"
+         },
+         {
+          "name": "Haopeng Wang",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0165730"
+         },
+         {
+          "name": "Paul Wilhelm",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0176245"
+         },
+         {
+          "name": "Olaf Willocx",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0181411"
+         },
+         {
+          "name": "Sihui Zhong",
+          "role": "Nghiên cứu viên (BAP: postdoc/NCS)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0174982"
+         },
+         {
+          "name": "María Luisa Alonso Tagle",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0080235"
+         },
+         {
+          "name": "Vasanth Anandan",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0181139"
+         },
+         {
+          "name": "Lidiya Annie John",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0151906"
+         },
+         {
+          "name": "Sophie Chabanski",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0169304"
+         },
+         {
+          "name": "Andreas Debrabandere",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0185243"
+         },
+         {
+          "name": "Brenda Daniela Dorsch",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0162161"
+         },
+         {
+          "name": "Jinhan Guo",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0160205"
+         },
+         {
+          "name": "Philippe Vong",
+          "role": "NCS (doctorandus, tài trợ ngoài)",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/u0176867"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.kuleuven.be/wieiswie/en/unit/regional/50000434"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "liege",
+   "city": "Liège",
+   "coordinates": [
+    5.57,
+    50.63
+   ],
+   "institutions": [
+    {
+     "name": "Université de Liège — STAR Institute (Space sciences, Technologies and Astrophysics Research)",
+     "type": "university",
+     "research": "Hành tinh học, vật lý sao, thiên văn ngoài thiên hà và hạt thiên văn, thiết bị không gian; hơn 100 nhà nghiên cứu.",
+     "url": "https://www.star.uliege.be/",
+     "coverage": "full",
+     "structure": "Viện STAR gồm các phòng thí nghiệm của Khoa Vật lý thiên văn, Địa vật lý và Hải dương học (AGO) và Centre Spatial de Liège (CSL).",
+     "structureUrl": "https://www.star.uliege.be/cms/c_4951572/en/star-star-institute",
+     "scopeNote": "Danh sách đầy đủ theo trang Members của STAR (11/2026), mỗi người có trang danh bạ ULiège riêng. Phòng thí nghiệm lấy theo dòng đơn vị ghi trong danh bạ; người có hai phòng được xếp theo phòng ghi đầu tiên.",
+     "units": [
+      {
+       "name": "PSILab — Planetary & Stellar systems Imaging Laboratory",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Chụp ảnh tương phản cao hành tinh ngoài và đĩa quanh sao, coronagraph (kính VLT/ELT, METIS), giao thoa kế.",
+       "url": "https://www.psilab.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Olivier Absil",
+          "role": "Giáo sư; Giám đốc nghiên cứu FNRS (Directeur de recherches FNRS & Fonds assoc. Professeur)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182984"
+         },
+         {
+          "name": "Lorenzo König",
+          "role": "Nghiên cứu viên FNRS (sau tiến sĩ) (Chargé de recherches FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u233327"
+         },
+         {
+          "name": "Justin Latour",
+          "role": "Nghiên cứu sinh (Aspirant FNRS & Fonds assoc. Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239592"
+         },
+         {
+          "name": "Gilles Orban de Xivry",
+          "role": "Chuyên viên hỗ trợ nghiên cứu (1er logisticien de recherche)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u225160"
+         },
+         {
+          "name": "Iremsu Taskin",
+          "role": "Nghiên cứu sinh (Boursière de doctorat Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245365"
+         },
+         {
+          "name": "Patricia Van de Walle Suárez",
+          "role": "Nghiên cứu sinh (Boursière de doctorat Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247899"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "COMETA — Comets, Meteors and Asteroids",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Sao chổi, thiên thạch và tiểu hành tinh; vận hành kính TRAPPIST (TRAPPIST-North/South) và SPECULOOS.",
+       "url": "http://www.cometa.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Sarah Anderson",
+          "role": "Nghiên cứu viên FNRS (sau tiến sĩ) (Collaboratrice Chargée de recherches FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247711"
+         },
+         {
+          "name": "Elsa Blond Hanten",
+          "role": "Nghiên cứu sinh (Boursière de doctorat Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240212"
+         },
+         {
+          "name": "Emmanuel Jehin",
+          "role": "Giáo sư; Giám đốc nghiên cứu FNRS (Professeur Directeur de recherches FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u016342"
+         },
+         {
+          "name": "Aravind Krishnakumar",
+          "role": "Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246982"
+         },
+         {
+          "name": "Mohamed Amine Miftah",
+          "role": "Nghiên cứu sinh (Boursier de doctorat Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246259"
+         },
+         {
+          "name": "Elisabeta Petrescu",
+          "role": "Nghiên cứu sinh (Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242313"
+         },
+         {
+          "name": "Sandrine Sohy",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029748"
+         },
+         {
+          "name": "Mathieu Vander Donckt",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u238550"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "ASTA — Theoretical Stellar Astrophysics and Asteroseismology",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Vật lý sao lý thuyết và địa chấn học sao.",
+       "url": "http://www.asta.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Gaël Buldgen",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Chercheur qualifié FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u220575"
+         },
+         {
+          "name": "Sema Caliskan",
+          "role": "Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249673"
+         },
+         {
+          "name": "Marc-Antoine Dupret",
+          "role": "Giảng viên chính (Chargé de cours)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u180263"
+         },
+         {
+          "name": "Loïc Fellay",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239205"
+         },
+         {
+          "name": "Nathan Guyot",
+          "role": "Nghiên cứu sinh (Boursier de doctorat Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245750"
+         },
+         {
+          "name": "Saniya Khan",
+          "role": "Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248972"
+         },
+         {
+          "name": "Xiaoyu Ma",
+          "role": "Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245075"
+         },
+         {
+          "name": "Massimiliano Matteuzzi",
+          "role": "Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249745"
+         },
+         {
+          "name": "Anthony Noll",
+          "role": "Nghiên cứu viên FNRS (sau tiến sĩ) (Chargé de recherches FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248034"
+         },
+         {
+          "name": "Lucy Panier",
+          "role": "Nghiên cứu sinh (Boursière de doctorat Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244018"
+         },
+         {
+          "name": "Manu Stalport",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u226875"
+         },
+         {
+          "name": "Anne Thoul",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Chercheuse qualifiée FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u179424"
+         },
+         {
+          "name": "Antoine Thuillier",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u235307"
+         },
+         {
+          "name": "Valérie Van Grootel",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Maître de recherches FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u192392"
+         },
+         {
+          "name": "Guglielmo Volpato",
+          "role": "Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u251217"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "GAPHE — High Energy Astrophysics Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Sao khối lượng lớn đa bước sóng (vô tuyến đến tia X), sao đôi, Gaia.",
+       "url": "https://www.gaphe.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ludovic Delchambre",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u214293"
+         },
+         {
+          "name": "Yaël Nazé",
+          "role": "Nghiên cứu viên cao cấp FNRS; Giảng viên chính (Maître de recherches FNRS & Fonds assoc. Chargée de cours)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u184717"
+         },
+         {
+          "name": "Alžbeta Oplistilova",
+          "role": "Nghiên cứu sau tiến sĩ (Boursière Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249124"
+         },
+         {
+          "name": "Grégor Rauw",
+          "role": "Giáo sư (Professeur)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u015372"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "MEGA — Multi-wavelength Extragalactic and Galactic Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Thiên văn ngoài thiên hà và Ngân Hà đa bước sóng: thấu kính hấp dẫn, quasar, sao khối lượng lớn; kính gương lỏng ILMT.",
+       "url": "https://www.star.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Thibault Barnouin",
+          "role": "Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249108"
+         },
+         {
+          "name": "Michaël De Becker",
+          "role": "Giáo sư (Professeur)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u177930"
+         },
+         {
+          "name": "Maria Groyne",
+          "role": "Nghiên cứu sinh (Aspirante FNRS & Fonds assoc. Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242883"
+         },
+         {
+          "name": "Guillaume Mahler",
+          "role": "Giảng viên; Trợ giảng / trợ lý nghiên cứu (Maître de conférences Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243241"
+         },
+         {
+          "name": "Angelos Nersesian",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243969"
+         },
+         {
+          "name": "Dominique Sluse",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Logisticien de recherche en chef)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185627"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "LPAP — Laboratoire de Physique Atmosphérique et Planétaire",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Khí quyển hành tinh và cực quang (Sao Mộc, Juno, Sao Hỏa).",
+       "url": "http://www.lpap.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Bertrand Bonfond",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Chercheur qualifié FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201454"
+         },
+         {
+          "name": "Zachary Flimon",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247912"
+         },
+         {
+          "name": "Denis Grodent",
+          "role": "Giáo sư chính thức; Giáo sư (Professeur ordinaire)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u015043"
+         },
+         {
+          "name": "Linus Alexander Head",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240061"
+         },
+         {
+          "name": "Benoît Hubert",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Chercheur qualifié FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u173531"
+         },
+         {
+          "name": "Guillaume Sicorello",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u235530"
+         },
+         {
+          "name": "Lauriane Soret",
+          "role": "Phó giáo sư; Giáo sư (Professeur associé Chercheuse qualifiée FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u210044"
+         },
+         {
+          "name": "Gilles Wautelet",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201915"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "IFPA — Fundamental Interactions in Physics and Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Tương tác cơ bản trong vật lý và vật lý thiên văn, vật lý hạt thiên văn.",
+       "url": "http://www.theo.phys.ulg.ac.be/wiki/Welcome_to_IFPA",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jean-René Cudell",
+          "role": "Giáo sư (Professeur)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u016589"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Sóng hấp dẫn (OGrav)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Thiên văn sóng hấp dẫn, tham gia hợp tác Virgo và Einstein Telescope.",
+       "url": "https://www.theo.phys.ulg.ac.be/wiki/Welcome_to_IFPA",
+       "researchers": {
+        "people": [
+         {
+          "name": "Thomas Brabant",
+          "role": "Nghiên cứu sinh (Boursier de doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244337"
+         },
+         {
+          "name": "Maxime Fays",
+          "role": "Giảng viên chính (Chargé de cours)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u233793"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Sciences spatiales",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Khoa học không gian (nhóm thuộc AGO).",
+       "url": "https://www.star.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Cédric Baijot",
+          "role": "Nghiên cứu sinh (Aspirant FNRS & Fonds assoc. Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246809"
+         },
+         {
+          "name": "Qiuhan He",
+          "role": "Nghiên cứu viên FNRS (sau tiến sĩ) (Chargé de recherches FNRS & Fonds assoc.)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247867"
+         },
+         {
+          "name": "Mathilde Tasseroul",
+          "role": "Nghiên cứu sinh (Boursière de doctorat Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u245629"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "CSL — Centre Spatial de Liège",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Trung tâm nghiên cứu ứng dụng của ULiège: thiết kế, chế tạo và thử nghiệm thiết bị quan sát không gian (quang học, buồng chân không thử nghiệm).",
+       "url": "http://www.csl.uliege.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marine Adam",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u193633"
+         },
+         {
+          "name": "Elena Aleshina",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u219074"
+         },
+         {
+          "name": "Francesco Allegro",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u026608"
+         },
+         {
+          "name": "Melissa Amenouche",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246069"
+         },
+         {
+          "name": "Ann Baeke",
+          "role": "Trưởng dự án (Cheffe de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u223505"
+         },
+         {
+          "name": "Pascal Barzin",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030170"
+         },
+         {
+          "name": "Delphine Belkacemi",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249651"
+         },
+         {
+          "name": "Pierre Bielen",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u237685"
+         },
+         {
+          "name": "Sylvain Brevers",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u217932"
+         },
+         {
+          "name": "Jérémy Brisbois",
+          "role": "Giảng viên; Chuyên gia (Maître de conférences Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u217198"
+         },
+         {
+          "name": "Alain Carapelle",
+          "role": "Trưởng dự án (Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u016324"
+         },
+         {
+          "name": "Agni Castias",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u026836"
+         },
+         {
+          "name": "Sélim Chaabani",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Doctorant Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240822"
+         },
+         {
+          "name": "Mallory Chermanne",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u231873"
+         },
+         {
+          "name": "Alain Chevremont",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242734"
+         },
+         {
+          "name": "Quentin Chouffart",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u210726"
+         },
+         {
+          "name": "Lionel Clermont",
+          "role": "Giáo sư nghiên cứu; Giáo sư (Professeur de recherche)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u166566"
+         },
+         {
+          "name": "Olivier Closset",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u246550"
+         },
+         {
+          "name": "Frédéric Collard",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027140"
+         },
+         {
+          "name": "Colin Dandumont",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u226250"
+         },
+         {
+          "name": "Dominique De Rauw",
+          "role": "Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027020"
+         },
+         {
+          "name": "Florence Defraigne",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030280"
+         },
+         {
+          "name": "Céline Derette",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240254"
+         },
+         {
+          "name": "Véronique Descamps",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185916"
+         },
+         {
+          "name": "Richard Desselle",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u217050"
+         },
+         {
+          "name": "Isabelle Domken",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027290"
+         },
+         {
+          "name": "Karl Fleury-Frenette",
+          "role": "Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029933"
+         },
+         {
+          "name": "Olivier Flock",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u165719"
+         },
+         {
+          "name": "Philippe Franssen",
+          "role": "Kỹ sư nghiên cứu (Ingénieur de recherches)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201933"
+         },
+         {
+          "name": "Patrick Gailly",
+          "role": "Trưởng dự án (Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030324"
+         },
+         {
+          "name": "Camille Galy",
+          "role": "Kỹ sư tập sự (Aspirant (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u222852"
+         },
+         {
+          "name": "Catherine Gaspar",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u223989"
+         },
+         {
+          "name": "Marc Georges",
+          "role": "Giảng viên; Trưởng dự án hệ thống (Maître de conférences Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027964"
+         },
+         {
+          "name": "Christophe Grodent",
+          "role": "Trưởng dự án chính; Trưởng dự án (Chef de projet principal (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027212"
+         },
+         {
+          "name": "Antoine Groulard",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u240772"
+         },
+         {
+          "name": "Christophe Guibert",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u235081"
+         },
+         {
+          "name": "Marc Guiot",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030233"
+         },
+         {
+          "name": "Pierre Guiton",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242316"
+         },
+         {
+          "name": "Serge Habraken",
+          "role": "Giáo sư; Trưởng dự án (Professeur Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u014596"
+         },
+         {
+          "name": "Cédric Hardy",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239991"
+         },
+         {
+          "name": "Juriy Hastanin",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u201488"
+         },
+         {
+          "name": "Clément Heine",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u250191"
+         },
+         {
+          "name": "Marie-Laure Hellin",
+          "role": "Trưởng dự án (Cheffe de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u178098"
+         },
+         {
+          "name": "Aline Hermans",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u030056"
+         },
+         {
+          "name": "Parto Ijadi Maghsoodi",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249828"
+         },
+         {
+          "name": "Jérôme Jacobs",
+          "role": "Kỹ sư tập sự (Aspirant (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u219699"
+         },
+         {
+          "name": "Lionel Jacques",
+          "role": "Giảng viên chính; Chuyên gia (Chargé de cours Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u211574"
+         },
+         {
+          "name": "Anthony Kellens",
+          "role": "Kỹ sư tập sự (Aspirant (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u227994"
+         },
+         {
+          "name": "Murielle Kirkove",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182701"
+         },
+         {
+          "name": "Ismaël Lahmaïd",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u241794"
+         },
+         {
+          "name": "Etienne Lallemand",
+          "role": "Kỹ sư nghiên cứu (Ingénieur de recherches)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u234702"
+         },
+         {
+          "name": "Fabian Languy",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u205031"
+         },
+         {
+          "name": "Serge Lebon",
+          "role": "Kỹ sư nghiên cứu (Licencié attaché à la recherche)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248326"
+         },
+         {
+          "name": "Gary Lejeune",
+          "role": "Kỹ sư nghiên cứu (Ingénieur de recherches)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u179939"
+         },
+         {
+          "name": "Cedric Lenaerts",
+          "role": "Trưởng dự án (Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u189362"
+         },
+         {
+          "name": "Célestin Libert",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u247677"
+         },
+         {
+          "name": "Sylvie Liébecq",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u194345"
+         },
+         {
+          "name": "Patrick Lovat",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029494"
+         },
+         {
+          "name": "Sara Marcotte",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u211803"
+         },
+         {
+          "name": "Benoit Marquet",
+          "role": "Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185959"
+         },
+         {
+          "name": "Timothée Martin",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249432"
+         },
+         {
+          "name": "Emmanuel Mazy",
+          "role": "Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u029270"
+         },
+         {
+          "name": "Alexandra Mazzoli",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u190403"
+         },
+         {
+          "name": "Yvan Michelson",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u238702"
+         },
+         {
+          "name": "Bertrand Mohring",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u241860"
+         },
+         {
+          "name": "Nelly Morhay",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182775"
+         },
+         {
+          "name": "Anne Orban",
+          "role": "Trưởng dự án (Cheffe de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027025"
+         },
+         {
+          "name": "Jean-Yves Plesseria",
+          "role": "Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u179410"
+         },
+         {
+          "name": "Pierre Popijn",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244750"
+         },
+         {
+          "name": "Frédéric Rabecki",
+          "role": "Trưởng dự án (Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u177992"
+         },
+         {
+          "name": "Stéphane Roose",
+          "role": "Trưởng dự án hệ thống; Trưởng dự án (Chef de projet système (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u028874"
+         },
+         {
+          "name": "Nicodème Rosato",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u176686"
+         },
+         {
+          "name": "Julien Rosin",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u194387"
+         },
+         {
+          "name": "Laurence Rossi",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u191632"
+         },
+         {
+          "name": "Emile Ruwet",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u239376"
+         },
+         {
+          "name": "Valérie Samain",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u219593"
+         },
+         {
+          "name": "William Schmets",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Doctorant Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243567"
+         },
+         {
+          "name": "Sergei Shestov",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u241973"
+         },
+         {
+          "name": "Juan Felipe Simar",
+          "role": "Kỹ sư tập sự (Aspirant (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u213550"
+         },
+         {
+          "name": "Paola Skutnik",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u185848"
+         },
+         {
+          "name": "Guilhem Terrasa",
+          "role": "Kỹ sư tập sự (Aspirant (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u229719"
+         },
+         {
+          "name": "Tanguy Thibert",
+          "role": "Trưởng dự án (Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u182990"
+         },
+         {
+          "name": "Cédric Thizy",
+          "role": "Trưởng dự án (Chef de projet (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u186093"
+         },
+         {
+          "name": "Clément Thomas",
+          "role": "Nghiên cứu sinh; Trợ giảng / trợ lý nghiên cứu (Assistant Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u242806"
+         },
+         {
+          "name": "Isabelle Tychon",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u027697"
+         },
+         {
+          "name": "Erwin Van den Bergh",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u251189"
+         },
+         {
+          "name": "Jean-François Vandenrijt",
+          "role": "Chuyên gia (Spécialiste (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u194964"
+         },
+         {
+          "name": "Josiane Verstraelen",
+          "role": "Nhân viên (trang không ghi chức danh)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u164366"
+         },
+         {
+          "name": "Jesus Vilaboa Perez",
+          "role": "Trợ giảng / trợ lý nghiên cứu (Assistant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u233041"
+         },
+         {
+          "name": "Yuchen Zhao",
+          "role": "Kỹ sư tập sự (Aspirante (Space))",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u226172"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu sinh và thành viên chưa ghi nhóm",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "STAR Institute",
+       "topics": "Thành viên STAR mà danh bạ không ghi phòng thí nghiệm.",
+       "url": "https://www.star.uliege.be/cms/c_4958328/en/star-members",
+       "researchers": {
+        "people": [
+         {
+          "name": "Grégory Adam",
+          "role": "Nghiên cứu sinh (Boursier de doctorat Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249045"
+         },
+         {
+          "name": "Sid Ahmed Amraoui",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u249310"
+         },
+         {
+          "name": "Ludo Bissot",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u244084"
+         },
+         {
+          "name": "Niyati Desai",
+          "role": "Nhà nghiên cứu khách mời (Chercheuse visiteuse)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u250881"
+         },
+         {
+          "name": "Antoine Dessart",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243630"
+         },
+         {
+          "name": "Sara Filali",
+          "role": "Nghiên cứu sinh (Doctorante)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u236969"
+         },
+         {
+          "name": "Hugo Joly",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u248699"
+         },
+         {
+          "name": "Stéphane Lizin",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u234686"
+         },
+         {
+          "name": "Mohammad Hassan Naddaf Moghaddam",
+          "role": "Nghiên cứu sau tiến sĩ (Boursier Post-Doctorat)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u243814"
+         },
+         {
+          "name": "Rakesh Nath Ranga",
+          "role": "Nghiên cứu sinh (Doctorant)",
+          "url": "https://www.star.uliege.be/cms/c_4265233/en/directory?uid=u231248"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.star.uliege.be/cms/c_4958328/en/star-members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "gent",
+   "city": "Gent",
+   "coordinates": [
+    3.72,
+    51.05
+   ],
+   "institutions": [
+    {
+     "name": "Universiteit Gent — Sterrenkundig Observatorium",
+     "type": "university",
+     "research": "Cấu trúc, nguồn gốc và tiến hóa thiên hà: bụi liên sao, thiên hà lùn, động lực học thiên hà; quan sát đa bước sóng và mô phỏng số (mã truyền bức xạ SKIRT).",
+     "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy",
+     "coverage": "full",
+     "structure": "Nhóm Thiên văn (Sterrenkundig Observatorium) thuộc Khoa Vật lý & Thiên văn, UGent, Campus De Sterre.",
+     "structureUrl": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm",
+     "scopeNote": "Danh sách đầy đủ theo trang Staff (11/2026). Người có trang UGent riêng được gắn link; một số nghiên cứu sinh chưa có trang nên dùng trang danh sách.",
+     "units": [
+      {
+       "name": "Sterrenkundig Observatorium",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Vật lý & Thiên văn, UGent",
+       "topics": "Bụi liên sao và truyền bức xạ (SKIRT), thiên hà lùn, động lực học thiên hà, thiên hà xa (JWST), tiến hóa sao đôi.",
+       "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy",
+       "researchers": {
+        "people": [
+         {
+          "name": "Maarten Baes",
+          "role": "Giáo sư",
+          "url": "http://users.ugent.be/~mbaes"
+         },
+         {
+          "name": "Sven De Rijcke",
+          "role": "Giáo sư",
+          "url": "http://users.ugent.be/~sdrijcke"
+         },
+         {
+          "name": "Ilse De Looze",
+          "role": "Giáo sư",
+          "url": "https://phonebook.ugent.be/en/people/802000602143"
+         },
+         {
+          "name": "Pablo Marchant Campos",
+          "role": "Giáo sư",
+          "url": "https://orlox.github.io"
+         },
+         {
+          "name": "Arjen van der Wel",
+          "role": "Giáo sư",
+          "url": "http://users.ugent.be/~avdrwel/"
+         },
+         {
+          "name": "Karl Gordon",
+          "role": "Giáo sư thỉnh giảng",
+          "url": "https://biblio.ugent.be/person/802001041673"
+         },
+         {
+          "name": "Sharon Meidt - van der Wel",
+          "role": "Trợ lý giáo sư (assistant professor)",
+          "url": "https://biblio.ugent.be/person/802003059071"
+         },
+         {
+          "name": "Jérémy Chastenet",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://biblio.ugent.be/nl/people/802003572969"
+         },
+         {
+          "name": "Anand Utsav Kapoor",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://biblio.ugent.be/person/802003187393"
+         },
+         {
+          "name": "Florian Kirchschlager",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://kirchschlager.github.io"
+         },
+         {
+          "name": "Angelos Nersesian",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://anersesian.wixsite.com/anersesi"
+         },
+         {
+          "name": "Marco Pala",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Nina Sartorio",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Daniela Barrientos Acevedo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/daniela-barrientos-acevedo-0/en"
+         },
+         {
+          "name": "Ritavash Debnath",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/ritavash-debnath-0"
+         },
+         {
+          "name": "Andrea Gebek",
+          "role": "Nghiên cứu sinh",
+          "url": "http://andreagebek.com"
+         },
+         {
+          "name": "Inja Kovacic",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/inja-kovacic-0/en"
+         },
+         {
+          "name": "Arno Lauwers",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/arno-lauwers-1/en"
+         },
+         {
+          "name": "Marco Martorano",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/marco-martorano-0/en"
+         },
+         {
+          "name": "Kosei Matsumoto",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/kosei-matsumoto-0/en"
+         },
+         {
+          "name": "Eric Muires",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/eric-muires-1/en"
+         },
+         {
+          "name": "Polina Smirnova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/polina-smirnova-0"
+         },
+         {
+          "name": "Bert Vander Meulen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/bert-vander-meulen-0/en"
+         },
+         {
+          "name": "Stefan van der Giessen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/stefan-van-der-giessen-0"
+         },
+         {
+          "name": "Sena Bokona",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Abdissa Emana",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Francesco Grieco",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Mariana Rivas Sánchez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Yolan Uyttenhove",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+         },
+         {
+          "name": "Guy Wauters",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://biblio.ugent.be/person/801001845885"
+         },
+         {
+          "name": "Herwig Dejonghe",
+          "role": "Danh dự (emeritus)",
+          "url": "https://biblio.ugent.be/person/801000437466"
+         },
+         {
+          "name": "Frank Verheest",
+          "role": "Danh dự (emeritus)",
+          "url": "https://biblio.ugent.be/person/801000105040"
+         },
+         {
+          "name": "Marko Stalevski",
+          "role": "Nghiên cứu viên (đang biệt phái)",
+          "url": "https://biblio.ugent.be/person/802001461504"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "bruxelles",
+   "city": "Bruxelles",
+   "coordinates": [
+    4.35,
+    50.85
+   ],
+   "institutions": [
+    {
+     "name": "Observatoire royal de Belgique / Koninklijke Sterrenwacht van België (ROB)",
+     "type": "institute",
+     "research": "Viện khoa học liên bang (BELSPO) với 4 bộ phận: Hệ quy chiếu & Hành tinh học, Địa chấn & Trọng lực, Thiên văn & Vật lý thiên văn, Vật lý Mặt Trời & Thời tiết không gian (SIDC).",
+     "url": "https://www.astro.oma.be/",
+     "coverage": "partial",
+     "structure": "Bốn Operational Directorates (OD1 Hệ quy chiếu & Hành tinh học, OD2 Địa chấn & Trọng lực, OD3 Thiên văn & Vật lý thiên văn, OD4 Vật lý Mặt Trời & Thời tiết không gian / SIDC).",
+     "structureUrl": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/",
+     "scopeNote": "Bộ phận Thiên văn & Vật lý thiên văn có đủ danh sách theo trang Staff (11/2026). Các bộ phận khác (SIDC với khoảng 40 người, hành tinh học) không công bố danh sách nhân sự hiện tại trên trang web — danh sách STCE tìm được là từ 2016 nên không dùng.",
+     "units": [
+      {
+       "name": "Astronomy & Astrophysics (OD3)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Observatoire royal de Belgique",
+       "topics": "Tiến hóa sao (sao AGB, sao biến quang Cepheid), sao khối lượng lớn, địa chấn học sao, tốc độ quay và thành phần hoá học sao A/B, quang phổ định lượng, tinh vân hành tinh, sao đôi; dự án Gaia, HERMES, VMC, BRASS, số hoá phim ảnh thiên văn.",
+       "url": "https://aa.oma.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Martin Groenewegen",
+          "role": "Trưởng bộ phận A&A",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Ronny Blomme",
+          "role": "Nghiên cứu viên",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Peter De Cat",
+          "role": "Nghiên cứu viên",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Yves Frémat",
+          "role": "Nghiên cứu viên",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Alex Lobel",
+          "role": "Nghiên cứu viên",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Laurent Mahy",
+          "role": "Nghiên cứu viên",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Griet Van de Steene",
+          "role": "Nghiên cứu viên",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Thibault Merle",
+          "role": "NCV — FedTWin (bán thời gian, cùng ULB)",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Rene Oudmaijer",
+          "role": "Trưởng dịch vụ Thông tin khoa học; hình thành và tiến hóa sao",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Hilde Langenaken",
+          "role": "Dịch vụ Thông tin khoa học, Lưu trữ & Thư viện",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Anatoliy Ivantsov",
+          "role": "Dự án số hoá",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Joan Vandekerckhove",
+          "role": "Dự án số hoá",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Tom Henry",
+          "role": "Nghiên cứu sinh",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Patricia Lampens",
+          "role": "Cộng tác viên tình nguyện",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Thierry Pauwels",
+          "role": "Cộng tác viên tình nguyện",
+          "url": "https://aa.oma.be/staff"
+         },
+         {
+          "name": "Peter van Hoof",
+          "role": "Cộng tác viên tình nguyện",
+          "url": "https://aa.oma.be/staff"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://aa.oma.be/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Université Libre de Bruxelles — Institut d'Astronomie et d'Astrophysique (IAA)",
+     "type": "university",
+     "research": "Vật lý sao: sao tiến hóa và sao AGB, tổng hợp hạt nhân sao (quá trình s, r), vật lý hạt nhân thiên văn và sao neutron, sao đôi, Gaia.",
+     "url": "https://astro.ulb.ac.be/",
+     "coverage": "full",
+     "structure": "Viện Thiên văn và Vật lý thiên văn (IAA), Khoa Khoa học, ULB; giám đốc Alain Jorissen.",
+     "structureUrl": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff",
+     "scopeNote": "Danh sách đầy đủ theo trang Staff (11/2026). Người có trang riêng ở ULB hoặc web cá nhân được gắn link đó; người còn lại gắn link danh sách công bố ADS của chính họ (trang Staff dùng link này).",
+     "units": [
+      {
+       "name": "Institut d'Astronomie et d'Astrophysique",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Khoa học, ULB",
+       "topics": "Sao AGB và sao giàu carbon, tổng hợp hạt nhân, phương trình trạng thái và vỏ sao neutron, khối lượng hạt nhân cho vật lý thiên văn (BRUSLIB), quang phổ sao, Gaia.",
+       "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alain Jorissen",
+          "role": "Giám đốc viện",
+          "url": "https://www.astro.ulb.ac.be/%7Ejorissen"
+         },
+         {
+          "name": "Sophie Van Eck",
+          "role": "Giáo sư",
+          "url": "https://www.astro.ulb.ac.be/%7Evaneck"
+         },
+         {
+          "name": "Lionel Siess",
+          "role": "Giám đốc nghiên cứu FNRS",
+          "url": "https://www.astro.ulb.ac.be/%7Esiess"
+         },
+         {
+          "name": "Nicolas Chamel",
+          "role": "Nghiên cứu viên cao cấp FNRS",
+          "url": "https://www.astro.ulb.ac.be/%7Echamel"
+         },
+         {
+          "name": "Stéphane Goriely",
+          "role": "Nghiên cứu viên FNRS (Research Associate)",
+          "url": "http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Goriely%2C+S."
+         },
+         {
+          "name": "Wouter Ryssens",
+          "role": "Nghiên cứu viên FNRS (Research Associate)",
+          "url": "https://www.wryssens.com"
+         },
+         {
+          "name": "Arthur Choplin",
+          "role": "PD — FNRS",
+          "url": "https://arthurchoplin.wixsite.com/arthur-choplin"
+         },
+         {
+          "name": "Thibault Merle",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.ulb.ac.be/%7Emerle"
+         },
+         {
+          "name": "Christos Siopis",
+          "role": "PD — PRODEX",
+          "url": "https://www.astro.ulb.ac.be/%7Esiopis"
+         },
+         {
+          "name": "Karan Dsilva",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+         },
+         {
+          "name": "Adrián Sánchez Fernández",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+         },
+         {
+          "name": "Gururaj Wagle",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+         },
+         {
+          "name": "Pawel Krynski",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.ulb.ac.be/%7Ekrynski"
+         },
+         {
+          "name": "Davide Dionese",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+         },
+         {
+          "name": "Léa Planquart",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+         },
+         {
+          "name": "Antoine Thuillier",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+         },
+         {
+          "name": "Gilles Sadowski",
+          "role": "Lập trình viên",
+          "url": "http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Sadowski%2C+G."
+         },
+         {
+          "name": "Marcel Arnould",
+          "role": "Danh dự (emeritus)",
+          "url": "http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Arnould%2C+M."
+         }
+        ],
+        "external": [
+         {
+          "name": "Anthea Fantina",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&sim_query=YES&nr_to_return=300&start_nr=1&jou_pick=ALL&version=1&author=Fantina%2C+A."
+         }
+        ],
+        "sources": [
+         "https://www.astro.ulb.ac.be/pmwiki/IAA/Staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Vrije Universiteit Brussel — Astronomy & Astrophysics / Astroparticle (IIHE, HEP@VUB)",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao và hạt thiên văn: phát hiện vô tuyến tia vũ trụ (LOFAR, SKA), neutrino năng lượng cực cao (IceCube, RNO-G), sóng hấp dẫn (Virgo, Einstein Telescope), sao đôi và tổng hợp quần thể sao.",
+     "url": "https://hep.research.vub.be/",
+     "coverage": "full",
+     "structure": "Các nhóm Astrophysics, Astroparticle physics và Gravitational waves trong Khoa Vật lý (HEP@VUB, cùng ULB vận hành viện IIHE); trưởng nhóm Astronomy & Astrophysics: Stijn Buitink.",
+     "structureUrl": "https://hep.research.vub.be/people-0",
+     "scopeNote": "Ba nhóm liên quan thiên văn theo trang People (11/2026), mỗi người có trang cá nhân. Không đưa nhóm Collider, Theoretical, Instrumentation và nhân viên hành chính.",
+     "units": [
+      {
+       "name": "Astronomy & Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Vật lý, VUB",
+       "topics": "Phát hiện vô tuyến mưa tia vũ trụ (LOFAR), Mặt Trăng làm máy dò hạt năng lượng cực cao, sao biến quang, sao đôi.",
+       "url": "https://hep.research.vub.be/people-0",
+       "researchers": {
+        "people": [
+         {
+          "name": "Stijn Buitink",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://hep.research.vub.be/stijn-buitink"
+         },
+         {
+          "name": "Joris Blommaert",
+          "role": "Giáo sư (10%)",
+          "url": "https://hep.research.vub.be/joris-blommaert"
+         },
+         {
+          "name": "Tim Huege",
+          "role": "Giáo sư (10%)",
+          "url": "https://hep.research.vub.be/tim-huege"
+         },
+         {
+          "name": "Katrien Kolenberg",
+          "role": "Giáo sư (10%)",
+          "url": "https://hep.research.vub.be/katrien-kolenberg"
+         },
+         {
+          "name": "Jörg Hörandel",
+          "role": "Giáo sư thỉnh giảng",
+          "url": "https://hep.research.vub.be/j%C3%B6rg-h%C3%B6randel"
+         },
+         {
+          "name": "Walter Van Rensbergen",
+          "role": "Giáo sư thỉnh giảng",
+          "url": "https://hep.research.vub.be/walter-van-rensbergen"
+         },
+         {
+          "name": "Jean-Pierre De Greve",
+          "role": "Giáo sư danh dự",
+          "url": "https://hep.research.vub.be/jean-pierre-de-greve"
+         },
+         {
+          "name": "Arthur Corstanje",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://hep.research.vub.be/arthur-corstanje"
+         },
+         {
+          "name": "Vital De Henau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://hep.research.vub.be/vital-de-henau"
+         },
+         {
+          "name": "Katarina Simkova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://hep.research.vub.be/katarina-simkova"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://hep.research.vub.be/people-0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Astroparticle physics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Vật lý, VUB (IIHE)",
+       "topics": "Neutrino năng lượng cực cao (IceCube, RNO-G), phát xạ vô tuyến của mưa hạt, nguồn tia vũ trụ.",
+       "url": "https://hep.research.vub.be/people-0",
+       "researchers": {
+        "people": [
+         {
+          "name": "Nick Van Eijndhoven",
+          "role": "Giáo sư",
+          "url": "https://hep.research.vub.be/nick-van-eijndhoven"
+         },
+         {
+          "name": "Krijn De Vries",
+          "role": "Giáo sư",
+          "url": "https://hep.research.vub.be/krijn-de-vries"
+         },
+         {
+          "name": "Kumiko Kotera",
+          "role": "Giáo sư",
+          "url": "https://hep.research.vub.be/kumiko-kotera"
+         },
+         {
+          "name": "Olaf Scholten",
+          "role": "Giáo sư danh dự",
+          "url": "https://hep.research.vub.be/olaf-scholten"
+         },
+         {
+          "name": "Dylan Frikken",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://hep.research.vub.be/dylan-frikken"
+         },
+         {
+          "name": "Jannes Loonen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://hep.research.vub.be/jannes-loonen"
+         },
+         {
+          "name": "Else Magnus",
+          "role": "Nghiên cứu sinh",
+          "url": "https://hep.research.vub.be/else-magnus"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://hep.research.vub.be/people-0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Gravitational waves",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Vật lý, VUB",
+       "topics": "Sóng hấp dẫn (Virgo/LIGO, Einstein Telescope), vũ trụ học sóng hấp dẫn, nền sóng hấp dẫn ngẫu nhiên.",
+       "url": "https://hep.research.vub.be/people-0",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alexandre Sevrin",
+          "role": "Giáo sư; trưởng Khoa Vật lý & Thiên văn",
+          "url": "https://hep.research.vub.be/alexandre-sevrin"
+         },
+         {
+          "name": "Alberto Mariotti",
+          "role": "Giáo sư",
+          "url": "https://hep.research.vub.be/prof-dr-alberto-mariotti"
+         },
+         {
+          "name": "Mairi Sakellariadou",
+          "role": "Giáo sư danh dự",
+          "url": "https://hep.research.vub.be/mairi-sakellariadou-emeritus"
+         },
+         {
+          "name": "Catalina Miritescu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://hep.research.vub.be/catalina-miritescu"
+         },
+         {
+          "name": "Jacopo Nava",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://hep.research.vub.be/jacopo-nava"
+         },
+         {
+          "name": "Maxime Grandjean",
+          "role": "Nghiên cứu sinh",
+          "url": "https://hep.research.vub.be/maxime-grandjean"
+         },
+         {
+          "name": "Elise Van den Bossche",
+          "role": "Nghiên cứu sinh",
+          "url": "https://hep.research.vub.be/elise-van-den-bossche"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://hep.research.vub.be/people-0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "BEL",
+ "checked": "2026-11-22",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://www.belspo.be/belspo/organisation/Publ/pub_ostc/sciencecon/Bel_Astro_nl.pdf"
+}

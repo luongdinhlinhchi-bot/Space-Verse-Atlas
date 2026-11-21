@@ -1,0 +1,51 @@
+@inst Vrije Universiteit Brussel — Astronomy & Astrophysics / Astroparticle (IIHE, HEP@VUB)
+city: bruxelles
+type: university
+url: https://hep.research.vub.be/
+research: Vật lý thiên văn năng lượng cao và hạt thiên văn: phát hiện vô tuyến tia vũ trụ (LOFAR, SKA), neutrino năng lượng cực cao (IceCube, RNO-G), sóng hấp dẫn (Virgo, Einstein Telescope), sao đôi và tổng hợp quần thể sao.
+coverage: full
+structure: Các nhóm Astrophysics, Astroparticle physics và Gravitational waves trong Khoa Vật lý (HEP@VUB, cùng ULB vận hành viện IIHE); trưởng nhóm Astronomy & Astrophysics: Stijn Buitink.
+structureUrl: https://hep.research.vub.be/people-0
+scope: Ba nhóm liên quan thiên văn theo trang People (11/2026), mỗi người có trang cá nhân. Không đưa nhóm Collider, Theoretical, Instrumentation và nhân viên hành chính.
+
+#unit Astronomy & Astrophysics
+parent: Khoa Vật lý, VUB
+topics: Phát hiện vô tuyến mưa tia vũ trụ (LOFAR), Mặt Trăng làm máy dò hạt năng lượng cực cao, sao biến quang, sao đôi.
+url: https://hep.research.vub.be/people-0
+src: https://hep.research.vub.be/people-0
+p: Stijn Buitink | Giáo sư; trưởng nhóm | https://hep.research.vub.be/stijn-buitink
+p: Joris Blommaert | Giáo sư (10%) | https://hep.research.vub.be/joris-blommaert
+p: Tim Huege | Giáo sư (10%) | https://hep.research.vub.be/tim-huege
+p: Katrien Kolenberg | Giáo sư (10%) | https://hep.research.vub.be/katrien-kolenberg
+p: Jörg Hörandel | Giáo sư thỉnh giảng | https://hep.research.vub.be/j%C3%B6rg-h%C3%B6randel
+p: Walter Van Rensbergen | Giáo sư thỉnh giảng | https://hep.research.vub.be/walter-van-rensbergen
+p: Jean-Pierre De Greve | Giáo sư danh dự | https://hep.research.vub.be/jean-pierre-de-greve
+p: Arthur Corstanje | Nghiên cứu sau tiến sĩ | https://hep.research.vub.be/arthur-corstanje
+p: Vital De Henau | NCS | https://hep.research.vub.be/vital-de-henau
+p: Katarina Simkova | NCS | https://hep.research.vub.be/katarina-simkova
+
+#unit Astroparticle physics
+parent: Khoa Vật lý, VUB (IIHE)
+topics: Neutrino năng lượng cực cao (IceCube, RNO-G), phát xạ vô tuyến của mưa hạt, nguồn tia vũ trụ.
+url: https://hep.research.vub.be/people-0
+src: https://hep.research.vub.be/people-0
+p: Nick Van Eijndhoven | Giáo sư | https://hep.research.vub.be/nick-van-eijndhoven
+p: Krijn De Vries | Giáo sư | https://hep.research.vub.be/krijn-de-vries
+p: Kumiko Kotera | Giáo sư | https://hep.research.vub.be/kumiko-kotera
+p: Olaf Scholten | Giáo sư danh dự | https://hep.research.vub.be/olaf-scholten
+p: Dylan Frikken | Nghiên cứu sau tiến sĩ | https://hep.research.vub.be/dylan-frikken
+p: Jannes Loonen | NCS | https://hep.research.vub.be/jannes-loonen
+p: Else Magnus | NCS | https://hep.research.vub.be/else-magnus
+
+#unit Gravitational waves
+parent: Khoa Vật lý, VUB
+topics: Sóng hấp dẫn (Virgo/LIGO, Einstein Telescope), vũ trụ học sóng hấp dẫn, nền sóng hấp dẫn ngẫu nhiên.
+url: https://hep.research.vub.be/people-0
+src: https://hep.research.vub.be/people-0
+p: Alexandre Sevrin | Giáo sư; trưởng Khoa Vật lý & Thiên văn | https://hep.research.vub.be/alexandre-sevrin
+p: Alberto Mariotti | Giáo sư | https://hep.research.vub.be/prof-dr-alberto-mariotti
+p: Mairi Sakellariadou | Giáo sư danh dự | https://hep.research.vub.be/mairi-sakellariadou-emeritus
+p: Catalina Miritescu | Nghiên cứu sau tiến sĩ | https://hep.research.vub.be/catalina-miritescu
+p: Jacopo Nava | Nghiên cứu sau tiến sĩ | https://hep.research.vub.be/jacopo-nava
+p: Maxime Grandjean | NCS | https://hep.research.vub.be/maxime-grandjean
+p: Elise Van den Bossche | NCS | https://hep.research.vub.be/elise-van-den-bossche
