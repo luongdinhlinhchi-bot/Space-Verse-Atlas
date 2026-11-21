@@ -1,18 +1,35 @@
 @inst Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B
-structure: Lehrstuhl für Experimentelle Physik Vb — Astroteilchenphysik; trưởng: Wolfgang Rhode, cùng PD Dominik Elsässer
-structureUrl: https://app.physik.tu-dortmund.de/en/working-group
-scope: Trang thành viên của nhóm không hiện tên khi đọc tự động; danh sách lấy từ trang nhân sự của Research Alliance Ruhr (mục AG Astroparticle Physics), không ghi ngạch. Chưa có nhóm của Christian Glaser.
+coverage: full
+structure: Nhóm Vật lý hạt thiên văn (APP), Khoa Vật lý TU Dortmund: AG Rhode, AG Glaser (giáo sư từ 8/2025) và nhóm phương pháp giảng dạy (Lehramt); các nghiên cứu sinh dùng chung danh sách.
+structureUrl: https://app.physik.tu-dortmund.de/en/working-group/members/
+scope: Danh sách đầy đủ từ trang Members của nhóm APP (11/2026). Trang ghi nhóm cho giáo sư và postdoc nhưng không ghi nhóm cho nghiên cứu sinh, nên nghiên cứu sinh được xếp vào mục chung.
 
-#unit AG Astroparticle Physics
-parent: Lehrstuhl für Experimentelle Physik Vb
+#unit AG Rhode
+parent: Astroteilchenphysik (APP)
 topics: Thiên văn đa kênh, IceCube, học máy trong vật lý hạt thiên văn; tìm vật chất tối bằng kính tia gamma và khảo sát vũ trụ; sinh lepton nhanh trong tương tác hadron.
-src: https://rapp-uar.relaunch.tu-dortmund.de/team/scientists ; https://app.physik.tu-dortmund.de/en/working-group ; https://wiki.erumdatahub.de/bin/view/Research%20Groups/Arbeitsgruppe%20Physikdidaktik/Arbeitsgruppe%20W.%20Rhode
+src: https://app.physik.tu-dortmund.de/en/working-group/members/
 pp: GSTN | Wolfgang Rhode
-pp: PDZ — đồng phụ trách nhóm | Dominik Elsässer
-pp: Thành viên (trang không ghi ngạch) | Christian Arauner; Leander Flottau; Stefan Fröse; Tristan Gradetzke; Pascal Gutjahr; Anno Knierim; Roman Peschin; Lene van Rootselaar; Tim Ruhe; Kevin Schmitz; David Venker; Cyrus Walther; Felix Wersig; Lucas Witthaus
+pp: PD | Johannes Mierau
 
-#unit Nhóm Glaser
-parent: Fakultät Physik
-topics: Giao điểm giữa vật lý hạt thiên văn thực nghiệm và trí tuệ nhân tạo: neutrino vũ trụ năng lượng cao và tia vũ trụ.
-src: https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/
+#unit AG Glaser
+parent: Astroteilchenphysik (APP)
+topics: Giao điểm giữa vật lý hạt thiên văn và trí tuệ nhân tạo: neutrino vũ trụ năng lượng cao và tia vũ trụ; kỹ thuật đo vô tuyến cho RNO-G (Greenland) và IceCube-Gen2; Pierre Auger; phần mềm NuRadioMC/NuRadioReco; dự án ERC NuRadioOpt.
+src: https://app.physik.tu-dortmund.de/en/working-group/members/ ; https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/ ; https://app.physik.tu-dortmund.de/en/details/wdr-lokalzeit-berichtet-ueber-die-arbeit-am-icecube-experiment-63139/
 pp: GSTN | Christian Glaser
+pp: PD | René Reimann; Dominik Baack; Marie Cornelius Hansen; Marta Bianciotto
+pp: NCS | Johannes Werthebach
+
+#unit Phương pháp giảng dạy & thiên văn tia gamma
+parent: Astroteilchenphysik (APP)
+topics: Đào tạo giáo viên vật lý (Lehramt) gắn với vật lý hạt thiên văn; thiên văn tia gamma.
+src: https://app.physik.tu-dortmund.de/en/working-group/members/
+pp: PDZ — apl. Prof. | Dominik Elsässer
+pp: NCV | Tim Ruhe; Maximilian Linhoff; Marlene Doert
+
+#unit Nghiên cứu sinh và kỹ thuật viên APP
+kind: Danh sách chung
+parent: Astroteilchenphysik (APP)
+topics: Nghiên cứu sinh của nhóm APP (trang không ghi họ thuộc AG Rhode hay AG Glaser) và kỹ thuật viên.
+src: https://app.physik.tu-dortmund.de/en/working-group/members/
+pp: NCS | Lucas Witthaus; Cyrus Walther; Felix Wersig; Tristan Franziskus Gradetzke; Lene van Rootselaar; Luca Davide Di Bella; Anno Knierim; Christian Arauner; Lukas Liland; Nicolai Weitkemper; Yannik Schaper
+pp: Kỹ thuật viên | Matthias Domke; Kai Warda

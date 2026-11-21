@@ -92,3 +92,11 @@ Tổng: 40 cơ quan, 179 đơn vị, 2247 người không trùng tên.
 - KIS: thêm Scientific Instrumentation và Science Data Centre.
 - Link cá nhân trưởng nhóm: MPIfR, Braunschweig, Bielefeld, TU Berlin, Erlangen, DESY, Kiel, Dresden, GSI, Dortmund.
 - Ghi chú: K. M. Menten (MPIfR) mất 30/12/2024; V. Bothmer (Göttingen) đã mất.
+
+## Đợt 2026-11-22 (2)
+- Dortmund: đủ danh sách nhóm APP (AG Rhode, AG Glaser, Lehramt, nghiên cứu sinh) từ app.physik.tu-dortmund.de/en/working-group/members/.
+- Bonn AIfA: 9 nhóm theo trang Research của aifa.uni-bonn.de, thành viên theo mục "Our Members".
+- Heidelberg: ZAH tách thành viên ba nhóm ITA (Dullemond, Klessen, Chevance) — tools/patch_heidelberg.py; MPIA thêm Extragalactic Group (de Graaff) và Emeritus Group (Henning).
+- DLR: thêm trưởng bộ phận Planetare Labore (Maturilli) — tools/patch_dlr.py. DLR không công bố danh sách nhân viên theo bộ phận.
+- Mainz: chưa lấy được thành viên nhóm Wurm (trang nhóm và danh bạ personen.uni-mainz.de không mở được).
+- Lưu ý: sau merge_de.py phải chạy patch_heidelberg.py và patch_dlr.py (idempotent) rồi apply_links.py.

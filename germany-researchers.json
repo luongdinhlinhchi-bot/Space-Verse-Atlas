@@ -3072,10 +3072,69 @@
    ],
    "people": [
     {
-     "name": "Cornelis Dullemond",
-     "role": "Trưởng nhóm",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=21&cHash=913151ba75ecf004dfc80b93a8f8b99e",
-     "profile": true
+     "name": "Kees Dullemond",
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=21&cHash=913151ba75ecf004dfc80b93a8f8b99e"
+    },
+    {
+     "name": "Jiahan Shi",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Dmitry Semenov",
+     "role": "Nhà nghiên cứu cấp cao độc lập (hóa học thiên văn)",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1420&cHash=16bd5e356222edcb0d458f057bf09335"
+    },
+    {
+     "name": "Carolin Kimmig",
+     "role": "Nghiên cứu sinh",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Leon Hühn",
+     "role": "Nghiên cứu sinh",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Jorge Pérez González",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1337&cHash=7bb64a082d26331f255ec2a93c064f39"
+    },
+    {
+     "name": "Sören Meiners",
+     "role": "Học viên thạc sĩ",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Kim Weiskopf",
+     "role": "Học viên thạc sĩ",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Jakob Shoell",
+     "role": "Học viên thạc sĩ",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Drishika Nadella",
+     "role": "Học viên thạc sĩ",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Jenya Govorov",
+     "role": "Sinh viên",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Julia Dierich",
+     "role": "Sinh viên",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml"
+    },
+    {
+     "name": "Laura Polzer",
+     "role": "Sinh viên",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1425&cHash=7db6f14daa9aebc7972bd4a6572cdbf0"
     }
    ],
    "external": [],
@@ -3084,14 +3143,84 @@
   "Universität Heidelberg — Zentrum für Astronomie (ZAH)::Star Formation Group": {
    "sources": [
     "https://www.zah.uni-heidelberg.de/research-groups",
-    "http://klessen.org/"
+    "http://klessen.org/",
+    "https://klessen.org/group"
    ],
    "people": [
     {
      "name": "Ralf Klessen",
-     "role": "Trưởng nhóm",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=18&cHash=1525910c431e3a34fdc761df1a546e7f",
-     "profile": true
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=18&cHash=1525910c431e3a34fdc761df1a546e7f"
+    },
+    {
+     "name": "Simon Glover",
+     "role": "Nhà khoa học biên chế",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=10&cHash=caaa99f7eb26f30299eee662577ec603"
+    },
+    {
+     "name": "Victor Ksoll",
+     "role": "Trưởng nhóm độc lập",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=425&cHash=68091c9cbc2704a2d61badf58acccf5a"
+    },
+    {
+     "name": "Philipp Girichidis",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=454&cHash=b6ec5394ffe0b8fcfee8a89cb72eb782"
+    },
+    {
+     "name": "Stefan Reißl",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=220&cHash=f74f668ee9848732d9e245d48d4d3251"
+    },
+    {
+     "name": "Nils Candebat",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1446&cHash=08967aff135810bb227fd951fed767bd"
+    },
+    {
+     "name": "Karin Kjellgren",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1225&cHash=31d7a48c58a680401e73abfde48e4718"
+    },
+    {
+     "name": "Aron Kordt",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1290&cHash=0908a8f95eee63e4a650877914df5927"
+    },
+    {
+     "name": "Veronika Lipatova",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1072&cHash=3ce2643fe17d765c70defa87d2f4c77b"
+    },
+    {
+     "name": "Jorge Saavedra Bastidas",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1217&cHash=19e4cb0b25d3ce7f76af0bc949ca1136"
+    },
+    {
+     "name": "Shuyu Tan",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1289&cHash=871af61866628c48fbe728ac97dbd8c6"
+    },
+    {
+     "name": "Jia Wei Teh",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1089&cHash=c36ea63862505cc2ecd1ca75e022be00"
+    },
+    {
+     "name": "Daniel Walter",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=848&cHash=dbf6ed11c4293ec26f34e02ddebe03f2"
+    },
+    {
+     "name": "Lea Flach",
+     "role": "Sinh viên cử nhân/thạc sĩ",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1507&cHash=518604c4821d260aed0beb123d3eae68"
+    },
+    {
+     "name": "Maximilian Richter",
+     "role": "Sinh viên cử nhân/thạc sĩ",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=869&cHash=ccad9961a501ecb8a8b45fa6644b4ff6"
     }
    ],
    "external": [],
@@ -3179,14 +3308,24 @@
   "Universität Heidelberg — Zentrum für Astronomie (ZAH)::Galactic Matter Cycle Group (Emmy Noether)": {
    "sources": [
     "https://www.zah.uni-heidelberg.de/research-groups",
-    "https://www.ita.uni-heidelberg.de/~mchevance/"
+    "https://www.ita.uni-heidelberg.de/~mchevance/",
+    "https://www.ita.uni-heidelberg.de/~mchevance/index.html"
    ],
    "people": [
     {
      "name": "Mélanie Chevance",
-     "role": "Trưởng nhóm",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=355&cHash=cfc5529e808eb7998a657f7698aa7170",
-     "profile": true
+     "role": "Trưởng nhóm Emmy Noether",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=355&cHash=cfc5529e808eb7998a657f7698aa7170"
+    },
+    {
+     "name": "Lise Ramambason",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1143&cHash=0d5b6b5fb472a2c8e96234ae388a56c1"
+    },
+    {
+     "name": "Andrea Romanelli",
+     "role": "Nghiên cứu sinh",
+     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1142&cHash=b3cfe3d960aa6068dbf599aec16b2f9e"
     }
    ],
    "external": [],
@@ -3369,9 +3508,16 @@
   },
   "DLR — Institut für Weltraumforschung (tên trong danh sách RDS: Institut für Planetenforschung)::Planetare Labore": {
    "sources": [
-    "https://www.dlr.de/de/wr/ueber-uns/abteilungen"
+    "https://www.dlr.de/de/wr/ueber-uns/abteilungen",
+    "https://www.dlr.de/de/wr/ueber-uns/abteilungen/abteilung-planetare-labore"
    ],
-   "people": [],
+   "people": [
+    {
+     "name": "Alessandro Maturilli",
+     "role": "Trưởng bộ phận (Abteilungsleitung)",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen/abteilung-planetare-labore"
+    }
+   ],
    "external": [],
    "note": ""
   },
@@ -5684,18 +5830,6 @@
      "profile": true
     },
     {
-     "name": "Nils Candebat",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1446&cHash=08967aff135810bb227fd951fed767bd",
-     "profile": true
-    },
-    {
-     "name": "Melanie Chevance",
-     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=355&cHash=cfc5529e808eb7998a657f7698aa7170",
-     "profile": true
-    },
-    {
      "name": "Lukas Manfred Da Silva Flügel",
      "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1366&cHash=d0449b066b94fa36548660e6fd944a72",
@@ -5720,12 +5854,6 @@
      "profile": true
     },
     {
-     "name": "Cornelis Petrus Dullemond",
-     "role": "Giáo sư",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=21&cHash=913151ba75ecf004dfc80b93a8f8b99e",
-     "profile": true
-    },
-    {
      "name": "Arda Erkan",
      "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1543&cHash=0c21125403735d144913ad09ea15ff7c",
@@ -5738,27 +5866,9 @@
      "profile": true
     },
     {
-     "name": "Lea Flach",
-     "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1507&cHash=518604c4821d260aed0beb123d3eae68",
-     "profile": true
-    },
-    {
      "name": "Hans-Peter Gail",
      "role": "Đã nghỉ hưu — giáo sư",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=11&cHash=1e51c933a2b50a03ffd4b947467b628d",
-     "profile": true
-    },
-    {
-     "name": "Philipp Girichidis",
-     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=454&cHash=b6ec5394ffe0b8fcfee8a89cb72eb782",
-     "profile": true
-    },
-    {
-     "name": "Simon C. O. Glover",
-     "role": "Giáo sư (apl.)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=10&cHash=caaa99f7eb26f30299eee662577ec603",
      "profile": true
     },
     {
@@ -5792,27 +5902,9 @@
      "profile": true
     },
     {
-     "name": "Karin Kjellgren",
-     "role": "Thành viên (trang không ghi học vị)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1225&cHash=31d7a48c58a680401e73abfde48e4718",
-     "profile": true
-    },
-    {
-     "name": "Ralf Stefan Klessen",
-     "role": "Giáo sư",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=18&cHash=1525910c431e3a34fdc761df1a546e7f",
-     "profile": true
-    },
-    {
      "name": "Philipp Kommer",
      "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1552&cHash=116df54f4d71096ad121333775ddfba4",
-     "profile": true
-    },
-    {
-     "name": "Aron Kordt",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1290&cHash=0908a8f95eee63e4a650877914df5927",
      "profile": true
     },
     {
@@ -5822,21 +5914,9 @@
      "profile": true
     },
     {
-     "name": "Victor Francisco Ksoll",
-     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=425&cHash=68091c9cbc2704a2d61badf58acccf5a",
-     "profile": true
-    },
-    {
      "name": "Xinyue Liang",
      "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1297&cHash=a47d68e9e2f2da483b1d7778914e8f0c",
-     "profile": true
-    },
-    {
-     "name": "Veronika Lipatova",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1072&cHash=3ce2643fe17d765c70defa87d2f4c77b",
      "profile": true
     },
     {
@@ -5888,39 +5968,9 @@
      "profile": true
     },
     {
-     "name": "Jorge Pérez González",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1337&cHash=7bb64a082d26331f255ec2a93c064f39",
-     "profile": true
-    },
-    {
-     "name": "Laura Polzer",
-     "role": "Thành viên (trang không ghi học vị)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1425&cHash=7db6f14daa9aebc7972bd4a6572cdbf0",
-     "profile": true
-    },
-    {
      "name": "Anesti Prifti",
      "role": "Thành viên (trang không ghi học vị)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1498&cHash=9b808f6a175c39e81a55a6379b2bd2dd",
-     "profile": true
-    },
-    {
-     "name": "Lise Ramambason",
-     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1143&cHash=0d5b6b5fb472a2c8e96234ae388a56c1",
-     "profile": true
-    },
-    {
-     "name": "Stefan Reißl",
-     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=220&cHash=f74f668ee9848732d9e245d48d4d3251",
-     "profile": true
-    },
-    {
-     "name": "Maximilian Richter",
-     "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=869&cHash=ccad9961a501ecb8a8b45fa6644b4ff6",
      "profile": true
     },
     {
@@ -5936,21 +5986,9 @@
      "profile": true
     },
     {
-     "name": "Andrea Romanelli",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1142&cHash=b3cfe3d960aa6068dbf599aec16b2f9e",
-     "profile": true
-    },
-    {
      "name": "Friedrich Röpke",
      "role": "Giáo sư",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=215&cHash=3b6897ba36f1a2fb3ae61ac7ff1863e4",
-     "profile": true
-    },
-    {
-     "name": "Jorge Eduardo Saavedra Bastidas",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1217&cHash=19e4cb0b25d3ce7f76af0bc949ca1136",
      "profile": true
     },
     {
@@ -5978,12 +6016,6 @@
      "profile": true
     },
     {
-     "name": "Dmitry Semenov",
-     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1420&cHash=16bd5e356222edcb0d458f057bf09335",
-     "profile": true
-    },
-    {
      "name": "Christian Sendlinger",
      "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1097&cHash=409a454870a164d6240c4c56d849131d",
@@ -6008,18 +6040,6 @@
      "profile": true
     },
     {
-     "name": "Shuyu Tan",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1289&cHash=871af61866628c48fbe728ac97dbd8c6",
-     "profile": true
-    },
-    {
-     "name": "Jia Wei Teh",
-     "role": "Có bằng cử nhân (thường là học viên thạc sĩ)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1089&cHash=c36ea63862505cc2ecd1ca75e022be00",
-     "profile": true
-    },
-    {
      "name": "Guido Thimm",
      "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=141&cHash=e5c6db295f7f1420af147634b485cd3e",
@@ -6041,12 +6061,6 @@
      "name": "Maria Paola Vaccaro",
      "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
      "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=1239&cHash=34b2a2281b881c77ec3cc9bfc848375b",
-     "profile": true
-    },
-    {
-     "name": "Daniel Walter",
-     "role": "Có bằng thạc sĩ (thường là nghiên cứu sinh)",
-     "url": "https://zah.uni-heidelberg.de/service/personnel/staff-details?tx_zahinfothek_staff%5Buid%5D=848&cHash=dbf6ed11c4293ec26f34e02ddebe03f2",
      "profile": true
     },
     {
@@ -7186,6 +7200,70 @@
      "name": "Richard Hoppe",
      "role": "Thực tập sinh",
      "url": "https://www.mpia.de/en/LMG/stellar-spectroscopy-and-populations/members"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Max-Planck-Institut für Astronomie::Extragalactic Group (de Graaff)": {
+   "sources": [
+    "https://www.mpia.de/extragalactic-group",
+    "https://www.mpia.de/extragalactic-group/members"
+   ],
+   "people": [
+    {
+     "name": "Anna de Graaff",
+     "role": "Trưởng nhóm Lise Meitner",
+     "url": "https://www.mpia.de/person/125421/6485843"
+    },
+    {
+     "name": "Thomas Harvey",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://thomas-harvey.com"
+    },
+    {
+     "name": "Raphael Hviding",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://hviding.www3.mpia.de"
+    },
+    {
+     "name": "Ines Berčuk",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpia.de/extragalactic-group/members"
+    },
+    {
+     "name": "Rashmi Gottumukkala",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpia.de/extragalactic-group/members"
+    },
+    {
+     "name": "Maria Teresa Nardone",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpia.de/extragalactic-group/members"
+    },
+    {
+     "name": "Jerret Peschka",
+     "role": "Sinh viên / thực tập",
+     "url": "https://www.mpia.de/extragalactic-group/members"
+    },
+    {
+     "name": "Osama Bin Feroze",
+     "role": "Sinh viên / thực tập",
+     "url": "https://www.mpia.de/extragalactic-group/members"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Max-Planck-Institut für Astronomie::Emeritus Research Group (Henning)": {
+   "sources": [
+    "https://www.mpia.de/6253118/thomas-k"
+   ],
+   "people": [
+    {
+     "name": "Thomas Henning",
+     "role": "Giám đốc danh dự; trưởng nhóm",
+     "url": "https://www.mpia.de/6253118/thomas-k"
     }
    ],
    "external": [],
@@ -8526,130 +8604,399 @@
    "external": [],
    "note": ""
   },
-  "Universität Bonn — Argelander-Institut für Astronomie::Giáo sư và nhóm nghiên cứu": {
+  "Universität Bonn — Argelander-Institut für Astronomie::Galaxy Clusters, Cosmology, X-ray Astronomy (Reiprich)": {
    "sources": [
-    "https://www.aifa.uni-bonn.de//members/professors",
-    "https://www.aifa.uni-bonn.de//en/institute/members"
+    "https://www.aifa.uni-bonn.de/en/research/ga"
    ],
    "people": [
     {
-     "name": "Cristiano Porciani",
-     "role": "GS — giám đốc điều hành",
-     "url": "https://www.aifa.uni-bonn.de/members/professors/cristiano-porciani"
-    },
-    {
-     "name": "Frank Bertoldi",
-     "role": "Giáo sư",
-     "url": "https://www.aifa.uni-bonn.de/members/professors/frank-bertoldi"
-    },
-    {
-     "name": "Frank Bigiel",
-     "role": "Giáo sư",
-     "url": "https://www.aifa.uni-bonn.de/members/professors/frank-bigiel"
-    },
-    {
      "name": "Thomas Reiprich",
-     "role": "Giáo sư",
+     "role": "Giáo sư; trưởng nhóm",
      "url": "https://www.aifa.uni-bonn.de/members/professors/thomas-reiprich"
     },
     {
-     "name": "Jennifer Schober",
-     "role": "Giáo sư",
-     "url": "https://www.aifa.uni-bonn.de/members/professors/jennifer-schober"
+     "name": "Florian Pacaud",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/ga"
     },
     {
-     "name": "Serena Viti",
-     "role": "GS — Hertz Chair of Astrochemistry",
-     "url": "https://www.aifa.uni-bonn.de/members/professors/serena-viti"
+     "name": "Angie Veronica",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/ga"
     },
     {
-     "name": "Peter Schneider",
-     "role": "Giáo sư danh dự / cao niên",
-     "url": "https://www.aifa.uni-bonn.de//members/professors"
+     "name": "Yuanyuan Zhao",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/ga"
     },
     {
-     "name": "Norbert Langer",
-     "role": "Giáo sư danh dự / cao niên",
-     "url": "https://astro.uni-bonn.de/~nlanger/",
-     "profile": true
-    },
-    {
-     "name": "Ulrich Klein",
-     "role": "Giáo sư danh dự / cao niên",
-     "url": "https://astro.uni-bonn.de/~uklein/",
-     "profile": true
-    },
-    {
-     "name": "Wolfgang Kundt",
-     "role": "Giáo sư danh dự / cao niên",
-     "url": "https://www.aifa.uni-bonn.de//members/professors"
-    },
-    {
-     "name": "Gerd Prölss",
-     "role": "Giáo sư danh dự / cao niên",
-     "url": "https://www.aifa.uni-bonn.de//members/professors"
-    },
-    {
-     "name": "Max Römer",
-     "role": "Giáo sư danh dự / cao niên",
-     "url": "https://www.aifa.uni-bonn.de//members/professors"
+     "name": "Jakob Dietl",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/ga"
     }
    ],
    "external": [],
    "note": ""
   },
-  "Universität Bonn — Argelander-Institut für Astronomie::Nhân sự khoa học (toàn viện)": {
+  "Universität Bonn — Argelander-Institut für Astronomie::Radio Astronomy & Interstellar Medium (Bigiel)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+   ],
+   "people": [
+    {
+     "name": "Frank Bigiel",
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://www.aifa.uni-bonn.de/members/professors/frank-bigiel"
+    },
+    {
+     "name": "Dario Colombo",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Helene Antonia Kast",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Jessica Mills",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Minou Greve",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Ina Galić",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Zein Bazzi",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Dinesh Maheswari",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Lars Van Engelshoven",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Jatin Chopra",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Anagha Antony",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    },
+    {
+     "name": "Anna Vervelaki",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Millimeter/Sub-Millimeter Astronomy (Bertoldi)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+   ],
+   "people": [
+    {
+     "name": "Frank Bertoldi",
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://www.aifa.uni-bonn.de/members/professors/frank-bertoldi"
+    },
+    {
+     "name": "Kaustuv moni Basu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Stefanie Mühle",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Reinhold Schaaf",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Christos Karoumpis",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Sonja Felder",
+     "role": "NCV — PUNCH4NFDI, quản trị web AIfA",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Sylvia Adscheid",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Ankur Dev",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Tejas Oak",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Andrea Guerrero",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Elyas Farah",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Zhengxu Hau",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Nele Lassalle",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Diana Victoria Lopez Navarro",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Selina Ortner",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Bruno da Rocha Schultz",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    },
+    {
+     "name": "Julius Zimmler",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Radio- and X-Ray Astronomy (Kerp)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/rg-kerp-radio-and-x-ray-astronomy/radio-xray"
+   ],
+   "people": [
+    {
+     "name": "Jürgen Kerp",
+     "role": "PDZ — trưởng nhóm",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-kerp-radio-and-x-ray-astronomy/radio-xray"
+    },
+    {
+     "name": "Vanessa Schulz",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-kerp-radio-and-x-ray-astronomy/radio-xray"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Large-Scale Structure of the Universe (Porciani)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+   ],
+   "people": [
+    {
+     "name": "Cristiano Porciani",
+     "role": "Giáo sư; trưởng nhóm; giám đốc điều hành AIfA",
+     "url": "https://www.aifa.uni-bonn.de/members/professors/cristiano-porciani"
+    },
+    {
+     "name": "Alexander Eggemeier",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Emilio Romano-Diaz",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Mohammadreza Ayromlou",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Elena Marcuzzo",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Gervit Kumar Trehan",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Toka Alokda",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Milan Staffehl",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Maximilian Thomas",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Mohammadreza Torkamani",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Rishabh Ranjan",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Laksh Gupta",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Kyriopoulos Georgios",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    },
+    {
+     "name": "Devashri Kulkarni",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Astrophysical Fluids and Plasmas (Schober)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+   ],
+   "people": [
+    {
+     "name": "Jennifer Schober",
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://www.aifa.uni-bonn.de/members/professors/jennifer-schober"
+    },
+    {
+     "name": "Deepen Garg",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    },
+    {
+     "name": "Neco Kriel",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    },
+    {
+     "name": "Barshan Ray",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    },
+    {
+     "name": "Kent Barbey",
+     "role": "Thành viên (trang không ghi ngạch)",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    },
+    {
+     "name": "Vasco Silver",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    },
+    {
+     "name": "Stefanos Lialios",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    },
+    {
+     "name": "Constanza Espinoza Dupouy",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Gravitational Lensing and Cosmology (Schneider)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/rg-schneider-gravitational-lensing-and-cosmology/gravitational-lensing-and-cosmology"
+   ],
+   "people": [
+    {
+     "name": "Peter Schneider",
+     "role": "Giáo sư cao niên (Senior Professor); trưởng nhóm",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-schneider-gravitational-lensing-and-cosmology/gravitational-lensing-and-cosmology"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Stellar Astrophysics (Langer)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/en/research/rg-langer-stellar-astrophysics/stellar-astrophysics"
+   ],
+   "people": [
+    {
+     "name": "Norbert Langer",
+     "role": "Giáo sư cao niên (Senior Professor); trưởng nhóm",
+     "url": "https://www.aifa.uni-bonn.de/en/research/rg-langer-stellar-astrophysics/stellar-astrophysics"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Astrochemistry — Hertz Chair (Viti)": {
+   "sources": [
+    "https://www.aifa.uni-bonn.de/members/professors/serena-viti"
+   ],
+   "people": [
+    {
+     "name": "Serena Viti",
+     "role": "Giáo sư — Hertz Chair of Astrochemistry",
+     "url": "https://www.aifa.uni-bonn.de/members/professors/serena-viti"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie::Nhân sự khác của viện (chưa ghi nhóm)": {
    "sources": [
     "https://www.aifa.uni-bonn.de//en/institute/members"
    ],
    "people": [
     {
-     "name": "Alexander Eggemeier",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Angie Veronica",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
      "name": "Callum Lynn",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Christos Karoumpis",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Dario Colombo",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Deepen Garg",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Emilio Romano-Diaz",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Florian Pacaud",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Jürgen Kerp",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Kaustuv moni Basu",
      "role": "Nghiên cứu viên",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
@@ -8679,16 +9026,6 @@
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
-     "name": "Mohammadreza Ayromlou",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Neco Kriel",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
      "name": "Ole Marggraf",
      "role": "Nghiên cứu viên",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
@@ -8709,33 +9046,8 @@
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
-     "name": "Reinhold Schaaf",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Sonja Felder",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Stefanie Mühle",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
      "name": "Thomas Erben",
      "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Yuanyuan Zhao",
-     "role": "Nghiên cứu viên",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Andrea Guerrero",
-     "role": "Nhân sự (chưa rõ ngạch)",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
@@ -8744,32 +9056,7 @@
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
-     "name": "Ankur Dev",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Barshan Ray",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
      "name": "Caroline Mannes",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Diana Victoria Lopez Navarro",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Elena Marcuzzo",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Gervit Kumar Trehan",
      "role": "Nhân sự (chưa rõ ngạch)",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
@@ -8784,47 +9071,7 @@
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
-     "name": "Helene Antonia Kast",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Ina Galić",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Jakob Dietl",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Jatin Chopra",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Jessica Mills",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
      "name": "Jill Westerfield",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Julius Zimmler",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Kent Barbey",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Maximilian Thomas",
      "role": "Nhân sự (chưa rõ ngạch)",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
@@ -8834,47 +9081,7 @@
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
-     "name": "Milan Staffehl",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Minou Greve",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Mohammadreza Torkamani",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
      "name": "Regina Tempel",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Stefanos Lialios",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Sylvia Adscheid",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Tejas Oak",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Toka Alokda",
-     "role": "Nhân sự (chưa rõ ngạch)",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
-    },
-    {
-     "name": "Vanessa Schulz",
      "role": "Nhân sự (chưa rõ ngạch)",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
@@ -8889,8 +9096,24 @@
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     },
     {
-     "name": "Zein Bazzi",
-     "role": "Nhân sự (chưa rõ ngạch)",
+     "name": "Ulrich Klein",
+     "role": "Giáo sư danh dự / đã nghỉ",
+     "url": "https://astro.uni-bonn.de/~uklein/",
+     "profile": true
+    },
+    {
+     "name": "Wolfgang Kundt",
+     "role": "Giáo sư danh dự / đã nghỉ",
+     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
+    },
+    {
+     "name": "Gerd Prölss",
+     "role": "Giáo sư danh dự / đã nghỉ",
+     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
+    },
+    {
+     "name": "Max Römer",
+     "role": "Giáo sư danh dự / đã nghỉ",
      "url": "https://www.aifa.uni-bonn.de//en/institute/members"
     }
    ],
@@ -10685,11 +10908,9 @@
    ],
    "note": ""
   },
-  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B::AG Astroparticle Physics": {
+  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B::AG Rhode": {
    "sources": [
-    "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists",
-    "https://app.physik.tu-dortmund.de/en/working-group",
-    "https://wiki.erumdatahub.de/bin/view/Research%20Groups/Arbeitsgruppe%20Physikdidaktik/Arbeitsgruppe%20W.%20Rhode"
+    "https://app.physik.tu-dortmund.de/en/working-group/members/"
    ],
    "people": [
     {
@@ -10699,94 +10920,155 @@
      "profile": true
     },
     {
-     "name": "Dominik Elsässer",
-     "role": "PDZ — đồng phụ trách nhóm",
-     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/pd-dr-dominik-elsaesser/",
-     "profile": true
-    },
-    {
-     "name": "Christian Arauner",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Leander Flottau",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Stefan Fröse",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Tristan Gradetzke",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Pascal Gutjahr",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Anno Knierim",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Roman Peschin",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Lene van Rootselaar",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Tim Ruhe",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Kevin Schmitz",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "David Venker",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Cyrus Walther",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Felix Wersig",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
-    },
-    {
-     "name": "Lucas Witthaus",
-     "role": "Thành viên (trang không ghi ngạch)",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
+     "name": "Johannes Mierau",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
     }
    ],
    "external": [],
    "note": ""
   },
-  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B::Nhóm Glaser": {
+  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B::AG Glaser": {
    "sources": [
-    "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/"
+    "https://app.physik.tu-dortmund.de/en/working-group/members/",
+    "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/",
+    "https://app.physik.tu-dortmund.de/en/details/wdr-lokalzeit-berichtet-ueber-die-arbeit-am-icecube-experiment-63139/"
    ],
    "people": [
     {
      "name": "Christian Glaser",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/"
+     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/",
+     "profile": true
+    },
+    {
+     "name": "René Reimann",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Dominik Baack",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Marie Cornelius Hansen",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Marta Bianciotto",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Johannes Werthebach",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B::Phương pháp giảng dạy & thiên văn tia gamma": {
+   "sources": [
+    "https://app.physik.tu-dortmund.de/en/working-group/members/"
+   ],
+   "people": [
+    {
+     "name": "Dominik Elsässer",
+     "role": "PDZ — apl. Prof.",
+     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/pd-dr-dominik-elsaesser/",
+     "profile": true
+    },
+    {
+     "name": "Tim Ruhe",
+     "role": "Nghiên cứu viên",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Maximilian Linhoff",
+     "role": "Nghiên cứu viên",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Marlene Doert",
+     "role": "Nghiên cứu viên",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B::Nghiên cứu sinh và kỹ thuật viên APP": {
+   "sources": [
+    "https://app.physik.tu-dortmund.de/en/working-group/members/"
+   ],
+   "people": [
+    {
+     "name": "Lucas Witthaus",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Cyrus Walther",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Felix Wersig",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Tristan Franziskus Gradetzke",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Lene van Rootselaar",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Luca Davide Di Bella",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Anno Knierim",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Christian Arauner",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Lukas Liland",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Nicolai Weitkemper",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Yannik Schaper",
+     "role": "Nghiên cứu sinh",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Matthias Domke",
+     "role": "Kỹ thuật viên",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
+    },
+    {
+     "name": "Kai Warda",
+     "role": "Kỹ thuật viên",
+     "url": "https://app.physik.tu-dortmund.de/en/working-group/members/"
     }
    ],
    "external": [],

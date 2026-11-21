@@ -183,9 +183,9 @@ Nguồn: [1](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/
 
 ## DLR — Institut für Weltraumforschung (tên trong danh sách RDS: Institut für Planetenforschung) — Berlin
 
-[Cơ cấu](https://www.dlr.de/de/wr/ueber-uns/abteilungen): Viện gồm nhiều bộ phận; ở đây chỉ lấy các bộ phận nghiên cứu hành tinh
+[Cơ cấu](https://www.dlr.de/de/wr/ueber-uns/abteilungen): Viện Nghiên cứu Vũ trụ của DLR ở Berlin-Adlershof (khoảng 300 nhân sự, 13 bộ phận), hình thành từ việc sáp nhập Viện Hệ cảm biến quang học và Viện Nghiên cứu hành tinh; giám đốc: Heinz-Wilhelm Hübers. Ở đây chỉ lấy năm bộ phận nghiên cứu hành tinh.
 
-Không đưa vào các bộ phận kỹ thuật và ứng dụng (Echtzeit-Datenprozessierung, Hochgeschwindigkeitselektronik, In-Situ Sensing, Planetare Sensorsysteme, Sicherheitsforschung und Anwendungen, Terahertz- und Laserspektroskopie, Weltrauminstrumente). DLR không công bố danh sách nhân sự theo bộ phận trên các trang đã đọc.
+Ghi đủ trưởng của cả năm bộ phận nghiên cứu hành tinh. DLR không công bố danh sách nhân viên theo bộ phận: trang 'Contacts' của từng bộ phận để trống, trang bộ phận chỉ nêu trưởng bộ phận. Vì vậy cơ quan này chỉ có thể ghi ở mức trưởng bộ phận. Không đưa vào các bộ phận kỹ thuật và ứng dụng (Echtzeit-Datenprozessierung, Hochgeschwindigkeitselektronik, In-Situ Sensing, Planetare Sensorsysteme, Sicherheitsforschung und Anwendungen, Terahertz- und Laserspektroskopie, Weltrauminstrumente).
 
 ### [Extrasolare Planeten und Atmosphären](https://www.dlr.de/de/wr/ueber-uns/abteilungen/extrasolareplaneten)
 
@@ -243,8 +243,9 @@ Bộ phận nghiên cứu hành tinh; chủ đề theo tên bộ phận.
 
 Chưa đọc trang riêng của bộ phận; chưa có trưởng bộ phận và nhân sự.
 
+- Alessandro Maturilli — Trưởng bộ phận (Abteilungsleitung)
 
-Nguồn: [1](https://www.dlr.de/de/wr/ueber-uns/abteilungen).
+Nguồn: [1](https://www.dlr.de/de/wr/ueber-uns/abteilungen), [2](https://www.dlr.de/de/wr/ueber-uns/abteilungen/abteilung-planetare-labore).
 
 ## Universität Bielefeld — Fakultät für Physik — Bielefeld
 
@@ -488,97 +489,182 @@ Nguồn: [1](https://www.tp4.ruhr-uni-bochum.de/members/), [2](https://www.tp4.r
 
 [Cơ cấu](https://www.astro.uni-bonn.de/en/institute): Argelander-Institut für Astronomie (AIfA), Fachgruppe Physik/Astronomie, Universität Bonn; giám đốc điều hành: Cristiano Porciani. Khoảng 130 nhân sự, gần một nửa là nhà khoa học
 
-Trang thành viên chỉ hiện những người đồng ý công khai khi truy cập từ ngoài mạng trường, nên danh sách có thể thiếu. Trang không ghi nhóm của từng nhân sự; chỉ nhóm HISKP (Kroupa) được tách riêng. Danh sách nhân sự có lẫn một số nhân viên hành chính, kỹ thuật vì trang không ghi chức danh.
+Gồm 9 nhóm theo trang Research của AIfA (11/2026), với thành viên lấy từ mục “Our Members/Group Members” của từng nhóm, cộng nhóm HISKP (Kroupa) và danh bạ toàn viện. Lưu ý: danh bạ toàn viện chỉ hiện những người đồng ý công khai, nên có thể thiếu người; nhóm Schneider, Langer và Viti chưa có danh sách thành viên trên trang nhóm.
 
-### [Giáo sư và nhóm nghiên cứu](https://www.aifa.uni-bonn.de//members/professors)
+### [Galaxy Clusters, Cosmology, X-ray Astronomy (Reiprich)](https://www.aifa.uni-bonn.de/en/research/ga)
 
-Các giáo sư. Trực thuộc: Argelander-Institut für Astronomie.
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
 
-Thiên văn milimét/dưới milimét (Bertoldi); thiên hà và môi trường liên sao (Bigiel); vũ trụ học (Porciani); thiên văn tia X và cụm thiên hà (Reiprich); plasma vũ trụ và từ trường (Schober); hoá học thiên văn — Hertz Chair (Viti).
+Vũ trụ học, cụm thiên hà, sợi vũ trụ và lỗ đen siêu khối lượng qua tia X, quang học và vô tuyến; quan sát tia X các mẫu lớn cụm thiên hà (va chạm cụm, tương tác khí cụm với lỗ đen trung tâm), ràng buộc vật chất tối và năng lượng tối.
 
-Chủ đề của từng giáo sư là tóm tắt sơ bộ của mình, chưa đối chiếu trang nhóm.
+- Thomas Reiprich — Giáo sư; trưởng nhóm
+- Florian Pacaud — Nghiên cứu viên
+- Angie Veronica — Nghiên cứu viên
+- Yuanyuan Zhao — Nghiên cứu viên
+- Jakob Dietl — Thành viên (trang không ghi ngạch)
 
-- Cristiano Porciani — GS — giám đốc điều hành
-- Frank Bertoldi — Giáo sư
-- Frank Bigiel — Giáo sư
-- Thomas Reiprich — Giáo sư
-- Jennifer Schober — Giáo sư
-- Serena Viti — GS — Hertz Chair of Astrochemistry
-- Peter Schneider — Giáo sư danh dự / cao niên
-- Norbert Langer — Giáo sư danh dự / cao niên
-- Ulrich Klein — Giáo sư danh dự / cao niên
-- Wolfgang Kundt — Giáo sư danh dự / cao niên
-- Gerd Prölss — Giáo sư danh dự / cao niên
-- Max Römer — Giáo sư danh dự / cao niên
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/ga).
 
-Nguồn: [1](https://www.aifa.uni-bonn.de//members/professors), [2](https://www.aifa.uni-bonn.de//en/institute/members).
+### [Radio Astronomy & Interstellar Medium (Bigiel)](https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team)
 
-### [Nhân sự khoa học (toàn viện)](https://www.aifa.uni-bonn.de//en/institute/members)
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Quan sát phân bố và tính chất vật lý của khí, bụi và vai trò của chúng trong hình thành sao ở thiên hà, từ đám mây phân tử đến quy mô thiên hà; chủ yếu ở bước sóng vô tuyến, kết hợp hồng ngoại, UV, quang học.
+
+- Frank Bigiel — Giáo sư; trưởng nhóm
+- Dario Colombo — Nghiên cứu sau tiến sĩ
+- Helene Antonia Kast — Thành viên (trang không ghi ngạch)
+- Jessica Mills — Thành viên (trang không ghi ngạch)
+- Minou Greve — Thành viên (trang không ghi ngạch)
+- Ina Galić — Thành viên (trang không ghi ngạch)
+- Zein Bazzi — Thành viên (trang không ghi ngạch)
+- Dinesh Maheswari — Học viên thạc sĩ
+- Lars Van Engelshoven — Học viên thạc sĩ
+- Jatin Chopra — Học viên thạc sĩ
+- Anagha Antony — Học viên thạc sĩ
+- Anna Vervelaki — Học viên thạc sĩ
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/radio-astro-and-interstellar-medium/radioastro-interstellar-team).
+
+### [Millimeter/Sub-Millimeter Astronomy (Bertoldi)](https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Hình thành sao, tiến hóa thiên hà và cụm thiên hà, môi trường liên sao đặc qua bước sóng milimét/dưới milimét; kính CCAT (FYST), khảo sát COSMOS; nút Đức của Trung tâm ALMA châu Âu (cùng Cologne); SFB1601, PUNCH4NFDI.
+
+- Frank Bertoldi — Giáo sư; trưởng nhóm
+- Kaustuv moni Basu — Nghiên cứu viên
+- Stefanie Mühle — Nghiên cứu viên
+- Reinhold Schaaf — Nghiên cứu viên
+- Christos Karoumpis — Nghiên cứu viên
+- Sonja Felder — NCV — PUNCH4NFDI, quản trị web AIfA
+- Sylvia Adscheid — Nghiên cứu sinh
+- Ankur Dev — Nghiên cứu sinh
+- Tejas Oak — Nghiên cứu sinh
+- Andrea Guerrero — Nghiên cứu sinh
+- Elyas Farah — Học viên thạc sĩ
+- Zhengxu Hau — Học viên thạc sĩ
+- Nele Lassalle — Học viên thạc sĩ
+- Diana Victoria Lopez Navarro — Học viên thạc sĩ
+- Selina Ortner — Học viên thạc sĩ
+- Bruno da Rocha Schultz — Học viên thạc sĩ
+- Julius Zimmler — Học viên thạc sĩ
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/mm-submm-astronomy/mm-submm-astro).
+
+### [Radio- and X-Ray Astronomy (Kerp)](https://www.aifa.uni-bonn.de/en/research/rg-kerp-radio-and-x-ray-astronomy/radio-xray)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Phân tích kết hợp vô tuyến và tia X, từ Ngân Hà đến thiên hà hoạt động; máy chủ HI Bonn, kính Astropeiler Stockert.
+
+- Jürgen Kerp — PDZ — trưởng nhóm
+- Vanessa Schulz — Thành viên (trang không ghi ngạch)
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/rg-kerp-radio-and-x-ray-astronomy/radio-xray).
+
+### [Large-Scale Structure of the Universe (Porciani)](https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Hình thành và tiến hóa cấu trúc vũ trụ: cấu trúc quy mô lớn, vật chất tối và năng lượng tối, phi Gauss nguyên thủy, khảo sát dịch chuyển đỏ thiên hà, mô phỏng N-body và thủy động, tái ion hóa, hình thành thiên hà.
+
+- Cristiano Porciani — Giáo sư; trưởng nhóm; giám đốc điều hành AIfA
+- Alexander Eggemeier — Nghiên cứu viên
+- Emilio Romano-Diaz — Nghiên cứu viên
+- Mohammadreza Ayromlou — Nghiên cứu viên
+- Elena Marcuzzo — Thành viên (trang không ghi ngạch)
+- Gervit Kumar Trehan — Thành viên (trang không ghi ngạch)
+- Toka Alokda — Thành viên (trang không ghi ngạch)
+- Milan Staffehl — Thành viên (trang không ghi ngạch)
+- Maximilian Thomas — Thành viên (trang không ghi ngạch)
+- Mohammadreza Torkamani — Thành viên (trang không ghi ngạch)
+- Rishabh Ranjan — Học viên thạc sĩ
+- Laksh Gupta — Học viên thạc sĩ
+- Kyriopoulos Georgios — Học viên thạc sĩ
+- Devashri Kulkarni — Học viên thạc sĩ
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/rg-porciani-large-scale-structure-of-the-universe/large-scale-structure-of-the-universe).
+
+### [Astrophysical Fluids and Plasmas (Schober)](https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Chất lưu và plasma vũ trụ, nhiễu loạn và khuếch đại từ trường vũ trụ (dynamo).
+
+- Jennifer Schober — Giáo sư; trưởng nhóm
+- Deepen Garg — Nghiên cứu viên
+- Neco Kriel — Nghiên cứu viên
+- Barshan Ray — Thành viên (trang không ghi ngạch)
+- Kent Barbey — Thành viên (trang không ghi ngạch)
+- Vasco Silver — Học viên thạc sĩ
+- Stefanos Lialios — Học viên thạc sĩ
+- Constanza Espinoza Dupouy — Học viên thạc sĩ
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/astrophysical-fluids-and-plasmas/astrophysical-fluids-and-plasmas).
+
+### [Gravitational Lensing and Cosmology (Schneider)](https://www.aifa.uni-bonn.de/en/research/rg-schneider-gravitational-lensing-and-cosmology/gravitational-lensing-and-cosmology)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Lý thuyết và quan sát thấu kính hấp dẫn yếu và thấu kính cụm, vật chất tối, năng lượng tối.
+
+- Peter Schneider — Giáo sư cao niên (Senior Professor); trưởng nhóm
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/rg-schneider-gravitational-lensing-and-cosmology/gravitational-lensing-and-cosmology).
+
+### [Stellar Astrophysics (Langer)](https://www.aifa.uni-bonn.de/en/research/rg-langer-stellar-astrophysics/stellar-astrophysics)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Tiến hóa sao khối lượng lớn, tương tác sao đôi, vật lý hạt nhân thiên văn, siêu tân tinh và chớp gamma, thủy động lực sao và quanh sao.
+
+- Norbert Langer — Giáo sư cao niên (Senior Professor); trưởng nhóm
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/en/research/rg-langer-stellar-astrophysics/stellar-astrophysics).
+
+### [Astrochemistry — Hertz Chair (Viti)](https://www.aifa.uni-bonn.de/members/professors/serena-viti)
+
+Nhóm nghiên cứu. Trực thuộc: Argelander-Institut für Astronomie.
+
+Hoá học thiên văn.
+
+- Serena Viti — Giáo sư — Hertz Chair of Astrochemistry
+
+Nguồn: [1](https://www.aifa.uni-bonn.de/members/professors/serena-viti).
+
+### [Nhân sự khác của viện (chưa ghi nhóm)](https://www.aifa.uni-bonn.de//en/institute/members)
 
 Danh sách toàn viện. Trực thuộc: Argelander-Institut für Astronomie.
 
-Nhà khoa học, nghiên cứu sinh và học viên của viện.
+Những người có trong danh bạ AIfA nhưng không xuất hiện trên trang thành viên của nhóm nào (một số nhóm như Schneider, Langer, Viti chưa có danh sách thành viên).
 
-Trang chỉ ghi học vị: người có “Dr.” được ghi là nghiên cứu viên, người còn lại ghi chung là “nhân sự (chưa rõ ngạch)” — gồm nghiên cứu sinh, học viên và có thể cả nhân viên hành chính.
+Danh bạ chỉ ghi học vị: người có “Dr.” ghi là nghiên cứu viên; người còn lại có thể là nghiên cứu sinh, học viên hoặc nhân viên.
 
-- Alexander Eggemeier — Nghiên cứu viên
-- Angie Veronica — Nghiên cứu viên
 - Callum Lynn — Nghiên cứu viên
-- Christos Karoumpis — Nghiên cứu viên
-- Dario Colombo — Nghiên cứu viên
-- Deepen Garg — Nghiên cứu viên
-- Emilio Romano-Diaz — Nghiên cứu viên
-- Florian Pacaud — Nghiên cứu viên
-- Jürgen Kerp — Nghiên cứu viên
-- Kaustuv moni Basu — Nghiên cứu viên
 - Lucas Porth — Nghiên cứu viên
 - Malte Tewes — Nghiên cứu viên
 - Mandar Karandikar — Nghiên cứu viên
 - Matteo Cataneo — Nghiên cứu viên
 - Michael Bird — Nghiên cứu viên
-- Mohammadreza Ayromlou — Nghiên cứu viên
-- Neco Kriel — Nghiên cứu viên
 - Ole Marggraf — Nghiên cứu viên
 - Oliver-Mark Cordes — Nghiên cứu viên
 - Patrick Simon — Nghiên cứu viên
 - Reiko Nakajima — Nghiên cứu viên
-- Reinhold Schaaf — Nghiên cứu viên
-- Sonja Felder — Nghiên cứu viên
-- Stefanie Mühle — Nghiên cứu viên
 - Thomas Erben — Nghiên cứu viên
-- Yuanyuan Zhao — Nghiên cứu viên
-- Andrea Guerrero — Nhân sự (chưa rõ ngạch)
 - Andreas Bödewig — Nhân sự (chưa rõ ngạch)
-- Ankur Dev — Nhân sự (chưa rõ ngạch)
-- Barshan Ray — Nhân sự (chưa rõ ngạch)
 - Caroline Mannes — Nhân sự (chưa rõ ngạch)
-- Diana Victoria Lopez Navarro — Nhân sự (chưa rõ ngạch)
-- Elena Marcuzzo — Nhân sự (chưa rõ ngạch)
-- Gervit Kumar Trehan — Nhân sự (chưa rõ ngạch)
 - Götz Gräfener — Nhân sự (chưa rõ ngạch)
 - Hao He — Nhân sự (chưa rõ ngạch)
-- Helene Antonia Kast — Nhân sự (chưa rõ ngạch)
-- Ina Galić — Nhân sự (chưa rõ ngạch)
-- Jakob Dietl — Nhân sự (chưa rõ ngạch)
-- Jatin Chopra — Nhân sự (chưa rõ ngạch)
-- Jessica Mills — Nhân sự (chưa rõ ngạch)
 - Jill Westerfield — Nhân sự (chưa rõ ngạch)
-- Julius Zimmler — Nhân sự (chưa rõ ngạch)
-- Kent Barbey — Nhân sự (chưa rõ ngạch)
-- Maximilian Thomas — Nhân sự (chưa rõ ngạch)
 - Michael Kovac — Nhân sự (chưa rõ ngạch)
-- Milan Staffehl — Nhân sự (chưa rõ ngạch)
-- Minou Greve — Nhân sự (chưa rõ ngạch)
-- Mohammadreza Torkamani — Nhân sự (chưa rõ ngạch)
 - Regina Tempel — Nhân sự (chưa rõ ngạch)
-- Stefanos Lialios — Nhân sự (chưa rõ ngạch)
-- Sylvia Adscheid — Nhân sự (chưa rõ ngạch)
-- Tejas Oak — Nhân sự (chưa rõ ngạch)
-- Toka Alokda — Nhân sự (chưa rõ ngạch)
-- Vanessa Schulz — Nhân sự (chưa rõ ngạch)
 - Yanhanle Zhao — Nhân sự (chưa rõ ngạch)
 - Yinghua Huang — Nhân sự (chưa rõ ngạch)
-- Zein Bazzi — Nhân sự (chưa rõ ngạch)
+- Ulrich Klein — Giáo sư danh dự / đã nghỉ
+- Wolfgang Kundt — Giáo sư danh dự / đã nghỉ
+- Gerd Prölss — Giáo sư danh dự / đã nghỉ
+- Max Römer — Giáo sư danh dự / đã nghỉ
 
 Nguồn: [1](https://www.aifa.uni-bonn.de//en/institute/members).
 
@@ -1058,44 +1144,70 @@ Nguồn: [1](https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0).
 
 ## Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B — Dortmund
 
-[Cơ cấu](https://app.physik.tu-dortmund.de/en/working-group): Lehrstuhl für Experimentelle Physik Vb — Astroteilchenphysik; trưởng: Wolfgang Rhode, cùng PD Dominik Elsässer
+[Cơ cấu](https://app.physik.tu-dortmund.de/en/working-group/members/): Nhóm Vật lý hạt thiên văn (APP), Khoa Vật lý TU Dortmund: AG Rhode, AG Glaser (giáo sư từ 8/2025) và nhóm phương pháp giảng dạy (Lehramt); các nghiên cứu sinh dùng chung danh sách.
 
-Trang thành viên của nhóm không hiện tên khi đọc tự động; danh sách lấy từ trang nhân sự của Research Alliance Ruhr (mục AG Astroparticle Physics), không ghi ngạch. Chưa có nhóm của Christian Glaser.
+Danh sách đầy đủ từ trang Members của nhóm APP (11/2026). Trang ghi nhóm cho giáo sư và postdoc nhưng không ghi nhóm cho nghiên cứu sinh, nên nghiên cứu sinh được xếp vào mục chung.
 
-### [AG Astroparticle Physics](https://rapp-uar.relaunch.tu-dortmund.de/team/scientists)
+### [AG Rhode](https://app.physik.tu-dortmund.de/en/working-group/members/)
 
-Nhóm nghiên cứu. Trực thuộc: Lehrstuhl für Experimentelle Physik Vb.
+Nhóm nghiên cứu. Trực thuộc: Astroteilchenphysik (APP).
 
 Thiên văn đa kênh, IceCube, học máy trong vật lý hạt thiên văn; tìm vật chất tối bằng kính tia gamma và khảo sát vũ trụ; sinh lepton nhanh trong tương tác hadron.
 
 - Wolfgang Rhode — Giáo sư; trưởng nhóm
-- Dominik Elsässer — PDZ — đồng phụ trách nhóm
-- Christian Arauner — Thành viên (trang không ghi ngạch)
-- Leander Flottau — Thành viên (trang không ghi ngạch)
-- Stefan Fröse — Thành viên (trang không ghi ngạch)
-- Tristan Gradetzke — Thành viên (trang không ghi ngạch)
-- Pascal Gutjahr — Thành viên (trang không ghi ngạch)
-- Anno Knierim — Thành viên (trang không ghi ngạch)
-- Roman Peschin — Thành viên (trang không ghi ngạch)
-- Lene van Rootselaar — Thành viên (trang không ghi ngạch)
-- Tim Ruhe — Thành viên (trang không ghi ngạch)
-- Kevin Schmitz — Thành viên (trang không ghi ngạch)
-- David Venker — Thành viên (trang không ghi ngạch)
-- Cyrus Walther — Thành viên (trang không ghi ngạch)
-- Felix Wersig — Thành viên (trang không ghi ngạch)
-- Lucas Witthaus — Thành viên (trang không ghi ngạch)
+- Johannes Mierau — Nghiên cứu sau tiến sĩ
 
-Nguồn: [1](https://rapp-uar.relaunch.tu-dortmund.de/team/scientists), [2](https://app.physik.tu-dortmund.de/en/working-group), [3](https://wiki.erumdatahub.de/bin/view/Research%20Groups/Arbeitsgruppe%20Physikdidaktik/Arbeitsgruppe%20W.%20Rhode).
+Nguồn: [1](https://app.physik.tu-dortmund.de/en/working-group/members/).
 
-### [Nhóm Glaser](https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/)
+### [AG Glaser](https://app.physik.tu-dortmund.de/en/working-group/members/)
 
-Nhóm nghiên cứu. Trực thuộc: Fakultät Physik.
+Nhóm nghiên cứu. Trực thuộc: Astroteilchenphysik (APP).
 
-Giao điểm giữa vật lý hạt thiên văn thực nghiệm và trí tuệ nhân tạo: neutrino vũ trụ năng lượng cao và tia vũ trụ.
+Giao điểm giữa vật lý hạt thiên văn và trí tuệ nhân tạo: neutrino vũ trụ năng lượng cao và tia vũ trụ; kỹ thuật đo vô tuyến cho RNO-G (Greenland) và IceCube-Gen2; Pierre Auger; phần mềm NuRadioMC/NuRadioReco; dự án ERC NuRadioOpt.
 
 - Christian Glaser — Giáo sư; trưởng nhóm
+- René Reimann — Nghiên cứu sau tiến sĩ
+- Dominik Baack — Nghiên cứu sau tiến sĩ
+- Marie Cornelius Hansen — Nghiên cứu sau tiến sĩ
+- Marta Bianciotto — Nghiên cứu sau tiến sĩ
+- Johannes Werthebach — Nghiên cứu sinh
 
-Nguồn: [1](https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/).
+Nguồn: [1](https://app.physik.tu-dortmund.de/en/working-group/members/), [2](https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/), [3](https://app.physik.tu-dortmund.de/en/details/wdr-lokalzeit-berichtet-ueber-die-arbeit-am-icecube-experiment-63139/).
+
+### [Phương pháp giảng dạy & thiên văn tia gamma](https://app.physik.tu-dortmund.de/en/working-group/members/)
+
+Nhóm nghiên cứu. Trực thuộc: Astroteilchenphysik (APP).
+
+Đào tạo giáo viên vật lý (Lehramt) gắn với vật lý hạt thiên văn; thiên văn tia gamma.
+
+- Dominik Elsässer — PDZ — apl. Prof.
+- Tim Ruhe — Nghiên cứu viên
+- Maximilian Linhoff — Nghiên cứu viên
+- Marlene Doert — Nghiên cứu viên
+
+Nguồn: [1](https://app.physik.tu-dortmund.de/en/working-group/members/).
+
+### [Nghiên cứu sinh và kỹ thuật viên APP](https://app.physik.tu-dortmund.de/en/working-group/members/)
+
+Danh sách chung. Trực thuộc: Astroteilchenphysik (APP).
+
+Nghiên cứu sinh của nhóm APP (trang không ghi họ thuộc AG Rhode hay AG Glaser) và kỹ thuật viên.
+
+- Lucas Witthaus — Nghiên cứu sinh
+- Cyrus Walther — Nghiên cứu sinh
+- Felix Wersig — Nghiên cứu sinh
+- Tristan Franziskus Gradetzke — Nghiên cứu sinh
+- Lene van Rootselaar — Nghiên cứu sinh
+- Luca Davide Di Bella — Nghiên cứu sinh
+- Anno Knierim — Nghiên cứu sinh
+- Christian Arauner — Nghiên cứu sinh
+- Lukas Liland — Nghiên cứu sinh
+- Nicolai Weitkemper — Nghiên cứu sinh
+- Yannik Schaper — Nghiên cứu sinh
+- Matthias Domke — Kỹ thuật viên
+- Kai Warda — Kỹ thuật viên
+
+Nguồn: [1](https://app.physik.tu-dortmund.de/en/working-group/members/).
 
 ## Technische Universität Dresden — Lohrmann-Observatorium — Dresden
 
@@ -2641,7 +2753,7 @@ Nguồn: [1](https://www.aei.mpg.de/337435/aei-staff?seite=6).
 
 [Cơ cấu](https://www.zah.uni-heidelberg.de/institutes): Ba viện: Astronomisches Rechen-Institut (ARI), Landessternwarte Königstuhl (LSW), Institut für Theoretische Astrophysik (ITA)
 
-Có đủ 31 nhóm với trưởng nhóm, và toàn bộ nhân sự theo danh bạ ZAH chia theo ba viện ARI, ITA, LSW. Danh bạ không ghi ai thuộc nhóm nào, nên chưa gán thành viên vào từng nhóm.
+Có đủ 31 nhóm với trưởng nhóm, và toàn bộ nhân sự theo danh bạ ZAH. Thành viên của nhóm Planet Formation, Star Formation và Galactic Matter Cycle đã được tách theo trang nhóm; các nhóm còn lại có trang nhóm cũ không tải được hoặc không có danh sách thành viên, nên thành viên vẫn nằm trong danh sách nhân sự của từng viện (ARI, ITA, LSW).
 
 ### [Galaxy Evolution Group](http://www.ari.uni-heidelberg.de/mitarbeiter/grebel/group.html)
 
@@ -2839,11 +2951,23 @@ Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](https://www
 
 Nhóm nghiên cứu. Trực thuộc: Institut für Theoretische Astrophysik (ITA).
 
-Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.
+Hình thành hành tinh từ bụi trong đĩa tiền hành tinh bằng mô phỏng số: cấu trúc và tiến hóa đĩa, kết tụ – vỡ hạt bụi, hình thành planetesimal, tăng trưởng phôi hành tinh, tương tác N-vật; nối với quan sát qua mô hình truyền bức xạ.
 
-Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên.
+Thành viên theo trang nhóm (11/2026); người có trong danh bạ ZAH đã được chuyển từ danh sách nhân sự của viện sang nhóm này.
 
-- Cornelis Dullemond — Trưởng nhóm
+- Kees Dullemond — Giáo sư; trưởng nhóm
+- Jiahan Shi — Nghiên cứu sau tiến sĩ
+- Dmitry Semenov — Nhà nghiên cứu cấp cao độc lập (hóa học thiên văn)
+- Carolin Kimmig — Nghiên cứu sinh
+- Leon Hühn — Nghiên cứu sinh
+- Jorge Pérez González — Nghiên cứu sinh
+- Sören Meiners — Học viên thạc sĩ
+- Kim Weiskopf — Học viên thạc sĩ
+- Jakob Shoell — Học viên thạc sĩ
+- Drishika Nadella — Học viên thạc sĩ
+- Jenya Govorov — Sinh viên
+- Julia Dierich — Sinh viên
+- Laura Polzer — Sinh viên
 
 Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](http://www.ita.uni-heidelberg.de/~dullemond/group.shtml).
 
@@ -2851,13 +2975,27 @@ Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](http://www.
 
 Nhóm nghiên cứu. Trực thuộc: Institut für Theoretische Astrophysik (ITA).
 
-Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.
+Hình thành sao và môi trường liên sao: nhiễu loạn, từ trường, phản hồi sao, sao thế hệ đầu, mô phỏng số quy mô lớn.
 
-Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên.
+Thành viên theo trang nhóm (11/2026); người có trong danh bạ ZAH đã được chuyển từ danh sách nhân sự của viện sang nhóm này.
 
-- Ralf Klessen — Trưởng nhóm
+- Ralf Klessen — Giáo sư; trưởng nhóm
+- Simon Glover — Nhà khoa học biên chế
+- Victor Ksoll — Trưởng nhóm độc lập
+- Philipp Girichidis — Nghiên cứu sau tiến sĩ
+- Stefan Reißl — Nghiên cứu sau tiến sĩ
+- Nils Candebat — Nghiên cứu sinh
+- Karin Kjellgren — Nghiên cứu sinh
+- Aron Kordt — Nghiên cứu sinh
+- Veronika Lipatova — Nghiên cứu sinh
+- Jorge Saavedra Bastidas — Nghiên cứu sinh
+- Shuyu Tan — Nghiên cứu sinh
+- Jia Wei Teh — Nghiên cứu sinh
+- Daniel Walter — Nghiên cứu sinh
+- Lea Flach — Sinh viên cử nhân/thạc sĩ
+- Maximilian Richter — Sinh viên cử nhân/thạc sĩ
 
-Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](http://klessen.org/).
+Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](http://klessen.org/), [3](https://klessen.org/group).
 
 ### [Gravitational Wave Astrophysics Group](http://demoblack.com/)
 
@@ -2923,13 +3061,15 @@ Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](http://www.
 
 Nhóm nghiên cứu. Trực thuộc: Institut für Theoretische Astrophysik (ITA).
 
-Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.
+Chu trình vật chất trong thiên hà: vòng đời đám mây phân tử, hiệu suất hình thành sao và phản hồi sao ở các thiên hà lân cận.
 
-Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên.
+Thành viên theo trang nhóm (11/2026); người có trong danh bạ ZAH đã được chuyển từ danh sách nhân sự của viện sang nhóm này.
 
-- Mélanie Chevance — Trưởng nhóm
+- Mélanie Chevance — Trưởng nhóm Emmy Noether
+- Lise Ramambason — Nghiên cứu sau tiến sĩ
+- Andrea Romanelli — Nghiên cứu sinh
 
-Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](https://www.ita.uni-heidelberg.de/~mchevance/).
+Nguồn: [1](https://www.zah.uni-heidelberg.de/research-groups), [2](https://www.ita.uni-heidelberg.de/~mchevance/), [3](https://www.ita.uni-heidelberg.de/~mchevance/index.html).
 
 ### [Galactic Archaeology Group](http://www.lsw.uni-heidelberg.de/projects/galactic_archaeology/index.phtml)
 
@@ -3140,32 +3280,21 @@ Danh bạ chỉ ghi học vị (Prof., Dr., M.Sc., B.Sc.), không ghi chức dan
 - Jeremias Boucsein — Thành viên (trang không ghi học vị)
 - Tobias Buck — Thành viên (trang không ghi học vị)
 - Christian Anthony Burt — Có bằng cử nhân (thường là học viên thạc sĩ)
-- Nils Candebat — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Melanie Chevance — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Lukas Manfred Da Silva Flügel — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Lucas Marcelo de Sá — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Franca De-Domenico-Langer — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Isabel Duehr — Thành viên (trang không ghi học vị)
-- Cornelis Petrus Dullemond — Giáo sư
 - Arda Erkan — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Christina Fakiola — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Lea Flach — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Hans-Peter Gail — Đã nghỉ hưu — giáo sư
-- Philipp Girichidis — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
-- Simon C. O. Glover — Giáo sư (apl.)
 - Prasanta Gorai — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Laura Hegeler — Thành viên (trang không ghi học vị)
 - Giuliano Iorio — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Kiara Jacob — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Shera Jafaritabar — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Karin Kjellgren — Thành viên (trang không ghi học vị)
-- Ralf Stefan Klessen — Giáo sư
 - Philipp Kommer — Có bằng cử nhân (thường là học viên thạc sĩ)
-- Aron Kordt — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Mats Kothe — Có bằng cử nhân (thường là học viên thạc sĩ)
-- Victor Francisco Ksoll — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Xinyue Liang — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Veronika Lipatova — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Boyuan Liu — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Michela Mapelli — Giáo sư
 - Daniel Marín Pina — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
@@ -3174,33 +3303,22 @@ Danh bạ chỉ ghi học vị (Prof., Dr., M.Sc., B.Sc.), không ghi chức dan
 - Dylan Nelson — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Jonathan Paulsen — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Irene Paulus — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Jorge Pérez González — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Laura Polzer — Thành viên (trang không ghi học vị)
 - Anesti Prifti — Thành viên (trang không ghi học vị)
-- Lise Ramambason — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
-- Stefan Reißl — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
-- Maximilian Richter — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Stefano Rinaldi — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Amedeo Romagnolo — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
-- Andrea Romanelli — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Friedrich Röpke — Giáo sư
-- Jorge Eduardo Saavedra Bastidas — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Julian Leon Saling — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Lucas Schleuss — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Erik Emil Schneider — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Rebekka Schupp — Thành viên (trang không ghi học vị)
-- Dmitry Semenov — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Christian Sendlinger — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Cecilia Sgalletta — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Elouan Spaan — Thành viên (trang không ghi học vị)
 - Stefano D'Amore — Thành viên (trang không ghi học vị)
-- Shuyu Tan — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Jia Wei Teh — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Guido Thimm — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
 - Richard Tuffs — Thành viên (trang không ghi học vị)
 - Peter Ulmschneider — Giáo sư danh dự (emeritus)
 - Maria Paola Vaccaro — Có bằng thạc sĩ (thường là nghiên cứu sinh)
-- Daniel Walter — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Yanrui Wang — Có bằng cử nhân (thường là học viên thạc sĩ)
 - Haoda Wang — Có bằng thạc sĩ (thường là nghiên cứu sinh)
 - Rebecca Wolfgramm-Kuntz — Thành viên (trang không ghi học vị)
@@ -3297,7 +3415,7 @@ Nguồn: [1](https://zah.uni-heidelberg.de/service/personnel).
 
 [Cơ cấu](https://www.mpia.de/institute/scientific-departments): Ba bộ phận khoa học (giám đốc: Hans-Walter Rix, Myriam Benisty, Laura Kreidberg) và các nhóm nghiên cứu độc lập
 
-Đủ ba bộ phận (GC, PFE/PSF, APEx) theo danh sách toàn bộ phận, và ba nhóm độc lập Galactic Nuclei, ExoWorlds Imaging, Stellar Spectroscopy. Chưa có Emeritus Research Group và Extragalactic Group; thành viên trong các bộ phận chưa tách theo nhóm con.
+Đủ ba bộ phận (GC, PFE/PSF, APEx) theo danh sách toàn bộ phận, và năm nhóm độc lập: Galactic Nuclei, ExoWorlds Imaging, Stellar Spectroscopy, Extragalactic, Emeritus. Thành viên trong các bộ phận chưa tách theo nhóm con.
 
 ### [Galaxies and Cosmology (GC)](https://www.mpia.de/institute/scientific-departments/galaxies-and-cosmology)
 
@@ -3607,6 +3725,35 @@ Trang thành viên có thể chưa cập nhật; thêm hai người mới vào n
 - Richard Hoppe — Thực tập sinh
 
 Nguồn: [1](https://www.mpia.de/en/LMG/stellar-spectroscopy-and-populations/members), [2](https://www2.mpia-hd.mpg.de/~bergemann/jobs.html).
+
+### [Extragalactic Group (de Graaff)](https://www.mpia.de/extragalactic-group/members)
+
+Nhóm nghiên cứu Lise Meitner. Trực thuộc: Max-Planck-Institut für Astronomie.
+
+Hình thành thiên hà và lỗ đen sớm với JWST (dẫn dắt chương trình RUBIES), các 'chấm đỏ nhỏ' (little red dots), thiên hà khối lượng lớn sớm, khảo sát Euclid, Roman, 4MOST; tài trợ Lise Meitner và ERC FIRST-GIANTS.
+
+- Anna de Graaff — Trưởng nhóm Lise Meitner
+- Thomas Harvey — Nghiên cứu sau tiến sĩ
+- Raphael Hviding — Nghiên cứu sau tiến sĩ
+- Ines Berčuk — Nghiên cứu sinh
+- Rashmi Gottumukkala — Nghiên cứu sinh
+- Maria Teresa Nardone — Nghiên cứu sinh
+- Jerret Peschka — Sinh viên / thực tập
+- Osama Bin Feroze — Sinh viên / thực tập
+
+Nguồn: [1](https://www.mpia.de/extragalactic-group), [2](https://www.mpia.de/extragalactic-group/members).
+
+### [Emeritus Research Group (Henning)](https://www.mpia.de/6253118/thomas-k)
+
+Nhóm nghiên cứu danh dự. Trực thuộc: Max-Planck-Institut für Astronomie.
+
+Hình thành sao và hành tinh, đĩa tiền hành tinh, hành tinh ngoài và sao lùn nâu, vật lý – hóa học môi trường liên sao, thiên văn phòng thí nghiệm; Heidelberg Initiative for the Origins of Life.
+
+Trang nhóm chỉ có hồ sơ của trưởng nhóm.
+
+- Thomas Henning — Giám đốc danh dự; trưởng nhóm
+
+Nguồn: [1](https://www.mpia.de/6253118/thomas-k).
 
 ## Max-Planck-Institut für Kernphysik — Heidelberg
 
