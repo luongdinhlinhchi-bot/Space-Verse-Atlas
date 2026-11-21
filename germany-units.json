@@ -157,7 +157,7 @@
   "Max-Planck-Institut für Kernphysik": {
    "structure": "Abteilung Nicht-thermische Astrophysik (giám đốc: Jim Hinton)",
    "structureUrl": "https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members",
-   "scopeNote": "Đủ danh sách cho bộ phận Non-Thermal Astrophysics; hai bộ phận Astroparticle Physics (Mertens) và Particle and Astroparticle Physics (Lindner) mới có giám đốc và trưởng nhóm. Không đưa vào các bộ phận động lực học lượng tử.",
+   "scopeNote": "Đủ ba bộ phận liên quan thiên văn – hạt thiên văn: Non-Thermal Astrophysics (Hinton), Astroparticle Physics (Mertens), Particle and Astroparticle Physics (Lindner). Không đưa vào các bộ phận động lực học lượng tử và ion.",
    "units": [
     {
      "name": "H.E.S.S., CTAO",
@@ -180,19 +180,19 @@
      "parent": "Max-Planck-Institut für Kernphysik",
      "topics": "Khối lượng neutrino (KATRIN), phân rã beta kép không neutrino (LEGEND), tìm vật chất tối (XENON), tán xạ neutrino lò phản ứng (CONUS+), axion (IAXO).",
      "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics",
-     "note": "Trang bộ phận chỉ liệt kê giám đốc và trưởng nhóm; chưa có danh sách thành viên."
+     "note": "Danh sách theo trang thành viên của bộ phận (gồm cả người làm tại TU München trong các dự án chung)."
     },
     {
      "name": "Particle and Astroparticle Physics (Lindner)",
      "kind": "Bộ phận (Abteilung)",
      "parent": "Max-Planck-Institut für Kernphysik",
      "topics": "Lý thuyết vật lý hạt và hạt thiên văn: vật lý neutrino, bản chất vật chất tối và hệ quả vũ trụ học.",
-     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/particle-and-astroparticle-physics",
-     "note": "Trang bộ phận không có danh sách thành viên; mới ghi giám đốc."
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html",
+     "note": "Danh sách theo trang People của bộ phận Lindner; đã bỏ trợ lý hành chính."
     }
    ],
    "networks": [],
-   "coverage": "partial"
+   "coverage": "full"
   },
   "Max-Planck-Institut für Astronomie": {
    "structure": "Ba bộ phận khoa học (giám đốc: Hans-Walter Rix, Myriam Benisty, Laura Kreidberg) và các nhóm nghiên cứu độc lập",

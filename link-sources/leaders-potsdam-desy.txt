@@ -1,0 +1,7 @@
+#inst Universität Potsdam
+#inst DESY
+Martin Pohl|http://www.desy.de/ueber_desy/leitende_wissenschaftler/martin_pohl/index_ger.html
+Huirong Yan|https://www.desy.de/~hyan/
+Christian Stegmann|http://www.desy.de/ueber_desy/direktorium/christian_stegmann/index_ger.html
+Philipp Richter|http://www.astro.physik.uni-potsdam.de/~prichter
+Stephan Geier|http://www.astro.physik.uni-potsdam.de/~stellar/

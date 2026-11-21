@@ -14,7 +14,7 @@ pp: GSTN | L. Gizon
 parent: Institut für Astrophysik und Geophysik
 topics: Phân tích 3D các vụ phóng khối lượng vành nhật hoa (STEREO, SOHO), mô hình gió Mặt Trời và F-corona cho Parker Solar Probe và Solar Orbiter, dự báo thời tiết vũ trụ.
 src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
-pp: TN | V. Bothmer
+p: V. Bothmer | Trưởng nhóm (đã mất — theo thông báo của Đại học Göttingen) | https://www.uni-goettingen.de/de/traueranzeige+dr.+volker+bothmer+%e2%80%a0/707735.html
 pp: NCV | I. A. M. Chifu
 
 #unit Planeten um masse-arme Sterne

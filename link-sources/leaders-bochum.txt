@@ -1,0 +1,9 @@
+#inst Ruhr-Universität Bochum
+#inst Dortmund
+Anna Franckowiak|https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-franckowiak-anna/
+Ralf-Jürgen Dettmar|https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-dettmar-ralf-juergen/
+Hendrik Hildebrandt|https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-hildebrandt-hendrik/
+Dominik Bomans|https://people.astro.ruhr-uni-bochum.de/bomans/
+Julia Tjus|https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-tjus-julia/
+Wolfgang Rhode|https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-dr-wolfgang-rhode/
+Reinhard Schlickeiser|http://www.tp4.rub.de/weltraum-astrophysik.php

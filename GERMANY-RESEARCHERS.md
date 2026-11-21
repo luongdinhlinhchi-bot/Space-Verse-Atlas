@@ -1863,7 +1863,7 @@ Nhóm nghiên cứu. Trực thuộc: Institut für Astrophysik und Geophysik.
 
 Phân tích 3D các vụ phóng khối lượng vành nhật hoa (STEREO, SOHO), mô hình gió Mặt Trời và F-corona cho Parker Solar Probe và Solar Orbiter, dự báo thời tiết vũ trụ.
 
-- V. Bothmer — Trưởng nhóm nghiên cứu
+- V. Bothmer — Trưởng nhóm (đã mất — theo thông báo của Đại học Göttingen)
 - I. A. M. Chifu — Nghiên cứu viên
 
 Nguồn: [1](https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf).
@@ -3575,7 +3575,7 @@ Nguồn: [1](https://www.mpia.de/en/LMG/stellar-spectroscopy-and-populations/mem
 
 [Cơ cấu](https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members): Abteilung Nicht-thermische Astrophysik (giám đốc: Jim Hinton)
 
-Đủ danh sách cho bộ phận Non-Thermal Astrophysics; hai bộ phận Astroparticle Physics (Mertens) và Particle and Astroparticle Physics (Lindner) mới có giám đốc và trưởng nhóm. Không đưa vào các bộ phận động lực học lượng tử.
+Đủ ba bộ phận liên quan thiên văn – hạt thiên văn: Non-Thermal Astrophysics (Hinton), Astroparticle Physics (Mertens), Particle and Astroparticle Physics (Lindner). Không đưa vào các bộ phận động lực học lượng tử và ion.
 
 ### [H.E.S.S., CTAO](https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members)
 
@@ -3648,32 +3648,97 @@ Bộ phận (Abteilung). Trực thuộc: Max-Planck-Institut für Kernphysik.
 
 Khối lượng neutrino (KATRIN), phân rã beta kép không neutrino (LEGEND), tìm vật chất tối (XENON), tán xạ neutrino lò phản ứng (CONUS+), axion (IAXO).
 
-Trang bộ phận chỉ liệt kê giám đốc và trưởng nhóm; chưa có danh sách thành viên.
+Danh sách theo trang thành viên của bộ phận (gồm cả người làm tại TU München trong các dự án chung).
 
-- Susanne Mertens — Giám đốc
-- Christian Buck — Trưởng nhóm nghiên cứu
-- Teresa Marrodán Undagoitia — Trưởng nhóm nghiên cứu
-- Hardy Simgen — Trưởng nhóm nghiên cứu
-- Christoph Wiesinger — Trưởng nhóm nghiên cứu
+- Susanne Mertens — Giám đốc bộ phận
+- Christian Buck — Trưởng nhóm (PD) — CONUS+ & IAXO
+- Teresa Marrodán Undagoitia — Trưởng nhóm (GS) — XENON & TRISTAN
+- Hardy Simgen — Trưởng nhóm — H-RD, XENON & LEGEND
+- Christoph Wiesinger — Trưởng nhóm — LEGEND, KATRIN & IAXO
+- Nicola Ackermann — Nghiên cứu viên sau tiến sĩ
+- Andrew Gavin — Nghiên cứu viên sau tiến sĩ
+- Chloé Goupy — Nghiên cứu viên sau tiến sĩ
+- Christoph Köhler — Nghiên cứu viên sau tiến sĩ
+- Matthias Meier — Nghiên cứu viên sau tiến sĩ
+- Elizabeth Mondragón Cortés — Nghiên cứu viên sau tiến sĩ
+- Anthony Onillon — Nghiên cứu viên sau tiến sĩ
+- Edgar Sánchez García — Nghiên cứu viên sau tiến sĩ
+- Alessandro Schwemmer — Nghiên cứu viên sau tiến sĩ
+- Giovanni Volta — Nghiên cứu viên sau tiến sĩ
+- Sophie Armbruster — Nghiên cứu sinh
+- Patrick Bongratz — Nghiên cứu sinh
+- Raphael Brunet — Nghiên cứu sinh
+- Luca Fallböhmer — Nghiên cứu sinh
+- Andreas Gieb — Nghiên cứu sinh
+- Dario Piani — Nghiên cứu sinh
+- Jan Plößner — Nghiên cứu sinh
+- Jonas Schlegel — Nghiên cứu sinh
+- Lucinda Schönfeld — Nghiên cứu sinh
+- Juan Pablo Ulloa Beteta — Nghiên cứu sinh
+- Christian Forstner — Nghiên cứu sinh (TU München)
+- Florian Henkes — Nghiên cứu sinh (TU München)
+- Leo Laschinger — Nghiên cứu sinh (TU München)
+- Daniela Spreng — Nghiên cứu sinh (TU München)
+- Xaver Stribl — Nghiên cứu sinh (TU München)
+- Semine Bahrioglu — Học viên thạc sĩ
+- Jonghwi Kang — Học viên thạc sĩ
+- Humaira Nazneen — Học viên thạc sĩ
+- Rene Pretsch — Học viên thạc sĩ
+- Fabio Esteban Rodriguez Barrera — Học viên thạc sĩ
+- Pietro Santarossa — Học viên thạc sĩ
+- Yulai Shi — Học viên thạc sĩ
+- Julian Wendel — Học viên thạc sĩ
+- David Martins Chaves — Sinh viên cử nhân
+- Tabea Reilecke — Sinh viên cử nhân
+- Hannes Bonet — Kỹ sư / kỹ thuật viên của bộ phận
+- Steffen Form — Kỹ sư / kỹ thuật viên của bộ phận
+- Benjamin Gramlich — Kỹ sư / kỹ thuật viên của bộ phận
+- Herbert Strecker — Kỹ sư / kỹ thuật viên của bộ phận
+- Jonas Westermann — Kỹ sư / kỹ thuật viên của bộ phận
 
-Nguồn: [1](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics), [2](https://www.mpi-hd.mpg.de/mpi/en/career/graduate-schools-imprs-etc).
+Khách mời / thành viên liên kết:
 
-### [Particle and Astroparticle Physics (Lindner)](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/particle-and-astroparticle-physics)
+- Thomas Kihm — Nhà nghiên cứu liên kết
+- Simon Sailer — Nhà nghiên cứu liên kết
+- Evgeny Akhmedov — Nhà khoa học khách mời
+- Wolfgang Hampel — Nhà khoa học khách mời
+- Gerd Heusser — Nhà khoa học khách mời
+- Till Kirsten — Nhà khoa học khách mời
+- Sid El Moctar Ahmed Maouloud — Nghiên cứu viên đến thăm (XENON)
+- Florian Jörg — Nghiên cứu viên đến thăm (XENON)
+
+Nguồn: [1](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members).
+
+### [Particle and Astroparticle Physics (Lindner)](https://www.mpi-hd.mpg.de/lin/group_members.en.html)
 
 Bộ phận (Abteilung). Trực thuộc: Max-Planck-Institut für Kernphysik.
 
 Lý thuyết vật lý hạt và hạt thiên văn: vật lý neutrino, bản chất vật chất tối và hệ quả vũ trụ học.
 
-Trang bộ phận không có danh sách thành viên; mới ghi giám đốc.
+Danh sách theo trang People của bộ phận Lindner; đã bỏ trợ lý hành chính.
 
-- Manfred Lindner — Giám đốc
+- Manfred Lindner — Giám đốc bộ phận
+- Florian Goertz — Trưởng nhóm nghiên cứu trẻ Max Planck (NEWFO)
+- Saereh Najjari — Nghiên cứu viên sau tiến sĩ
+- Thomas Rink — Nghiên cứu viên sau tiến sĩ
+- Silvia Lucia Correa Angel — Nghiên cứu sinh
+- Juan Pablo Garces Varas — Nghiên cứu sinh
+- Maya Hager — Nghiên cứu sinh
+- Aika Marie Tada — Nghiên cứu sinh
+- Max Beckmann — Học viên thạc sĩ
+- Louis Möhringer — Học viên thạc sĩ
+- Vincent Natho — Học viên thạc sĩ
+- Markus Reinig — Học viên thạc sĩ
+- Manuel Salewski — Học viên thạc sĩ
+- Bilge Selcen Solak — Học viên thạc sĩ
+- Benhao Tang — Học viên thạc sĩ
 
 Khách mời / thành viên liên kết:
 
 - Werner Hofmann — Giáo sư danh dự còn hoạt động (Active Emeriti)
 - Heinrich J. Völk — Giáo sư danh dự còn hoạt động (Active Emeriti)
 
-Nguồn: [1](https://www.mpi-hd.mpg.de/lin/contact.en), [2](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/particle-and-astroparticle-physics).
+Nguồn: [1](https://www.mpi-hd.mpg.de/lin/group_members.en.html), [2](https://www.mpi-hd.mpg.de/lin/contact.en), [3](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/particle-and-astroparticle-physics).
 
 ## Friedrich-Schiller-Universität Jena — Astrophysikalisches Institut und Universitäts-Sternwarte — Jena
 

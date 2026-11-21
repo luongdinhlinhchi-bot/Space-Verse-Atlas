@@ -1,0 +1,5 @@
+#inst Tübingen
+Andrea Santangelo|https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-santangelo-abteilung-hochenergieastrophysik/
+Beate Stelzer|https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-stelzer-abteilung-weltraumgestuetzte-astrophysik/
+Klaus Werner|https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-werner-abteilung-astronomie/
+Kostas Kokkotas|http://www.tat.physik.uni-tuebingen.de/~kokkotas

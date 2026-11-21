@@ -1262,7 +1262,8 @@
     {
      "name": "Philipp Richter",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.astro.physik.uni-potsdam.de/~prichter/group.htm"
+     "url": "http://www.astro.physik.uni-potsdam.de/~prichter",
+     "profile": true
     },
     {
      "name": "Bernhard Kliem",
@@ -1306,7 +1307,8 @@
     {
      "name": "Stephan Geier",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.astro.physik.uni-potsdam.de/~stellar/Members.html"
+     "url": "http://www.astro.physik.uni-potsdam.de/~stellar/",
+     "profile": true
     },
     {
      "name": "Aakash Bhat",
@@ -1546,7 +1548,8 @@
     {
      "name": "Jim Hinton",
      "role": "Giám đốc; trưởng bộ phận",
-     "url": "https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members"
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics",
+     "profile": true
     },
     {
      "name": "Konrad Bernlöhr",
@@ -5011,7 +5014,8 @@
     {
      "name": "Martin Pohl",
      "role": "Giáo sư; trưởng các nhóm vật lý hạt thiên văn lý thuyết",
-     "url": "https://uni-potsdam.de/en/astroparticle/theoretical-astroparticle-physics/group-members"
+     "url": "http://www.desy.de/ueber_desy/leitende_wissenschaftler/martin_pohl/index_ger.html",
+     "profile": true
     },
     {
      "name": "Jan Benácek",
@@ -6468,49 +6472,360 @@
   },
   "Max-Planck-Institut für Kernphysik::Astroparticle Physics (Mertens)": {
    "sources": [
-    "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics",
-    "https://www.mpi-hd.mpg.de/mpi/en/career/graduate-schools-imprs-etc"
+    "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
    ],
    "people": [
     {
      "name": "Susanne Mertens",
-     "role": "Giám đốc",
-     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics"
+     "role": "Giám đốc bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/astroteilchenphysik/mitglieder/susanne-mertens-director"
     },
     {
      "name": "Christian Buck",
-     "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics"
+     "role": "Trưởng nhóm (PD) — CONUS+ & IAXO",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/astroteilchenphysik/mitglieder/christian-buck"
     },
     {
      "name": "Teresa Marrodán Undagoitia",
-     "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics"
+     "role": "Trưởng nhóm (GS) — XENON & TRISTAN",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/astroteilchenphysik/mitglieder/teresa-marrodan-undagoitia"
     },
     {
      "name": "Hardy Simgen",
-     "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics"
+     "role": "Trưởng nhóm — H-RD, XENON & LEGEND",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/astroteilchenphysik/mitglieder/hardy-simgen"
     },
     {
      "name": "Christoph Wiesinger",
-     "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics"
+     "role": "Trưởng nhóm — LEGEND, KATRIN & IAXO",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/astroteilchenphysik/mitglieder/christoph-wiesinger"
+    },
+    {
+     "name": "Nicola Ackermann",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Andrew Gavin",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Chloé Goupy",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Christoph Köhler",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Matthias Meier",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Elizabeth Mondragón Cortés",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Anthony Onillon",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Edgar Sánchez García",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Alessandro Schwemmer",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Giovanni Volta",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Sophie Armbruster",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Patrick Bongratz",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Raphael Brunet",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Luca Fallböhmer",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Andreas Gieb",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Dario Piani",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Jan Plößner",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Jonas Schlegel",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Lucinda Schönfeld",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Juan Pablo Ulloa Beteta",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Christian Forstner",
+     "role": "Nghiên cứu sinh (TU München)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Florian Henkes",
+     "role": "Nghiên cứu sinh (TU München)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Leo Laschinger",
+     "role": "Nghiên cứu sinh (TU München)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Daniela Spreng",
+     "role": "Nghiên cứu sinh (TU München)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Xaver Stribl",
+     "role": "Nghiên cứu sinh (TU München)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Semine Bahrioglu",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Jonghwi Kang",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Humaira Nazneen",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Rene Pretsch",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Fabio Esteban Rodriguez Barrera",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Pietro Santarossa",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Yulai Shi",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Julian Wendel",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "David Martins Chaves",
+     "role": "Sinh viên cử nhân",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Tabea Reilecke",
+     "role": "Sinh viên cử nhân",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Hannes Bonet",
+     "role": "Kỹ sư / kỹ thuật viên của bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Steffen Form",
+     "role": "Kỹ sư / kỹ thuật viên của bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Benjamin Gramlich",
+     "role": "Kỹ sư / kỹ thuật viên của bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Herbert Strecker",
+     "role": "Kỹ sư / kỹ thuật viên của bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Jonas Westermann",
+     "role": "Kỹ sư / kỹ thuật viên của bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
     }
    ],
-   "external": [],
+   "external": [
+    {
+     "name": "Thomas Kihm",
+     "role": "Nhà nghiên cứu liên kết",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Simon Sailer",
+     "role": "Nhà nghiên cứu liên kết",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Evgeny Akhmedov",
+     "role": "Nhà khoa học khách mời",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Wolfgang Hampel",
+     "role": "Nhà khoa học khách mời",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Gerd Heusser",
+     "role": "Nhà khoa học khách mời",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Till Kirsten",
+     "role": "Nhà khoa học khách mời",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Sid El Moctar Ahmed Maouloud",
+     "role": "Nghiên cứu viên đến thăm (XENON)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    },
+    {
+     "name": "Florian Jörg",
+     "role": "Nghiên cứu viên đến thăm (XENON)",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics/members"
+    }
+   ],
    "note": ""
   },
   "Max-Planck-Institut für Kernphysik::Particle and Astroparticle Physics (Lindner)": {
    "sources": [
+    "https://www.mpi-hd.mpg.de/lin/group_members.en.html",
     "https://www.mpi-hd.mpg.de/lin/contact.en",
     "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/particle-and-astroparticle-physics"
    ],
    "people": [
     {
      "name": "Manfred Lindner",
-     "role": "Giám đốc",
-     "url": "https://www.mpi-hd.mpg.de/lin/contact.en"
+     "role": "Giám đốc bộ phận",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Florian Goertz",
+     "role": "Trưởng nhóm nghiên cứu trẻ Max Planck (NEWFO)",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Saereh Najjari",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Thomas Rink",
+     "role": "Nghiên cứu viên sau tiến sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Silvia Lucia Correa Angel",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Juan Pablo Garces Varas",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Maya Hager",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Aika Marie Tada",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Max Beckmann",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Louis Möhringer",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Vincent Natho",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Markus Reinig",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Manuel Salewski",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Bilge Selcen Solak",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
+    },
+    {
+     "name": "Benhao Tang",
+     "role": "Học viên thạc sĩ",
+     "url": "https://www.mpi-hd.mpg.de/lin/group_members.en.html"
     }
    ],
    "external": [
@@ -6536,7 +6851,8 @@
     {
      "name": "Huirong Yan",
      "role": "Giáo sư — trưởng nhóm (bổ nhiệm chung với DESY)",
-     "url": "https://uni-potsdam.de/en/astroparticle/plasma-astrophysics/group-members"
+     "url": "https://www.desy.de/~hyan/",
+     "profile": true
     },
     {
      "name": "Siqi Zhao",
@@ -6576,7 +6892,8 @@
     {
      "name": "Christian Stegmann",
      "role": "Giáo sư (đồng thời giám đốc DESY Astroparticle Physics)",
-     "url": "https://www.uni-potsdam.de/de/astroparticle/experimentelle-astroteilchenphysik/gruppenmitglieder"
+     "url": "http://www.desy.de/ueber_desy/direktorium/christian_stegmann/index_ger.html",
+     "profile": true
     },
     {
      "name": "Kathrin Egberts",
@@ -7041,12 +7358,14 @@
     {
      "name": "D. Berge",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf"
+     "url": "https://www.desy.de/about_desy/lead_scientists/david_berge/index_eng.html",
+     "profile": true
     },
     {
      "name": "M. Kowalski",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf"
+     "url": "https://www.desy.de/about_desy/lead_scientists/marek_kowalski/index_eng.html",
+     "profile": true
     },
     {
      "name": "A. Delgado",
@@ -7558,22 +7877,26 @@
     {
      "name": "Anna Franckowiak",
      "role": "GS — giám đốc điều hành",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf"
+     "url": "https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-franckowiak-anna/",
+     "profile": true
     },
     {
      "name": "Ralf-Jürgen Dettmar",
      "role": "Giáo sư",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf"
+     "url": "https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-dettmar-ralf-juergen/",
+     "profile": true
     },
     {
      "name": "Hendrik Hildebrandt",
      "role": "Giáo sư",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf"
+     "url": "https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-hildebrandt-hendrik/",
+     "profile": true
     },
     {
      "name": "Dominik Bomans",
      "role": "GS (apl.)",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf"
+     "url": "https://people.astro.ruhr-uni-bochum.de/bomans/",
+     "profile": true
     },
     {
      "name": "Rolf Chini",
@@ -7944,12 +8267,14 @@
     {
      "name": "Julia Tjus",
      "role": "GS — trưởng chair",
-     "url": "https://www.tp4.ruhr-uni-bochum.de/members/"
+     "url": "https://www.physik.ruhr-uni-bochum.de/en/Professuren/prof-dr-tjus-julia/",
+     "profile": true
     },
     {
      "name": "Wolfgang Rhode",
      "role": "GS (giáo sư danh dự RUB, TU Dortmund)",
-     "url": "https://www.tp4.ruhr-uni-bochum.de/members/"
+     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-dr-wolfgang-rhode/",
+     "profile": true
     },
     {
      "name": "Sophie Aerdker",
@@ -8189,7 +8514,8 @@
     {
      "name": "Reinhard Schlickeiser",
      "role": "Giáo sư",
-     "url": "https://www.tp4.ruhr-uni-bochum.de/members/"
+     "url": "http://www.tp4.rub.de/weltraum-astrophysik.php",
+     "profile": true
     }
    ],
    "external": [],
@@ -8239,12 +8565,14 @@
     {
      "name": "Norbert Langer",
      "role": "Giáo sư danh dự / cao niên",
-     "url": "https://www.aifa.uni-bonn.de//members/professors"
+     "url": "https://astro.uni-bonn.de/~nlanger/",
+     "profile": true
     },
     {
      "name": "Ulrich Klein",
      "role": "Giáo sư danh dự / cao niên",
-     "url": "https://www.aifa.uni-bonn.de//members/professors"
+     "url": "https://astro.uni-bonn.de/~uklein/",
+     "profile": true
     },
     {
      "name": "Wolfgang Kundt",
@@ -8573,7 +8901,8 @@
     {
      "name": "Pavel Kroupa",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.aifa.uni-bonn.de//en/institute/members"
+     "url": "https://astro.uni-bonn.de/~pavel/",
+     "profile": true
     },
     {
      "name": "Akram Hasani Zonoozi",
@@ -8627,7 +8956,8 @@
     {
      "name": "M. Kramer",
      "role": "Giám đốc",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
+     "url": "https://www3.mpifr-bonn.mpg.de/staff/mkramer/About_Me.html",
+     "profile": true
     },
     {
      "name": "K. M. Menten",
@@ -8637,7 +8967,8 @@
     {
      "name": "A. Saintonge",
      "role": "Giám đốc",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
+     "url": "https://www.mpifr-bonn.mpg.de/person/133514/8864666",
+     "profile": true
     },
     {
      "name": "J. A. Zensus",
@@ -10355,7 +10686,8 @@
     {
      "name": "Wolfgang Rhode",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
+     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-dr-wolfgang-rhode/",
+     "profile": true
     },
     {
      "name": "Dominik Elsässer",
@@ -10537,22 +10869,26 @@
     {
      "name": "Luciano Rezzolla",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf"
+     "url": "https://www.uni-frankfurt.de/65933063/Arbeitsgruppe_Rezzolla",
+     "profile": true
     },
     {
      "name": "Laura Sagunski",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf"
+     "url": "https://dmgw.space/",
+     "profile": true
     },
     {
      "name": "Jürgen Schaffner-Bielich",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf"
+     "url": "http://astro.uni-frankfurt.de/schaffner/",
+     "profile": true
     },
     {
      "name": "Horst Stöcker",
      "role": "Giáo sư",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf"
+     "url": "http://fias.uni-frankfurt.de/~stoecker/v.html",
+     "profile": true
     },
     {
      "name": "Tanja Heftrich",
@@ -10906,7 +11242,8 @@
     {
      "name": "Stefan Schönert",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1"
+     "url": "https://www.professoren.tum.de/en/schoenert-stefan/",
+     "profile": true
     },
     {
      "name": "Ahmed Abdelhameed",
@@ -11131,7 +11468,8 @@
     {
      "name": "Elisa Resconi",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.ph.nat.tum.de/cosmic-particles/group-members"
+     "url": "https://www.professoren.tum.de/en/resconi-elisa",
+     "profile": true
     },
     {
      "name": "Phillipp Eller",
@@ -11271,7 +11609,8 @@
     {
      "name": "L. Gizon",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/216892.html",
+     "profile": true
     }
    ],
    "external": [],
@@ -11284,8 +11623,8 @@
    "people": [
     {
      "name": "V. Bothmer",
-     "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "role": "Trưởng nhóm (đã mất — theo thông báo của Đại học Göttingen)",
+     "url": "https://www.uni-goettingen.de/de/traueranzeige+dr.+volker+bothmer+%e2%80%a0/707735.html"
     },
     {
      "name": "I. A. M. Chifu",
@@ -11304,7 +11643,8 @@
     {
      "name": "S. Dreizler",
      "role": "GSTN — giám đốc điều hành (2023)",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/216891.html",
+     "profile": true
     },
     {
      "name": "P. Gorrini",
@@ -11328,7 +11668,8 @@
     {
      "name": "S. Dreizler",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/216891.html",
+     "profile": true
     },
     {
      "name": "F. Göttgens",
@@ -11363,7 +11704,8 @@
     {
      "name": "A. Reiners",
      "role": "GSTN — quyền giám đốc viện hiện tại",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/216896.html",
+     "profile": true
     },
     {
      "name": "M. Zechmeister",
@@ -11401,7 +11743,8 @@
     {
      "name": "W. Kollatschny",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/216897.html",
+     "profile": true
     },
     {
      "name": "M. Ochmann",
@@ -11430,7 +11773,8 @@
     {
      "name": "J. Niemeyer",
      "role": "Giáo sư",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/201012.html",
+     "profile": true
     },
     {
      "name": "B. Eggemeier",
@@ -11493,7 +11837,8 @@
     {
      "name": "W. Glatzel",
      "role": "Giáo sư đã nghỉ hưu",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+     "url": "https://www.uni-goettingen.de/de/216894.html",
+     "profile": true
     },
     {
      "name": "F. Kneer",
@@ -17331,7 +17676,8 @@
     {
      "name": "Andrea Santangelo",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://uni-tuebingen.de/en/271752"
+     "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-santangelo-abteilung-hochenergieastrophysik/",
+     "profile": true
     },
     {
      "name": "Gerd Pühlhofer",
@@ -17662,7 +18008,8 @@
     {
      "name": "Beate Stelzer",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://uni-tuebingen.de/en/271752"
+     "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-stelzer-abteilung-weltraumgestuetzte-astrophysik/",
+     "profile": true
     },
     {
      "name": "Alexander Binks",
@@ -17717,7 +18064,8 @@
     {
      "name": "Klaus Werner",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://uni-tuebingen.de/en/271752"
+     "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-werner-abteilung-astronomie/",
+     "profile": true
     },
     {
      "name": "Thomas Rauch",
@@ -17786,7 +18134,8 @@
     {
      "name": "Kostas Kokkotas",
      "role": "GS — trưởng chair (Lehrstuhlinhaber)",
-     "url": "https://uni-tuebingen.de/de/3987"
+     "url": "http://www.tat.physik.uni-tuebingen.de/~kokkotas",
+     "profile": true
     },
     {
      "name": "Daniela Doneva",
@@ -17997,7 +18346,8 @@
     {
      "name": "Karl Mannheim",
      "role": "Trưởng chair (Lehrstuhlinhaber)",
-     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898"
+     "url": "https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-mannheim/",
+     "profile": true
     },
     {
      "name": "Daniela Dorner",
@@ -18113,12 +18463,14 @@
     {
      "name": "Christian Fromm",
      "role": "Trợ lý khoa học (Assistent); trưởng nhóm",
-     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898"
+     "url": "https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-fromm/",
+     "profile": true
     },
     {
      "name": "Thomas Siegert",
      "role": "Trợ lý khoa học (Assistent); trưởng nhóm",
-     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898"
+     "url": "https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-siegert/",
+     "profile": true
     },
     {
      "name": "Tristan Bouchet",
@@ -18209,7 +18561,8 @@
     {
      "name": "Christian Stegmann",
      "role": "GD — giám đốc phụ trách vật lý hạt thiên văn; giáo sư Uni Potsdam",
-     "url": "https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf"
+     "url": "http://www.desy.de/ueber_desy/direktorium/christian_stegmann/index_ger.html",
+     "profile": true
     },
     {
      "name": "Stefan Klepser",
@@ -18221,12 +18574,14 @@
     {
      "name": "Martin Pohl",
      "role": "Giáo sư liên kết — Uni Potsdam",
-     "url": "https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf"
+     "url": "http://www.desy.de/ueber_desy/leitende_wissenschaftler/martin_pohl/index_ger.html",
+     "profile": true
     },
     {
      "name": "Huirong Yan",
      "role": "Giáo sư liên kết — Uni Potsdam",
-     "url": "https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf"
+     "url": "https://www.desy.de/~hyan/",
+     "profile": true
     },
     {
      "name": "Anna Nelles",
@@ -18236,7 +18591,7 @@
     {
      "name": "Sara Buson",
      "role": "Giáo sư trẻ liên kết — Universität Würzburg",
-     "url": "https://www.physik.uni-wuerzburg.de/en/astro/mitarbeiter/ag-buson/",
+     "url": "https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-buson/",
      "profile": true
     }
    ],
@@ -18251,12 +18606,14 @@
     {
      "name": "David Berge",
      "role": "TN — giáo sư HU Berlin",
-     "url": "https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html"
+     "url": "https://www.desy.de/about_desy/lead_scientists/david_berge/index_eng.html",
+     "profile": true
     },
     {
      "name": "Christian Stegmann",
      "role": "GD — giám đốc Astroparticle Physics, phụ trách cơ sở Zeuthen",
-     "url": "https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html"
+     "url": "http://www.desy.de/ueber_desy/direktorium/christian_stegmann/index_ger.html",
+     "profile": true
     },
     {
      "name": "Lea Marcotulli",
@@ -18276,7 +18633,8 @@
     {
      "name": "Sara Buson",
      "role": "Nghiên cứu viên",
-     "url": "https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html"
+     "url": "https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-buson/",
+     "profile": true
     },
     {
      "name": "Emma de Oña Wilhelmi",
@@ -18681,7 +19039,8 @@
     {
      "name": "Marek Kowalski",
      "role": "TN — giáo sư HU Berlin",
-     "url": "https://astroparticle-physics.desy.de/about_us/group_members/neutrino_astronomy/index_eng.html"
+     "url": "https://www.desy.de/about_desy/lead_scientists/marek_kowalski/index_eng.html",
+     "profile": true
     },
     {
      "name": "Markus Ackermann",
@@ -18821,7 +19180,8 @@
     {
      "name": "Martin Pohl",
      "role": "Nghiên cứu viên",
-     "url": "https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html"
+     "url": "http://www.desy.de/ueber_desy/leitende_wissenschaftler/martin_pohl/index_ger.html",
+     "profile": true
     },
     {
      "name": "Rafael Alejandro Porto Pereira",

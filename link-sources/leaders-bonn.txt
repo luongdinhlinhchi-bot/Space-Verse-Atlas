@@ -1,0 +1,4 @@
+#inst Argelander
+Pavel Kroupa|https://astro.uni-bonn.de/~pavel/
+Norbert Langer|https://astro.uni-bonn.de/~nlanger/
+Ulrich Klein|https://astro.uni-bonn.de/~uklein/

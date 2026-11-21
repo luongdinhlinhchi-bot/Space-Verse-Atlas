@@ -1,0 +1,6 @@
+#inst Würzburg
+#inst DESY
+Karl Mannheim|https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-mannheim/
+Sara Buson|https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-buson/
+Christian Fromm|https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-fromm/
+Thomas Siegert|https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-siegert/
