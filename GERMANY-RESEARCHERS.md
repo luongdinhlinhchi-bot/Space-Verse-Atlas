@@ -4313,7 +4313,7 @@ Nguồn: [1](https://astro.uni-koeln.de/en/members/emeritus).
 
 [Cơ cấu](https://www.etap.physik.uni-mainz.de/index): ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Oberlack (XENON/COSI), AG Wurm, nhóm Ludhova (JUNO), AG Köpke
 
-AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần (trang nhóm không truy cập được; thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+). AG Köpke mới có trưởng nhóm.
+AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần: nhóm không công bố danh sách thành viên ở nguồn công khai nào tìm được (trang ETAP chỉ mô tả nhóm khoảng 15–20 người), nên thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+. AG Köpke chỉ có trưởng nhóm.
 
 ### [AG Böser](https://ag-boeser.physik.uni-mainz.de/)
 

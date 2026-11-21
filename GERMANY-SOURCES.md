@@ -100,3 +100,7 @@ Tổng: 40 cơ quan, 179 đơn vị, 2247 người không trùng tên.
 - DLR: thêm trưởng bộ phận Planetare Labore (Maturilli) — tools/patch_dlr.py. DLR không công bố danh sách nhân viên theo bộ phận.
 - Mainz: chưa lấy được thành viên nhóm Wurm (trang nhóm và danh bạ personen.uni-mainz.de không mở được).
 - Lưu ý: sau merge_de.py phải chạy patch_heidelberg.py và patch_dlr.py (idempotent) rồi apply_links.py.
+
+## Hoàn tất nước Đức (2026-11-22)
+- Thêm mức coverage "limited" (đã lấy hết nguồn công khai) — tính là xong trên bản đồ, hiển thị ghi chú. Áp dụng cho DLR (không công bố nhân viên theo bộ phận) và Mainz ETAP (nhóm Wurm không có danh sách công khai).
+- Kết quả: 30/30 thành phố xong; 40 cơ quan (38 full, 2 limited); ~3.760 người, ~1.830 có link trang cá nhân riêng.

@@ -8,6 +8,7 @@ R["units"][key]["people"] = [{"name": "Alessandro Maturilli", "role": "Trưởng
 src = "https://www.dlr.de/de/wr/ueber-uns/abteilungen/abteilung-planetare-labore"
 if src not in R["units"][key]["sources"]: R["units"][key]["sources"].append(src)
 I = U["institutions"][k]
+I["coverage"] = "limited"
 I["structure"] = "Viện Nghiên cứu Vũ trụ của DLR ở Berlin-Adlershof (khoảng 300 nhân sự, 13 bộ phận), hình thành từ việc sáp nhập Viện Hệ cảm biến quang học và Viện Nghiên cứu hành tinh; giám đốc: Heinz-Wilhelm Hübers. Ở đây chỉ lấy năm bộ phận nghiên cứu hành tinh."
 I["scopeNote"] = ("Ghi đủ trưởng của cả năm bộ phận nghiên cứu hành tinh. DLR không công bố danh sách nhân viên theo bộ phận: trang 'Contacts' của từng bộ phận để trống, "
   "trang bộ phận chỉ nêu trưởng bộ phận. Vì vậy cơ quan này chỉ có thể ghi ở mức trưởng bộ phận. Không đưa vào các bộ phận kỹ thuật và ứng dụng "

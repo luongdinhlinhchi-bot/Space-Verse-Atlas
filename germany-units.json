@@ -638,7 +638,7 @@
     }
    ],
    "networks": [],
-   "coverage": "leaders"
+   "coverage": "limited"
   },
   "Max-Planck-Institut für Astrophysik": {
    "structure": "Năm mảng nghiên cứu và bốn nhóm nghiên cứu độc lập; giám đốc: Selma E. de Mink, Guinevere Kauffmann, Eiichiro Komatsu, Volker Springel",
@@ -1828,10 +1828,10 @@
    "networks": []
   },
   "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)": {
-   "coverage": "partial",
+   "coverage": "limited",
    "structure": "ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Oberlack (XENON/COSI), AG Wurm, nhóm Ludhova (JUNO), AG Köpke",
    "structureUrl": "https://www.etap.physik.uni-mainz.de/index",
-   "scopeNote": "AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần (trang nhóm không truy cập được; thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+). AG Köpke mới có trưởng nhóm.",
+   "scopeNote": "AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần: nhóm không công bố danh sách thành viên ở nguồn công khai nào tìm được (trang ETAP chỉ mô tả nhóm khoảng 15–20 người), nên thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+. AG Köpke chỉ có trưởng nhóm.",
    "units": [
     {
      "name": "AG Böser",
