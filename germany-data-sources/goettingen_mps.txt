@@ -1,0 +1,50 @@
+@inst Max-Planck-Institut für Sonnensystemforschung
+structure: Ba bộ phận khoa học (giám đốc: Sami Solanki, Laurent Gizon, Thorsten Kleine) và các nhóm nghiên cứu khác
+structureUrl: https://mps.mpg.de/institute
+scope: Danh sách lấy từ trang nhân sự của từng bộ phận; người không ghi chức danh không được đưa vào. Chưa làm các nhóm độc lập ComFyDa, MICS và nhóm Max Planck Fellow Inverse Problems (trang không có danh sách nhân sự).
+
+#unit Sun and Heliosphere
+kind: Bộ phận (Abteilung)
+parent: Max-Planck-Institut für Sonnensystemforschung
+topics: Bên trong và khí quyển Mặt Trời, từ trường Mặt Trời, nhật quyển và môi trường liên hành tinh, bức xạ và hạt năng lượng từ Mặt Trời.
+url: https://www.mps.mpg.de/solar-physics/staff
+src: https://www.mps.mpg.de/solar-physics/staff ; https://www.mps.mpg.de/en
+note: Ba người đang ở giai đoạn hoàn tất sau bảo vệ tiến sĩ được ghi là nghiên cứu sinh.
+pp: GD | Sami Solanki
+pp: TN | Lakshmi Pradeep Chitta
+pp: NCV | Regina Aznar Cuadrado; Robert Cameron; Theodosios Chatzistergos; Alex Feller; Achim Gandorfer; Johann Hirzberger; Natalie Krivova; Andreas Lagg; Maria Madjarska; Smitha Narayanamurthy; Michiel van Noort; Hardi Peter; Tino Riethmüller; Udo Schühle; Alexander Shapiro; Luca Teriaca; Gherardo Valori; Joachim Woch
+pp: NCV — điều phối khoa học IMPRS | Sonja Schuh
+pp: PD | Tanayveer Bhatia; Kamlesh Bora; Daniele Calchetti; Juan Sebastian Castellanos Duran; Antoine Dolliou; Xiaohong Li; Philipp Löschl; Vasantharaju Naganna; Nawin Ngampoopun; Jonathan Nölke; Patrick Alexander Ondratschek; Wenzhi Ruan; Artem Ulyanov; Lisa-Marie Zeßner-Ondratschek
+pp: NCS | Edvarda Harnes; David Ivens; Arjun Kannan; Rosa Keers; Aswathi Krishnan Kutty; Xiang Li; Bhinva Ram; Mario Roco Moraleda; Kunal Hardeep Singh; Duresa Temaj; Ajay Kumar Yadav; Sanghita Chandra; Abhas Pradhan; Johannes Weßling
+xx: KM | Emre Isik
+
+#unit Solar and Stellar Interiors
+kind: Bộ phận (Abteilung)
+parent: Max-Planck-Institut für Sonnensystemforschung
+topics: Nhật chấn học và tinh chấn học: cấu trúc bên trong Mặt Trời và các sao; hành tinh ngoài Hệ Mặt Trời (PLATO).
+url: https://www.mps.mpg.de/helioseismology-asteroseismology/staff1
+src: https://www.mps.mpg.de/helioseismology-asteroseismology/staff1 ; https://www.mps.mpg.de/MPS_Brochure_2025
+note: Marion Galoy có tên trên trang nhưng không ghi chức danh nên chưa đưa vào.
+pp: GD | Laurent Gizon
+pp: Trưởng nhóm nghiên cứu Max Planck | Xiaojue Zhu
+pp: NCV | Matthias Ammler-von Eiff; Aaron Birch; Robert Cameron; Cilia Damiani; Damien Fournier; René Heller; Chen Jiang; Nadiia Kostogryz; Zhi-Chao Liang; Jesper Schou
+pp: NCV — điều phối khoa học IMPRS | Sonja Schuh
+pp: PD | Yuto Bekki; Himanshu Dave; Björn Müller; Kuntal Patel; Weiyu Shen; Valeriy Vasilyev; Maxim Vavilin; William Waalkes; Dan Yang; Chengyao Zhang; Zisong Zhou
+pp: NCS | Lisa Marie Beckmann; Abhiroop Bhadra; Yifeng Fu; Yash Mandowara; Suprabha Mukhopadhyay; Muneeb Mushtaq; Noemi Padar; Aarushi Rawat; Prithwitosh Dey; Neelanchal Joshi
+
+#unit Planetary Science
+kind: Bộ phận (Abteilung)
+parent: Max-Planck-Institut für Sonnensystemforschung
+topics: Hình thành và tiến hoá của hành tinh, mặt trăng, sao chổi và tiểu hành tinh; vũ trụ hoá học và phòng thí nghiệm đồng vị.
+url: https://www.mps.mpg.de/planetary-science/staff
+src: https://www.mps.mpg.de/planetary-science/staff
+pp: GD | Thorsten Kleine
+pp: EM | Ulrich Christensen
+pp: TN | Joanna Drazkowska; Christian Renggli
+pp: NCV | Christoph Burkhardt; Borys Dabrowski; Willi Exner; Markus Fränz; Fred Goesmann; Walter Goetz; Pablo Gutierrez-Marques; Paul Hartogh; Jan Hellmann; Christopher Jarchow; Norbert Krupp; Urs Mall; Andreas Nathues; Miriam Rengel; Ladislav Rezac; Elias Roussos; Christian Schröder; Yuri Skorov; Oliver Stenzel; Johannes Wicht; Fatma Yesil Sahan
+pp: NCV — điều phối nghiên cứu | Wieland Dietrich
+pp: NCV — quản lý phòng thí nghiệm | Timo Hopp
+pp: NCV — điều phối khoa học IMPRS | Sonja Schuh
+pp: PD | Mohammad Anas; Azar Arghavanian; Lucas Calvo; Maelie Coutelier; Pablo de Lucia Finkel; Michael Hammer; Guillaume Leseigneur; Maxime Piralla; Mariana Sanchez; Akriti Sinha; Fridolin Spitzer; Shengyu Tian; Philipp Wittmann; Elias Wölfer; Xin Yang
+pp: NCS | Angelina Abel; Tarryn Aucamp; Jan Niklas Bienemann; Lara De Carne; Meghna Dutta; Rody Erftemeijer; Tytrice Faison; Nerea Gurrutxaga; Miles Lindner; Illya Lohay; Carolin Meyer; Fabio Prencipe; Fiona Nadine Speller; Betty Pei-Chun Tsai; Vignesh Vaikundaraman; Haichen Zhao
+xx: KM | Diya Kumar

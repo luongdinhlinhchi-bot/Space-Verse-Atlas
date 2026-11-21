@@ -1,0 +1,17 @@
+@inst Leibniz Universität Hannover — Institut für Gravitationsphysik
+structure: Institut für Gravitationsphysik, Leibniz Universität Hannover, làm việc chung với AEI Hannover (Max-Planck-Institut für Gravitationsphysik); bộ phận Laser Interferometry and Gravitational Wave Astronomy và Observational Relativity and Cosmology (Bruce Allen)
+structureUrl: https://www.mpg.de/152559/gravitational-physics-hanover
+scope: Mới ghi trưởng nhóm theo danh sách giảng viên của IMPRS về thiên văn sóng hấp dẫn (Hannover); chưa có danh sách thành viên từng nhóm. Danh sách nhân sự AEI Hannover rất dài và chưa đọc hết.
+
+#unit Trưởng nhóm nghiên cứu (AEI Hannover và Leibniz Universität Hannover)
+kind: Danh sách trưởng nhóm
+parent: Institut für Gravitationsphysik / AEI Hannover
+topics: Thiên văn sóng hấp dẫn: giao thoa laser, GEO600, LISA, phân tích dữ liệu sóng hấp dẫn và pulsar (Einstein@Home), sóng hấp dẫn liên tục.
+src: https://imprs-gw.aei.mpg.de/8256/staff-and-lecturers ; https://www.aei.mpg.de/person/23697/929518 ; https://www.mpg.de/152559/gravphysik_hannover
+p: Karsten Danzmann | Giám đốc danh dự; phát ngôn viên IMPRS | https://www.aei.mpg.de/person/23697/929518
+pp: GD — Observational Relativity and Cosmology | Bruce Allen
+pp: GS (apl.) — trưởng nhóm | Gerhard Heinzel; Benno Willke
+pp: GS — trưởng nhóm | Michèle Heurs; Guido Müller
+pp: Trưởng nhóm nghiên cứu Max Planck — Continuous Gravitational Waves | M. Alessandra Papa
+pp: TN | Harald Lück; Frank Ohme; Jens Reiche
+pp: Nghiên cứu viên cao cấp — Continuous Gravitational Waves | Reinhard Prix

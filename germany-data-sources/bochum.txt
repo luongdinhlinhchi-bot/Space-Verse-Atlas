@@ -1,0 +1,20 @@
+@inst Ruhr-Universität Bochum
+structure: Astronomisches Institut (AIRUB), Fakultät für Physik und Astronomie; giám đốc điều hành (2023): Anna Franckowiak
+structureUrl: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf
+scope: Danh sách lấy từ báo cáo thường niên 2023 (Mitteilungen der AG 107, 2024) vì chưa tìm thấy bản 2024; báo cáo không gán người vào nhóm. Chưa làm nhóm Theoretische Physik IV (plasma vũ trụ và tia vũ trụ), mục RDS thứ hai của Bochum.
+
+#unit Astronomisches Institut (toàn viện)
+kind: Danh sách toàn viện
+parent: Fakultät für Physik und Astronomie
+topics: Thiên hà, môi trường liên sao và từ trường vũ trụ; thấu kính hấp dẫn yếu và vũ trụ học (KiDS); vật lý hạt thiên văn năng lượng cao và neutrino (IceCube).
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf ; https://www.astro.ruhr-uni-bochum.de
+pp: GS — giám đốc điều hành | Anna Franckowiak
+pp: GS | Ralf-Jürgen Dettmar; Hendrik Hildebrandt
+pp: GS (apl.) | Dominik Bomans
+pp: GS — nhà nghiên cứu cao cấp | Rolf Chini
+pp: NCV | Björn Adebahr; Andrej Dvornik; Vandad Fallah Ramazani; Klaus Fuhrmann; Simone Garrappa; Peter Kamphuis; Emma Kun; Massimiliano Lincetto; Thomas Luks; Constance Mahony; Ancla Müller; Anna Porredon; Elisa Pueschel; Robert Reischke; Xavier Rodriguez; Benjamin Stölzner; Jan Luca van den Busch; Jun Wang; Angus Wright; Ziang Yan; Mijin Yoon
+pp: NCS | Anna Berger; Julia Blex; Susanne Blex; Paul Simon Blomenkamp; Luke Conmy; Lukas Dirks; Adam Enders; Eray Genc; Günther Heemann; Marianne Langener; Crystal Mele; Martin Ochmann; Giacomo Sommani; Michael Stein; Fabian Symietz; Anastasiia Omeliukh; Sam Taziaux; Patrik Veres; Sven Weimann; Anna Wittje; Shiyang Zhang
+pp: THS | Frederike Apel; Elena Marci Boehnke; Niklas Espendiller; Leon Gawlytta; Koustav Konar; Marcel Mielach; Dennis Neumann; Tim Sedlaczek; Leonard Stromberg; Pascal Vennedey; Maurice Weigelt
+pp: Sinh viên cử nhân | Nadine Altenhoff; Julia Baßier; Louis Borkhardt; Julius Dreisbach; Nisa Eyilmez; Alexander Grunewalt; Alexander Kier; Simon Pick; Jannik Pospiech; Philipp Salewsky; Fatma Yasa
+xx: Giáo sư khách mời — University of Edinburgh | Catherine Heymans
+xx: KM | Susanne Hüttemeister; Helmut Niemsch; Tom Richtler; Elmar Träbert; Kerstin Weis

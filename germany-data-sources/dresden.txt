@@ -1,0 +1,11 @@
+@inst Technische Universität Dresden — Lohrmann-Observatorium
+structure: Arbeitsgruppe Astronomie / Lohrmann-Observatorium, Institut für Planetare Geodäsie, TU Dresden; trưởng: Sergei A. Klioner
+structureUrl: https://tu-dresden.de/bu/umwelt/geo/ipg
+scope: Mới đọc trang thành viên nhóm Gaia; trang nhân sự chung của Lohrmann-Observatorium chưa đọc đầy đủ.
+
+#unit Gaia-Gruppe (Raumastrometrie)
+parent: Lohrmann-Observatorium
+topics: Đo sao vũ trụ độ chính xác cao cho sứ mệnh Gaia: định nghĩa và tính lời giải trắc sao; cơ học thiên thể, hệ quy chiếu thiên văn, mô hình tương đối tính.
+src: https://tu-dresden.de/bu/umwelt/geo/ipg/astro/raumastrometrie/mitarbeiter ; https://tu-dresden.de/tu-dresden/newsportal/news/gaia-mission-der-esa-tud-forscher-sind-bei-der-bestimmung-der-weltraum-positionen-von-etwa-einer-milliarde-sternen-dabei
+pp: GSTN — trưởng Lohrmann-Observatorium | Sergei A. Klioner
+pp: NCV | Enrico Gerlach; Jan Meichsner; Hagen Steidelmueller; Robin Geyer

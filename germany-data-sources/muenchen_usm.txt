@@ -1,0 +1,161 @@
+@inst Ludwig-Maximilians-Universität München — Universitäts-Sternwarte
+structure: Universitäts-Sternwarte München (USM), Fakultät für Physik, LMU: 5 chair và hơn 10 nhóm nghiên cứu
+structureUrl: https://www.physik.lmu.de/observatory/en/public-outreach/
+scope: Danh sách theo trang “People working at the USM”; nhóm của từng người lấy theo cột Workgroup. Một số người cũng thuộc MPE OPINAS (Garching) nên xuất hiện ở cả hai nơi. Trang nhân sự dài hơn giới hạn đọc một lần; phần cuối trang (có thể là khách mời) chưa đọc.
+
+#unit Physical Cosmology
+parent: Universitäts-Sternwarte München
+topics: Vũ trụ học vật lý: năng lượng tối, cấu trúc quy mô lớn.
+src: https://www.physik.lmu.de/observatory/en/people/
+pp: GSTN | Jochen Weller
+pp: BC | Martin Kerscher; Kerstin Paech
+pp: NCV | Steffen Hagstotz; Henrique Rubira; Nils Schöneberg
+pp: NCS | Kai Lehman
+pp: THS | Matthias Antony; Siddhesh Durgude; Pablo Vega del Castillo; Georgia Zachou
+
+#unit Cosmology and Structure Formation
+parent: Universitäts-Sternwarte München
+topics: Vũ trụ học quan sát, cụm thiên hà và hình thành cấu trúc.
+src: https://www.physik.lmu.de/observatory/en/people/
+pp: GSTN | Joseph Mohr
+p: Sebastian Bocquet | BC | https://sebastianbocquet.github.io/index.html
+pp: BC | Martin Kümmel
+pp: NCV | Irham Andika; Daniel Hernandez-Lang; Matthias Klein; Sarvesh Mangla; Sambit Roychowdhury; Aditya Singh; Rance Solomon; Thomas Vassallo; Qi Xiong
+pp: NCS | Jennifer Xintong Fabà Moreno; Vishrut Pandya
+pp: THS | Teo Böhme; Piervittorio Conti; Prajyot Haridas; Mathias Mucke; Vera Tsurkis; Dandi Zhang
+
+#unit Astrophysics, Cosmology and Artificial Intelligence (ACAI)
+parent: Universitäts-Sternwarte München
+topics: Vật lý thiên văn, vũ trụ học và trí tuệ nhân tạo; phân tích dữ liệu thống kê.
+note: Trang nhân sự không ghi trưởng nhóm cho ACAI; Daniel Gruen được ghi theo chú thích “ACAI (Grün)” trên cùng trang.
+src: https://www.physik.lmu.de/observatory/en/people/ ; https://www.physik.lmu.de/en/about-us/chairs-work-groups/
+pp: GSTN | Daniel Gruen
+p: Oliver Friedrich | BC | https://www.usm.uni-muenchen.de/people/oliverf/index.html
+pp: NCV | Silvan Fischbacher; Jed Homer; Emily Kerrison
+p: Luca Tortorelli | NCV | https://torluca.github.io/
+p: Nils Schöneberg | NCV | https://schoeneberg.github.io/
+pp: NCS | Ayush Bidlan; Malte Christopher Busmann; Sijin Chen; Nicolas Frediani; Julius Ulrich Gassert; Patrick Gebhardt; Goraksh Kolge; Varun Kushwaha; Paul Schneidewind Telge; Yunhe Wang; Zekang Zhang
+pp: THS | Elsa Dejby; Hannah Dengler; Johanna Glück; Samir Goncalves Doory; Benedikt Heing; Apostolos Sotirios Karaferias; Alper Kirlioglu; Marius Kolff; Wael Krouf; Elias Müller; Mahshid Nourmohammad; Muhammad Muaz Rafique; Maira Scheumann; John Turan; Weitong Yan; Qianyuan Yang; Ziyuan Zhu
+
+#unit Cosmological Simulations & Galaxy Clusters
+parent: Universitäts-Sternwarte München
+topics: Mô phỏng vũ trụ học và cụm thiên hà; Computational Center for Particle and Astrophysics.
+src: https://www.physik.lmu.de/observatory/en/people/
+p: Klaus Dolag | GSTN | https://www.usm.uni-muenchen.de/~dolag/
+pp: NCV | Geray Karademir; Ilaria Marini; Julien Wolf; Anthony Hartin; Luca Sala
+p: Giovanni Tedeschi | NCV | https://giovanni-tedeschi.github.io/
+pp: NCS | Laura di Federico; Justo Gonzalez; Daniel Karner; Julian Sommer
+p: Anna Ivleva | NCS | https://annaivleva.com
+pp: NCS | Benjamin Seidel
+p: Johannes Stoiber | NCS | https://www.johannesstoiber.de
+pp: THS | Pratham Chavan; Benjamin Hanf; Niklas Kalcher; Ergun Oguzhan Alperen; Anita Schiller; Alexander Benedikt Steier; Magdalena Stenfors; Shiori Yang; Alexandra Konrad
+p: Bathia Shubhan Naveen | THS | https://shubhanbhatia42.github.io/
+
+#unit Dynamics, Environment and Assembly of Galaxies
+parent: Universitäts-Sternwarte München
+topics: Động lực học, môi trường và quá trình hình thành thiên hà.
+src: https://www.physik.lmu.de/observatory/en/people/
+p: Rhea-Silvia Remus | BC | https://www.usm.uni-muenchen.de/~rhea/
+pp: NCS | Silvio Fortuné; Anna Ivleva; Benjamin Seidel; Johannes Stoiber
+pp: THS | Alexandra Konrad; Anita Schiller
+
+#unit Computational and Theoretical Astrophysics (CAST)
+parent: Universitäts-Sternwarte München
+topics: Vật lý thiên văn lý thuyết và tính toán: hình thành sao, hành tinh và thiên hà.
+src: https://www.physik.lmu.de/observatory/en/people/ ; https://homepages.usm.uni-muenchen.de/CAST/wp/people/scientific-staff.html
+pp: GSTN | Andreas Burkert
+pp: NCV | Christian Alig; Christian Rab
+p: Giovanni Picogna | NCV | http://giovannipicogna.gihub.io/
+pp: NCS | David Dahlbüdding; Silvio Fortuné; Fabian Grübel; Mingyu Hu; Valentin Thoss
+
+#unit Planet and Star Formation
+parent: Universitäts-Sternwarte München
+topics: Đĩa tiền hành tinh, hình thành hành tinh, kỹ thuật truyền bức xạ.
+src: https://homepages.usm.uni-muenchen.de/CAST/wp/people/scientific-staff.html ; https://www.physik.lmu.de/observatory/en/people/
+p: Barbara Ercolano | GSTN | https://ercolano4.wixsite.com/homepage
+pp: NCS | Tim Rexrodt
+
+#unit Planet Formation and Protoplanetary Disks
+parent: Universitäts-Sternwarte München
+topics: Hình thành hành tinh và đĩa tiền hành tinh.
+src: https://www.physik.lmu.de/observatory/en/people/
+pp: GSTN | Til Birnstiel
+p: Asmita Bhandare | NCV | http://asmitabhandare.github.io/
+pp: NCV | Nicolas Kaufmann
+p: Anna Penzlin | NCV | https://miosta.eu/aboutme.html
+p: Sebastian Stammler | NCV | https://stammler.github.io
+p: Alexandros Ziampras | NCV | https://alexziab.github.io
+p: Giovanni Tedeschi | NCV | https://giovanni-tedeschi.github.io/
+pp: NCS | Ali Assadollah; Iason Saganas; Kim Melanie Weiskopf
+p: Sreejita Das | NCS | https://www.linkedin.com/in/sreejita-das-8b5b06223
+pp: THS | Franziska Krause
+
+#unit Young Stars and Star Formation
+parent: Universitäts-Sternwarte München
+topics: Sao trẻ và hình thành sao; đĩa tiền hành tinh.
+src: https://www.physik.lmu.de/observatory/en/people/
+p: Thomas Preibisch | GSTN | https://www.usm.uni-muenchen.de/people/preibisch/
+pp: NCS | Laurenz Warnick
+
+#unit Theoretical Astrophysics of Extrasolar Planets
+parent: Universitäts-Sternwarte München
+topics: Lý thuyết về hành tinh ngoài Hệ Mặt Trời và khí quyển của chúng; hoá học thiên văn.
+src: https://www.physik.lmu.de/observatory/en/people/
+p: Kevin Heng | GSTN | http://www.kevinheng.com
+pp: BC | Alex Cridland
+pp: NCV | David Cont; Cyril Gapp
+pp: NCS | Bethany Burt; Jan-Vincent Harre; Jakob Schöll; Jim Shih
+pp: THS | Leonard Kramer; Pietro Morini; Claudia Nicastro; Surya Shivaprasad
+
+#unit Extragalactic Astronomy and Cosmology
+parent: Universitäts-Sternwarte München (chung với MPE OPINAS)
+topics: Năng lượng tối và vật chất tối, thiên hà gần và xa, Đài quan sát Wendelstein.
+note: Nhóm chung giữa USM và MPE (OPINAS); nhiều người cũng có trong mục MPE ở Garching.
+src: https://www.physik.lmu.de/observatory/en/people/ ; https://usm.uni-muenchen.de/Doktorarbeiten.php
+pp: GSTN | Ralf Bender
+pp: BC | Roberto Philip Saglia; Ariel Sanchez
+p: Arno Riffeser | BC | https://www.usm.uni-muenchen.de/~arri/
+pp: NCV | Jens Thomas; Maximilian Fabricius; Sofia Contarini; Carlos Correa; Juliana Ehrhardt; Helena Lamprecht; Mathias Lipka; Christoph Saulder
+pp: NCS | Markus Anetjärvi; Fabian Balzer; Diane Delley; Huangschengzhi Ding; Leon Ecker; Matteo Esposito; Andrea Fiorilli; Marcel Lindmeir; Alejandro Perez; Jan-Niklas Pippert; Iliya Tikhonenko; Andreas Weger; Raphael Zöller; Luis Thomas
+pp: THS | David Gebauer; Hsiang-Ming Huang
+
+#unit Hot Stars and Stellar Winds
+parent: Universitäts-Sternwarte München
+topics: Sao nóng khối lượng lớn và gió sao do bức xạ vạch; khí quyển hành tinh và tinh vân khí.
+src: https://www.physik.lmu.de/observatory/en/people/
+p: Joachim Puls | BC | https://www.usm.uni-muenchen.de/~puls/Puls.html
+p: Tadziu Hoffmann | BC | https://www.usm.uni-muenchen.de/~hoffmann/
+
+#unit Emmy Noether Research Groups
+kind: Các nhóm Emmy Noether
+parent: Universitäts-Sternwarte München
+topics: Nhóm nghiên cứu trẻ do DFG tài trợ (vũ trụ học cấp trường – field level cosmology).
+note: Trang không tách thành viên giữa hai nhóm Emmy Noether.
+src: https://www.physik.lmu.de/observatory/en/people/
+pp: TN | Jiamin Hou; Julia Stadler
+pp: NCV | Hui Kong; Pritha Paul
+
+#unit Instrumentation
+kind: Nhóm thiết bị
+parent: Universitäts-Sternwarte München
+topics: Phát triển thiết bị thiên văn (Wendelstein, MICADO).
+src: https://www.physik.lmu.de/observatory/en/people/
+pp: BC | Claus Gössl; Hans-Joachim Hess; Hanna Kellermann; Helmut Kravcar; Anna Monna; Jörg Schlichter; Michael Wegner
+p: Frank Grupp | BC | https://www.mpe.mpg.de/person/17730/2163
+pp: NCV | Sriprasanna Annadevara; Birgitta Müller; Jan Snigula; Naman Pujari
+
+#unit Khác (không ghi nhóm hoặc nhóm nhỏ)
+kind: Danh sách bổ sung
+parent: Universitäts-Sternwarte München
+topics: Những người trên trang nhân sự không ghi nhóm, hoặc thuộc ORIGINS, địa hoá, quan sát hành tinh ngoài Hệ Mặt Trời.
+src: https://www.physik.lmu.de/observatory/en/people/
+pp: GS | Hans Böhringer
+p: Harald Lesch | GS | http://www.usm.uni-muenchen.de./people/lesch/lesch.html
+p: Rolf-Peter Kudritzki | GS — giám đốc MIAPbP | https://home.ifa.hawaii.edu/users/kud/
+pp: BC | Gayoung Chon
+p: Leonard Romano | NCV — ORIGINS | https://leonardromano.github.io/
+pp: NCV | Eva Sextl; David Schmidt
+p: Meng Tian | NCV — địa hoá | https://sites.google.com/site/mengtianearth/
+p: Louise Nielsen | NCV — quan sát hành tinh ngoài Hệ Mặt Trời | https://louisedyregaard.github.io/
+pp: NCS | Anna Cremaschi
+pp: THS | Vani Jain; Jebraan Mudholkar; Marie-Louise Lykke Nielsen; Min Zhong

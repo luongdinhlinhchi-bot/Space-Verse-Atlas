@@ -1,0 +1,29 @@
+@inst Friedrich-Alexander-Universität Erlangen-Nürnberg — Dr. Karl Remeis-Sternwarte Bamberg
+structure: Astronomisches Institut der FAU (Dr. Karl Remeis-Sternwarte), thành viên ECAP; ba giáo sư: Ulrich Heber, Manami Sasaki, Jörn Wilms
+structureUrl: https://ecap.nat.fau.de/?p=2541
+scope: Trang thành viên chỉ liệt kê tên, không ghi chức danh hay nhóm, nên ngoài ba giáo sư thì mọi người ghi chung “thành viên”.
+
+#unit Stellar Astronomy (Heber)
+parent: Dr. Karl Remeis-Sternwarte
+topics: Sao lùn dưới nóng, quang phổ định lượng sao sớm, khí quyển sao, động học sao.
+src: https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/ ; https://ecap.nat.fau.de/?p=6121
+pp: GSTN | Ulrich Heber
+
+#unit Multiwavelength Astronomy (Sasaki)
+parent: Dr. Karl Remeis-Sternwarte
+topics: Môi trường liên sao đa pha, tàn dư siêu tân tinh và siêu bong bóng, quần thể nguồn tia X ở thiên hà lân cận.
+src: https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/ ; https://www.physics.nat.fau.eu/research/research-focus-areas/astro-and-astroparticle-physics/
+pp: GSTN | Manami Sasaki
+
+#unit X-ray Astronomy (Wilms)
+parent: Dr. Karl Remeis-Sternwarte
+topics: Sao neutron bồi tụ, nhân thiên hà hoạt động, hệ đôi lỗ đen, hấp thụ liên sao; sứ mệnh eROSITA, Athena, Arcus.
+src: https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/ ; https://nat.fau.eu/person/joern-wilms
+p: Jörn Wilms | GSTN — Lehrstuhl für Astronomie und Astrophysik | https://nat.fau.eu/person/joern-wilms
+
+#unit Thành viên (toàn viện)
+kind: Danh sách toàn viện
+parent: Dr. Karl Remeis-Sternwarte
+topics: Các thành viên khác của đài, không ghi nhóm và chức danh.
+src: https://www.sternwarte.uni-erlangen.de/remeis-start/members/
+pp: Thành viên (trang không ghi ngạch) | Aafia Ansar Mohideen; Katrin Berger; Niek Bollemeijer; Lea Dauner; Thomas Dauser; Louis Duval; Esin Gulumser Gulbahar; Christian Kirsch; Ingo Kreykenbohm; Roman Laktionov; Galina Lipunova; Maximilian Lorenz; Martin Mayer; Alexey Nekrasov; Katarzyna Nowak; Karan Pal; Sara Saeedi; Ekaterina Sokolova-Lapa; Jakob Stierhof; Nicolas Zalot; Federico Zangrandi

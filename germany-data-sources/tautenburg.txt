@@ -1,0 +1,12 @@
+@inst Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium
+structure: Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena; giám đốc: Markus Roth
+structureUrl: https://www.dpg-physik.de/veranstaltungen/2025/tls
+scope: Không tìm được trang nhân sự hiện tại hay báo cáo thường niên gần đây; mới ghi giám đốc và một nhà khoa học có tên trong thông báo tuyển dụng 2020.
+
+#unit Thüringer Landessternwarte
+kind: Đài quan sát
+parent: TLS
+topics: Nghiên cứu cơ bản vật lý thiên văn với kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới) và trạm LOFAR quốc tế; hành tinh ngoài Hệ Mặt Trời, vật lý sao, thiên văn vô tuyến tần số thấp.
+src: https://www.dpg-physik.de/veranstaltungen/2025/tls ; https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1 ; https://www.astronomische-gesellschaft.de/en/activities/jobregister/Jobfiles/TLS_announce_staff_20200117.pdf
+pp: GD — giáo sư Đại học Jena | Markus Roth
+pp: NCV — thiên văn vô tuyến (theo thông báo tuyển dụng 2020) | Matthias Hoeft

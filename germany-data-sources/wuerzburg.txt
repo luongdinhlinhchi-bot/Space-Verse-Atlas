@@ -1,0 +1,51 @@
+@inst Julius-Maximilians-Universität Würzburg — Institut für Theoretische Physik und Astrophysik
+structure: Lehrstuhl für Astronomie (trưởng chair: Karl Mannheim) với các nhóm AG Mannheim, AG Kadler, AG Buson, AG Fromm, AG Siegert
+structureUrl: https://www.physik.uni-wuerzburg.de/en/astro/
+scope: Danh sách lấy từ bảng nhân sự của Lehrstuhl für Astronomie (cột “Status”); gán nhóm theo menu nhóm trên trang (chỉ AG Kadler và AG Mannheim có danh sách thành viên công khai). Người không rõ nhóm để ở mục chung.
+
+#unit AG Mannheim
+parent: Lehrstuhl für Astronomie
+topics: Vật lý thiên văn năng lượng cao và hạt thiên văn; thiên văn tia gamma.
+note: Chủ đề tóm tắt sơ bộ.
+src: https://www.physik.uni-wuerzburg.de/index.php?id=190898 ; https://www.physik.uni-wuerzburg.de/index.php?id=277452
+pp: Trưởng chair (Lehrstuhlinhaber) | Karl Mannheim
+pp: PD | Daniela Dorner
+pp: NCS | Patrick Günther; Sarah Wagner
+pp: THS | Katharina Brand; Marcel Vorbrugg
+
+#unit AG Kadler
+parent: Lehrstuhl für Astronomie
+topics: Nhân thiên hà hoạt động và tia phản lực: quan sát vô tuyến VLBI và đa bước sóng.
+src: https://www.physik.uni-wuerzburg.de/index.php?id=190898 ; https://www.physik.uni-wuerzburg.de/index.php?id=277452 ; https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-kadler/prof-dr-matthias-kadler/
+p: Matthias Kadler | GSTN | https://www.physik.uni-wuerzburg.de/astro/mitarbeiter/ag-kadler/prof-dr-matthias-kadler/
+pp: PD | Etienne Bonnassieux; Christoph Wendel
+pp: NCS | Florian Eppel; Alexander Kappes; Hrishikesh Shetgaonkar
+pp: THS | Jonas Heßdörfer; Florian Rösch
+pp: Sinh viên cử nhân | Dana Kirchner; Wladislaw Schulga
+
+#unit AG Buson
+parent: Lehrstuhl für Astronomie
+topics: Thiên văn đa kênh (multimessenger).
+src: https://www.physik.uni-wuerzburg.de/en/astro/mitarbeiter/ag-buson/ ; https://www.physik.uni-wuerzburg.de/index.php?id=190898
+p: Sara Buson | GSTN | https://www.physik.uni-wuerzburg.de/en/astro/mitarbeiter/ag-buson/
+
+#unit AG Fromm và AG Siegert
+parent: Lehrstuhl für Astronomie
+topics: Mô phỏng tia phản lực và lỗ đen (Fromm); thiên văn tia gamma MeV (Siegert).
+note: Chủ đề tóm tắt sơ bộ; trang không có danh sách thành viên riêng.
+src: https://www.physik.uni-wuerzburg.de/index.php?id=190898 ; https://www.physik.uni-wuerzburg.de/index.php?id=251290
+pp: Trợ lý khoa học (Assistent); trưởng nhóm | Christian Fromm; Thomas Siegert
+pp: NCV | Tristan Bouchet
+pp: NCS | Laura Eisenberger; Saurabh Mittal; Dimitris Tsatsis
+
+#unit Nhân sự khác (toàn chair)
+kind: Danh sách bổ sung
+parent: Lehrstuhl für Astronomie
+topics: Người có tên trong bảng nhân sự nhưng không rõ nhóm.
+src: https://www.physik.uni-wuerzburg.de/index.php?id=190898
+pp: GS (apl.) — đã nghỉ hưu | Wolfgang Dröge
+pp: NCS | Alessandra Azzollini; Ainara Saiz-Perez
+pp: THS | Yannik Hoche; Roman Iotov; Philip Weber
+pp: Sinh viên cử nhân | Felix Glaser
+xx: GS — Mercator Fellow | Manel Perucho
+xx: Nhà khoa học khách mời | Yulia Kartavykh

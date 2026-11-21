@@ -1,0 +1,21 @@
+@inst Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut)
+structure: Viện ở Potsdam-Golm và Hannover; tại Potsdam có các bộ phận Astrophysical and Cosmological Relativity (giám đốc Alessandra Buonanno), Computational Relativistic Astrophysics và Quantum Gravity and Unified Theories
+structureUrl: https://www.aei.mpg.de/25873/aei-staff
+scope: Mới làm bộ phận Astrophysical and Cosmological Relativity (danh sách thành viên của bộ phận). Chưa làm bộ phận Computational Relativistic Astrophysics (Potsdam) và các nhóm sóng hấp dẫn ở Hannover (thuộc mục Leibniz Universität Hannover). Không đưa vào bộ phận lực hấp dẫn lượng tử vì không thuộc vật lý thiên văn.
+
+#unit Astrophysical and Cosmological Relativity
+kind: Bộ phận (Abteilung)
+parent: AEI Potsdam
+topics: Giải bài toán hai vật trong thuyết tương đối rộng bằng giải tích và số; mô hình dạng sóng hấp dẫn; phân tích dữ liệu LIGO-Virgo-KAGRA và LISA; vũ trụ học.
+src: https://www.aei.mpg.de/138766/members-and-visitors?print=yes ; https://en.wikipedia.org/wiki/Max_Planck_Institute_for_Gravitational_Physics
+pp: GD | Alessandra Buonanno
+pp: TN | Jonathan Gair; Harald Pfeiffer; Jan Steinhoff
+pp: Max Planck Fellow; trưởng nhóm | Tim Dietrich
+pp: Max Planck Fellow | Francisco M. Blanco
+pp: Nghiên cứu viên cao cấp — Balzan Fellow | Jean-Philippe Martinez
+pp: NCV (junior scientist) | Arnab Dhani; Gustav Uhre Jakobsen; Guillermo Lara; Philip Lynch; Martina Muratore; Pratik Wagle
+pp: PD | Diganta Bandopadhyay; Lara Bohnenblust; Enrico Cannizzaro; Koustav Chandra; Han Gil Choi; Fabrizio Corelli; Shubham Kejriwal; Alberto Mangiagli; Gonzalo Morrás; Maria de Lluc Planas Llompart; Federico Pozzoli; Luca Reali; Trevor Scheopner; Xikai Shan; Dongze Sun; Michael J. Williams
+pp: PD — Humboldt Research Fellow | Xue-Ting Zhang
+pp: NCS | Aurora Abbondanza; Giovanni Benetti; Alice Eleonora Cravioglio; Clemens Dittmer; Federico Fantoccoli; Cheng Foo; Aldo Javier Gamboa Castillo; Leonardo Grimaldi; Nihar Gupte; Marcus Haberland; Felix Alexander Lichtner; Tiziano Littera; Oliver Markwell; Nami Nishimura; Konstantinos Papadimos; Matteo Pegorin; Elise Sänger; Alessandro Santini; Malte Schulze; Luca Sebastiani
+pp: NCS — chung với MPI for Intelligent Systems | Cedric Ewen; Annalena Kofler
+xx: Nhà khoa học cao cấp kiêm nhiệm (adjunct) | Gustav Mogull; Maarten van de Meent; Miguel Zumalacarregui

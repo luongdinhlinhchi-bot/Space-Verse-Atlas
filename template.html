@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Khám phá bản đồ thế giới: di chuột để làm sáng quốc gia, bấm để xem tên.">
+<title>Bản đồ thế giới</title>
+<style>
+:root{font-family:Segoe UI,Arial,sans-serif;color:#233d3b;background:#f7f8f4}*{box-sizing:border-box}body{margin:0}main{max-width:1440px;margin:auto;padding:48px 5vw 26px}.eyebrow{display:flex;align-items:center;gap:9px;font-size:12px;font-weight:700;letter-spacing:2.5px;color:#4d7770}.dot{height:9px;width:9px;border-radius:50%;background:#25866e}h1{font-size:clamp(28px,4vw,46px);font-weight:650;letter-spacing:-1.6px;margin:16px 0 12px}header p{color:#6b7b77;font-size:15px;line-height:1.7;margin:0}.map-card{position:relative;border:1px solid #dde6df;border-radius:24px;margin-top:30px;background:#fff;overflow:hidden;box-shadow:0 12px 40px #203e2f05}.map-top{display:flex;justify-content:space-between;align-items:center;padding:20px 26px;color:#75877f;font-size:12px;gap:15px}.legend{display:flex;align-items:center;gap:7px}.legend i{width:10px;height:10px;border-radius:3px;background:#259c82}.tools{display:flex;gap:6px}.tools button{border:1px solid #dbe4dd;background:white;color:#385f55;border-radius:8px;min-width:34px;height:32px;font-size:16px;cursor:pointer}.tools button:hover{background:#eaf5ef}.tools button:disabled{opacity:.35;cursor:default}.viewport{overflow:hidden;touch-action:pan-y}svg{display:block;width:100%;height:auto;min-height:240px}.ocean{fill:#f1f7f6;stroke:#dfebe7;stroke-width:1}.grid{fill:none;stroke:#dce9e4;stroke-width:.55;pointer-events:none}.country{fill:#cbdad1;stroke:#fff;stroke-width:.65;vector-effect:non-scaling-stroke;cursor:pointer;transition:fill .14s}.country:hover,.country:focus-visible{fill:#60c5a7;outline:none;stroke:#1d7f66;stroke-width:1.2}.country.selected{fill:#21896d;stroke:#fff}.country.selected:hover{fill:#2ba985}.bottom{margin:0 26px;padding:20px 0 23px;border-top:1px solid #e9eee9;display:flex;align-items:center;justify-content:space-between;gap:20px}.label{font-size:11px;letter-spacing:1.7px;color:#82918a;text-transform:uppercase}.selected-name{font-size:24px;font-weight:600;margin-top:6px;min-height:32px}.hint{font-size:12px;color:#85938b;line-height:1.7;text-align:right}footer{display:flex;justify-content:space-between;gap:20px;font-size:11px;color:#8c9891;margin-top:20px;line-height:1.7}footer a{color:inherit}button:focus-visible{outline:2px solid #21896d;outline-offset:3px}@media(max-width:600px){main{padding:28px 16px}.map-top{padding:16px}.map-card{margin-top:22px;border-radius:17px}.bottom{margin:0 16px;align-items:flex-start}.hint{max-width:130px}.selected-name{font-size:21px}footer{display:block}svg{min-height:270px}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+.map-card{margin-top:0}.map-top{justify-content:flex-end}.bottom{justify-content:center;border-top:0}.selected-name{margin-top:0;text-align:center}
+.bottom{flex-direction:column;align-items:center}.country-detail{width:100%;max-width:760px;background:#f1f7f6;border:1px solid #dfebe7;border-radius:18px;overflow:hidden}.country-detail[hidden]{display:none}.country-detail svg{width:100%;height:auto;min-height:0;aspect-ratio:760/460}.detail-shape{fill:#21896d;stroke:#166b56;stroke-width:1;vector-effect:non-scaling-stroke}
+</style>
+<style>
+.city-marker{cursor:pointer;outline:none}.city-marker .pin{fill:#f9bc55;stroke:#fff;stroke-width:2;transition:fill .15s}.city-marker:hover .pin,.city-marker:focus-visible .pin,.city-marker[aria-pressed="true"] .pin{fill:#e86c35;stroke:#263f39;stroke-width:2.5}.city-marker line{stroke:#f9bc55;stroke-width:1.5;pointer-events:none}.city-panel{width:100%;max-width:760px;padding:22px 26px;border:1px solid #dce8e1;border-radius:16px;background:#fff}.city-panel[hidden]{display:none}.city-panel h2{font-size:23px;margin:0 0 14px}.city-panel ul{padding:0;margin:0;list-style:none}.city-panel li+li{margin-top:12px}.city-panel a{color:#216d59;text-underline-offset:4px;line-height:1.6}.country-detail.narrow{max-width:620px}.country-detail.narrow svg{aspect-ratio:480/460}.institution-type{font-size:12px;color:#6c8278;margin:0 0 6px}.institution-body .research{font-size:14px;line-height:1.7;margin:0 0 8px}.institution-body .pending{font-size:12px;color:#66786e;line-height:1.6}
+</style>
+<style>
+.institution{border-top:1px solid #e1ebe5;padding:16px 0}.institution summary{cursor:pointer;font-size:17px;font-weight:600;line-height:1.5;overflow-wrap:anywhere}.institution summary:focus-visible{outline:2px solid #21896d;outline-offset:5px;border-radius:3px}.unit-count{display:block;font-weight:400;font-size:12px;color:#6c8278;margin:5px 0 0 19px}.institution-body{padding:15px 0 0}.structure{font-size:13px;line-height:1.7;color:#61796d;margin:0 0 16px}.unit-card{border-left:2px solid #c9ded2;padding:0 0 0 15px;margin:20px 0}.unit-card h3{font-size:16px;line-height:1.5;margin:0 0 6px;overflow-wrap:anywhere}.unit-card p{font-size:14px;line-height:1.7;margin:7px 0}.unit-card .unit-meta{font-size:12px;color:#6c8278}.unit-card .unit-note{font-size:12px;color:#66786e}.network-title{font-size:14px;margin:25px 0 5px;color:#526a5e}.network-card{border-left-color:#e0cba2}.city-panel li+li{margin-top:0}@media(max-width:600px){.city-panel{padding:20px 16px}.institution summary{font-size:16px}.unit-card{padding-left:11px}.unit-card h3{font-size:15px}}
+</style>
+<style>
+.city-panel .researcher-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px 20px;margin:12px 0;padding:0;list-style:none}.researcher-list li{min-width:0;font-size:14px;overflow-wrap:anywhere}.researcher-list a{text-decoration:none}.researcher-list a:hover,.researcher-list a:focus-visible{text-decoration:underline}.researcher-list .researcher-role{display:block;font-size:11px;color:#6c8278;line-height:1.5}.unit-card .roster-sources{font-size:11px;color:#6c8278;margin-top:12px}.roster-sources a{margin-right:10px}.external-roster{margin:12px 0;font-size:12px;color:#61796d}.external-roster summary{font-size:12px;font-weight:400;cursor:pointer}.external-roster .researcher-list{margin-top:10px}@media(max-width:480px){.city-panel .researcher-list{grid-template-columns:1fr}}
+</style>
+<style>
+.detail-label{font-size:12px;fill:#35544c;text-anchor:middle;pointer-events:none}
+</style>
+<style>
+.country.has-data{fill:#f2c879}.country.has-data:hover,.country.has-data:focus-visible{fill:#eda93b}.country.has-data.selected{fill:#21896d}
+.city-marker.partial .pin{fill:#fdeec4}.city-marker.todo .pin{fill:#9fb3aa}
+.city-marker:hover .pin,.city-marker:focus-visible .pin,.city-marker[aria-pressed="true"] .pin{fill:#e86c35}
+.legend-row{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 18px;font-size:12px;color:#5d7168;margin:0}.legend-row[hidden]{display:none}.legend-row span{display:inline-flex;align-items:center;gap:6px}.legend-row i{width:11px;height:11px;border-radius:50%;border:1.5px solid #fff;box-shadow:0 0 0 1px #8aa096;display:inline-block}.legend-row i.sq{border-radius:3px}
+</style>
+</head>
+<body><main>
+<section class="map-card" aria-label="Bản đồ thế giới tương tác">
+<div class="map-top"><div class="tools"><button id="out" aria-label="Thu nhỏ">−</button><button id="reset" aria-label="Xem toàn bộ bản đồ">↺</button><button id="in" aria-label="Phóng to">+</button></div></div>
+<p class="legend-row" style="padding:0 26px 14px;justify-content:flex-end"><span><i class="sq" style="background:#f2c879"></i>Nước đã có dữ liệu</span><span><i class="sq" style="background:#cbdad1"></i>Chưa làm</span></p><div class="viewport"><svg id="map" viewBox="0 0 1200 630" aria-label="Các quốc gia và vùng lãnh thổ trên thế giới"><!-- MAP --></svg></div>
+<div class="bottom"><div id="name" class="selected-name" role="status" aria-live="polite"></div><div id="detail" class="country-detail" hidden><svg id="detail-map" viewBox="0 0 760 460" role="group" aria-labelledby="name"><path id="detail-shape" class="detail-shape"/><g id="detail-labels"></g><g id="city-markers"></g></svg></div><p id="city-legend" class="legend-row" hidden><span><i style="background:#f9bc55"></i>Đủ danh sách nhà nghiên cứu</span><span><i style="background:#fdeec4"></i>Có cơ quan chưa đủ danh sách / mới có trưởng nhóm</span><span><i style="background:#9fb3aa"></i>Chưa làm</span></p><section id="city-panel" class="city-panel" aria-live="polite" hidden><h2 id="city-name"></h2><ul id="institutions"></ul></section></div>
+</section>
+</main><script>
+const map=document.querySelector('#map'),nameBox=document.querySelector('#name');
+const countryData=/* COUNTRY DATA */;
+const vietnamLabels=/* VIETNAM LABELS */;
+const markers=document.querySelector('#city-markers'),cityPanel=document.querySelector('#city-panel');
+function makeLink(name,url){const link=document.createElement('a');link.textContent=name;link.href=url;link.target='_blank';link.rel='noopener noreferrer';return link;}
+function makeText(tag,text,className){const el=document.createElement(tag);el.textContent=text;if(className)el.className=className;return el;}
+function researcherList(people,label){
+ const list=document.createElement('ul');list.className='researcher-list';list.setAttribute('aria-label',label);
+ people.forEach(person=>{const item=document.createElement('li'),link=makeLink(person.name,person.url);if(person.role)link.title=person.role;item.append(link);if(person.role&&/khách|bên ngoài|thạc sĩ|sinh viên|danh dự|emeritus/i.test(person.role))item.append(makeText('span',person.role,'researcher-role'));list.append(item)});
+ return list;
+}
+function unitCard(unit,isNetwork=false){
+ const card=document.createElement('article');card.className='unit-card'+(isNetwork?' network-card':'');const heading=document.createElement('h3');heading.append(makeLink(unit.name,unit.url));card.append(heading,makeText('p',unit.topics));if(unit.location)card.append(makeText('p',unit.location,'unit-meta'));if(unit.note)card.append(makeText('p',unit.note,'unit-note'));
+ const roster=unit.researchers;
+ if(roster){
+  if(roster.people?.length)card.append(researcherList(roster.people,'Nhà nghiên cứu — '+unit.name));
+  if(roster.external?.length){const details=document.createElement('details');details.className='external-roster';details.append(makeText('summary','Thành viên liên kết / khách mời ('+roster.external.length+')'),researcherList(roster.external,'Thành viên bên ngoài — '+unit.name));card.append(details);}
+  if(roster.note)card.append(makeText('p',roster.note,'unit-note'));
+  const sources=makeText('p','','roster-sources');sources.title='Kiểm tra ngày '+roster.checked;roster.sources.forEach((url,i)=>sources.append(makeLink(roster.sources.length===1?'Nguồn danh sách':'Nguồn '+(i+1),url)));card.append(sources);
+ }
+ return card;
+}
+function selectCity(city,marker,country){
+ markers.querySelectorAll('.city-marker').forEach(el=>el.setAttribute('aria-pressed',String(el===marker)));
+ document.querySelector('#city-name').textContent=city.city;
+ const list=document.querySelector('#institutions');list.replaceChildren();
+ city.institutions.forEach(institution=>{
+  const li=document.createElement('li'),details=document.createElement('details'),summary=document.createElement('summary');
+  details.className='institution';const hasUnits=institution.units.length>0;const cov={partial:' · chưa đủ danh sách người',leaders:' · mới có trưởng nhóm'}[institution.coverage]||'';summary.append(document.createTextNode(institution.name),makeText('span',hasUnits?institution.units.length+' đơn vị / nhóm nghiên cứu'+cov:(institution.type==='university'?'Đại học':'Viện ngoài đại học'),'unit-count'));details.append(summary);
+  const body=document.createElement('div');body.className='institution-body';
+  if(hasUnits){const structure=makeText('p',institution.structure+' · ','structure');structure.append(makeLink('Nguồn cơ cấu',institution.structureUrl));body.append(structure);if(institution.scopeNote)body.append(makeText('p',institution.scopeNote,'pending'));if(institution.note)body.append(makeText('p',institution.note,'pending'));}else{body.append(makeText('p',institution.research,'research'));if(institution.note)body.append(makeText('p',institution.note,'pending'));const links=makeText('p','','roster-sources');links.append(makeLink('Trang chính thức',institution.url));(institution.additionalSources||[]).forEach((url,i)=>links.append(makeLink('Trang '+(i+2),url)));if(institution.listSource)links.append(makeLink('Nguồn danh sách',institution.listSource));body.append(links,makeText('p','Chưa có danh sách đơn vị và nhà nghiên cứu.','pending'));}
+  institution.units.forEach(unit=>body.append(unitCard(unit)));
+  if(institution.networks.length){body.append(makeText('h3','Liên kết liên đại học','network-title'));institution.networks.forEach(key=>body.append(unitCard(country.networks[key],true)));}
+  details.append(body);li.append(details);list.append(li);
+ });
+ cityPanel.hidden=false;
+}
+function showCities(code){markers.replaceChildren();cityPanel.hidden=true;document.querySelector('#city-name').textContent='';document.querySelector('#institutions').replaceChildren();const labels=document.querySelector('#detail-labels');labels.replaceChildren();if(code==='VNM')vietnamLabels.forEach(l=>{const text=document.createElementNS('http://www.w3.org/2000/svg','text');text.setAttribute('x',l.x);text.setAttribute('y',l.y);text.setAttribute('class','detail-label');text.textContent=l.name;labels.append(text)});const country=countryData[code];document.querySelector('#detail').classList.toggle('narrow',!!country?.viewBox);document.querySelector('#detail-map').setAttribute('viewBox',country?.viewBox||'0 0 760 460');document.querySelector('#city-legend').hidden=!country;if(!country)return;const pin=country.pin||6;const ns='http://www.w3.org/2000/svg';country.cities.forEach(city=>{const [x,y]=city.point,[dx,dy]=city.offset||[0,0];const g=document.createElementNS(ns,'g');const lv=city.institutions.map(i=>i.units.length?(i.coverage||'full'):'none');g.setAttribute('class','city-marker '+(lv.every(l=>l==='full')?'done':lv.some(l=>l!=='none')?'partial':'todo'));g.setAttribute('data-city',city.id);g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',city.city);g.setAttribute('aria-pressed','false');g.setAttribute('aria-controls','city-panel');if(dx||dy){const line=document.createElementNS(ns,'line');line.setAttribute('x1',x);line.setAttribute('y1',y);line.setAttribute('x2',x+dx);line.setAttribute('y2',y+dy);g.append(line)}const title=document.createElementNS(ns,'title');title.textContent=city.city;g.append(title);for(const [r,cls] of [[pin+6,'hit'],[pin,'pin']]){const circle=document.createElementNS(ns,'circle');circle.setAttribute('cx',x+dx);circle.setAttribute('cy',y+dy);circle.setAttribute('r',r);circle.setAttribute('class',cls);if(cls==='hit')circle.setAttribute('fill','transparent');g.append(circle)}g.addEventListener('click',()=>selectCity(city,g,country));g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();selectCity(city,g,country)}});markers.append(g)});}
+let selected=null,zoom=1,cx=600,cy=315;
+function choose(el){if(selected){selected.classList.remove('selected');selected.setAttribute('aria-pressed','false')}selected=el;selected.classList.add('selected');selected.setAttribute('aria-pressed','true');nameBox.textContent=el.dataset.name;document.querySelector('#detail-shape').setAttribute('d',el.dataset.detail);document.querySelector('#detail').hidden=false;showCities(el.dataset.code);}
+map.addEventListener('click',e=>{const el=e.target.closest('.country');if(el)choose(el)});
+map.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('.country')){e.preventDefault();choose(e.target)}});
+function render(){const w=1200/zoom,h=630/zoom;cx=Math.max(w/2,Math.min(1200-w/2,cx));cy=Math.max(h/2,Math.min(630-h/2,cy));map.setAttribute('viewBox',`${cx-w/2} ${cy-h/2} ${w} ${h}`);document.querySelector('#out').disabled=zoom===1;document.querySelector('#in').disabled=zoom===6;}
+document.querySelector('#in').onclick=()=>{if(selected){const b=selected.getBBox();cx=b.x+b.width/2;cy=b.y+b.height/2;}zoom=Math.min(6,zoom*1.5);render()};
+document.querySelector('#out').onclick=()=>{zoom=Math.max(1,zoom/1.5);render()};
+document.querySelector('#reset').onclick=()=>{zoom=1;cx=600;cy=315;render()};
+map.addEventListener('focusin',e=>{if(zoom>1&&e.target.matches('.country')){const b=e.target.getBBox();cx=b.x+b.width/2;cy=b.y+b.height/2;render()}});
+render();
+</script></body></html>

@@ -1,0 +1,36 @@
+@inst GSI Helmholtzzentrum für Schwerionenforschung — Theory Division
+structure: Theory Division của GSI; các nhóm: Nuclear Astrophysics and Structure (Gabriel Martínez-Pinedo), ERC Relativistic Astrophysics (Andreas Bauswein), ERC Neutrino Astrophysics (Zewei Xiong), cùng các nhóm QCD và vật lý hadron
+structureUrl: https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0
+scope: Trang nhân sự của Theory Division không ghi nhóm cho từng thành viên; mình chỉ lấy ba nhóm vật lý thiên văn và những người có vai trò rõ, các nhà khoa học khác của Theory Division (kể cả mảng QCD, hadron) được để chung ở mục cuối.
+
+#unit Nuclear Astrophysics and Structure
+parent: GSI Theory Division
+topics: Cấu trúc và phân rã hạt nhân giàu neutron, tốc độ phản ứng thiên văn, tiến hoá sao và vụ nổ vũ trụ, tổng hợp nguyên tố nặng, phương trình trạng thái, kilonova.
+src: https://gsi.de/work/forschung/theorie/theory-new/nuclear-structure-and-astrophysics ; https://theory.gsi.de/nucastro/erc_kilonova.php
+pp: Trưởng nhóm; trưởng Theory Department | Gabriel Martínez-Pinedo
+pp: NCV | Karlheinz Langanke; Thomas Neff; Caroline Robin; Oliver Just
+pp: PD | Andreas Flörs; Luke Shingles; Christian Schwebler
+pp: NCS | Gerrit Leck; Mario Jakobs; Diana Alvear Terrero
+
+#unit ERC Relativistic Astrophysics
+parent: GSI Theory Division
+topics: Va chạm hệ sao đôi đặc và siêu tân tinh, mô phỏng thuỷ động lực, sóng hấp dẫn.
+src: https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0 ; https://gsi.de/work/forschung/theorie/theory-new/nuclear-structure-and-astrophysics
+pp: TN | Andreas Bauswein
+
+#unit ERC Neutrino Astrophysics
+parent: GSI Theory Division
+topics: Vật lý thiên văn neutrino.
+src: https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0
+pp: TN | Zewei Xiong
+
+#unit Nhà khoa học khác của Theory Division
+kind: Danh sách bổ sung
+parent: GSI Theory Division
+topics: Thành viên Theory Division mà trang không gán nhóm (gồm cả mảng QCD và vật lý hadron).
+src: https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0
+pp: NCV | Almudena Arcones; Friedrich-Karl Thielemann; Stefan Typel; Elena Bratkovskaya; Daniel Mohler; Jan Steinheimer-Froschauer
+pp: PD | Axel Gross; Rui Han; Jaime Martinez-Larraz; Vishal Parmar; Taesoo Song
+pp: NCS | Paul Christians; Nithish Kumar Covalam Vijayakumar; Pietro Dalbosco; Clement Ehrhardt; Marcel Humbert; Heamin Ko; Ignacio Lopez de Arbina; Aristeidis Nikolaidis; Felix Hermsen; Niklas Rodenbücher; Justin Schäfer; Yi-Siou Wu; Chun-Ming Yip; Xiao Zhang
+pp: THS | Andres Cardona; Anna Krutsch; David Thoma
+xx: KM | Hans Feldmeier; Bengt Friman; Jörn Knoll; Horst Stöcker

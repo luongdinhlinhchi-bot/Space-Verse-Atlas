@@ -1,0 +1,18 @@
+@inst Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B
+structure: Lehrstuhl für Experimentelle Physik Vb — Astroteilchenphysik; trưởng: Wolfgang Rhode, cùng PD Dominik Elsässer
+structureUrl: https://app.physik.tu-dortmund.de/en/working-group
+scope: Trang thành viên của nhóm không hiện tên khi đọc tự động; danh sách lấy từ trang nhân sự của Research Alliance Ruhr (mục AG Astroparticle Physics), không ghi ngạch. Chưa có nhóm của Christian Glaser.
+
+#unit AG Astroparticle Physics
+parent: Lehrstuhl für Experimentelle Physik Vb
+topics: Thiên văn đa kênh, IceCube, học máy trong vật lý hạt thiên văn; tìm vật chất tối bằng kính tia gamma và khảo sát vũ trụ; sinh lepton nhanh trong tương tác hadron.
+src: https://rapp-uar.relaunch.tu-dortmund.de/team/scientists ; https://app.physik.tu-dortmund.de/en/working-group ; https://wiki.erumdatahub.de/bin/view/Research%20Groups/Arbeitsgruppe%20Physikdidaktik/Arbeitsgruppe%20W.%20Rhode
+pp: GSTN | Wolfgang Rhode
+pp: PDZ — đồng phụ trách nhóm | Dominik Elsässer
+pp: Thành viên (trang không ghi ngạch) | Christian Arauner; Leander Flottau; Stefan Fröse; Tristan Gradetzke; Pascal Gutjahr; Anno Knierim; Roman Peschin; Lene van Rootselaar; Tim Ruhe; Kevin Schmitz; David Venker; Cyrus Walther; Felix Wersig; Lucas Witthaus
+
+#unit Nhóm Glaser
+parent: Fakultät Physik
+topics: Giao điểm giữa vật lý hạt thiên văn thực nghiệm và trí tuệ nhân tạo: neutrino vũ trụ năng lượng cao và tia vũ trụ.
+src: https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/
+pp: GSTN | Christian Glaser

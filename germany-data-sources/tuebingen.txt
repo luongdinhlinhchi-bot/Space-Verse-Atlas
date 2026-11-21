@@ -1,0 +1,59 @@
+@inst Eberhard Karls Universität Tübingen — Institut für Astronomie und Astrophysik (IAAT)
+structure: IAAT gồm các bộ phận Astronomie (Werner), Hochenergieastrophysik (Santangelo), Weltraumgestützte Astrophysik (Stelzer), Theoretische Astrophysik và Computational Physics, cùng nhóm thiết bị UV MCP
+structureUrl: https://uni-tuebingen.de/de/3059
+scope: Danh sách lấy từ bảng liên hệ nhân sự của IAAT; nhóm theo cột “Working group”. Trang dài hơn giới hạn đọc nên có thể thiếu một vài dòng ở giữa (vần S). Không gồm kỹ sư điện tử, xưởng và thư ký. Bộ phận Theoretische Astrophysik và Computational Physics chưa có danh sách thành viên.
+
+#unit Hochenergieastrophysik (HEA)
+kind: Bộ phận (Abteilung)
+parent: IAAT
+topics: Thiên văn năng lượng cao: tia X và tia gamma, sao neutron, thiết bị bay vũ trụ.
+src: https://uni-tuebingen.de/en/271752 ; https://uni-tuebingen.de/fr/7927
+pp: GSTN | Andrea Santangelo
+pp: Nghiên cứu viên cao cấp — quản lý viện | Gerd Pühlhofer
+pp: Nghiên cứu viên cao cấp — Akademischer Oberrat | Jan-Christoph Tenzer
+pp: Nghiên cứu viên cao cấp | Lorenzo Ducci; Alejandro Guzmán Cabrera; Denys Malyshev; Emanuele Perinati; Santina Piranio; Valery Suleimanov
+pp: NCV | Sinan Allak; Baiyang Bi; Sergey Tsygangkov; Rosalia Madonia
+pp: PD | Artur Avakyan; Lauro Conti; Honghui Liu; Marvin Neumann; Christian Pommranz; Swarnim Shashank; Wei Yu; Menglei Zhou
+pp: NCS | Mariachiara Celato; Wanchao Dou; Zhiyu Dou; Paul Hedderman; Bastian Heß; Nadja Kraus; Daniel Kulinsky; Alexei Kuzin; Zizeng Lyu; Robert McCulloch; Chirag Mehrotra; Abdurakhmon Nosirov; Aditya Pandya; Neha Parmar; Marta Piscitelli; Andreas Putz; Tarjar Risstad; Roisin Ryan; Ritika Singh; Christopher Weinert; Tianhao Xie; Shuaitongze Zhao
+pp: THS | Jyothi Ajayan; Stephan Amann; Katharina Andler; Bhawesh Chandwani; Mengxi Chen; Luis Eiche; Aaron Feder; Emmanouil Karathanasis; Christine Kopik; Aashish Ravi; Florian Sanzenbacher; Naja Wiedner; Kaiyue Zhang
+pp: Sinh viên cử nhân | Leyla Düzel; Marie Kocsa; Julian Oesterhelt; Yasemin Soylu; Yannic Vallendor
+pp: Trợ lý khoa học | Jonathan Baumgärtner; Janvi Sharma
+xx: KM | Dmitry Prokhorov
+
+#unit Weltraumgestützte Astrophysik (SBA)
+kind: Bộ phận (Abteilung)
+parent: IAAT
+topics: Vật lý thiên văn với kính thiên văn không gian: sao trẻ, hoạt động sao, hành tinh ngoài Hệ Mặt Trời.
+src: https://uni-tuebingen.de/en/271752 ; https://uni-tuebingen.de/en/271764
+pp: GSTN | Beate Stelzer
+pp: NCV | Alexander Binks
+pp: PD | Daniela Muñoz Giraldo; Stefanie Rätz
+pp: NCS | Marcel Bennedik; Santiago Hernández Díaz; Jiayi Zhang
+pp: THS | Thijs Dorhout; Anirudh Thakar
+
+#unit Astronomie (Werner)
+kind: Bộ phận (Abteilung)
+parent: IAAT
+topics: Phổ sao lùn trắng, sao neutron và đĩa bồi tụ; mô hình khí quyển sao.
+src: https://uni-tuebingen.de/en/271752 ; https://uni-tuebingen.de/de/3059
+pp: GSTN | Klaus Werner
+pp: Nghiên cứu viên cao cấp | Thomas Rauch; Valery Suleimanov
+pp: NCV | Semih Filiz
+
+#unit UV MCP detector
+kind: Nhóm thiết bị
+parent: IAAT
+topics: Phát triển detector tử ngoại dạng tấm vi kênh (MCP) cho sứ mệnh không gian.
+src: https://uni-tuebingen.de/en/271752
+pp: Nghiên cứu viên cao cấp | Jürgen Barnstedt; Sebastian Diebold
+pp: THS | Ciel Barner; Alexander Stock; Michael Schöllhorn
+pp: Sinh viên cử nhân | Daniel Barner
+
+#unit Theoretische Astrophysik và Computational Physics
+kind: Bộ phận (chưa có danh sách)
+parent: IAAT
+topics: Vật lý thiên văn tương đối tính, kiểm nghiệm lý thuyết hấp dẫn cải biên qua sóng hấp dẫn (nhóm Emmy Noether); vật lý tính toán (mô phỏng va chạm, sứ mệnh Hera).
+note: Chưa đọc trang thành viên của hai bộ phận này; mới ghi người phụ trách theo trang khoa Vật lý và trang viện.
+src: https://uni-tuebingen.de/de/3059 ; https://uni-tuebingen.de/de/5769
+pp: Trưởng nhóm Emmy Noether — Relativistic Astrophysics | Daniela Doneva
+pp: GS (apl.) — Computational Physics | Christoph Schäfer

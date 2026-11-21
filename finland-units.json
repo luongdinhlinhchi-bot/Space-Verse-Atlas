@@ -1,0 +1,354 @@
+{
+  "checked": "2026-11-15",
+  "institutions": {
+    "University of Helsinki": {
+      "structure": "Faculty of Science → Department of Physics",
+      "structureUrl": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics",
+      "units": [
+        {
+          "name": "Computational Field Theory and Cosmology",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Chuyển pha vũ trụ sơ khai, sóng hấp dẫn nguyên thủy và LISA.",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+        },
+        {
+          "name": "Extreme Quantum Field Theory",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Vật chất đậm đặc trong sao neutron; chuyển pha vũ trụ sơ khai.",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+        },
+        {
+          "name": "Observational Cosmology",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Vũ trụ học quan sát, năng lượng tối và sứ mệnh Euclid.",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+        },
+        {
+          "name": "Groups and Clusters of Galaxies (GCG)",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Nhóm và cụm thiên hà, khí nóng tia X, phản hồi AGN, phân bố vật chất và cấu trúc lớn của vũ trụ.",
+          "url": "https://gcg-helsinki.github.io/",
+          "additionalSources": [
+            "https://gcg-helsinki.github.io/team/"
+          ]
+        },
+        {
+          "name": "Particle Cosmology",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Vật chất tối, động lực học vũ trụ sơ khai và chuyển pha.",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+        },
+        {
+          "name": "Plasma Astrophysics",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Plasma quanh sao neutron và lỗ đen; bồi tụ và bùng phát vô tuyến nhanh.",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+        },
+        {
+          "name": "Space Plasma Physics",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Gió Mặt Trời, phun trào nhật hoa, nhiễu loạn và tái kết nối từ.",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+        },
+        {
+          "name": "Interstellar Matter and Star Formation",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Mây phân tử, bụi liên sao và hình thành sao; quan sát phổ, truyền bức xạ và mô phỏng MHD.",
+          "url": "https://www.helsinki.fi/fi/matemaattis-luonnontieteellinen-tiedekunta/tiedekunta/fysiikan-osasto/fysiikan-tutkimus/astrofysiikka"
+        },
+        {
+          "name": "Stellar Astrophysics",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Hoạt động từ của sao, chu kỳ sao, ảnh Doppler và mô hình dynamo.",
+          "url": "https://www.helsinki.fi/fi/matemaattis-luonnontieteellinen-tiedekunta/tiedekunta/fysiikan-osasto/fysiikan-tutkimus/astrofysiikka",
+          "additionalSources": [
+            "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+          ]
+        },
+        {
+          "name": "Theoretical Extragalactic Research",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Sự hình thành thiên hà, vật chất tối, lỗ đen siêu khối lượng; mô phỏng N-body và SPH.",
+          "url": "https://www.helsinki.fi/fi/matemaattis-luonnontieteellinen-tiedekunta/tiedekunta/fysiikan-osasto/fysiikan-tutkimus/astrofysiikka"
+        },
+        {
+          "name": "Planetary-system Research",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Quỹ đạo và tính chất tiểu hành tinh, sao chổi; tán xạ ánh sáng và vật chất bề mặt hành tinh.",
+          "url": "https://www.helsinki.fi/fi/matemaattis-luonnontieteellinen-tiedekunta/tiedekunta/fysiikan-osasto/fysiikan-tutkimus/astrofysiikka"
+        }
+      ],
+      "networks": [
+        "hip",
+        "finca",
+        "neutronstars"
+      ]
+    },
+    "Finnish Meteorological Institute (FMI)": {
+      "structure": "Space and Earth Observation Centre → Space Research and Observation Technologies",
+      "structureUrl": "https://space.fmi.fi/organization/",
+      "units": [
+        {
+          "name": "Space Weather Research",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Space Research and Observation Technologies",
+          "topics": "Vật lý Mặt Trời–Trái Đất, sóng xung kích, gia tốc hạt và môi trường plasma không gian.",
+          "url": "https://space.fmi.fi/main/space-weather/"
+        },
+        {
+          "name": "Space Research and Technology",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Space Research and Observation Technologies",
+          "topics": "Các thiên thể Hệ Mặt Trời và khí quyển hành tinh; kết hợp nghiên cứu với thiết bị cho các sứ mệnh không gian.",
+          "note": "Trang cơ cấu còn dùng tên Planetary Research and Space Technology cho nhóm này.",
+          "url": "https://en.ilmatieteenlaitos.fi/space-research-and-observation-technologies",
+          "additionalSources": [
+            "https://space.fmi.fi/organization/",
+            "https://space.fmi.fi/main/planetary-research-and-space-technology/"
+          ]
+        },
+        {
+          "name": "Planetary Space Weather",
+          "kind": "Đội nghiên cứu chuyên đề",
+          "parent": "Space Research and Observation Technologies → Space Weather Research",
+          "topics": "Mô phỏng hạt và dữ liệu tàu thăm dò để nghiên cứu gió Mặt Trời tương tác với hành tinh; dự án MEOW/BepiColombo.",
+          "note": "Đội trực thuộc Space Weather Research; danh sách thành viên được trình bày ở cấp đội này.",
+          "url": "https://planets.fmi.fi/",
+          "additionalSources": [
+            "https://planets.fmi.fi/team.html"
+          ]
+        }
+      ],
+      "networks": []
+    },
+    "Aalto University": {
+      "structure": "School of Science và School of Electrical Engineering",
+      "structureUrl": "https://www.aalto.fi/en/department-of-computer-science/high-performance-computing-lab-hpclab",
+      "units": [
+        {
+          "name": "High-performance Computing Lab — Astroinformatics",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "School of Science → Department of Computer Science",
+          "location": "Espoo",
+          "topics": "Mô phỏng nhiễu loạn, từ trường Mặt Trời và môi trường liên sao; tính toán GPU và phân tích dữ liệu.",
+          "note": "HPCLab mô tả astroinformatics là hướng chủ lực; không đếm thành hai nhóm riêng.",
+          "url": "https://www.aalto.fi/en/department-of-computer-science/high-performance-computing-lab-hpclab"
+        },
+        {
+          "name": "Radio Astronomy — Anne Lähteenmäki Group",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "School of Electrical Engineering → Department of Electronics and Nanoengineering",
+          "location": "Metsähovi, Kirkkonummi",
+          "topics": "Thiên văn vô tuyến; nhóm làm việc tại Metsähovi và gắn với các chương trình quan sát của đài.",
+          "url": "https://www.aalto.fi/en/department-of-electronics-and-nanoengineering/radio-astronomy"
+        },
+        {
+          "name": "Metsähovi Radio Observatory",
+          "kind": "Đài quan sát thuộc đại học",
+          "parent": "School of Electrical Engineering",
+          "location": "Kirkkonummi",
+          "topics": "Bức xạ vô tuyến Mặt Trời, quasar và thiên hà hoạt động; theo dõi biến thiên và giao thoa VLBI.",
+          "note": "Đài ở Kirkkonummi; điểm Espoo trên bản đồ đại diện cho Aalto, không phải vị trí của đài.",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory",
+          "additionalSources": [
+            "https://www.aalto.fi/en/locations/metsahovi-radio-observatory",
+            "https://www.aalto.fi/en/news/hey-space"
+          ]
+        }
+      ],
+      "networks": [
+        "hip",
+        "finca"
+      ]
+    },
+    "University of Turku": {
+      "structure": "Faculty of Science → Department of Physics and Astronomy; FINCA được trường chủ trì riêng",
+      "structureUrl": "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/research",
+      "units": [
+        {
+          "name": "Tuorla Observatory",
+          "kind": "Đơn vị thiên văn của trường",
+          "parent": "Department of Physics and Astronomy",
+          "topics": "Thiên văn quan sát và lý thuyết, thiên hà hoạt động, Hệ Mặt Trời và cấu trúc lớn; gồm hai nhóm dưới đây.",
+          "url": "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/research"
+        },
+        {
+          "name": "High Energy Astrophysics",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics and Astronomy → Tuorla Observatory",
+          "topics": "Bồi tụ lên sao neutron và lỗ đen; phát xạ tia X, phân cực, khí quyển sao neutron và vật chất đậm đặc.",
+          "url": "https://sites.utu.fi/hea/research/",
+          "additionalSources": [
+            "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/research"
+          ]
+        },
+        {
+          "name": "Astrophysical Transients",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics and Astronomy → Tuorla Observatory",
+          "topics": "Siêu tân tinh, sao tiền thân và các vụ sao bị phá hủy bởi lực thủy triều; quan sát đa bước sóng.",
+          "url": "https://sites.utu.fi/sne/research/"
+        },
+        {
+          "name": "Space Research Laboratory (SRL)",
+          "kind": "Phòng nghiên cứu",
+          "parent": "Department of Physics and Astronomy",
+          "topics": "Vật lý Mặt Trời và nhật quyển: gia tốc, vận chuyển hạt năng lượng cao; mô phỏng và thiết bị quan sát.",
+          "url": "https://srl.utu.fi/"
+        },
+        {
+          "name": "Turku Field Theory and Cosmology",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics and Astronomy → Laboratory of Theoretical Physics",
+          "topics": "Vũ trụ sơ khai, lý thuyết trường lượng tử trên không-thời gian cong và hệ lượng tử mở tương đối tính.",
+          "url": "https://quantum.utu.fi/?page_id=144",
+          "additionalSources": [
+            "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/research"
+          ]
+        },
+        {
+          "name": "Finnish Centre for Astronomy with ESO (FINCA)",
+          "kind": "Trung tâm liên đại học do Turku chủ trì",
+          "parent": "University of Turku; hợp tác với Aalto, Helsinki và Oulu",
+          "location": "Turku; một phần nhóm AGN làm việc tại Metsähovi",
+          "topics": "Nhóm AGN nghiên cứu lỗ đen và tia phản lực; các hướng khác gồm thiên hà, vũ trụ học, sao đôi, siêu tân tinh và vật thể nhỏ Hệ Mặt Trời.",
+          "note": "Các hướng nghiên cứu không được mặc định là những phòng ban độc lập. FINCA không phải viện ngoài đại học.",
+          "url": "https://sites.utu.fi/finca/en/tutkimus/",
+          "additionalSources": [
+            "https://sites.utu.fi/finca/en/about/",
+            "https://sites.utu.fi/finca/en/"
+          ]
+        }
+      ],
+      "networks": [
+        "neutronstars"
+      ]
+    },
+    "Tampere University": {
+      "structure": "Faculty of Information Technology and Communication Sciences → Computing Sciences",
+      "structureUrl": "https://www.tuni.fi/en/tau/research/inverse-tampere",
+      "units": [
+        {
+          "name": "Inverse Tampere / Inverse Problems Group",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Computing Sciences",
+          "topics": "Mô hình hình dạng và chuyển động quay tiểu hành tinh; chụp cắt lớp radar để suy ra cấu trúc bên trong vật thể nhỏ Hệ Mặt Trời.",
+          "note": "Geoscience/Asteroid Tomography là hướng nghiên cứu trong nhóm, không được tính thành một viện riêng.",
+          "url": "https://research.tuni.fi/inverse/geoscience/",
+          "additionalSources": [
+            "https://www.tuni.fi/en/tau/research/inverse-tampere",
+            "https://webpages.tuni.fi/inverse/topics"
+          ]
+        }
+      ],
+      "networks": [
+        "hip"
+      ]
+    },
+    "University of Jyväskylä": {
+      "structure": "Faculty of Mathematics and Science → Department of Physics",
+      "structureUrl": "https://www.jyu.fi/en/research-groups/cosmology-research-group",
+      "units": [
+        {
+          "name": "Cosmology Research Group",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Department of Physics",
+          "topics": "Lạm phát, vật chất tối, chuyển pha, cấu trúc lớn và vận chuyển lượng tử trong vũ trụ sơ khai.",
+          "url": "https://www.jyu.fi/en/research-groups/cosmology-research-group"
+        },
+        {
+          "name": "Exotic Nuclei and Beams (IGISOL)",
+          "kind": "Nhóm nghiên cứu thực nghiệm",
+          "parent": "Department of Physics → Accelerator Laboratory",
+          "topics": "Đo khối lượng và phân rã hạt nhân; dữ liệu cho tổng hợp nguyên tố, cháy hạt nhân và hiện tượng liên quan sao neutron.",
+          "url": "https://www.jyu.fi/en/research-groups/exotic-nuclei-and-beams-igisol",
+          "additionalSources": [
+            "https://www.jyu.fi/en/projects/heavy-exotic-nuclei-for-nuclear-astrophysics",
+            "https://neutronstars.fi/"
+          ]
+        },
+        {
+          "name": "Global Properties of Nuclei",
+          "kind": "Nhóm nghiên cứu lý thuyết",
+          "parent": "Department of Physics",
+          "topics": "Cấu trúc và động lực học hạt nhân bằng DFT/EDF; vật chất trong sao compact và dữ liệu cho vật lý thiên văn hạt nhân.",
+          "url": "https://www.jyu.fi/en/research-groups/global-properties-of-nuclei-group"
+        }
+      ],
+      "networks": [
+        "hip",
+        "neutronstars"
+      ]
+    },
+    "University of Oulu": {
+      "structure": "Faculty of Science → Space Physics and Astronomy Research Unit",
+      "structureUrl": "https://www.oulu.fi/en/university/faculties-and-units/faculty-science/space-physics-and-astronomy",
+      "units": [
+        {
+          "name": "Astronomy Group",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Space Physics and Astronomy",
+          "topics": "Cấu trúc thiên hà, sao đôi tương tác, đĩa bồi tụ, vành hành tinh và thiên văn tia gamma.",
+          "url": "https://www.oulu.fi/astronomy/",
+          "additionalSources": [
+            "https://www.oulu.fi/en/research-groups/astronomy"
+          ]
+        },
+        {
+          "name": "Space Climate",
+          "kind": "Nhóm nghiên cứu",
+          "parent": "Space Physics and Astronomy",
+          "topics": "Biến thiên dài hạn hoạt động Mặt Trời và ảnh hưởng trong nhật quyển; dữ liệu lịch sử và quan sát vệ tinh.",
+          "url": "https://www.oulu.fi/en/research-groups/space-climate"
+        },
+        {
+          "name": "Cosmic Rays Group",
+          "kind": "Nhóm nghiên cứu liên kết hai đơn vị",
+          "parent": "Space Physics and Astronomy + Sodankylä Geophysical Observatory (University of Oulu)",
+          "topics": "Tia vũ trụ thiên hà và hạt Mặt Trời; lan truyền và tương tác trong nhật quyển, từ quyển và khí quyển.",
+          "note": "Nhóm liên kết với đài Sodankylä; trạm đo tia vũ trụ của nhóm đặt ở Oulu.",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        }
+      ],
+      "networks": [
+        "finca"
+      ]
+    }
+  },
+  "networks": {
+    "hip": {
+      "name": "Helsinki Institute of Physics (HIP)",
+      "kind": "Viện chung của nhiều đại học",
+      "topics": "Theory Programme có nghiên cứu vũ trụ học; không phải đơn vị riêng của một trường.",
+      "note": "Helsinki, Jyväskylä, Aalto, LUT và Tampere cùng vận hành. Tư cách thành viên không đồng nghĩa mọi nhóm HIP đặt tại từng trường.",
+      "url": "https://www.hip.fi/research/theory-programme/theoretical-cosmology/",
+      "additionalSources": [
+        "https://www.hip.fi/wp-content/uploads/2025/09/HIP_Long_Term_Strategy_2025_2028.pdf"
+      ]
+    },
+    "finca": {
+      "name": "Finnish Centre for Astronomy with ESO (FINCA)",
+      "kind": "Trung tâm liên đại học, đặt tại Turku",
+      "topics": "Liên kết Aalto, Helsinki, Oulu và Turku; hồ sơ đơn vị chính nằm dưới University of Turku.",
+      "url": "https://sites.utu.fi/finca/en/about/"
+    },
+    "neutronstars": {
+      "name": "Centre of Excellence in Neutron-Star Physics (2026–2033)",
+      "kind": "Trung tâm hợp tác liên đại học",
+      "topics": "Năm nhóm tại Helsinki, Jyväskylä và Turku nghiên cứu lõi, bề mặt, từ quyển, hợp nhất và phản ứng hạt nhân liên quan sao neutron.",
+      "note": "Các nhóm thành viên đã được liệt kê tại trường tương ứng; trung tâm không được đếm như một cơ quan độc lập bổ sung.",
+      "url": "https://neutronstars.fi/"
+    }
+  }
+}

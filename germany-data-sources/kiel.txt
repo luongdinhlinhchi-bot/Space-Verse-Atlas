@@ -1,0 +1,12 @@
+@inst Christian-Albrechts-Universität zu Kiel — Institut für Theoretische Physik und Astrophysik
+structure: Abteilung Astrophysik, Institut für Theoretische Physik und Astrophysik; trưởng: Sebastian Wolf
+structureUrl: https://www.blogs.uni-kiel.de/star
+scope: Danh sách từ hệ thống UnivIS của Đại học Kiel (học kỳ đông 2026); UnivIS chỉ ghi “nhân sự học thuật”, không tách ngạch hay nhóm.
+
+#unit Abteilung Astrophysik
+parent: Institut für Theoretische Physik und Astrophysik
+topics: Đĩa quanh sao, hình thành hành tinh, từ trường, đĩa mảnh vụn, khí quyển hành tinh ngoài Hệ Mặt Trời, truyền bức xạ, giao thoa hồng ngoại.
+src: https://univis.uni-kiel.de/formbot/dsc_3Danew_2Fpande_26dir_3Dmathe_2Finstit_1_2Fabteil_1_26ref_3Dpande_26lang_3Den ; https://www.blogs.uni-kiel.de/star
+pp: GSTN | Sebastian Wolf
+pp: Nhân sự học thuật | Matheus Bernini Peron; Lukas Hildebrandt; Tobias Illenseer; Joris Josiek; Joachim Köppen; Neele Lüttkemöller; Johannes Martin; Max Bror Michaelis; Erik Müller; Kevin Ollmann; Marco Leon Scheiter; Reinhard Schlickeiser; Christian Schneider; Jan-Erik Schneider; Elisa Schösser; Katsiaryna Tsishchankava
+pp: Nhân sự học thuật (đã nghỉ hưu) | Detlev Koester

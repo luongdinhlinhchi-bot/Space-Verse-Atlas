@@ -1,0 +1,17 @@
+@inst Goethe-Universität Frankfurt — Institut für Theoretische Physik / Astrophysik
+structure: Fachbereich Physik (Astrophysik), Goethe-Universität Frankfurt; hợp tác với FIAS và GSI Darmstadt
+structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf
+scope: Danh sách lấy từ báo cáo thường niên 2024 trên Mitteilungen der Astronomischen Gesellschaft 108 (2025). Báo cáo không gán người vào từng mảng nghiên cứu nên danh sách để chung.
+
+#unit Vật lý thiên văn tại Fachbereich Physik
+kind: Danh sách toàn khoa (vật lý thiên văn)
+parent: Fachbereich Physik
+topics: Vật lý thiên văn hạt nhân thực nghiệm và lý thuyết; vật lý thiên văn tương đối tính (lỗ đen, sao neutron, sóng hấp dẫn); vật chất liên sao và liên thiên hà, AGN; vũ trụ học lý thuyết (vật chất tối, chuyển pha vũ trụ sơ khai).
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf
+pp: GS | Camilla Juul Hansen; Luciano Rezzolla; Laura Sagunski; Jürgen Schaffner-Bielich; Horst Stöcker
+pp: PDZ | Tanja Heftrich
+pp: NCV | Filippo Camilloni; Georgios Doulis; Christian Ecker; Tyler Gorda; Matthias Hanauske; Jin-Liang Jiang; Claudio Meringolo; Francesco Di Filippo; Philipp Schicho
+pp: NCS | Niklas Becker; Lukas Bott; Marie Cassing; Robin Diedrichs; Alexander Dimoff; Edwin Genoud-Prachex; Anton Görtz; Natey Kübler; Linsheng Li; Yixuan Ma; Keneth Miler; Raphaela de Melo Fernandes; Carlo Musolino; Harry Ho-Yin Ng; Khalil Pierre; Annika Schichtel; Daniel Schmitt; Alina Stehr; Konrad Topolski; Stephan Wystub; Xiaoli Zhang
+xx: Giảng viên liên kết — MPE Garching | Thomas Boller
+xx: Giảng viên liên kết — Physikalischer Verein | Bruno Deiss; Markus Röllig
+xx: Giảng viên liên kết — FIAS | Igor N. Mishustin; Piero Nicolini; Armen Sedrakian

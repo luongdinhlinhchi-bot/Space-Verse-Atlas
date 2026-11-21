@@ -1,0 +1,14 @@
+@inst Philipps-Universität Marburg — Astronomiegeschichte und Beobachtende Astronomie
+structure: Arbeitsgruppe Astronomiegeschichte und Beobachtende Astronomie, Fachbereich Physik
+structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/marburg/jb-uni-marburg-2024.pdf
+scope: Danh sách từ báo cáo thường niên 2024. Theo báo cáo, nhóm có nghiên cứu thiên văn quan sát (sao trẻ khối lượng lớn, sao biến quang) nên vẫn được giữ trên bản đồ.
+
+#unit Astronomiegeschichte und Beobachtende Astronomie
+parent: Fachbereich Physik
+topics: Quang phổ và trắc quang sao trẻ khối lượng lớn; trắc quang sao biến quang từ kho kính ảnh; lịch sử thiên văn.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/marburg/jb-uni-marburg-2024.pdf
+pp: GSTN | Andreas Schrimpf
+pp: NCS | Lukas Stock; Maryam Raouph Lashkami
+pp: Sinh viên cử nhân / thạc sĩ | Harvey Stemmler
+pp: Sinh viên trợ lý | Tobias Blanke
+xx: KM | Mohammad Eftekhar

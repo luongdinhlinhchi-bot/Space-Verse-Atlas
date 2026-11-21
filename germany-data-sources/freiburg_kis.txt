@@ -1,0 +1,20 @@
+@inst Institut für Sonnenphysik (KIS)
+structure: Institut für Sonnenphysik (KIS), Freiburg, thuộc Hội Leibniz; các mảng: Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Solar Data Center
+structureUrl: https://www.leibniz-kis.de/en/research/
+scope: Mới làm mảng Solar Physics and Stellar Connections (trang nhóm có danh sách đủ). Ba mảng kính thiên văn, thiết bị và trung tâm dữ liệu chưa có danh sách người.
+
+#unit Solar Physics and Stellar Connections
+kind: Mảng nghiên cứu
+parent: Institut für Sonnenphysik
+topics: Từ trường và nhiệt vành nhật hoa, vết đen Mặt Trời, phân cực quang phổ, truyền bức xạ phi LTE, mô phỏng MHD, lý thuyết dynamo.
+src: https://www.leibniz-kis.de/en/research/solar-physics/team-1/
+pp: Giám đốc khoa học; nghiên cứu viên | Hardi Peter
+pp: Điều phối nhóm; nghiên cứu viên; liên lạc sứ mệnh Sunrise | Juan Manuel Borrero
+pp: NCV | Nazaret Bello Gonzalez; Gregory Fleishman; Iaroslav Gorbachev; Andrey Gorobets; Ivan Milic; Rolf Schlichenmaier; Matthias Schubert; Taras Yakobchuk
+pp: NCV — Privatdozent Universität Freiburg | Petri Käpylä
+pp: NCV — liên lạc sứ mệnh Solar Orbiter | Gangadharan Vigeesh
+pp: PD | Tatiana Kaltman; Andrés Vicente Arévalo
+pp: NCS | Markus Schmassmann; Helena Vila Crespo
+pp: THS | Stefani Kecman
+pp: Sinh viên trợ lý | Gaojian Liu; Jan Buttler
+pp: Sinh viên cử nhân | Paulina Schillinger

@@ -1,0 +1,37 @@
+@inst Universität Bonn — Argelander-Institut für Astronomie
+structure: Argelander-Institut für Astronomie (AIfA), Fachgruppe Physik/Astronomie, Universität Bonn; giám đốc điều hành: Cristiano Porciani. Khoảng 130 nhân sự, gần một nửa là nhà khoa học
+structureUrl: https://www.astro.uni-bonn.de/en/institute
+scope: Trang thành viên chỉ hiện những người đồng ý công khai khi truy cập từ ngoài mạng trường, nên danh sách có thể thiếu. Trang không ghi nhóm của từng nhân sự; chỉ nhóm HISKP (Kroupa) được tách riêng. Danh sách nhân sự có lẫn một số nhân viên hành chính, kỹ thuật vì trang không ghi chức danh.
+
+#unit Giáo sư và nhóm nghiên cứu
+kind: Các giáo sư
+parent: Argelander-Institut für Astronomie
+topics: Thiên văn milimét/dưới milimét (Bertoldi); thiên hà và môi trường liên sao (Bigiel); vũ trụ học (Porciani); thiên văn tia X và cụm thiên hà (Reiprich); plasma vũ trụ và từ trường (Schober); hoá học thiên văn — Hertz Chair (Viti).
+note: Chủ đề của từng giáo sư là tóm tắt sơ bộ của mình, chưa đối chiếu trang nhóm.
+src: https://www.aifa.uni-bonn.de//members/professors ; https://www.aifa.uni-bonn.de//en/institute/members
+p: Cristiano Porciani | GS — giám đốc điều hành | https://www.aifa.uni-bonn.de/members/professors/cristiano-porciani
+p: Frank Bertoldi | GS | https://www.aifa.uni-bonn.de/members/professors/frank-bertoldi
+p: Frank Bigiel | GS | https://www.aifa.uni-bonn.de/members/professors/frank-bigiel
+p: Thomas Reiprich | GS | https://www.aifa.uni-bonn.de/members/professors/thomas-reiprich
+p: Jennifer Schober | GS | https://www.aifa.uni-bonn.de/members/professors/jennifer-schober
+p: Serena Viti | GS — Hertz Chair of Astrochemistry | https://www.aifa.uni-bonn.de/members/professors/serena-viti
+pp: Giáo sư danh dự / cao niên | Peter Schneider; Norbert Langer; Ulrich Klein; Wolfgang Kundt; Gerd Prölss; Max Römer
+
+#unit Nhân sự khoa học (toàn viện)
+kind: Danh sách toàn viện
+parent: Argelander-Institut für Astronomie
+topics: Nhà khoa học, nghiên cứu sinh và học viên của viện.
+note: Trang chỉ ghi học vị: người có “Dr.” được ghi là nghiên cứu viên, người còn lại ghi chung là “nhân sự (chưa rõ ngạch)” — gồm nghiên cứu sinh, học viên và có thể cả nhân viên hành chính.
+src: https://www.aifa.uni-bonn.de//en/institute/members
+pp: NCV | Alexander Eggemeier; Angie Veronica; Callum Lynn; Christos Karoumpis; Dario Colombo; Deepen Garg; Emilio Romano-Diaz; Florian Pacaud; Jürgen Kerp; Kaustuv moni Basu; Lucas Porth; Malte Tewes; Mandar Karandikar; Matteo Cataneo; Michael Bird; Mohammadreza Ayromlou; Neco Kriel; Ole Marggraf; Oliver-Mark Cordes; Patrick Simon; Reiko Nakajima; Reinhold Schaaf; Sonja Felder; Stefanie Mühle; Thomas Erben; Yuanyuan Zhao
+pp: Nhân sự (chưa rõ ngạch) | Andrea Guerrero; Andreas Bödewig; Ankur Dev; Barshan Ray; Caroline Mannes; Diana Victoria Lopez Navarro; Elena Marcuzzo; Gervit Kumar Trehan; Götz Gräfener; Hao He; Helene Antonia Kast; Ina Galić; Jakob Dietl; Jatin Chopra; Jessica Mills; Jill Westerfield; Julius Zimmler; Kent Barbey; Maximilian Thomas; Michael Kovac; Milan Staffehl; Minou Greve; Mohammadreza Torkamani; Regina Tempel; Stefanos Lialios; Sylvia Adscheid; Tejas Oak; Toka Alokda; Vanessa Schulz; Yanhanle Zhao; Yinghua Huang; Zein Bazzi
+
+#unit Stellar Populations and Dynamics (HISKP)
+parent: Helmholtz-Institut für Strahlen- und Kernphysik, làm việc tại AIfA
+topics: Quần thể sao, động lực học sao và thiên hà, kiểm nghiệm lý thuyết hấp dẫn.
+note: Chủ đề tóm tắt sơ bộ.
+src: https://www.aifa.uni-bonn.de//en/institute/members ; https://www.astro.uni-bonn.de/members/hiskp
+pp: GSTN | Pavel Kroupa
+pp: GS | Akram Hasani Zonoozi
+pp: NCV | Ingo Thies; Jan Pflamm-Altenburg; Sambaran Banerjee
+pp: Nhân sự (chưa rõ ngạch) | Benjamin Gaete; Wenjie Wu; Dong Zhang; Nils Wittenburg

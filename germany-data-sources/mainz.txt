@@ -1,0 +1,23 @@
+@inst Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)
+structure: ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Köpke, AG Wurm
+structureUrl: https://www.etap.physik.uni-mainz.de/index
+scope: Trang nhóm không có danh sách thành viên đọc được; mới ghi trưởng nhóm.
+
+#unit AG Böser
+parent: ETAP
+topics: Vật lý hạt thiên văn và neutrino năng lượng thấp: dao động neutrino và thiên văn IceCube, cảm biến ánh sáng WOM, đo khối lượng neutrino (Project 8), NuDoubt++.
+src: https://ag-boeser.physik.uni-mainz.de/
+pp: GSTN | Sebastian Böser
+
+#unit AG Köpke
+parent: ETAP
+topics: Neutrino năng lượng thấp trong IceCube: neutrino khí quyển và từ siêu tân tinh.
+src: https://www.etap.physik.uni-mainz.de/prof-lutz-kopke ; https://www.alphagalileo.org/en-gb/Item-Display/ItemId/269006
+pp: GSTN | Lutz Köpke
+
+#unit AG Wurm
+parent: ETAP
+topics: Vật lý neutrino (JUNO).
+note: Chủ đề tóm tắt sơ bộ.
+src: https://www.etap.physik.uni-mainz.de/index
+pp: GSTN | Michael Wurm

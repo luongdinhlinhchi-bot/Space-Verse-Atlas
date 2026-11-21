@@ -1,0 +1,36 @@
+@inst Technische Universität Berlin — Zentrum für Astronomie und Astrophysik
+structure: Zentrum für Astronomie und Astrophysik, TU Berlin; giám đốc: Dieter Breitschwerdt
+structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
+scope: Cập nhật theo báo cáo thường niên 2024 (Mitteilungen der AG 108, 2025): các nhóm Büchner và Rauer không còn trong danh sách giáo sư 2024 nên đã bỏ. Gán người vào nhóm dựa trên trang nhóm cũ (đã lưu trữ); người không rõ nhóm để ở mục chung. Không đưa vào nhóm plasma nhiệt hạch của R. Wolf.
+
+#unit Galaktischer Materiekreislauf (Breitschwerdt)
+parent: Zentrum für Astronomie und Astrophysik
+topics: Mô phỏng môi trường liên sao, mây vận tốc cao, quầng thiên hà; vật lý thiên văn phân tử và bụi; vận chuyển 60Fe, Bong bóng Địa phương.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf ; https://www-astro.physik.tu-berlin.de/node/270
+p: Dieter Breitschwerdt | GD | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
+p: Beate Patzer | NCV — Akademische Oberrätin | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
+p: Michael Schulreich | NCV | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
+x: Miguel de Avillez | Giáo sư khách mời — University of Évora | https://www-astro.physik.tu-berlin.de/node/270
+
+#unit Sonnen- und stellare Plasmaphysik (Müller)
+parent: Zentrum für Astronomie und Astrophysik
+topics: Mô phỏng động học gia tốc ion nặng trong gió Mặt Trời, tái kết nối từ, nhiễu loạn, phát xạ vô tuyến từ sao neutron.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf ; https://astro.physik.tu-berlin.de/node/477
+pp: GS | W. Ch. Müller
+
+#unit Astrobiologie: Planetare Habitabilität (Schulze-Makuch)
+parent: Zentrum für Astronomie und Astrophysik
+topics: Dấu hiệu sinh học trong điều kiện Sao Hoả và Sao Kim, quang hợp dưới bức xạ không phải Mặt Trời, ràng buộc sinh học vũ trụ.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf ; https://www-astro.physik.tu-berlin.de/en/node/385
+pp: GS | D. Schulze-Makuch
+pp: NCV | J. Heinz
+pp: NCS | F. Arens; M. Riekeles; L. Jentzsch; C. Sager
+
+#unit Nhân sự khác (toàn trung tâm)
+kind: Danh sách toàn trung tâm
+parent: Zentrum für Astronomie und Astrophysik
+topics: Nhà khoa học, nghiên cứu sinh và sinh viên mà báo cáo không gán nhóm.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
+pp: NCV | F. Fischer; P. Munoz-Sepulveda; L. Scheibe; T. Schumann; J.-M. Teissier; I. van Zelst
+pp: NCS | R. Mäusle; M. Pacicco
+pp: Sinh viên cử nhân / thạc sĩ | U. Ahlawat; M. M. Alkofer; E. Elmali; C. Fenski; G. E. Davila Frantzen; T. Garmatter; E. M. Gerstl; L. G. Henkel; L. V. Henschke; D. Janzen; N. Kanter; O. Kirac; L. Lehnert; M. H. Lienen; S. Nundoo; D. Schurer; A. Stemshorn; C. Mayr Wolf

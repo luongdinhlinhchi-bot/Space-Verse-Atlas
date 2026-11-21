@@ -1,0 +1,82 @@
+@inst Georg-August-Universität Göttingen — Institut für Astrophysik und Geophysik
+structure: Institut für Astrophysik und Geophysik (IAG), Fakultät für Physik; hợp nhất từ 1.1.2022; quyền giám đốc hiện tại: Ansgar Reiners
+structureUrl: https://www.uni-goettingen.de/en/research/215075.html
+scope: Danh sách người lấy từ báo cáo thường niên 2023 (Mitteilungen der AG 107, 2024) vì chưa tìm thấy bản 2024 riêng; tên chỉ có chữ cái đầu. Nhóm nghiên cứu và người tham gia theo mục 2 của báo cáo; những người báo cáo không gán nhóm được để ở mục chung. Không gồm nhóm địa vật lý thuần (Tilgner).
+
+#unit Helioseismologie
+parent: Institut für Astrophysik und Geophysik
+topics: Bên trong và động lực học Mặt Trời, đối lưu và hoạt động từ; dao động của các sao giống Mặt Trời, tinh chấn học.
+note: Laurent Gizon đồng thời là giám đốc tại MPS.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf ; https://www.uni-goettingen.de/en/research/215075.html
+pp: GSTN | L. Gizon
+
+#unit Physik der Sonne und Weltraumwetter
+parent: Institut für Astrophysik und Geophysik
+topics: Phân tích 3D các vụ phóng khối lượng vành nhật hoa (STEREO, SOHO), mô hình gió Mặt Trời và F-corona cho Parker Solar Probe và Solar Orbiter, dự báo thời tiết vũ trụ.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: TN | V. Bothmer
+pp: NCV | I. A. M. Chifu
+
+#unit Planeten um masse-arme Sterne
+parent: Institut für Astrophysik und Geophysik
+topics: Quan sát và phân tích hành tinh quanh sao khối lượng thấp; tìm kiếm trong dữ liệu Kepler và TESS; hoạt động của sao chủ.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: GSTN — giám đốc điều hành (2023) | S. Dreizler
+pp: NCS | P. Gorrini; P. Schwarz
+
+#unit Stellare Populationen in Kugelsternhaufen
+parent: Institut für Astrophysik und Geophysik
+topics: Nghiên cứu động học và trắc quang các quần thể sao trong cụm sao cầu.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: GSTN | S. Dreizler
+pp: NCV | F. Göttgens; T.-O. Husser; M. Latour
+pp: NCS | S. Martens
+
+#unit Magnetische Sterne und Exoplanetensuche
+parent: Institut für Astrophysik und Geophysik
+topics: Sao có từ trường; tìm hành tinh bằng quang phổ (CARMENES, CRIRES+, ANDES); phát xạ phân tử trong khí quyển hành tinh.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf ; https://www.uni-goettingen.de/en/215072.html
+pp: GSTN — quyền giám đốc viện hiện tại | A. Reiners
+pp: NCV | M. Zechmeister
+
+#unit Magnetische kataklysmische Veränderliche
+parent: Institut für Astrophysik und Geophysik
+topics: Quan sát quang học và tia X các sao biến quang tai biến có từ trường.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: NCV | K. Reinsch
+pp: Giáo sư đã nghỉ hưu | K. Beuermann
+
+#unit Aktive Galaxien
+parent: Institut für Astrophysik und Geophysik
+topics: Biến quang và profile vạch của thiên hà Seyfert, cấu trúc vùng vạch rộng, khảo sát trường MUSE.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: GSTN | W. Kollatschny
+pp: NCS | M. Ochmann; M. A. Probst
+pp: THS | L. Gimm
+
+#unit Kosmologie
+parent: Institut für Astrophysik und Geophysik
+topics: Hình thành cấu trúc với vật chất tối boson siêu nhẹ, xác định tham số vũ trụ, khảo sát lập bản đồ cường độ.
+note: Báo cáo không nêu trưởng nhóm; J. Niemeyer được ghi theo hiểu biết chung về giáo sư vũ trụ học của viện.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: GS | J. Niemeyer
+pp: NCV | B. Eggemeier
+
+#unit Instrumentenentwicklung
+kind: Nhóm thiết bị
+parent: Institut für Astrophysik und Geophysik
+topics: Quang phổ Mặt Trời (VVT, FTS), đèn hiệu chuẩn, Fabry-Pérot và lược tần số laser, phổ kế cho MONET-South; tham gia sứ mệnh không gian (WISPR, SoloHI, PHI, PUNCH, Vigil, PLATO).
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: NCV | S. Schäfer; M. Debus; J. Zimara; H. Nicklas; T.-O. Husser
+pp: NCS | L. Meerwart
+
+#unit Nhân sự khác (toàn viện)
+kind: Danh sách toàn viện (phần còn lại)
+parent: Institut für Astrophysik und Geophysik
+topics: Nhà khoa học, nghiên cứu sinh và sinh viên mà báo cáo không gán vào nhóm cụ thể.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf
+pp: Giáo sư đã nghỉ hưu | W. Deinzer; W. Glatzel; F. Kneer
+pp: NCV | L.-M. Cairos-Barreto; P. Käpylä; V. F. Mehta; E. Nagel; N.-A. Nèmec; L. Nortmann; A. Rosenthal; L. Schmidt; F. Yan
+pp: NCS | D. Cont; M. Ellwarth; A. Goodsall; F. Lesjak; K. Lüdemann; H. L. Ruh; T. A. Timmermann
+pp: THS | A. Anikumar; C. Bayraktar; L. Beckmann; R. Bohemann; J. El-Kuweiss; C. Fischer; P. C. Hartogh; M. Hüschen; M. Ludwig; H. K. Lee; C. Meyer; E. Müller; J. Müller-Horn; H. L. Pleteit; K. Schimpf; M. I. Schmitt; A. Triebe; Z. Shang
+pp: Sinh viên cử nhân | F. Albrecht; V. Beitz; P. Bolte; J. M. Buchin; J. Cai; M. Döring; J. Dabrunz; P. Ewald; D. Frenzel; J. Haupt; J. A. Kleff; L. Losch; E. Mazko; L. Melzig; M.-B. Menssen; O. Merkes; W. Peter; L. Sauke; F. Schabram; F. Sickert; M. Siemer; S. Sommer; B. Winkle; J. Zwickl

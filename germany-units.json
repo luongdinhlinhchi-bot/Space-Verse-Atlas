@@ -1,0 +1,1899 @@
+{
+ "checked": "2026-11-21",
+ "institutions": {
+  "Leibniz-Institut für Astrophysik Potsdam (AIP)": {
+   "structure": "Hai mảng nghiên cứu: Stellar, Solar and Exoplanetary Physics; Extragalactic Astrophysics",
+   "structureUrl": "https://aip.de/en/research/cosmology/members",
+   "scopeNote": "Chưa đưa vào ba nhóm phát triển công nghệ (Research Data Infrastructure, Astronomical Spectroscopic Instrumentation, Astrophotonics).",
+   "units": [
+    {
+     "name": "Solar Physics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Stellar, Solar and Exoplanetary Physics",
+     "topics": "Vật lý Mặt Trời.",
+     "url": "https://aip.de/en/research/solar-physics/members",
+     "note": "Trang nhóm không có đoạn mô tả lĩnh vực được đọc ở lần kiểm tra này; chủ đề lấy theo tên nhóm."
+    },
+    {
+     "name": "Magnetohydrodynamics and Turbulence",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Stellar, Solar and Exoplanetary Physics",
+     "topics": "Lý thuyết dynamo cho hành tinh, sao và thiên hà; quay vi sai, bất ổn định từ; mô phỏng hình thành sao và thiên hà.",
+     "url": "https://www.aip.de/en/research/mhd/",
+     "note": "Kester Weise được trang ghi chung là sinh viên thạc sĩ/cử nhân."
+    },
+    {
+     "name": "Stellar Physics and Exoplanets",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Stellar, Solar and Exoplanetary Physics",
+     "topics": "Tiến hoá của sao và hành tinh ngoài Hệ Mặt Trời; khí quyển hành tinh qua trắc quang và quang phổ; bề mặt và từ trường sao qua quang phổ phân giải cao và phân cực kế.",
+     "url": "https://www.aip.de/en/research/stellar-physics/",
+     "note": "Bốn sinh viên cuối được trang ghi chung là sinh viên thạc sĩ/cử nhân. Những người chỉ xuất hiện trong chú thích ảnh nhóm không được đưa vào."
+    },
+    {
+     "name": "Stellar Activity",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Stellar, Solar and Exoplanetary Physics",
+     "topics": "Tiến hoá của các sao giống Mặt Trời: sự quay và hoạt động từ.",
+     "url": "https://www.aip.de/en/research/stellar-activity/"
+    },
+    {
+     "name": "Exoplanets and their Atmospheres",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Stellar, Solar and Exoplanetary Physics",
+     "topics": "Hình thành hành tinh, khí hậu và hoá học khí quyển hành tinh ngoài Hệ Mặt Trời; tìm dấu hiệu sinh học.",
+     "url": "https://www.aip.de/en/research/exoplanets-atmospheres/",
+     "note": "Trang nhóm chưa có danh sách thành viên riêng; mới ghi được trưởng nhóm."
+    },
+    {
+     "name": "Milky Way and the Local Volume",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Extragalactic Astrophysics",
+     "topics": "Ngân Hà và các thiên hà lân cận: khảo sát lớn, mô hình hoá học – động lực học, mô phỏng vũ trụ học.",
+     "url": "https://www.aip.de/en/research/milky-way/"
+    },
+    {
+     "name": "Dwarf Galaxies and the Galactic Halo",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Extragalactic Astrophysics",
+     "topics": "Thiên hà lùn (như các Đám mây Magellan) và vai trò của chúng trong sự hình thành quầng Ngân Hà.",
+     "url": "https://www.aip.de/en/research/dwarf-galaxies/",
+     "note": "Olga Hinke được trang ghi chung là sinh viên thạc sĩ/cử nhân."
+    },
+    {
+     "name": "Galaxies and Quasars",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Extragalactic Astrophysics",
+     "topics": "Thiên hà và quasar.",
+     "url": "https://aip.de/en/research/galaxies-quasars/members",
+     "note": "Trang nhóm không có đoạn mô tả lĩnh vực được đọc ở lần kiểm tra này; chủ đề lấy theo tên nhóm."
+    },
+    {
+     "name": "X-ray Astronomy",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Extragalactic Astrophysics",
+     "topics": "Nguồn tia X: thiên thể đặc và nhân thiên hà hoạt động, với XMM-Newton và eROSITA kết hợp quan sát đa bước sóng.",
+     "url": "https://www.aip.de/en/research/xray-astronomy/",
+     "note": "Năm sinh viên được trang ghi chung là sinh viên thạc sĩ/cử nhân. Những người chỉ xuất hiện trong chú thích ảnh nhóm không được đưa vào."
+    },
+    {
+     "name": "Cosmology and High-Energy Astrophysics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Extragalactic Astrophysics",
+     "topics": "Hình thành và tiến hoá của thiên hà và cụm thiên hà; tia vũ trụ, phản hồi từ sao và lỗ đen; kết hợp lý thuyết, mô phỏng và quan sát.",
+     "url": "https://www.aip.de/en/research/cosmology/"
+    },
+    {
+     "name": "Cosmography and Large-Scale Structure",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Extragalactic Astrophysics",
+     "topics": "Lập bản đồ vũ trụ lân cận và cấu trúc quy mô lớn.",
+     "url": "https://www.aip.de/en/research/cosmography/members/",
+     "note": "Chủ đề tóm tắt theo tên nhóm; trang tổng quan chưa được đọc ở lần kiểm tra này."
+    }
+   ],
+   "networks": [],
+   "coverage": "full"
+  },
+  "Universität Potsdam — Lehrstuhl für Astrophysik": {
+   "structure": "Institut für Physik und Astronomie → các Professur về vật lý thiên văn",
+   "structureUrl": "https://www.astro.physik.uni-potsdam.de/~www/home_en.html",
+   "scopeNote": "Đủ các professur và nhóm thiên văn – hạt thiên văn của Viện Vật lý và Thiên văn: Astrophysik (Richter), Stellare Astrophysik (Geier), Theoretische Astrophysik (Dietrich), sao nặng (Oskinova), Theoretical/Plasma/Experimental Astroparticle Physics. Nhóm Planetologie (Spahn) chưa đưa vào.",
+   "units": [
+    {
+     "name": "Professur für Astrophysik",
+     "kind": "Nhóm giáo sư (Professur)",
+     "parent": "Institut für Physik und Astronomie",
+     "topics": "Khí liên sao và liên thiên hà, môi trường quanh thiên hà, tiến hoá thiên hà, vũ trụ học, AGN và vật lý Mặt Trời.",
+     "url": "https://www.astro.physik.uni-potsdam.de/~prichter/group.htm"
+    },
+    {
+     "name": "Professur für Stellare Astrophysik",
+     "kind": "Nhóm giáo sư (Professur)",
+     "parent": "Institut für Physik und Astronomie",
+     "topics": "Giai đoạn cuối của tiến hoá sao: sao lùn dưới nóng, sao lùn trắng, sao đôi gần, tiền thân siêu tân tinh.",
+     "url": "https://www.astro.physik.uni-potsdam.de/~stellar/Members.html"
+    },
+    {
+     "name": "Professur für Theoretische Astrophysik",
+     "kind": "Nhóm giáo sư (Professur)",
+     "parent": "Institut für Physik und Astronomie",
+     "topics": "Mô phỏng hệ sao neutron đôi; tín hiệu sóng hấp dẫn và điện từ từ va chạm thiên thể đặc; vật chất mật độ siêu hạt nhân.",
+     "url": "https://www.uni-potsdam.de/en/theoretical-astrophysics/"
+    },
+    {
+     "name": "Professur für Astrophysik massereicher Sterne",
+     "kind": "Nhóm giáo sư (Professur)",
+     "parent": "Institut für Physik und Astronomie",
+     "topics": "Vật lý thiên văn của các sao khối lượng lớn; mô hình khí quyển sao Wolf-Rayet (PoWR).",
+     "url": "https://www.astro.physik.uni-potsdam.de/~www/home_en.html",
+     "note": "Thành viên lấy từ mục nghiên cứu sao nóng và tia X trong báo cáo thường niên 2024 (Mitteilungen der AG 108); trang nhóm không có danh sách riêng."
+    },
+    {
+     "name": "Theoretical Astroparticle Physics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Physik und Astronomie (chung với DESY Zeuthen)",
+     "topics": "Gia tốc và lan truyền hạt năng lượng cao; mô phỏng động học tương tác sóng–hạt.",
+     "url": "https://uni-potsdam.de/en/astroparticle/theoretical-astroparticle-physics/group-members"
+    },
+    {
+     "name": "Plasma Astrophysics (Yan)",
+     "kind": "Professur (bổ nhiệm chung với DESY)",
+     "parent": "Institut für Physik und Astronomie",
+     "topics": "Gia tốc và lan truyền tia vũ trụ trong nhiễu loạn MHD, từ trường thiên văn và phân cực phổ, plasma liên sao và không gian, bất ổn plasma.",
+     "url": "https://uni-potsdam.de/en/astroparticle/plasma-astrophysics/group-members"
+    },
+    {
+     "name": "Experimental Astroparticle Physics (Stegmann / Egberts)",
+     "kind": "Professur và nhóm nghiên cứu",
+     "parent": "Institut für Physik und Astronomie",
+     "topics": "Thiên văn tia gamma năng lượng rất cao (H.E.S.S., CTAO), nguồn gốc tia vũ trụ.",
+     "url": "https://www.uni-potsdam.de/de/astroparticle/experimentelle-astroteilchenphysik/gruppenmitglieder"
+    }
+   ],
+   "networks": [],
+   "coverage": "full"
+  },
+  "Max-Planck-Institut für Kernphysik": {
+   "structure": "Abteilung Nicht-thermische Astrophysik (giám đốc: Jim Hinton)",
+   "structureUrl": "https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members",
+   "scopeNote": "Đủ danh sách cho bộ phận Non-Thermal Astrophysics; hai bộ phận Astroparticle Physics (Mertens) và Particle and Astroparticle Physics (Lindner) mới có giám đốc và trưởng nhóm. Không đưa vào các bộ phận động lực học lượng tử.",
+   "units": [
+    {
+     "name": "H.E.S.S., CTAO",
+     "kind": "Nhóm trong bộ phận",
+     "parent": "Abteilung Nicht-thermische Astrophysik (Non-Thermal Astrophysics)",
+     "topics": "Thiên văn tia gamma năng lượng rất cao với H.E.S.S. và CTAO.",
+     "url": "https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members",
+     "note": "Giám đốc bộ phận Jim Hinton được ghi ở nhóm này để tránh lặp."
+    },
+    {
+     "name": "HAWC, SWGO",
+     "kind": "Nhóm trong bộ phận",
+     "parent": "Abteilung Nicht-thermische Astrophysik (Non-Thermal Astrophysics)",
+     "topics": "Đài quan sát tia gamma trường rộng HAWC và SWGO.",
+     "url": "https://www1.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/non-thermal-astrophysics/members"
+    },
+    {
+     "name": "Astroparticle Physics (Mertens)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für Kernphysik",
+     "topics": "Khối lượng neutrino (KATRIN), phân rã beta kép không neutrino (LEGEND), tìm vật chất tối (XENON), tán xạ neutrino lò phản ứng (CONUS+), axion (IAXO).",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/astroparticle-physics",
+     "note": "Trang bộ phận chỉ liệt kê giám đốc và trưởng nhóm; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Particle and Astroparticle Physics (Lindner)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für Kernphysik",
+     "topics": "Lý thuyết vật lý hạt và hạt thiên văn: vật lý neutrino, bản chất vật chất tối và hệ quả vũ trụ học.",
+     "url": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/particle-and-astroparticle-physics",
+     "note": "Trang bộ phận không có danh sách thành viên; mới ghi giám đốc."
+    }
+   ],
+   "networks": [],
+   "coverage": "partial"
+  },
+  "Max-Planck-Institut für Astronomie": {
+   "structure": "Ba bộ phận khoa học (giám đốc: Hans-Walter Rix, Myriam Benisty, Laura Kreidberg) và các nhóm nghiên cứu độc lập",
+   "structureUrl": "https://www.mpia.de/institute/scientific-departments",
+   "scopeNote": "Đủ ba bộ phận (GC, PFE/PSF, APEx) theo danh sách toàn bộ phận, và ba nhóm độc lập Galactic Nuclei, ExoWorlds Imaging, Stellar Spectroscopy. Chưa có Emeritus Research Group và Extragalactic Group; thành viên trong các bộ phận chưa tách theo nhóm con.",
+   "units": [
+    {
+     "name": "Galaxies and Cosmology (GC)",
+     "kind": "Bộ phận khoa học (Abteilung)",
+     "parent": "Max-Planck-Institut für Astronomie",
+     "topics": "Hình thành và tiến hoá thiên hà, sự lớn lên của lỗ đen trung tâm, hình thành sao từ khí, vật chất tối trong và quanh thiên hà (kể cả Ngân Hà), môi trường liên thiên hà.",
+     "url": "https://www.mpia.de/institute/scientific-departments/galaxies-and-cosmology",
+     "note": "Danh sách theo cả bộ phận; các trưởng nhóm nghiên cứu được ghi chức danh, chưa tách thành viên theo từng nhóm con. Kiril Maltsev có tên trên trang nhưng không ghi chức danh nên chưa đưa vào."
+    },
+    {
+     "name": "Planet Formation and Exoplanets (PFE)",
+     "kind": "Bộ phận khoa học (Abteilung)",
+     "parent": "Max-Planck-Institut für Astronomie",
+     "topics": "Hình thành và tiến hoá hành tinh từ đĩa tiền hành tinh đến hệ hành tinh trưởng thành; hình thành sao; hoá học thiên văn phòng thí nghiệm; phát triển thiết bị.",
+     "url": "https://www.mpia.de/en/pfe",
+     "note": "Danh sách theo cả bộ phận; các trưởng nhóm nghiên cứu được ghi chức danh, chưa tách thành viên theo từng nhóm con."
+    },
+    {
+     "name": "Atmospheric Physics of Exoplanets (APEx)",
+     "kind": "Bộ phận khoa học (Abteilung)",
+     "parent": "Max-Planck-Institut für Astronomie",
+     "topics": "Khí quyển hành tinh ngoài Hệ Mặt Trời: quan sát đặc trưng khí quyển, mô hình lý thuyết, thiết bị mới.",
+     "url": "https://www.mpia.de/institute/scientific-departments/atmospheric-physics-of-exoplanets",
+     "note": "Danh sách theo cả bộ phận; các trưởng nhóm nghiên cứu được ghi chức danh, chưa tách thành viên theo từng nhóm con."
+    },
+    {
+     "name": "Galactic Nuclei (Neumayer)",
+     "kind": "Nhóm nghiên cứu độc lập",
+     "parent": "Max-Planck-Institut für Astronomie",
+     "topics": "Động lực học thiên hà, sự hình thành nhân thiên hà, lỗ đen trong thiên hà khối lượng thấp; quang phổ trường tích phân, quang học thích ứng.",
+     "url": "https://www.mpia.de/galactic-nuclei/members"
+    },
+    {
+     "name": "ExoWorlds Imaging (Chauvin)",
+     "kind": "Nhóm nghiên cứu độc lập",
+     "parent": "Max-Planck-Institut für Astronomie",
+     "topics": "Chụp ảnh trực tiếp ngoại hành tinh độ tương phản cao, tiền hành tinh, khí quyển ngoại hành tinh (SPHERE+, METIS, HiRISE, ANDES).",
+     "url": "https://www.mpia.de/en/independent-research-groups/exoworlds-imaging/group"
+    },
+    {
+     "name": "Stellar Spectroscopy and Populations (Bergemann)",
+     "kind": "Nhóm nghiên cứu Lise Meitner",
+     "parent": "Max-Planck-Institut für Astronomie",
+     "topics": "Mô hình truyền bức xạ phi cân bằng (Non-LTE) và khí quyển sao 3D; quang phổ định lượng, tổng hợp nguyên tố; Gaia-ESO, 4MOST, PLATO.",
+     "url": "https://www.mpia.de/en/LMG/stellar-spectroscopy-and-populations/members",
+     "note": "Trang thành viên có thể chưa cập nhật; thêm hai người mới vào nhóm theo trang tin của nhóm."
+    }
+   ],
+   "networks": [],
+   "coverage": "partial"
+  },
+  "Universität Heidelberg — Zentrum für Astronomie (ZAH)": {
+   "structure": "Ba viện: Astronomisches Rechen-Institut (ARI), Landessternwarte Königstuhl (LSW), Institut für Theoretische Astrophysik (ITA)",
+   "structureUrl": "https://www.zah.uni-heidelberg.de/institutes",
+   "scopeNote": "Có đủ 31 nhóm với trưởng nhóm, và toàn bộ nhân sự theo danh bạ ZAH chia theo ba viện ARI, ITA, LSW. Danh bạ không ghi ai thuộc nhóm nào, nên chưa gán thành viên vào từng nhóm.",
+   "units": [
+    {
+     "name": "Galaxy Evolution Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://www.ari.uni-heidelberg.de/mitarbeiter/grebel/group.html",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Gravitational Lensing Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://www.ari.uni-heidelberg.de/mitarbeiter/wambsganss/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galaxy Evolution and AGN Group (GALENA)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://wwwstaff.ari.uni-heidelberg.de/dwylezalek/galena.html",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Statistics and Cosmology Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://www.ita.uni-heidelberg.de/~spirou/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Computational Stellar Dynamics Group (Silk Road Project)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/spurzem/index.html",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Theoretical Galaxy Evolution and Stellar Dynamics Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://www.ari.uni-heidelberg.de/mitarbeiter/just/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Gaia Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://www.ari.uni-heidelberg.de/gaia/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Lifecycle of Star Clusters Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/gparm/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galaxy Star Formation History Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://www.zah.uni-heidelberg.de/research-groups",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galaxy Clusters Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "http://www.ari.uni-heidelberg.de/mitarbeiter/rschmidt/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Virtual Observatory/eScience Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://www.zah.uni-heidelberg.de/research-groups",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galactic Halos and Bulges Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://wwwstaff.ari.uni-heidelberg.de/akoch/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galactic Dynamics Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://www.zah.uni-heidelberg.de/research-groups",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Baryonic Life Cycle Group (ERC and Emmy Noether)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://wwwstaff.ari.uni-heidelberg.de/kkreckel/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Computational/Theoretical Gas & Radiation Dynamics Group (ERC)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://asgard-ari.github.io/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Stellar Atmospheres and Mass Loss Group (Emmy Noether)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Trực thuộc Astronomisches Rechen-Institut (ARI). Chủ đề theo tên nhóm.",
+     "url": "https://wwwstaff.ari.uni-heidelberg.de/ansander/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Planet Formation Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "http://www.ita.uni-heidelberg.de/~dullemond/group.shtml",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Star Formation Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "http://klessen.org/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Gravitational Wave Astrophysics Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "http://demoblack.com/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Physics of Stellar Objects Group (HITS and ITA)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "http://www.h-its.org/en/research/pso/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Gravitational Lensing and Galaxy Clusters Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "http://www.ita.uni-heidelberg.de/~maturi/projects.html",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Astrochemistry and ISM Dynamics Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "https://www.zah.uni-heidelberg.de/research-groups",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Computational Galaxy Formation and Evolution Group (Emmy Noether)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "http://www.ita.uni-heidelberg.de/~dnelson/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galactic Matter Cycle Group (Emmy Noether)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Trực thuộc Institut für Theoretische Astrophysik (ITA). Chủ đề theo tên nhóm.",
+     "url": "https://www.ita.uni-heidelberg.de/~mchevance/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Galactic Archaeology Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "http://www.lsw.uni-heidelberg.de/projects/galactic_archaeology/index.phtml",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Theory and Observations of Stars Group (HITS and LSW)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "https://www.h-its.org/research/tos/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Instrumentation Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "https://www.zah.uni-heidelberg.de/research-groups",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Exoplanet Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "http://www.lsw.uni-heidelberg.de/projects/exoplanets/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Extragalactic Astrophysics and High Energy Astrophysics Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "http://www.lsw.uni-heidelberg.de/projects/extragalactic/",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "AGN Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "http://www.lsw.uni-heidelberg.de/users/jheidt/group/group.html",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Heisenberg Research Group on Hot Compact Stars",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Trực thuộc Landessternwarte Königstuhl (LSW). Chủ đề theo tên nhóm.",
+     "url": "https://www.lsw.uni-heidelberg.de/users/nreindl",
+     "note": "Mới ghi trưởng nhóm theo trang tổng hợp của ZAH; chưa có danh sách thành viên."
+    },
+    {
+     "name": "Danh sách nhân sự — Astronomisches Rechen-Institut (ARI)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Astronomisches Rechen-Institut (ARI)",
+     "topics": "Toàn bộ người thuộc viện này trong danh bạ nhân sự ZAH; danh bạ không ghi nhóm nghiên cứu.",
+     "url": "https://zah.uni-heidelberg.de/service/personnel",
+     "note": "Danh bạ chỉ ghi học vị (Prof., Dr., M.Sc., B.Sc.), không ghi chức danh hay nhóm; ngạch được suy từ học vị. Đã bỏ bốn người là thư ký hoặc đầu mối hành chính; vẫn có thể còn lẫn một vài nhân viên kỹ thuật."
+    },
+    {
+     "name": "Danh sách nhân sự — Institut für Theoretische Astrophysik (ITA)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Institut für Theoretische Astrophysik (ITA)",
+     "topics": "Toàn bộ người thuộc viện này trong danh bạ nhân sự ZAH; danh bạ không ghi nhóm nghiên cứu.",
+     "url": "https://zah.uni-heidelberg.de/service/personnel",
+     "note": "Danh bạ chỉ ghi học vị (Prof., Dr., M.Sc., B.Sc.), không ghi chức danh hay nhóm; ngạch được suy từ học vị. Đã bỏ bốn người là thư ký hoặc đầu mối hành chính; vẫn có thể còn lẫn một vài nhân viên kỹ thuật."
+    },
+    {
+     "name": "Danh sách nhân sự — Landessternwarte Königstuhl (LSW)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Landessternwarte Königstuhl (LSW)",
+     "topics": "Toàn bộ người thuộc viện này trong danh bạ nhân sự ZAH; danh bạ không ghi nhóm nghiên cứu.",
+     "url": "https://zah.uni-heidelberg.de/service/personnel",
+     "note": "Danh bạ chỉ ghi học vị (Prof., Dr., M.Sc., B.Sc.), không ghi chức danh hay nhóm; ngạch được suy từ học vị. Đã bỏ bốn người là thư ký hoặc đầu mối hành chính; vẫn có thể còn lẫn một vài nhân viên kỹ thuật."
+    },
+    {
+     "name": "Danh sách nhân sự — Heidelberger Institut für Theoretische Studien (HITS), làm việc cùng ZAH",
+     "kind": "Danh sách toàn viện",
+     "parent": "Heidelberger Institut für Theoretische Studien (HITS), làm việc cùng ZAH",
+     "topics": "Toàn bộ người thuộc viện này trong danh bạ nhân sự ZAH; danh bạ không ghi nhóm nghiên cứu.",
+     "url": "https://zah.uni-heidelberg.de/service/personnel",
+     "note": "Danh bạ chỉ ghi học vị (Prof., Dr., M.Sc., B.Sc.), không ghi chức danh hay nhóm; ngạch được suy từ học vị. Đã bỏ bốn người là thư ký hoặc đầu mối hành chính; vẫn có thể còn lẫn một vài nhân viên kỹ thuật."
+    }
+   ],
+   "networks": [],
+   "coverage": "partial"
+  },
+  "Technische Universität Berlin — Zentrum für Astronomie und Astrophysik": {
+   "coverage": "full",
+   "structure": "Zentrum für Astronomie und Astrophysik, TU Berlin; giám đốc: Dieter Breitschwerdt",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf",
+   "scopeNote": "Cập nhật theo báo cáo thường niên 2024 (Mitteilungen der AG 108, 2025): các nhóm Büchner và Rauer không còn trong danh sách giáo sư 2024 nên đã bỏ. Gán người vào nhóm dựa trên trang nhóm cũ (đã lưu trữ); người không rõ nhóm để ở mục chung. Không đưa vào nhóm plasma nhiệt hạch của R. Wolf.",
+   "units": [
+    {
+     "name": "Galaktischer Materiekreislauf (Breitschwerdt)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Zentrum für Astronomie und Astrophysik",
+     "topics": "Mô phỏng môi trường liên sao, mây vận tốc cao, quầng thiên hà; vật lý thiên văn phân tử và bụi; vận chuyển 60Fe, Bong bóng Địa phương.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf"
+    },
+    {
+     "name": "Sonnen- und stellare Plasmaphysik (Müller)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Zentrum für Astronomie und Astrophysik",
+     "topics": "Mô phỏng động học gia tốc ion nặng trong gió Mặt Trời, tái kết nối từ, nhiễu loạn, phát xạ vô tuyến từ sao neutron.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf"
+    },
+    {
+     "name": "Astrobiologie: Planetare Habitabilität (Schulze-Makuch)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Zentrum für Astronomie und Astrophysik",
+     "topics": "Dấu hiệu sinh học trong điều kiện Sao Hoả và Sao Kim, quang hợp dưới bức xạ không phải Mặt Trời, ràng buộc sinh học vũ trụ.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf"
+    },
+    {
+     "name": "Nhân sự khác (toàn trung tâm)",
+     "kind": "Danh sách toàn trung tâm",
+     "parent": "Zentrum für Astronomie und Astrophysik",
+     "topics": "Nhà khoa học, nghiên cứu sinh và sinh viên mà báo cáo không gán nhóm.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "DLR — Institut für Weltraumforschung (tên trong danh sách RDS: Institut für Planetenforschung)": {
+   "structure": "Viện gồm nhiều bộ phận; ở đây chỉ lấy các bộ phận nghiên cứu hành tinh",
+   "structureUrl": "https://www.dlr.de/de/wr/ueber-uns/abteilungen",
+   "scopeNote": "Không đưa vào các bộ phận kỹ thuật và ứng dụng (Echtzeit-Datenprozessierung, Hochgeschwindigkeitselektronik, In-Situ Sensing, Planetare Sensorsysteme, Sicherheitsforschung und Anwendungen, Terahertz- und Laserspektroskopie, Weltrauminstrumente). DLR không công bố danh sách nhân sự theo bộ phận trên các trang đã đọc.",
+   "units": [
+    {
+     "name": "Extrasolare Planeten und Atmosphären",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Institut für Weltraumforschung",
+     "topics": "Tìm hành tinh ngoài Hệ Mặt Trời, xác định tính chất, mô hình khí quyển và điều kiện có thể ở được.",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen/extrasolareplaneten",
+     "note": "Trang bộ phận chỉ nêu trưởng bộ phận, không có danh sách nhân sự."
+    },
+    {
+     "name": "Planetenphysik",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Institut für Weltraumforschung",
+     "topics": "Cấu trúc bên trong và tiến hoá của các thiên thể hành tinh; diễn giải dữ liệu địa vật lý, địa hoá từ tàu vũ trụ.",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen/planetenphysik",
+     "note": "Trang bộ phận chỉ nêu trưởng bộ phận, không có danh sách nhân sự."
+    },
+    {
+     "name": "Planetengeologie",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Institut für Weltraumforschung",
+     "topics": "Địa chất bề mặt rắn của hành tinh, vệ tinh và thiên thể nhỏ: núi lửa, kiến tạo, phong hóa, hố va chạm, khả năng sống.",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen/planetengeologie",
+     "note": "Trang bộ phận chỉ nêu trưởng bộ phận, không có danh sách nhân sự."
+    },
+    {
+     "name": "Planetengeodäsie",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Institut für Weltraumforschung",
+     "topics": "Hình dạng, địa hình, trường trọng lực, chuyển động quay và quỹ đạo của hành tinh, vệ tinh, tiểu hành tinh, sao chổi; đo cao bằng laser.",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen/planetengeodaesie",
+     "note": "Trang bộ phận chỉ nêu trưởng bộ phận, không có danh sách nhân sự."
+    },
+    {
+     "name": "Planetare Labore",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Institut für Weltraumforschung",
+     "topics": "Bộ phận nghiên cứu hành tinh; chủ đề theo tên bộ phận.",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen/abteilung-planetare-labore",
+     "note": "Chưa đọc trang riêng của bộ phận; chưa có trưởng bộ phận và nhân sự."
+    }
+   ],
+   "networks": [],
+   "coverage": "leaders"
+  },
+  "Max-Planck-Institut für Astrophysik": {
+   "structure": "Năm mảng nghiên cứu và bốn nhóm nghiên cứu độc lập; giám đốc: Selma E. de Mink, Guinevere Kauffmann, Eiichiro Komatsu, Volker Springel",
+   "structureUrl": "https://www.mpa-garching.mpg.de/27871/Profile",
+   "scopeNote": "Đã có danh sách người toàn viện kèm link hồ sơ; chưa gán từng người vào mảng nghiên cứu.",
+   "units": [
+    {
+     "name": "Institute Members (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Vật lý thiên văn lý thuyết và tính toán: sao, thiên hà, vũ trụ học.",
+     "url": "https://www.mpa-garching.mpg.de/members",
+     "note": "Trang thành viên của viện không ghi nhóm của từng người, nên danh sách để chung toàn viện. 15 người có tên trên trang nhưng không ghi chức danh chưa được đưa vào."
+    },
+    {
+     "name": "Computational Astrophysics",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/computationalstructureformation",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Galaxy Formation and Evolution",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/galaxyformation",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "High Energy Astrophysics",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/27926/High_Energy_Astrophysics",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Physical Cosmology",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/cosmology",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Stellar Astrophysics",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/979052/stellar-astrophysics",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Strong Lensing (LME Group)",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/444643/strong-lensing-mprg",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Gravitational Lensing (MPRG)",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/444381/gravitational-lensing-mprg",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Information Field Theory",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/109183/Information-Field-Theory",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    },
+    {
+     "name": "Multiphase Gas (MPRG)",
+     "kind": "Mảng nghiên cứu / nhóm độc lập",
+     "parent": "Max-Planck-Institut für Astrophysik",
+     "topics": "Chủ đề theo tên nhóm.",
+     "url": "https://www.mpa-garching.mpg.de/1020167/multiphase-gas",
+     "note": "Chưa đọc trang riêng của nhóm; thành viên hiện nằm trong danh sách toàn viện."
+    }
+   ],
+   "networks": [],
+   "coverage": "full"
+  },
+  "Max-Planck-Institut für extraterrestrische Physik": {
+   "structure": "Bốn bộ phận khoa học (giám đốc: Bender, Caselli, Eisenhauer, Genzel, Nandra) và các nhóm khác",
+   "structureUrl": "https://mpe.mpg.de/576280/structure",
+   "scopeNote": "Đủ bốn bộ phận (OPINAS, CAS, High-Energy, Infrared), nhóm van Dishoeck và nhóm độc lập Spezzano. Hai nhóm Dynamics và PhiGN chưa có danh sách riêng.",
+   "units": [
+    {
+     "name": "Center for Astrochemical Studies (CAS)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für extraterrestrische Physik",
+     "topics": "Hoá học thiên văn: hoá học và vật lý của môi trường liên sao, hình thành sao và hành tinh.",
+     "url": "https://www.mpe.mpg.de/CAS",
+     "note": "Chủ đề tóm tắt theo tên bộ phận."
+    },
+    {
+     "name": "High-Energy Astrophysics",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für extraterrestrische Physik",
+     "topics": "Thiên văn năng lượng cao (tia X và tia gamma).",
+     "url": "https://www.mpe.mpg.de/heg-en",
+     "note": "Trang thành viên không ghi chức danh và không tách nhà khoa học với nhân sự khác; danh sách là gần đúng, đã bỏ những người gắn nhãn IT, điện tử, cơ khí."
+    },
+    {
+     "name": "Infrared and Submillimeter Astronomy",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für extraterrestrische Physik",
+     "topics": "Thiên văn hồng ngoại và dưới milimét.",
+     "url": "https://www.mpe.mpg.de/ir",
+     "note": "Danh sách theo mục 2.1 của báo cáo thường niên 2024 (Mitteilungen der AG 108); báo cáo chỉ ghi chữ cái đầu của tên riêng. Đã bỏ thư ký và trợ lý nhóm."
+    },
+    {
+     "name": "Optical and Interpretative Astronomy (OPINAS)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für extraterrestrische Physik",
+     "topics": "Thiên văn quang học và diễn giải: thiên hà, động lực học sao, vũ trụ học quan sát.",
+     "url": "https://www.mpe.mpg.de/opinas-en",
+     "note": "Chủ đề tóm tắt sơ bộ. Không đưa vào nhóm nhân sự kỹ thuật (máy tính, thiết bị, Wendelstein) dù một số có học vị tiến sĩ."
+    },
+    {
+     "name": "Arbeitsgruppe van Dishoeck",
+     "kind": "Nhóm làm việc",
+     "parent": "Max-Planck-Institut für extraterrestrische Physik",
+     "topics": "Hóa học thiên văn và hình thành sao, hành tinh (JWST/MIRI, ALMA).",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/garching/mpe/jb-mpe-2024.pdf",
+     "note": "Hai postdoc của nhóm đồng thời có tên trong danh sách bộ phận hồng ngoại."
+    },
+    {
+     "name": "Nhóm nghiên cứu độc lập Spezzano",
+     "kind": "Nhóm nghiên cứu trẻ độc lập (Nachwuchsgruppe)",
+     "parent": "Max-Planck-Institut für extraterrestrische Physik",
+     "topics": "Hóa học thiên văn của lõi tiền sao (gắn với Center for Astrochemical Studies).",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/garching/mpe/jb-mpe-2024.pdf"
+    }
+   ],
+   "networks": [],
+   "coverage": "full"
+  },
+  "Humboldt-Universität zu Berlin — Experimentelle Astroteilchenphysik und Kosmologie": {
+   "coverage": "full",
+   "structure": "Institut für Physik, Humboldt-Universität zu Berlin — vật lý hạt thiên văn và thiên văn đa kênh",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf",
+   "scopeNote": "Trang khoa Vật lý chặn công cụ đọc tự động; danh sách lấy từ báo cáo thường niên 2024 trên Mitteilungen der Astronomischen Gesellschaft 108 (2025), tên nhà khoa học chỉ có chữ cái đầu. Báo cáo không tách người theo nhóm của hai giáo sư.",
+   "units": [
+    {
+     "name": "Vật lý hạt thiên văn và thiên văn đa kênh",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Physik",
+     "topics": "Nguồn năng lượng cao qua tia gamma và neutrino; sự kiện tạm thời (siêu tân tinh, kilonova, sự kiện xé sao); phân tích đa kênh thời gian thực bằng AI.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Universität Bonn — Argelander-Institut für Astronomie": {
+   "coverage": "partial",
+   "structure": "Argelander-Institut für Astronomie (AIfA), Fachgruppe Physik/Astronomie, Universität Bonn; giám đốc điều hành: Cristiano Porciani. Khoảng 130 nhân sự, gần một nửa là nhà khoa học",
+   "structureUrl": "https://www.astro.uni-bonn.de/en/institute",
+   "scopeNote": "Trang thành viên chỉ hiện những người đồng ý công khai khi truy cập từ ngoài mạng trường, nên danh sách có thể thiếu. Trang không ghi nhóm của từng nhân sự; chỉ nhóm HISKP (Kroupa) được tách riêng. Danh sách nhân sự có lẫn một số nhân viên hành chính, kỹ thuật vì trang không ghi chức danh.",
+   "units": [
+    {
+     "name": "Giáo sư và nhóm nghiên cứu",
+     "kind": "Các giáo sư",
+     "parent": "Argelander-Institut für Astronomie",
+     "topics": "Thiên văn milimét/dưới milimét (Bertoldi); thiên hà và môi trường liên sao (Bigiel); vũ trụ học (Porciani); thiên văn tia X và cụm thiên hà (Reiprich); plasma vũ trụ và từ trường (Schober); hoá học thiên văn — Hertz Chair (Viti).",
+     "url": "https://www.aifa.uni-bonn.de//members/professors",
+     "note": "Chủ đề của từng giáo sư là tóm tắt sơ bộ của mình, chưa đối chiếu trang nhóm."
+    },
+    {
+     "name": "Nhân sự khoa học (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Argelander-Institut für Astronomie",
+     "topics": "Nhà khoa học, nghiên cứu sinh và học viên của viện.",
+     "url": "https://www.aifa.uni-bonn.de//en/institute/members",
+     "note": "Trang chỉ ghi học vị: người có “Dr.” được ghi là nghiên cứu viên, người còn lại ghi chung là “nhân sự (chưa rõ ngạch)” — gồm nghiên cứu sinh, học viên và có thể cả nhân viên hành chính."
+    },
+    {
+     "name": "Stellar Populations and Dynamics (HISKP)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Helmholtz-Institut für Strahlen- und Kernphysik, làm việc tại AIfA",
+     "topics": "Quần thể sao, động lực học sao và thiên hà, kiểm nghiệm lý thuyết hấp dẫn.",
+     "url": "https://www.aifa.uni-bonn.de//en/institute/members",
+     "note": "Chủ đề tóm tắt sơ bộ."
+    }
+   ],
+   "networks": []
+  },
+  "Max-Planck-Institut für Radioastronomie": {
+   "coverage": "full",
+   "structure": "Các mảng nghiên cứu: thiên văn milimét/dưới milimét; hình thành sao và tiến hoá thiên hà; thiên văn vô tuyến/VLBI; vật lý cơ bản trong thiên văn vô tuyến; cùng nhóm Lise Meitner, nhóm Otto Hahn và các bộ phận kỹ thuật (Effelsberg, VLBI-Technologie, mm/submm-Technologie)",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf",
+   "scopeNote": "Nguồn là báo cáo thường niên 2024 của viện trên Mitteilungen der Astronomischen Gesellschaft 108 (2025): tên chỉ có chữ cái đầu của tên riêng, số liệu là của năm 2024 và báo cáo không ghi ai thuộc mảng nào, nên người được xếp theo ngạch (giám đốc, nhà khoa học, nghiên cứu sinh, khách). Trang nhân sự trên website của viện không đọc được bằng công cụ của mình.",
+   "units": [
+    {
+     "name": "Ban giám đốc",
+     "kind": "Giám đốc và giáo sư",
+     "parent": "Max-Planck-Institut für Radioastronomie",
+     "topics": "Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten (thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf",
+     "note": "Phân công bộ phận của từng giám đốc là theo hiểu biết chung, báo cáo 2024 chỉ liệt kê tên."
+    },
+    {
+     "name": "Nhà khoa học (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Max-Planck-Institut für Radioastronomie",
+     "topics": "Thiên văn vô tuyến, milimét và dưới milimét; pulsar; VLBI; hình thành sao; từ trường vũ trụ.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf",
+     "note": "Không gồm hai trưởng bộ phận kỹ thuật (EDV, Elektronik)."
+    },
+    {
+     "name": "Nghiên cứu sinh (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Max-Planck-Institut für Radioastronomie",
+     "topics": "Nghiên cứu sinh của viện, phần lớn thuộc IMPRS for Astronomy and Astrophysics (Bonn/Köln).",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf",
+     "note": "Báo cáo ghi con số 54 nhưng liệt kê 56 tên; một số tên trùng với danh sách nhà khoa học vì đổi ngạch trong năm."
+    },
+    {
+     "name": "Khách mời (2024)",
+     "kind": "Khách mời",
+     "parent": "Max-Planck-Institut für Radioastronomie",
+     "topics": "Nhà khoa học khách đến làm việc tại viện trong năm 2024.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Max-Planck-Institut für Sonnensystemforschung": {
+   "coverage": "full",
+   "structure": "Ba bộ phận khoa học (giám đốc: Sami Solanki, Laurent Gizon, Thorsten Kleine) và các nhóm nghiên cứu khác",
+   "structureUrl": "https://mps.mpg.de/institute",
+   "scopeNote": "Danh sách lấy từ trang nhân sự của từng bộ phận; người không ghi chức danh không được đưa vào. Chưa làm các nhóm độc lập ComFyDa, MICS và nhóm Max Planck Fellow Inverse Problems (trang không có danh sách nhân sự).",
+   "units": [
+    {
+     "name": "Sun and Heliosphere",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für Sonnensystemforschung",
+     "topics": "Bên trong và khí quyển Mặt Trời, từ trường Mặt Trời, nhật quyển và môi trường liên hành tinh, bức xạ và hạt năng lượng từ Mặt Trời.",
+     "url": "https://www.mps.mpg.de/solar-physics/staff",
+     "note": "Ba người đang ở giai đoạn hoàn tất sau bảo vệ tiến sĩ được ghi là nghiên cứu sinh."
+    },
+    {
+     "name": "Solar and Stellar Interiors",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für Sonnensystemforschung",
+     "topics": "Nhật chấn học và tinh chấn học: cấu trúc bên trong Mặt Trời và các sao; hành tinh ngoài Hệ Mặt Trời (PLATO).",
+     "url": "https://www.mps.mpg.de/helioseismology-asteroseismology/staff1",
+     "note": "Marion Galoy có tên trên trang nhưng không ghi chức danh nên chưa đưa vào."
+    },
+    {
+     "name": "Planetary Science",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "Max-Planck-Institut für Sonnensystemforschung",
+     "topics": "Hình thành và tiến hoá của hành tinh, mặt trăng, sao chổi và tiểu hành tinh; vũ trụ hoá học và phòng thí nghiệm đồng vị.",
+     "url": "https://www.mps.mpg.de/planetary-science/staff"
+    }
+   ],
+   "networks": []
+  },
+  "Universität Hamburg — Hamburger Sternwarte": {
+   "coverage": "full",
+   "structure": "Hamburger Sternwarte, Fachbereich Physik, Universität Hamburg; các nhóm theo giáo sư (giám đốc điều hành: Robi Banerjee)",
+   "structureUrl": "https://www.physik.uni-hamburg.de/en/hs/subsite---about-us.html",
+   "scopeNote": "Nhóm của từng người suy ra từ đường dẫn hồ sơ (group---<tên>). Chủ đề từng nhóm là tóm tắt sơ bộ, chưa đối chiếu trang nhóm. Không gồm nhân viên kỹ thuật, hành chính.",
+   "units": [
+    {
+     "name": "Nhóm Banerjee",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Hình thành sao, môi trường liên sao, từ trường vũ trụ.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html",
+     "note": "Chủ đề tóm tắt sơ bộ, chưa đọc trang nhóm."
+    },
+    {
+     "name": "Nhóm Brüggen",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Thiên văn vô tuyến (LOFAR), cụm thiên hà, tia vũ trụ, mô phỏng plasma và MHD.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Hauschildt",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Khí quyển sao và truyền bức xạ (mã PHOENIX).",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Kupfer",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Sao đôi đặc, sao lùn trắng, nguồn sóng hấp dẫn trong Ngân Hà.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Liske",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Thiên văn ngoài thiên hà quan sát.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Lucie-Smith",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Vũ trụ học và hình thành cấu trúc với học máy.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Rosswog",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Vật lý thiên văn tương đối tính: va chạm sao neutron, kilonova, mô phỏng số.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Kirchschlager",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Bụi vũ trụ và môi trường liên sao.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html",
+     "note": "Trang không liệt kê thành viên khác cho nhóm này."
+    },
+    {
+     "name": "Nhóm Schindler",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Quasar và lỗ đen siêu nặng ở dịch chuyển đỏ cao.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Nhóm Schmidt (vật lý thiên văn số)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Vật lý thiên văn số, tính toán hiệu năng cao.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    },
+    {
+     "name": "Emeriti, thành viên liên kết và đã nghỉ hưu",
+     "kind": "Danh sách bổ sung",
+     "parent": "Hamburger Sternwarte",
+     "topics": "Giáo sư danh dự, thành viên liên kết và nhà nghiên cứu đã nghỉ hưu có tên trên trang nhân sự.",
+     "url": "https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html"
+    }
+   ],
+   "networks": []
+  },
+  "Ludwig-Maximilians-Universität München — Universitäts-Sternwarte": {
+   "coverage": "full",
+   "structure": "Universitäts-Sternwarte München (USM), Fakultät für Physik, LMU: 5 chair và hơn 10 nhóm nghiên cứu",
+   "structureUrl": "https://www.physik.lmu.de/observatory/en/public-outreach/",
+   "scopeNote": "Danh sách theo trang “People working at the USM”; nhóm của từng người lấy theo cột Workgroup. Một số người cũng thuộc MPE OPINAS (Garching) nên xuất hiện ở cả hai nơi. Trang nhân sự dài hơn giới hạn đọc một lần; phần cuối trang (có thể là khách mời) chưa đọc.",
+   "units": [
+    {
+     "name": "Physical Cosmology",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Vũ trụ học vật lý: năng lượng tối, cấu trúc quy mô lớn.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Cosmology and Structure Formation",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Vũ trụ học quan sát, cụm thiên hà và hình thành cấu trúc.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Astrophysics, Cosmology and Artificial Intelligence (ACAI)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Vật lý thiên văn, vũ trụ học và trí tuệ nhân tạo; phân tích dữ liệu thống kê.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/",
+     "note": "Trang nhân sự không ghi trưởng nhóm cho ACAI; Daniel Gruen được ghi theo chú thích “ACAI (Grün)” trên cùng trang."
+    },
+    {
+     "name": "Cosmological Simulations & Galaxy Clusters",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Mô phỏng vũ trụ học và cụm thiên hà; Computational Center for Particle and Astrophysics.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Dynamics, Environment and Assembly of Galaxies",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Động lực học, môi trường và quá trình hình thành thiên hà.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Computational and Theoretical Astrophysics (CAST)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Vật lý thiên văn lý thuyết và tính toán: hình thành sao, hành tinh và thiên hà.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Planet and Star Formation",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Đĩa tiền hành tinh, hình thành hành tinh, kỹ thuật truyền bức xạ.",
+     "url": "https://homepages.usm.uni-muenchen.de/CAST/wp/people/scientific-staff.html"
+    },
+    {
+     "name": "Planet Formation and Protoplanetary Disks",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Hình thành hành tinh và đĩa tiền hành tinh.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Young Stars and Star Formation",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Sao trẻ và hình thành sao; đĩa tiền hành tinh.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Theoretical Astrophysics of Extrasolar Planets",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Lý thuyết về hành tinh ngoài Hệ Mặt Trời và khí quyển của chúng; hoá học thiên văn.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Extragalactic Astronomy and Cosmology",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München (chung với MPE OPINAS)",
+     "topics": "Năng lượng tối và vật chất tối, thiên hà gần và xa, Đài quan sát Wendelstein.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/",
+     "note": "Nhóm chung giữa USM và MPE (OPINAS); nhiều người cũng có trong mục MPE ở Garching."
+    },
+    {
+     "name": "Hot Stars and Stellar Winds",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Sao nóng khối lượng lớn và gió sao do bức xạ vạch; khí quyển hành tinh và tinh vân khí.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Emmy Noether Research Groups",
+     "kind": "Các nhóm Emmy Noether",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Nhóm nghiên cứu trẻ do DFG tài trợ (vũ trụ học cấp trường – field level cosmology).",
+     "url": "https://www.physik.lmu.de/observatory/en/people/",
+     "note": "Trang không tách thành viên giữa hai nhóm Emmy Noether."
+    },
+    {
+     "name": "Instrumentation",
+     "kind": "Nhóm thiết bị",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Phát triển thiết bị thiên văn (Wendelstein, MICADO).",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    },
+    {
+     "name": "Khác (không ghi nhóm hoặc nhóm nhỏ)",
+     "kind": "Danh sách bổ sung",
+     "parent": "Universitäts-Sternwarte München",
+     "topics": "Những người trên trang nhân sự không ghi nhóm, hoặc thuộc ORIGINS, địa hoá, quan sát hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www.physik.lmu.de/observatory/en/people/"
+    }
+   ],
+   "networks": []
+  },
+  "Universität Bielefeld — Fakultät für Physik": {
+   "coverage": "full",
+   "structure": "Fakultät für Physik, Universität Bielefeld — các nhóm vũ trụ học, thiên văn vô tuyến và pulsar",
+   "structureUrl": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf",
+   "scopeNote": "Danh sách lấy từ báo cáo thường niên 2024 trên Mitteilungen der Astronomischen Gesellschaft 108 (2025). Báo cáo chỉ nêu trưởng nhóm cho Uhlemann và Ridolfi; các nghiên cứu viên và học viên không được gán nhóm.",
+   "units": [
+    {
+     "name": "Cosmology of Large-Scale Structure (Euclid)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Fakultät für Physik",
+     "topics": "Lý thuyết và mô phỏng cấu trúc quy mô lớn; chuẩn bị phân tích thấu kính hấp dẫn yếu của Euclid.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf"
+    },
+    {
+     "name": "Pulsar Astronomy (TRAPUM)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Fakultät für Physik",
+     "topics": "Nghiên cứu pulsar, European Pulsar Timing Array, hệ thống LOFAR TMSS; tìm pulsar cực đoan với MeerKAT (TRAPUM).",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf"
+    },
+    {
+     "name": "Radio Cosmology và Particle Cosmology (toàn khoa)",
+     "kind": "Danh sách toàn khoa",
+     "parent": "Fakultät für Physik",
+     "topics": "Vũ trụ học với nguồn vô tuyến (LOFAR LoTSS, SKAMPI); chuyển pha vũ trụ và ứng viên vật chất tối.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf",
+     "note": "Báo cáo không ghi trưởng nhóm cho hai mảng này và không gán người vào nhóm."
+    }
+   ],
+   "networks": []
+  },
+  "Ruhr-Universität Bochum": {
+   "coverage": "full",
+   "structure": "Astronomisches Institut (AIRUB), Fakultät für Physik und Astronomie; giám đốc điều hành (2023): Anna Franckowiak",
+   "structureUrl": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf",
+   "scopeNote": "Astronomisches Institut lấy từ báo cáo thường niên 2023 (Mitteilungen der AG 107, 2024), không gán người vào nhóm. Theoretische Physik IV (plasma vũ trụ, tia vũ trụ, nhật quyển) lấy từ trang thành viên của chair, chia theo ba nhóm.",
+   "units": [
+    {
+     "name": "Astronomisches Institut (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Fakultät für Physik und Astronomie",
+     "topics": "Thiên hà, môi trường liên sao và từ trường vũ trụ; thấu kính hấp dẫn yếu và vũ trụ học (KiDS); vật lý hạt thiên văn năng lượng cao và neutrino (IceCube).",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bochum/uni_bochum/jb-astr_inst_bochum-2023.pdf"
+    },
+    {
+     "name": "Theoretische Physik IV — Plasma Astroparticle Physics (Tjus)",
+     "kind": "Nhóm (thuộc Lehrstuhl Theoretische Physik IV)",
+     "parent": "Fakultät für Physik und Astronomie — Theoretische Physik IV",
+     "topics": "Mô tả quá trình trong plasma vũ trụ: lan truyền tia vũ trụ, neutrino và tia gamma năng lượng cao; tham gia CTA, IBEX, IceCube.",
+     "url": "https://www.tp4.ruhr-uni-bochum.de/members/",
+     "note": "Trang thành viên chỉ ghi học vị, không ghi chức danh; \"Dr.\" được hiểu là nghiên cứu viên sau tiến sĩ. Một số người không ghi học vị."
+    },
+    {
+     "name": "Theoretische Physik IV — Heliophysics (Fichtner)",
+     "kind": "Nhóm (thuộc Lehrstuhl Theoretische Physik IV)",
+     "parent": "Fakultät für Physik und Astronomie — Theoretische Physik IV",
+     "topics": "Vật lý nhật quyển: gió Mặt Trời, biên nhật quyển, tia vũ trụ trong nhật quyển (IBEX).",
+     "url": "https://www.tp4.ruhr-uni-bochum.de/members/"
+    },
+    {
+     "name": "Theoretische Physik IV — Space- and Astrophysics (Schlickeiser)",
+     "kind": "Nhóm (thuộc Lehrstuhl Theoretische Physik IV)",
+     "parent": "Fakultät für Physik und Astronomie — Theoretische Physik IV",
+     "topics": "Vật lý plasma không gian và thiên văn lý thuyết.",
+     "url": "https://www.tp4.ruhr-uni-bochum.de/members/"
+    }
+   ],
+   "networks": []
+  },
+  "Goethe-Universität Frankfurt — Institut für Theoretische Physik / Astrophysik": {
+   "coverage": "full",
+   "structure": "Fachbereich Physik (Astrophysik), Goethe-Universität Frankfurt; hợp tác với FIAS và GSI Darmstadt",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf",
+   "scopeNote": "Danh sách lấy từ báo cáo thường niên 2024 trên Mitteilungen der Astronomischen Gesellschaft 108 (2025). Báo cáo không gán người vào từng mảng nghiên cứu nên danh sách để chung.",
+   "units": [
+    {
+     "name": "Vật lý thiên văn tại Fachbereich Physik",
+     "kind": "Danh sách toàn khoa (vật lý thiên văn)",
+     "parent": "Fachbereich Physik",
+     "topics": "Vật lý thiên văn hạt nhân thực nghiệm và lý thuyết; vật lý thiên văn tương đối tính (lỗ đen, sao neutron, sóng hấp dẫn); vật chất liên sao và liên thiên hà, AGN; vũ trụ học lý thuyết (vật chất tối, chuyển pha vũ trụ sơ khai).",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/frankfurt/itp/jb-uni_frankfurt-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Georg-August-Universität Göttingen — Institut für Astrophysik und Geophysik": {
+   "coverage": "full",
+   "structure": "Institut für Astrophysik und Geophysik (IAG), Fakultät für Physik; hợp nhất từ 1.1.2022; quyền giám đốc hiện tại: Ansgar Reiners",
+   "structureUrl": "https://www.uni-goettingen.de/en/research/215075.html",
+   "scopeNote": "Danh sách người lấy từ báo cáo thường niên 2023 (Mitteilungen der AG 107, 2024) vì chưa tìm thấy bản 2024 riêng; tên chỉ có chữ cái đầu. Nhóm nghiên cứu và người tham gia theo mục 2 của báo cáo; những người báo cáo không gán nhóm được để ở mục chung. Không gồm nhóm địa vật lý thuần (Tilgner).",
+   "units": [
+    {
+     "name": "Helioseismologie",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Bên trong và động lực học Mặt Trời, đối lưu và hoạt động từ; dao động của các sao giống Mặt Trời, tinh chấn học.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf",
+     "note": "Laurent Gizon đồng thời là giám đốc tại MPS."
+    },
+    {
+     "name": "Physik der Sonne und Weltraumwetter",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Phân tích 3D các vụ phóng khối lượng vành nhật hoa (STEREO, SOHO), mô hình gió Mặt Trời và F-corona cho Parker Solar Probe và Solar Orbiter, dự báo thời tiết vũ trụ.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Planeten um masse-arme Sterne",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Quan sát và phân tích hành tinh quanh sao khối lượng thấp; tìm kiếm trong dữ liệu Kepler và TESS; hoạt động của sao chủ.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Stellare Populationen in Kugelsternhaufen",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Nghiên cứu động học và trắc quang các quần thể sao trong cụm sao cầu.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Magnetische Sterne und Exoplanetensuche",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Sao có từ trường; tìm hành tinh bằng quang phổ (CARMENES, CRIRES+, ANDES); phát xạ phân tử trong khí quyển hành tinh.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Magnetische kataklysmische Veränderliche",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Quan sát quang học và tia X các sao biến quang tai biến có từ trường.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Aktive Galaxien",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Biến quang và profile vạch của thiên hà Seyfert, cấu trúc vùng vạch rộng, khảo sát trường MUSE.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Kosmologie",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Hình thành cấu trúc với vật chất tối boson siêu nhẹ, xác định tham số vũ trụ, khảo sát lập bản đồ cường độ.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf",
+     "note": "Báo cáo không nêu trưởng nhóm; J. Niemeyer được ghi theo hiểu biết chung về giáo sư vũ trụ học của viện."
+    },
+    {
+     "name": "Instrumentenentwicklung",
+     "kind": "Nhóm thiết bị",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Quang phổ Mặt Trời (VVT, FTS), đèn hiệu chuẩn, Fabry-Pérot và lược tần số laser, phổ kế cho MONET-South; tham gia sứ mệnh không gian (WISPR, SoloHI, PHI, PUNCH, Vigil, PLATO).",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    },
+    {
+     "name": "Nhân sự khác (toàn viện)",
+     "kind": "Danh sách toàn viện (phần còn lại)",
+     "parent": "Institut für Astrophysik und Geophysik",
+     "topics": "Nhà khoa học, nghiên cứu sinh và sinh viên mà báo cáo không gán vào nhóm cụ thể.",
+     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/goettingen/uni_goettingen/ifa/jb-iag_goettingen-2023.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Friedrich-Schiller-Universität Jena — Astrophysikalisches Institut und Universitäts-Sternwarte": {
+   "coverage": "full",
+   "structure": "Astrophysikalisches Institut und Universitäts-Sternwarte (AIU), Physikalisch-Astronomische Fakultät; giám đốc viện: Ralph Neuhäuser",
+   "structureUrl": "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1",
+   "scopeNote": "Danh sách lấy từ báo cáo thường niên 2024 của viện. Nhóm của từng người suy theo mô tả trong báo cáo; người không rõ nhóm để ở mục chung.",
+   "units": [
+    {
+     "name": "Trümmerscheiben in Planetensystemen (FOR 2285) — lý thuyết đĩa mảnh vụn",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astrophysikalisches Institut und Universitäts-Sternwarte",
+     "topics": "Lý thuyết và mô phỏng đĩa mảnh vụn và hệ hành tinh của chúng.",
+     "url": "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1"
+    },
+    {
+     "name": "Laborastrophysik",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Astrophysikalisches Institut und Universitäts-Sternwarte",
+     "topics": "Đo tính chất hồng ngoại, THz và phát xạ của vật liệu tương tự bụi vũ trụ.",
+     "url": "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1"
+    },
+    {
+     "name": "Nhóm Neuhäuser và các nhân sự khác",
+     "kind": "Danh sách toàn viện (phần còn lại)",
+     "parent": "Astrophysikalisches Institut und Universitäts-Sternwarte",
+     "topics": "Sao trẻ, sao neutron và tàn dư siêu tân tinh, sao đôi và hành tinh ngoài Hệ Mặt Trời; thiên văn lịch sử.",
+     "url": "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1",
+     "note": "Báo cáo không ghi nhóm cho các nghiên cứu viên và học viên ở mục này."
+    }
+   ],
+   "networks": []
+  },
+  "Philipps-Universität Marburg — Astronomiegeschichte und Beobachtende Astronomie": {
+   "coverage": "full",
+   "structure": "Arbeitsgruppe Astronomiegeschichte und Beobachtende Astronomie, Fachbereich Physik",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/marburg/jb-uni-marburg-2024.pdf",
+   "scopeNote": "Danh sách từ báo cáo thường niên 2024. Theo báo cáo, nhóm có nghiên cứu thiên văn quan sát (sao trẻ khối lượng lớn, sao biến quang) nên vẫn được giữ trên bản đồ.",
+   "units": [
+    {
+     "name": "Astronomiegeschichte und Beobachtende Astronomie",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Fachbereich Physik",
+     "topics": "Quang phổ và trắc quang sao trẻ khối lượng lớn; trắc quang sao biến quang từ kho kính ảnh; lịch sử thiên văn.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/marburg/jb-uni-marburg-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Sternwarte Sonneberg": {
+   "coverage": "full",
+   "structure": "Do công ty tư nhân 4π Systeme GmbH vận hành từ 1.1.2004; giám đốc: Peter Kroll",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/sonneberg/jb-stw_sonneberg-2024.pdf",
+   "scopeNote": "Danh sách từ báo cáo thường niên 2024. Hoạt động 2024 gồm theo dõi số hoá sao biến quang, dự án kính ảnh “Lost Stars” với Praha, quan sát sao băng — thiên về khai thác kho dữ liệu và giám sát bầu trời hơn là nghiên cứu cơ bản quy mô lớn.",
+   "units": [
+    {
+     "name": "Sternwarte Sonneberg",
+     "kind": "Đài quan sát",
+     "parent": "4π Systeme GmbH",
+     "topics": "Giám sát số sao biến quang, kho kính ảnh bầu trời, quan sát sao băng.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/sonneberg/jb-stw_sonneberg-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Universität Stuttgart — Deutsches SOFIA Institut": {
+   "coverage": "full",
+   "structure": "Deutsches SOFIA Institut (DSI), Universität Stuttgart; giám đốc: Alfred Krabbe",
+   "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf",
+   "scopeNote": "Đài SOFIA ngừng hoạt động tháng 9/2022; năm 2024 DSI đóng hai cơ sở ở Mỹ (31.12.2024) và bắt đầu dự án SOFIA Data Center. Danh sách từ báo cáo thường niên 2024; không gồm nhân viên kỹ thuật, hành chính và các kỹ sư không có chức danh khoa học.",
+   "units": [
+    {
+     "name": "Astronomische Arbeitsgruppe",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Deutsches SOFIA Institut",
+     "topics": "Phân tích dữ liệu hồng ngoại xa FIFI-LS: tâm Ngân Hà, vùng phân tử trung tâm (CMZ), hình thành sao khối lượng lớn ở M82 và NGC 253.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf"
+    },
+    {
+     "name": "Thiết bị, kỹ thuật bay và nghiên cứu che khuất",
+     "kind": "Nhóm kỹ thuật – khoa học",
+     "parent": "Deutsches SOFIA Institut",
+     "topics": "Kỹ thuật kính thiên văn SOFIA, dự án khinh khí cầu tầng bình lưu ESBO/STUDIO, mô hình hoá đường cong ánh sáng che khuất sao bởi thiên thể Hệ Mặt Trời.",
+     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/stuttgart/sofia/jb-dsi_uni_stuttgart-2024.pdf"
+    }
+   ],
+   "networks": []
+  },
+  "Institut für Sonnenphysik (KIS)": {
+   "coverage": "partial",
+   "structure": "Institut für Sonnenphysik (KIS), Freiburg, thuộc Hội Leibniz; các mảng: Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Solar Data Center",
+   "structureUrl": "https://www.leibniz-kis.de/en/research/",
+   "scopeNote": "Có hai nhóm Solar Physics and Stellar Connections và Solar Telescopes theo trang nhóm. Nhóm Scientific Instrumentation và Science Data Centre chưa tìm được trang danh sách thành viên.",
+   "units": [
+    {
+     "name": "Solar Physics and Stellar Connections",
+     "kind": "Mảng nghiên cứu",
+     "parent": "Institut für Sonnenphysik",
+     "topics": "Từ trường và nhiệt vành nhật hoa, vết đen Mặt Trời, phân cực quang phổ, truyền bức xạ phi LTE, mô phỏng MHD, lý thuyết dynamo.",
+     "url": "https://www.leibniz-kis.de/en/research/solar-physics/team-1/"
+    },
+    {
+     "name": "Solar Telescopes",
+     "kind": "Nhóm nghiên cứu (thuộc Dept. Observatory & Instrumentation)",
+     "parent": "Institut für Sonnenphysik (KIS)",
+     "topics": "Vận hành và phát triển kính thiên văn Mặt Trời Đức tại Teide (GREGOR, VTT); quang học thích ứng (MCAO); vật lý Mặt Trời thực nghiệm, từ tính Mặt Trời.",
+     "url": "https://www.leibniz-kis.de/en/research/solar-telescopes/team",
+     "note": "GSTOT = German Solar Telescopes at the Observatorio del Teide."
+    }
+   ],
+   "networks": []
+  },
+  "Universität zu Köln — I. Physikalisches Institut": {
+   "coverage": "leaders",
+   "structure": "I. Physikalisches Institut, Universität zu Köln — các nhóm thiên văn (workgroups)",
+   "structureUrl": "https://astro.uni-koeln.de/workgroups",
+   "scopeNote": "Trang nhóm của từng giáo sư không hiện danh sách thành viên khi đọc tự động (nội dung tải bằng script), nên mới ghi trưởng nhóm. Chưa có danh sách người.",
+   "units": [
+    {
+     "name": "Molecular Spectroscopy of Astronomical Objects (Jacob)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Quang phổ phân tử của thiên thể ở bước sóng vô tuyến và milimét/dưới milimét.",
+     "url": "https://astro.uni-koeln.de/jacob"
+    },
+    {
+     "name": "Optical and IR Instrumentation (Labadie)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Thiết bị quang học và hồng ngoại, giao thoa kế; hình thành sao và hành tinh, thiên thể dưới sao, hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://astro.uni-koeln.de/labadie"
+    },
+    {
+     "name": "Early Universe and Galaxies (Riechers)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Vũ trụ sơ khai, thiên hà, nhân thiên hà hoạt động, hình thành sao, môi trường liên sao; CCAT-prime.",
+     "url": "https://astro.uni-koeln.de/riechers"
+    },
+    {
+     "name": "High-mass Star Formation and Astrochemistry (Schilke)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Hình thành sao khối lượng lớn và hoá học thiên văn; quan sát và mô hình hoá.",
+     "url": "https://astro.uni-koeln.de/schilke"
+    },
+    {
+     "name": "Laboratory Astrophysics (Schlemmer)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Vật lý lượng tử của phân tử liên sao, kỹ thuật quang phổ đặc biệt; Cologne Center for THz Spectroscopy.",
+     "url": "https://astro.uni-koeln.de/schlemmer"
+    },
+    {
+     "name": "Theoretical Astrophysics (Walch-Gassner)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Dự án SILCC, phản hồi từ sao (vùng HII, siêu tân tinh), hình thành sao, quan sát tổng hợp.",
+     "url": "https://astro.uni-koeln.de/walch-gassner"
+    },
+    {
+     "name": "Nhóm Honingh và nhóm Graf",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "I. Physikalisches Institut",
+     "topics": "Trang không ghi chủ đề.",
+     "url": "https://astro.uni-koeln.de/workgroups"
+    }
+   ],
+   "networks": []
+  },
+  "Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut)": {
+   "coverage": "full",
+   "structure": "Viện ở Potsdam-Golm và Hannover; tại Potsdam có các bộ phận Astrophysical and Cosmological Relativity (giám đốc Alessandra Buonanno), Computational Relativistic Astrophysics và Quantum Gravity and Unified Theories",
+   "structureUrl": "https://www.aei.mpg.de/25873/aei-staff",
+   "scopeNote": "Đã làm hai bộ phận vật lý thiên văn ở Potsdam (Astrophysical and Cosmological Relativity; Computational Relativistic Astrophysics). Các nhóm sóng hấp dẫn ở Hannover nằm ở mục Leibniz Universität Hannover. Không đưa vào bộ phận lực hấp dẫn lượng tử.",
+   "units": [
+    {
+     "name": "Astrophysical and Cosmological Relativity",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "AEI Potsdam",
+     "topics": "Giải bài toán hai vật trong thuyết tương đối rộng bằng giải tích và số; mô hình dạng sóng hấp dẫn; phân tích dữ liệu LIGO-Virgo-KAGRA và LISA; vũ trụ học.",
+     "url": "https://www.aei.mpg.de/138766/members-and-visitors?print=yes"
+    },
+    {
+     "name": "Computational Relativistic Astrophysics",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "AEI Potsdam",
+     "topics": "Va chạm sao neutron đôi và hệ lỗ đen–sao neutron, suy sập lõi sao tạo lỗ đen; thuyết tương đối số, dạng sóng hấp dẫn, tổng hợp nguyên tố nặng.",
+     "url": "https://www.aei.mpg.de/343411/members-of-the-division"
+    }
+   ],
+   "networks": []
+  },
+  "Eberhard Karls Universität Tübingen — Institut für Astronomie und Astrophysik (IAAT)": {
+   "coverage": "full",
+   "structure": "IAAT gồm các bộ phận Astronomie (Werner), Hochenergieastrophysik (Santangelo), Weltraumgestützte Astrophysik (Stelzer), Theoretische Astrophysik và Computational Physics, cùng nhóm thiết bị UV MCP",
+   "structureUrl": "https://uni-tuebingen.de/de/3059",
+   "scopeNote": "Danh sách lấy từ bảng liên hệ nhân sự của IAAT; nhóm theo cột “Working group”. Trang dài hơn giới hạn đọc nên có thể thiếu một vài dòng ở giữa (vần S). Không gồm kỹ sư điện tử, xưởng và thư ký. Có thể thiếu một vài dòng của bảng nhân sự chung.",
+   "units": [
+    {
+     "name": "Hochenergieastrophysik (HEA)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "IAAT",
+     "topics": "Thiên văn năng lượng cao: tia X và tia gamma, sao neutron, thiết bị bay vũ trụ.",
+     "url": "https://uni-tuebingen.de/en/271752"
+    },
+    {
+     "name": "Weltraumgestützte Astrophysik (SBA)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "IAAT",
+     "topics": "Vật lý thiên văn với kính thiên văn không gian: sao trẻ, hoạt động sao, hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://uni-tuebingen.de/en/271752"
+    },
+    {
+     "name": "Astronomie (Werner)",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "IAAT",
+     "topics": "Phổ sao lùn trắng, sao neutron và đĩa bồi tụ; mô hình khí quyển sao.",
+     "url": "https://uni-tuebingen.de/en/271752"
+    },
+    {
+     "name": "UV MCP detector",
+     "kind": "Nhóm thiết bị",
+     "parent": "IAAT",
+     "topics": "Phát triển detector tử ngoại dạng tấm vi kênh (MCP) cho sứ mệnh không gian.",
+     "url": "https://uni-tuebingen.de/en/271752"
+    },
+    {
+     "name": "Theoretische Astrophysik",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "IAAT",
+     "topics": "Vật lý thiên văn tương đối tính: sao neutron, lỗ đen, sóng hấp dẫn; kiểm nghiệm lý thuyết hấp dẫn cải biên (nhóm Emmy Noether của Daniela Doneva).",
+     "url": "https://uni-tuebingen.de/de/3987"
+    },
+    {
+     "name": "Computational Physics",
+     "kind": "Bộ phận (Abteilung)",
+     "parent": "IAAT",
+     "topics": "Vật lý tính toán: mô phỏng va chạm thiên thể nhỏ, đĩa tiền hành tinh; sứ mệnh Hera.",
+     "url": "https://uni-tuebingen.de/de/5769",
+     "note": "Trưởng bộ phận cũ Wilhelm Kley đã mất; trang ghi Christoph Schäfer là điều phối viên chương trình thạc sĩ."
+    }
+   ],
+   "networks": []
+  },
+  "Technische Universität München — Physik-Department E15": {
+   "coverage": "full",
+   "structure": "Physik-Department, TU München: Lehrstuhl für Experimentelle Astroteilchenphysik (E15, Stefan Schönert) và Lehrstuhl Experimental Physics with Cosmic Particles (Elisa Resconi)",
+   "structureUrl": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1",
+   "scopeNote": "Lấy từ danh sách thành viên của hai chair. Danh sách E15 không tách nghiên cứu sinh với nhà khoa học (ghi chung “Wissenschaftlerinnen und Wissenschaftler”).",
+   "units": [
+    {
+     "name": "Experimentelle Astroteilchenphysik (E15)",
+     "kind": "Chair (Lehrstuhl)",
+     "parent": "Physik-Department, TU München",
+     "topics": "Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nhân) và tìm vật chất tối (CRESST).",
+     "url": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1"
+    },
+    {
+     "name": "Experimental Physics with Cosmic Particles",
+     "kind": "Chair (Lehrstuhl)",
+     "parent": "Physik-Department, TU München",
+     "topics": "Thiên văn neutrino (IceCube): dao động neutrino, mô hình neutrino khí quyển; máy gia tốc vũ trụ như blazar và tinh vân gió pulsar.",
+     "url": "https://www.ph.nat.tum.de/cosmic-particles/group-members"
+    }
+   ],
+   "networks": []
+  },
+  "Universität Kassel — Fachgruppe Laborastrophysik": {
+   "coverage": "full",
+   "structure": "Experimentalphysik V — Laborastrophysik, Institut für Physik, Universität Kassel; trưởng nhóm: Thomas Giesen",
+   "structureUrl": "https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende.html",
+   "scopeNote": "Danh sách thành viên hiện tại theo trang nhóm; không gồm thư ký và thành viên cũ.",
+   "units": [
+    {
+     "name": "Laborastrophysik",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Physik",
+     "topics": "Vật lý thiên văn phòng thí nghiệm: quang phổ phân tử phục vụ quan sát thiên văn.",
+     "url": "https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende.html",
+     "note": "Trang thành viên không ghi chủ đề nghiên cứu; chủ đề là tóm tắt sơ bộ."
+    }
+   ],
+   "networks": []
+  },
+  "Deutsches Elektronen-Synchrotron DESY, Zeuthen": {
+   "coverage": "full",
+   "structure": "Bộ phận Vật lý hạt thiên văn (Astroparticle Physics) của DESY; giám đốc phụ trách: Christian Stegmann; các nhóm: Gamma Astronomy (David Berge), Neutrino Astronomy / Cosmology (Marek Kowalski), Astroparticle Physics Theory (Walter Winter), Research Technology (Stefan Klepser)",
+   "structureUrl": "https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf",
+   "scopeNote": "Đủ danh sách ba nhóm Gamma Astronomy, Neutrino Astronomy và Theory theo trang thành viên của bộ phận Astroparticle Physics. Nhân sự CTAO gGmbH ở Zeuthen được xếp riêng vì họ thuộc tổ chức CTAO, không thuộc DESY. Nhóm Research Technology chưa có danh sách riêng.",
+   "units": [
+    {
+     "name": "Lãnh đạo bộ phận và giáo sư liên kết",
+     "kind": "Lãnh đạo",
+     "parent": "DESY Astroparticle Physics",
+     "topics": "Thiên văn tia gamma và neutrino, vật lý hạt thiên văn lý thuyết; CTAO và trung tâm quản lý dữ liệu khoa học CTAO tại Zeuthen; IceCube, RNO-G, ULTRASAT.",
+     "url": "https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf"
+    },
+    {
+     "name": "Gamma Astronomy",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "DESY Astroparticle Physics",
+     "topics": "Thiên văn tia gamma với H.E.S.S., CTAO, Fermi, VERITAS, MAGIC; vệ tinh tử ngoại ULTRASAT; MeVCube, COSI; KM3NeT/MessMap.",
+     "url": "https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html"
+    },
+    {
+     "name": "CTAO gGmbH — cơ sở Zeuthen",
+     "kind": "Tổ chức đối tác đặt tại DESY",
+     "parent": "DESY Astroparticle Physics",
+     "topics": "Trung tâm quản lý dữ liệu khoa học của đài quan sát CTAO.",
+     "url": "https://astroparticle-physics.desy.de/about_us/group_members/gamma_astronomy/index_eng.html",
+     "note": "Những người này làm cho CTAO gGmbH, không phải nhân viên DESY; trang không ghi chức danh."
+    },
+    {
+     "name": "Neutrino Astronomy / Cosmology",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "DESY Astroparticle Physics",
+     "topics": "IceCube và IceCube-Gen2, đo neutrino bằng sóng vô tuyến (RNO-G); vũ trụ học và sự kiện tạm thời.",
+     "url": "https://astroparticle-physics.desy.de/about_us/group_members/neutrino_astronomy/index_eng.html"
+    },
+    {
+     "name": "Astroparticle Physics Theory",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "DESY Astroparticle Physics",
+     "topics": "Tia vũ trụ, photon và neutrino năng lượng cao, tín hiệu vật chất tối; gia tốc hạt ở sóng xung kích.",
+     "url": "https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html"
+    }
+   ],
+   "networks": []
+  },
+  "Friedrich-Alexander-Universität Erlangen-Nürnberg — Dr. Karl Remeis-Sternwarte Bamberg": {
+   "coverage": "full",
+   "structure": "Astronomisches Institut der FAU (Dr. Karl Remeis-Sternwarte), thành viên ECAP; ba giáo sư: Ulrich Heber, Manami Sasaki, Jörn Wilms",
+   "structureUrl": "https://ecap.nat.fau.de/?p=2541",
+   "scopeNote": "Trang thành viên chỉ liệt kê tên, không ghi chức danh hay nhóm, nên ngoài ba giáo sư thì mọi người ghi chung “thành viên”.",
+   "units": [
+    {
+     "name": "Stellar Astronomy (Heber)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Dr. Karl Remeis-Sternwarte",
+     "topics": "Sao lùn dưới nóng, quang phổ định lượng sao sớm, khí quyển sao, động học sao.",
+     "url": "https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/"
+    },
+    {
+     "name": "Multiwavelength Astronomy (Sasaki)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Dr. Karl Remeis-Sternwarte",
+     "topics": "Môi trường liên sao đa pha, tàn dư siêu tân tinh và siêu bong bóng, quần thể nguồn tia X ở thiên hà lân cận.",
+     "url": "https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/"
+    },
+    {
+     "name": "X-ray Astronomy (Wilms)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Dr. Karl Remeis-Sternwarte",
+     "topics": "Sao neutron bồi tụ, nhân thiên hà hoạt động, hệ đôi lỗ đen, hấp thụ liên sao; sứ mệnh eROSITA, Athena, Arcus.",
+     "url": "https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/"
+    },
+    {
+     "name": "Thành viên (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "Dr. Karl Remeis-Sternwarte",
+     "topics": "Các thành viên khác của đài, không ghi nhóm và chức danh.",
+     "url": "https://www.sternwarte.uni-erlangen.de/remeis-start/members/"
+    }
+   ],
+   "networks": []
+  },
+  "Technische Universität Braunschweig — Institut für Geophysik und extraterrestrische Physik": {
+   "coverage": "full",
+   "structure": "Institut für Geophysik und extraterrestrische Physik (IGeP); giám đốc điều hành: Ferdinand Plaschke",
+   "structureUrl": "https://tu-braunschweig.de/igep/institut",
+   "scopeNote": "Trang của viện không gán nhân sự vào nhóm và gồm cả mảng địa vật lý ứng dụng (nhóm Hördt). Danh sách để chung, trừ trưởng nhóm; có thể lẫn một số người làm địa vật lý ứng dụng.",
+   "units": [
+    {
+     "name": "Giáo sư và trưởng nhóm",
+     "kind": "Ban lãnh đạo",
+     "parent": "IGeP",
+     "topics": "Vật lý plasma không gian và từ quyển (Plaschke, Glaßmeier); sao chổi, bụi và vật lý hành tinh trong phòng thí nghiệm — CoPhyLab, phòng thí nghiệm băng và bụi (Blum); thiên thể nhỏ của Hệ Mặt Trời (Agarwal).",
+     "url": "https://tu-braunschweig.de/igep/institut",
+     "note": "Chủ đề của Plaschke và Agarwal là tóm tắt sơ bộ của mình; trang chỉ ghi chức vụ."
+    },
+    {
+     "name": "Nhân sự khoa học (toàn viện)",
+     "kind": "Danh sách toàn viện",
+     "parent": "IGeP",
+     "topics": "Nghiên cứu viên và nghiên cứu sinh của viện (vật lý ngoài Trái Đất và địa vật lý).",
+     "url": "https://tu-braunschweig.de/igep/institut"
+    }
+   ],
+   "networks": []
+  },
+  "GSI Helmholtzzentrum für Schwerionenforschung — Theory Division": {
+   "coverage": "full",
+   "structure": "Theory Division của GSI; các nhóm: Nuclear Astrophysics and Structure (Gabriel Martínez-Pinedo), ERC Relativistic Astrophysics (Andreas Bauswein), ERC Neutrino Astrophysics (Zewei Xiong), cùng các nhóm QCD và vật lý hadron",
+   "structureUrl": "https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0",
+   "scopeNote": "Trang nhân sự của Theory Division không ghi nhóm cho từng thành viên; mình chỉ lấy ba nhóm vật lý thiên văn và những người có vai trò rõ, các nhà khoa học khác của Theory Division (kể cả mảng QCD, hadron) được để chung ở mục cuối.",
+   "units": [
+    {
+     "name": "Nuclear Astrophysics and Structure",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "GSI Theory Division",
+     "topics": "Cấu trúc và phân rã hạt nhân giàu neutron, tốc độ phản ứng thiên văn, tiến hoá sao và vụ nổ vũ trụ, tổng hợp nguyên tố nặng, phương trình trạng thái, kilonova.",
+     "url": "https://gsi.de/work/forschung/theorie/theory-new/nuclear-structure-and-astrophysics"
+    },
+    {
+     "name": "ERC Relativistic Astrophysics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "GSI Theory Division",
+     "topics": "Va chạm hệ sao đôi đặc và siêu tân tinh, mô phỏng thuỷ động lực, sóng hấp dẫn.",
+     "url": "https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0"
+    },
+    {
+     "name": "ERC Neutrino Astrophysics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "GSI Theory Division",
+     "topics": "Vật lý thiên văn neutrino.",
+     "url": "https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0"
+    },
+    {
+     "name": "Nhà khoa học khác của Theory Division",
+     "kind": "Danh sách bổ sung",
+     "parent": "GSI Theory Division",
+     "topics": "Thành viên Theory Division mà trang không gán nhóm (gồm cả mảng QCD và vật lý hadron).",
+     "url": "https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0"
+    }
+   ],
+   "networks": []
+  },
+  "Technische Universität Dresden — Lohrmann-Observatorium": {
+   "coverage": "full",
+   "structure": "Arbeitsgruppe Astronomie / Lohrmann-Observatorium, Institut für Planetare Geodäsie, TU Dresden; trưởng: Sergei A. Klioner",
+   "structureUrl": "https://tu-dresden.de/bu/umwelt/geo/ipg",
+   "scopeNote": "Đủ nhân sự theo trang \"Beschäftigte\" của Professur für Astronomie và trang thành viên nhóm Gaia.",
+   "units": [
+    {
+     "name": "Gaia-Gruppe (Raumastrometrie)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Lohrmann-Observatorium",
+     "topics": "Đo sao vũ trụ độ chính xác cao cho sứ mệnh Gaia: định nghĩa và tính lời giải trắc sao; cơ học thiên thể, hệ quy chiếu thiên văn, mô hình tương đối tính.",
+     "url": "https://tu-dresden.de/bu/umwelt/geo/ipg/astro/raumastrometrie/mitarbeiter"
+    },
+    {
+     "name": "Professur für Astronomie — nhân sự khác của Lohrmann-Observatorium",
+     "kind": "Danh sách nhân sự",
+     "parent": "Institut für Planetare Geodäsie — Professur für Astronomie",
+     "topics": "Cơ học thiên thể cổ điển và tương đối tính, hệ quy chiếu thiên văn, chuẩn tinh, mô hình hóa tương đối tính.",
+     "url": "https://tu-dresden.de/bu/umwelt/geo/ipg/astro/die-arbeitsgruppe/beschaeftigte",
+     "note": "Trang nhân sự chỉ ghi \"Mitarbeiter\" mà không ghi chức danh; ngạch suy từ học vị. Những người thuộc nhóm Gaia được ghi ở mục riêng. Đã bỏ thư ký và kỹ thuật viên."
+    }
+   ],
+   "networks": []
+  },
+  "Christian-Albrechts-Universität zu Kiel — Institut für Theoretische Physik und Astrophysik": {
+   "coverage": "full",
+   "structure": "Abteilung Astrophysik, Institut für Theoretische Physik und Astrophysik; trưởng: Sebastian Wolf",
+   "structureUrl": "https://www.blogs.uni-kiel.de/star",
+   "scopeNote": "Danh sách từ hệ thống UnivIS của Đại học Kiel (học kỳ đông 2026); UnivIS chỉ ghi “nhân sự học thuật”, không tách ngạch hay nhóm.",
+   "units": [
+    {
+     "name": "Abteilung Astrophysik",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institut für Theoretische Physik und Astrophysik",
+     "topics": "Đĩa quanh sao, hình thành hành tinh, từ trường, đĩa mảnh vụn, khí quyển hành tinh ngoài Hệ Mặt Trời, truyền bức xạ, giao thoa hồng ngoại.",
+     "url": "https://univis.uni-kiel.de/formbot/dsc_3Danew_2Fpande_26dir_3Dmathe_2Finstit_1_2Fabteil_1_26ref_3Dpande_26lang_3Den"
+    }
+   ],
+   "networks": []
+  },
+  "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)": {
+   "coverage": "leaders",
+   "structure": "ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Köpke, AG Wurm",
+   "structureUrl": "https://www.etap.physik.uni-mainz.de/index",
+   "scopeNote": "Trang nhóm không có danh sách thành viên đọc được; mới ghi trưởng nhóm.",
+   "units": [
+    {
+     "name": "AG Böser",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "ETAP",
+     "topics": "Vật lý hạt thiên văn và neutrino năng lượng thấp: dao động neutrino và thiên văn IceCube, cảm biến ánh sáng WOM, đo khối lượng neutrino (Project 8), NuDoubt++.",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "AG Köpke",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "ETAP",
+     "topics": "Neutrino năng lượng thấp trong IceCube: neutrino khí quyển và từ siêu tân tinh.",
+     "url": "https://www.etap.physik.uni-mainz.de/prof-lutz-kopke"
+    },
+    {
+     "name": "AG Wurm",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "ETAP",
+     "topics": "Vật lý neutrino (JUNO).",
+     "url": "https://www.etap.physik.uni-mainz.de/index",
+     "note": "Chủ đề tóm tắt sơ bộ."
+    }
+   ],
+   "networks": []
+  },
+  "Julius-Maximilians-Universität Würzburg — Institut für Theoretische Physik und Astrophysik": {
+   "coverage": "full",
+   "structure": "Lehrstuhl für Astronomie (trưởng chair: Karl Mannheim) với các nhóm AG Mannheim, AG Kadler, AG Buson, AG Fromm, AG Siegert",
+   "structureUrl": "https://www.physik.uni-wuerzburg.de/en/astro/",
+   "scopeNote": "Danh sách lấy từ bảng nhân sự của Lehrstuhl für Astronomie (cột “Status”); gán nhóm theo menu nhóm trên trang (chỉ AG Kadler và AG Mannheim có danh sách thành viên công khai). Người không rõ nhóm để ở mục chung.",
+   "units": [
+    {
+     "name": "AG Mannheim",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Lehrstuhl für Astronomie",
+     "topics": "Vật lý thiên văn năng lượng cao và hạt thiên văn; thiên văn tia gamma.",
+     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898",
+     "note": "Chủ đề tóm tắt sơ bộ."
+    },
+    {
+     "name": "AG Kadler",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Lehrstuhl für Astronomie",
+     "topics": "Nhân thiên hà hoạt động và tia phản lực: quan sát vô tuyến VLBI và đa bước sóng.",
+     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898"
+    },
+    {
+     "name": "AG Buson",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Lehrstuhl für Astronomie",
+     "topics": "Thiên văn đa kênh (multimessenger).",
+     "url": "https://www.physik.uni-wuerzburg.de/en/astro/mitarbeiter/ag-buson/"
+    },
+    {
+     "name": "AG Fromm và AG Siegert",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Lehrstuhl für Astronomie",
+     "topics": "Mô phỏng tia phản lực và lỗ đen (Fromm); thiên văn tia gamma MeV (Siegert).",
+     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898",
+     "note": "Chủ đề tóm tắt sơ bộ; trang không có danh sách thành viên riêng."
+    },
+    {
+     "name": "Nhân sự khác (toàn chair)",
+     "kind": "Danh sách bổ sung",
+     "parent": "Lehrstuhl für Astronomie",
+     "topics": "Người có tên trong bảng nhân sự nhưng không rõ nhóm.",
+     "url": "https://www.physik.uni-wuerzburg.de/index.php?id=190898"
+    }
+   ],
+   "networks": []
+  },
+  "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B": {
+   "coverage": "partial",
+   "structure": "Lehrstuhl für Experimentelle Physik Vb — Astroteilchenphysik; trưởng: Wolfgang Rhode, cùng PD Dominik Elsässer",
+   "structureUrl": "https://app.physik.tu-dortmund.de/en/working-group",
+   "scopeNote": "Trang thành viên của nhóm không hiện tên khi đọc tự động; danh sách lấy từ trang nhân sự của Research Alliance Ruhr (mục AG Astroparticle Physics), không ghi ngạch. Chưa có nhóm của Christian Glaser.",
+   "units": [
+    {
+     "name": "AG Astroparticle Physics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Lehrstuhl für Experimentelle Physik Vb",
+     "topics": "Thiên văn đa kênh, IceCube, học máy trong vật lý hạt thiên văn; tìm vật chất tối bằng kính tia gamma và khảo sát vũ trụ; sinh lepton nhanh trong tương tác hadron.",
+     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
+    },
+    {
+     "name": "Nhóm Glaser",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Fakultät Physik",
+     "topics": "Giao điểm giữa vật lý hạt thiên văn thực nghiệm và trí tuệ nhân tạo: neutrino vũ trụ năng lượng cao và tia vũ trụ.",
+     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/"
+    }
+   ],
+   "networks": []
+  },
+  "Leibniz Universität Hannover — Institut für Gravitationsphysik": {
+   "coverage": "full",
+   "structure": "Institut für Gravitationsphysik, Leibniz Universität Hannover, làm việc chung với AEI Hannover (Max-Planck-Institut für Gravitationsphysik); bộ phận Laser Interferometry and Gravitational Wave Astronomy và Observational Relativity and Cosmology (Bruce Allen)",
+   "structureUrl": "https://www.mpg.de/152559/gravitational-physics-hanover",
+   "scopeNote": "Gồm toàn bộ cán bộ nghiên cứu của AEI cơ sở Hannover (Teilinstitut của Max-Planck-Institut für Gravitationsphysik, làm việc chung với Institut für Gravitationsphysik của Leibniz Universität Hannover), chia theo bộ phận/nhóm chính ghi trên danh bạ AEI. Mỗi người chỉ xếp vào một nhóm chính dù danh bạ có thể ghi nhiều nhóm. Đã bỏ nhân viên hành chính, IT, xưởng cơ khí và điện tử.",
+   "units": [
+    {
+     "name": "Laserinterferometrie und Gravitationswellen-Astronomie (AEI Hannover)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "AEI Hannover / Leibniz Universität Hannover",
+     "topics": "Máy dò sóng hấp dẫn mặt đất: GEO600, Advanced LIGO, phát triển laser, ánh sáng nén (squeezed light), điều khiển lượng tử, Einstein-Teleskop.",
+     "url": "https://www.aei.mpg.de/337435/aei-staff?seite=6"
+    },
+    {
+     "name": "Weltraum-Interferometrie (LISA, GRACE-FO)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "AEI Hannover / Leibniz Universität Hannover",
+     "topics": "Giao thoa kế trong không gian: LISA và đo trọng trường GRACE Follow-On.",
+     "url": "https://www.aei.mpg.de/337435/aei-staff?seite=6"
+    },
+    {
+     "name": "Präzisionsinterferometrie und fundamentale Wechselwirkungen (Guido Müller)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "AEI Hannover / Leibniz Universität Hannover",
+     "topics": "Giao thoa kế chính xác, thí nghiệm tương tác cơ bản, công nghệ cho LISA.",
+     "url": "https://www.aei.mpg.de/337435/aei-staff?seite=6"
+    },
+    {
+     "name": "Beobachtungsbasierte Relativität und Kosmologie (Bruce Allen)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "AEI Hannover / Leibniz Universität Hannover",
+     "topics": "Phân tích dữ liệu sóng hấp dẫn, pulsar và pulsar timing arrays, Einstein@Home, cụm máy tính Atlas.",
+     "url": "https://www.aei.mpg.de/337435/aei-staff?seite=6"
+    },
+    {
+     "name": "Kontinuierliche Gravitationswellen (M. Alessandra Papa)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "AEI Hannover / Leibniz Universität Hannover",
+     "topics": "Tìm sóng hấp dẫn liên tục từ sao neutron quay nhanh; Einstein@Home.",
+     "url": "https://www.aei.mpg.de/337435/aei-staff?seite=6"
+    },
+    {
+     "name": "Kollidierende Binärsysteme (Frank Ohme)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "AEI Hannover / Leibniz Universität Hannover",
+     "topics": "Mô hình hóa dạng sóng từ hệ đôi va chạm (lỗ đen, sao neutron).",
+     "url": "https://www.aei.mpg.de/337435/aei-staff?seite=6"
+    }
+   ],
+   "networks": []
+  },
+  "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium": {
+   "coverage": "leaders",
+   "structure": "Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena; giám đốc: Markus Roth",
+   "structureUrl": "https://www.dpg-physik.de/veranstaltungen/2025/tls",
+   "scopeNote": "Không tìm được trang nhân sự hiện tại hay báo cáo thường niên gần đây; mới ghi giám đốc và một nhà khoa học có tên trong thông báo tuyển dụng 2020.",
+   "units": [
+    {
+     "name": "Thüringer Landessternwarte",
+     "kind": "Đài quan sát",
+     "parent": "TLS",
+     "topics": "Nghiên cứu cơ bản vật lý thiên văn với kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới) và trạm LOFAR quốc tế; hành tinh ngoài Hệ Mặt Trời, vật lý sao, thiên văn vô tuyến tần số thấp.",
+     "url": "https://www.dpg-physik.de/veranstaltungen/2025/tls"
+    }
+   ],
+   "networks": []
+  }
+ },
+ "networks": {}
+}

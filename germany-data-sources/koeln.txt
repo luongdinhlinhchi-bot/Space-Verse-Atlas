@@ -1,0 +1,53 @@
+@inst Universität zu Köln — I. Physikalisches Institut
+structure: I. Physikalisches Institut, Universität zu Köln — các nhóm thiên văn (workgroups)
+structureUrl: https://astro.uni-koeln.de/workgroups
+scope: Trang nhóm của từng giáo sư không hiện danh sách thành viên khi đọc tự động (nội dung tải bằng script), nên mới ghi trưởng nhóm. Chưa có danh sách người.
+
+#unit Molecular Spectroscopy of Astronomical Objects (Jacob)
+parent: I. Physikalisches Institut
+topics: Quang phổ phân tử của thiên thể ở bước sóng vô tuyến và milimét/dưới milimét.
+url: https://astro.uni-koeln.de/jacob
+src: https://astro.uni-koeln.de/workgroups
+pp: GSTN | Arshia M. Jacob
+
+#unit Optical and IR Instrumentation (Labadie)
+parent: I. Physikalisches Institut
+topics: Thiết bị quang học và hồng ngoại, giao thoa kế; hình thành sao và hành tinh, thiên thể dưới sao, hành tinh ngoài Hệ Mặt Trời.
+url: https://astro.uni-koeln.de/labadie
+src: https://astro.uni-koeln.de/workgroups
+pp: GSTN | Lucas Labadie
+
+#unit Early Universe and Galaxies (Riechers)
+parent: I. Physikalisches Institut
+topics: Vũ trụ sơ khai, thiên hà, nhân thiên hà hoạt động, hình thành sao, môi trường liên sao; CCAT-prime.
+url: https://astro.uni-koeln.de/riechers
+src: https://astro.uni-koeln.de/workgroups
+pp: GSTN | Dominik A. Riechers
+
+#unit High-mass Star Formation and Astrochemistry (Schilke)
+parent: I. Physikalisches Institut
+topics: Hình thành sao khối lượng lớn và hoá học thiên văn; quan sát và mô hình hoá.
+url: https://astro.uni-koeln.de/schilke
+src: https://astro.uni-koeln.de/workgroups
+pp: GSTN | Peter Schilke
+
+#unit Laboratory Astrophysics (Schlemmer)
+parent: I. Physikalisches Institut
+topics: Vật lý lượng tử của phân tử liên sao, kỹ thuật quang phổ đặc biệt; Cologne Center for THz Spectroscopy.
+url: https://astro.uni-koeln.de/schlemmer
+src: https://astro.uni-koeln.de/workgroups
+pp: GSTN | Stephan Schlemmer
+
+#unit Theoretical Astrophysics (Walch-Gassner)
+parent: I. Physikalisches Institut
+topics: Dự án SILCC, phản hồi từ sao (vùng HII, siêu tân tinh), hình thành sao, quan sát tổng hợp.
+url: https://astro.uni-koeln.de/walch-gassner
+src: https://astro.uni-koeln.de/workgroups ; https://underconstruction-1.mathnat.uni-koeln.de/administration
+pp: GSTN — giáo sư W3 vật lý thiên văn lý thuyết | Stefanie Walch-Gassner
+
+#unit Nhóm Honingh và nhóm Graf
+parent: I. Physikalisches Institut
+topics: Trang không ghi chủ đề.
+src: https://astro.uni-koeln.de/workgroups
+pp: TN | Netty Honingh; Urs Graf
+pp: EM | A. Eckart; J. Stutzki

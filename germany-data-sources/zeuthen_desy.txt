@@ -1,0 +1,35 @@
+@inst Deutsches Elektronen-Synchrotron DESY, Zeuthen
+structure: Bộ phận Vật lý hạt thiên văn (Astroparticle Physics) của DESY; giám đốc phụ trách: Christian Stegmann; các nhóm: Gamma Astronomy (David Berge), Neutrino Astronomy / Cosmology (Marek Kowalski), Astroparticle Physics Theory (Walter Winter), Research Technology (Stefan Klepser)
+structureUrl: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
+scope: Báo cáo thường niên 2024 chỉ ghi số lượng (58 nhà khoa học, 23 nghiên cứu sinh), không ghi tên; trang nhân sự của DESY chưa đọc được. Hiện mới có lãnh đạo bộ phận, trưởng nhóm và một phần nhóm lý thuyết. Nhiều giáo sư cùng làm ở DESY và các đại học (HU Berlin, Uni Potsdam, FAU, Würzburg).
+
+#unit Lãnh đạo bộ phận và giáo sư liên kết
+kind: Lãnh đạo
+parent: DESY Astroparticle Physics
+topics: Thiên văn tia gamma và neutrino, vật lý hạt thiên văn lý thuyết; CTAO và trung tâm quản lý dữ liệu khoa học CTAO tại Zeuthen; IceCube, RNO-G, ULTRASAT.
+src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf ; https://www.desy.de/about_desy/directorate/christian_stegmann/index_eng.html ; https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/zeuthen/deutsches-elektronen-synchrotron-desy-zeuthen/jb-zeuthen_desy-2024.pdf
+pp: GD — giám đốc phụ trách vật lý hạt thiên văn; giáo sư Uni Potsdam | Christian Stegmann
+pp: Phó bộ phận; trưởng Research Technology | Stefan Klepser
+xx: Giáo sư liên kết — Uni Potsdam | Martin Pohl; Huirong Yan
+xx: Giáo sư liên kết — FAU Erlangen-Nürnberg | Anna Nelles
+xx: Giáo sư trẻ liên kết — Universität Würzburg | Sara Buson
+
+#unit Gamma Astronomy
+parent: DESY Astroparticle Physics
+topics: Thiên văn tia gamma với H.E.S.S., CTAO, Fermi; từ trường liên thiên hà.
+src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf
+pp: TN — giáo sư HU Berlin | David Berge
+
+#unit Neutrino Astronomy / Cosmology
+parent: DESY Astroparticle Physics
+topics: IceCube và IceCube-Gen2, RNO-G; vũ trụ học và sự kiện tạm thời.
+src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf ; https://www-zeuthen.desy.de/~bernardi/
+pp: TN — giáo sư HU Berlin | Marek Kowalski
+p: Elisa Bernardini | NCV — giáo sư HU Berlin về vật lý hạt thiên văn tia gamma và neutrino | https://www-zeuthen.desy.de/~bernardi/
+
+#unit Astroparticle Physics Theory
+parent: DESY Astroparticle Physics
+topics: Tia vũ trụ, photon và neutrino năng lượng cao, tín hiệu vật chất tối; gia tốc hạt ở sóng xung kích.
+src: https://v1.desy.de/sites2009/site_www-desy/content/e410/e172386/e172679/e173627/infoboxContent173628/DESY-Organigramm_AP_eng.pdf ; https://uni-potsdam.de/en/astroparticle/theoretical-astroparticle-physics/group-members
+pp: TN | Walter Winter
+pp: NCV | Andrew Taylor; Rafael Alejandro Porto Pereira

@@ -1,0 +1,24 @@
+@inst Technische Universität Braunschweig — Institut für Geophysik und extraterrestrische Physik
+structure: Institut für Geophysik und extraterrestrische Physik (IGeP); giám đốc điều hành: Ferdinand Plaschke
+structureUrl: https://tu-braunschweig.de/igep/institut
+scope: Trang của viện không gán nhân sự vào nhóm và gồm cả mảng địa vật lý ứng dụng (nhóm Hördt). Danh sách để chung, trừ trưởng nhóm; có thể lẫn một số người làm địa vật lý ứng dụng.
+
+#unit Giáo sư và trưởng nhóm
+kind: Ban lãnh đạo
+parent: IGeP
+topics: Vật lý plasma không gian và từ quyển (Plaschke, Glaßmeier); sao chổi, bụi và vật lý hành tinh trong phòng thí nghiệm — CoPhyLab, phòng thí nghiệm băng và bụi (Blum); thiên thể nhỏ của Hệ Mặt Trời (Agarwal).
+note: Chủ đề của Plaschke và Agarwal là tóm tắt sơ bộ của mình; trang chỉ ghi chức vụ.
+src: https://tu-braunschweig.de/igep/institut
+pp: GS — giám đốc điều hành viện | Ferdinand Plaschke
+pp: GSTN — AG Blum (CoPhyLab, Eislabor, Staublabor) | Jürgen Blum
+pp: GS | Jessica Agarwal; Karl-Heinz Glaßmeier
+pp: Giáo sư danh dự — MPS | Sami Solanki
+pp: Giáo sư danh dự | Joachim Block
+
+#unit Nhân sự khoa học (toàn viện)
+kind: Danh sách toàn viện
+parent: IGeP
+topics: Nghiên cứu viên và nghiên cứu sinh của viện (vật lý ngoài Trái Đất và địa vật lý).
+src: https://tu-braunschweig.de/igep/institut
+pp: NCV | Jannik Augscheller; Hans-Ulrich Auster; Ingo von Borstel; Johanna Bürger; Dragos Constantinescu; Daniel Heyner; Ruven Johannes Hoppenbrock; Oriel Humes; Julia Immoor-Fiedel; Felix Keiser; Valerii Kleshchonok; Lars Klingenstein; Patrick Kolhey; Dennis Kreith; Christopher Kreuzig; Adrian Pöppelwerth; Kristin Pump; Jonathan Remmert; Ingo Richter; Rainer Schräpler; Leonard Schulz; Raphael Schulz; Yuri Skorov; Gerlinde Timmermann; Robin Zywczok
+xx: KM | Coskun Aktas; Philip Heinisch; Horst Uwe Keller; Johannes Mieth; Noah Molinski; Jan-Philipp Schmoldt; Christian Schuckart; Frank Wissmann; Yutian Wu

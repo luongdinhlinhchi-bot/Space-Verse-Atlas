@@ -1,0 +1,27 @@
+@inst Universität Bielefeld — Fakultät für Physik
+structure: Fakultät für Physik, Universität Bielefeld — các nhóm vũ trụ học, thiên văn vô tuyến và pulsar
+structureUrl: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf
+scope: Danh sách lấy từ báo cáo thường niên 2024 trên Mitteilungen der Astronomischen Gesellschaft 108 (2025). Báo cáo chỉ nêu trưởng nhóm cho Uhlemann và Ridolfi; các nghiên cứu viên và học viên không được gán nhóm.
+
+#unit Cosmology of Large-Scale Structure (Euclid)
+parent: Fakultät für Physik
+topics: Lý thuyết và mô phỏng cấu trúc quy mô lớn; chuẩn bị phân tích thấu kính hấp dẫn yếu của Euclid.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf
+pp: GSTN — từ 1.3.2024 | Cora Uhlemann
+
+#unit Pulsar Astronomy (TRAPUM)
+parent: Fakultät für Physik
+topics: Nghiên cứu pulsar, European Pulsar Timing Array, hệ thống LOFAR TMSS; tìm pulsar cực đoan với MeerKAT (TRAPUM).
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf
+pp: JP — từ 1.10.2024; trưởng nhóm TRAPUM | Alessandro Ridolfi
+
+#unit Radio Cosmology và Particle Cosmology (toàn khoa)
+kind: Danh sách toàn khoa
+parent: Fakultät für Physik
+topics: Vũ trụ học với nguồn vô tuyến (LOFAR LoTSS, SKAMPI); chuyển pha vũ trụ và ứng viên vật chất tối.
+note: Báo cáo không ghi trưởng nhóm cho hai mảng này và không gán người vào nhóm.
+src: https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf
+pp: GS | Dietrich Bödeker; Dominik J. Schwarz
+pp: NCV | Krishnakumar Moochickal Ambalappat; Ahmed Ayad; Anna Berger; Lina Castiblanco Tolosa; Philipp Klose; Jörn Künsemöller; Vladimir Lenok; Isabel Oldengott; Matthias Schmidt-Rubart; Ashim Sen Gupta; Jérôme Vandecasteele; Eamon Weiz; Jinglan Zheng
+pp: NCS | Nitesh Bhardwaj; Lukas Böhme; Nick Horstmann; Shivani Deshmukh; Jondalar Kuss; Rasmus Nielsen; Morteza Pashapour-Ahmadabadi
+pp: Sinh viên cử nhân / thạc sĩ | Amon Boigs; Robin Blotevogel; Valon Gashi; Merle Gizinski; Niklas Knop; Jonathan Knospe; Niklas Korff; Thora Laege; Niklas Ottovordemgenschenfelde; Moritz Overlack; Tim Unruh

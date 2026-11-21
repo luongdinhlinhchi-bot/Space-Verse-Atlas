@@ -1,0 +1,788 @@
+{
+ "country": "DEU",
+ "checked": "2026-11-15",
+ "stage": "institutions",
+ "viewBox": "140 0 480 460",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Các cơ quan gộp theo thành phố như danh sách thành viên RDS.",
+ "listSource": "https://astronomische-gesellschaft.de/en/rds/members",
+ "cities": [
+  {
+   "id": "bamberg",
+   "city": "Bamberg",
+   "coordinates": [
+    10.89,
+    49.89
+   ],
+   "institutions": [
+    {
+     "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg — Dr. Karl Remeis-Sternwarte Bamberg",
+     "type": "university",
+     "research": "Vật lý thiên văn sao (sao nóng, sao lùn dưới) và thiên văn tia X.",
+     "url": "http://www.sternwarte.uni-erlangen.de/",
+     "rdsEntries": [
+      "Dr. Remeis Sternwarte, Astronomisches Institut der Universität Erlangen-Nürnberg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "city": "Berlin",
+   "coordinates": [
+    13.4,
+    52.52
+   ],
+   "offset": [
+    10,
+    -24
+   ],
+   "institutions": [
+    {
+     "name": "Technische Universität Berlin — Zentrum für Astronomie und Astrophysik",
+     "type": "university",
+     "research": "Thiên văn học và vật lý thiên văn; hệ hành tinh và hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www-astro.physik.tu-berlin.de/de/",
+     "rdsEntries": [
+      "Zentrum für Astronomie und Astrophysik der Technischen Universität Berlin"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Humboldt-Universität zu Berlin — Experimentelle Astroteilchenphysik und Kosmologie",
+     "type": "university",
+     "research": "Vật lý hạt thiên văn thực nghiệm và vũ trụ học.",
+     "url": "https://www.physik.hu-berlin.de/de/astro",
+     "rdsEntries": [
+      "Professur \"Experimentelle Astroteilchenphysik und Kosmologie\" an der HU Berlin"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members",
+     "note": "Trang của khoa Vật lý HU Berlin chặn công cụ đọc tự động (yêu cầu kiểm tra trình duyệt) nên chưa lấy được nhóm và thành viên."
+    },
+    {
+     "name": "DLR — Institut für Weltraumforschung (tên trong danh sách RDS: Institut für Planetenforschung)",
+     "type": "non-university institute",
+     "research": "Nghiên cứu hành tinh trong Hệ Mặt Trời và hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www.dlr.de/de/wr/ueber-uns/abteilungen",
+     "rdsEntries": [
+      "Institut für Planetenforschung, DLR"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members",
+     "note": "Trang chính thức của DLR hiện gọi viện tại Rutherfordstraße 2, Berlin là Institut für Weltraumforschung; trang đã đọc không nêu lịch sử đổi tên."
+    }
+   ]
+  },
+  {
+   "id": "bielefeld",
+   "city": "Bielefeld",
+   "coordinates": [
+    8.53,
+    52.02
+   ],
+   "institutions": [
+    {
+     "name": "Universität Bielefeld — Fakultät für Physik",
+     "type": "university",
+     "research": "Vũ trụ học và thiên văn vô tuyến (pulsar, khảo sát vô tuyến).",
+     "url": "http://www.physik.uni-bielefeld.de/",
+     "rdsEntries": [
+      "Fakultät für Physik der Universität Bielefeld"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "bochum",
+   "city": "Bochum",
+   "coordinates": [
+    7.22,
+    51.48
+   ],
+   "offset": [
+    -18,
+    -18
+   ],
+   "institutions": [
+    {
+     "name": "Ruhr-Universität Bochum",
+     "type": "university",
+     "research": "Thiên hà, môi trường liên sao và từ trường vũ trụ; vật lý plasma thiên văn và tia vũ trụ.",
+     "url": "https://www.astro.ruhr-uni-bochum.de",
+     "rdsEntries": [
+      "Astronomisches Institut Bochum der Ruhr-Universität Bochum",
+      "Institut für Theoretische Physik, Lehrstuhl IV, Ruhr-Universität Bochum"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members",
+     "additionalSources": [
+      "http://www.tp4.ruhr-uni-bochum.de/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonn",
+   "city": "Bonn",
+   "coordinates": [
+    7.1,
+    50.73
+   ],
+   "offset": [
+    -20,
+    12
+   ],
+   "institutions": [
+    {
+     "name": "Universität Bonn — Argelander-Institut für Astronomie",
+     "type": "university",
+     "research": "Thiên văn vô tuyến, vũ trụ học và thấu kính hấp dẫn, quần thể sao và thiên hà.",
+     "url": "http://www.astro.uni-bonn.de/",
+     "rdsEntries": [
+      "Argelander Institut für Astronomie der Universität Bonn (mit Abteilungen: Sternwarte, Radioastronomie, Astrophysik)"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Max-Planck-Institut für Radioastronomie",
+     "type": "non-university institute",
+     "research": "Thiên văn vô tuyến: giao thoa đường đáy rất dài (VLBI), pulsar, thiên văn milimét và dưới milimét.",
+     "url": "http://www.mpifr-bonn.mpg.de/",
+     "rdsEntries": [
+      "Max-Planck-Institut für Radioastronomie Bonn"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "braunschweig",
+   "city": "Braunschweig",
+   "coordinates": [
+    10.52,
+    52.27
+   ],
+   "institutions": [
+    {
+     "name": "Technische Universität Braunschweig — Institut für Geophysik und extraterrestrische Physik",
+     "type": "university",
+     "research": "Vật lý plasma không gian, sao chổi và các thiên thể nhỏ, vật lý hành tinh.",
+     "url": "https://www.tu-braunschweig.de/igep",
+     "rdsEntries": [
+      "Institut für Geophysik und extraterrestrische Physik der TU Braunschweig"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "darmstadt",
+   "city": "Darmstadt",
+   "coordinates": [
+    8.65,
+    49.87
+   ],
+   "offset": [
+    24,
+    6
+   ],
+   "institutions": [
+    {
+     "name": "GSI Helmholtzzentrum für Schwerionenforschung — Theory Division",
+     "type": "non-university institute",
+     "research": "Vật lý thiên văn hạt nhân: tổng hợp nguyên tố, siêu tân tinh và sao neutron.",
+     "url": "https://www.gsi.de/en/work/research/theory.htm",
+     "rdsEntries": [
+      "Theory Division of GSI Helmholtzzentrum für Schwerionenforschung"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "dortmund",
+   "city": "Dortmund",
+   "coordinates": [
+    7.47,
+    51.51
+   ],
+   "offset": [
+    16,
+    -22
+   ],
+   "institutions": [
+    {
+     "name": "Technische Universität Dortmund — Lehrstuhl für Experimentelle Physik 5B",
+     "type": "university",
+     "research": "Vật lý hạt thiên văn: thiên văn tia gamma và neutrino.",
+     "url": "https://app.tu-dortmund.de/cms/de/home/",
+     "rdsEntries": [
+      "TU Dortmund Lehrstuhl für Experimentelle Physik 5B"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "dresden",
+   "city": "Dresden",
+   "coordinates": [
+    13.74,
+    51.05
+   ],
+   "institutions": [
+    {
+     "name": "Technische Universität Dresden — Lohrmann-Observatorium",
+     "type": "university",
+     "research": "Đo sao (astrometry), hệ quy chiếu thiên văn và mô hình tương đối tính.",
+     "url": "https://tu-dresden.de/bu/umwelt/geo/ipg/astro/",
+     "rdsEntries": [
+      "Lohrmann-Observatorium, Technische Universität Dresden"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "frankfurt",
+   "city": "Frankfurt am Main",
+   "coordinates": [
+    8.68,
+    50.11
+   ],
+   "offset": [
+    10,
+    -22
+   ],
+   "institutions": [
+    {
+     "name": "Goethe-Universität Frankfurt — Institut für Theoretische Physik / Astrophysik",
+     "type": "university",
+     "research": "Vật lý thiên văn tương đối tính: lỗ đen, sao neutron; vật lý thiên văn hạt nhân.",
+     "url": "http://www.astro.uni-frankfurt.de/",
+     "rdsEntries": [
+      "Institut für Theoretische Physik/Astrophysik der Universität Frankfurt"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "freiburg",
+   "city": "Freiburg",
+   "coordinates": [
+    7.85,
+    47.99
+   ],
+   "institutions": [
+    {
+     "name": "Institut für Sonnenphysik (KIS)",
+     "type": "non-university institute",
+     "research": "Vật lý Mặt Trời.",
+     "url": "http://www.kis.uni-freiburg.de/",
+     "rdsEntries": [
+      "Institut für Sonnenphysik (KIS)"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "garching",
+   "city": "Garching",
+   "coordinates": [
+    11.65,
+    48.25
+   ],
+   "offset": [
+    22,
+    -12
+   ],
+   "institutions": [
+    {
+     "name": "Max-Planck-Institut für Astrophysik",
+     "type": "non-university institute",
+     "research": "Vật lý thiên văn lý thuyết và tính toán: vũ trụ học, hình thành thiên hà, sao và siêu tân tinh.",
+     "url": "https://www.mpa-garching.mpg.de/de",
+     "rdsEntries": [
+      "Max-Planck-Institut für Astrophysik Garching"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Max-Planck-Institut für extraterrestrische Physik",
+     "type": "non-university institute",
+     "research": "Thiên văn hồng ngoại và dưới milimét, thiên văn năng lượng cao, thiên hà và vũ trụ học quan sát.",
+     "url": "https://www.mpe.mpg.de/index",
+     "rdsEntries": [
+      "Max-Planck-Institut für extraterrestrische Physik Garching"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Technische Universität München — Physik-Department E15",
+     "type": "university",
+     "research": "Vật lý thực nghiệm và vật lý hạt thiên văn: neutrino và vật chất tối.",
+     "url": "http://www.e15.ph.tum.de/",
+     "rdsEntries": [
+      "Lehrstuhl für Experimental- und Astro-Teilchenphysik am Physik-Department E15 der Technischen Universität München"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "goettingen",
+   "city": "Göttingen",
+   "coordinates": [
+    9.93,
+    51.53
+   ],
+   "institutions": [
+    {
+     "name": "Georg-August-Universität Göttingen — Institut für Astrophysik und Geophysik",
+     "type": "university",
+     "research": "Vật lý thiên văn sao và Mặt Trời, hành tinh ngoài Hệ Mặt Trời, mô phỏng số.",
+     "url": "http://www.astro.physik.uni-goettingen.de/",
+     "rdsEntries": [
+      "Institut für Astrophysik und Geophysik Göttingen"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members",
+     "additionalSources": [
+      "https://www.uni-goettingen.de/en/215072.html"
+     ]
+    },
+    {
+     "name": "Max-Planck-Institut für Sonnensystemforschung",
+     "type": "non-university institute",
+     "research": "Mặt Trời và nhật quyển, cấu trúc bên trong Mặt Trời và các sao, hành tinh và sao chổi.",
+     "url": "http://www.mps.mpg.de/",
+     "rdsEntries": [
+      "Max-Planck-Institut für Sonnensystemforschung"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "hamburg",
+   "city": "Hamburg",
+   "coordinates": [
+    9.99,
+    53.55
+   ],
+   "institutions": [
+    {
+     "name": "Universität Hamburg — Hamburger Sternwarte",
+     "type": "university",
+     "research": "Vật lý thiên văn sao, thiên văn ngoài thiên hà, thiên văn vô tuyến và tia X.",
+     "url": "http://www.hs.uni-hamburg.de/",
+     "rdsEntries": [
+      "Hamburger Sternwarte, Universität Hamburg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "hannover",
+   "city": "Hannover",
+   "coordinates": [
+    9.73,
+    52.37
+   ],
+   "institutions": [
+    {
+     "name": "Leibniz Universität Hannover — Institut für Gravitationsphysik",
+     "type": "university",
+     "research": "Vật lý hấp dẫn và thiên văn sóng hấp dẫn.",
+     "url": "https://www.aei.uni-hannover.de",
+     "rdsEntries": [
+      "Institut für Gravitationsphysik der Leibniz Universität Hannover"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "heidelberg",
+   "city": "Heidelberg",
+   "coordinates": [
+    8.69,
+    49.4
+   ],
+   "offset": [
+    -14,
+    20
+   ],
+   "institutions": [
+    {
+     "name": "Universität Heidelberg — Zentrum für Astronomie (ZAH)",
+     "type": "university",
+     "research": "Gồm ba viện: Astronomisches Rechen-Institut, Landessternwarte Königstuhl và Institut für Theoretische Astrophysik.",
+     "url": "http://www.zah.uni-hd.de/",
+     "rdsEntries": [
+      "Zentrum für Astronomie der Universität Heidelberg",
+      "Astronomisches Rechen-Institut Heidelberg",
+      "Landessternwarte Heidelberg",
+      "Institut für Theoretische Astrophysik"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members",
+     "additionalSources": [
+      "https://zah.uni-heidelberg.de/institutes/ari",
+      "https://www.lsw.uni-heidelberg.de/?lang=de",
+      "http://www.ita.uni-heidelberg.de/ita-index.shtml"
+     ]
+    },
+    {
+     "name": "Max-Planck-Institut für Astronomie",
+     "type": "non-university institute",
+     "research": "Hình thành sao và hành tinh, thiên hà và vũ trụ học, khí quyển hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www.mpia.de/de",
+     "rdsEntries": [
+      "Max-Planck-Institut für Astronomie Heidelberg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Max-Planck-Institut für Kernphysik",
+     "type": "non-university institute",
+     "research": "Vật lý hạt thiên văn: thiên văn tia gamma, neutrino và vật chất tối.",
+     "url": "https://www.mpi-hd.mpg.de/mpi/de/",
+     "rdsEntries": [
+      "Max-Planck-Institut für Kernphysik Heidelberg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "jena",
+   "city": "Jena",
+   "coordinates": [
+    11.59,
+    50.93
+   ],
+   "offset": [
+    -20,
+    12
+   ],
+   "institutions": [
+    {
+     "name": "Friedrich-Schiller-Universität Jena — Astrophysikalisches Institut und Universitäts-Sternwarte",
+     "type": "university",
+     "research": "Sao trẻ và hành tinh ngoài Hệ Mặt Trời, đĩa mảnh vụn, vật lý thiên văn phòng thí nghiệm.",
+     "url": "http://www.astro.uni-jena.de/",
+     "rdsEntries": [
+      "Astrophysikalisches Institut Jena und Universitäts-Sternwarte, Universität Jena"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "kassel",
+   "city": "Kassel",
+   "coordinates": [
+    9.48,
+    51.31
+   ],
+   "institutions": [
+    {
+     "name": "Universität Kassel — Fachgruppe Laborastrophysik",
+     "type": "university",
+     "research": "Vật lý thiên văn phòng thí nghiệm.",
+     "url": "https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/startseite",
+     "rdsEntries": [
+      "Fachgruppe für Laborastrophysik an der Universität Kassel"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "kiel",
+   "city": "Kiel",
+   "coordinates": [
+    10.13,
+    54.32
+   ],
+   "institutions": [
+    {
+     "name": "Christian-Albrechts-Universität zu Kiel — Institut für Theoretische Physik und Astrophysik",
+     "type": "university",
+     "research": "Hình thành sao và hành tinh, đĩa quanh sao, truyền bức xạ.",
+     "url": "http://www.astrophysik.uni-kiel.de/",
+     "rdsEntries": [
+      "Institut für Theoretische Physik und Astrophysik der Universität Kiel"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "koeln",
+   "city": "Köln",
+   "coordinates": [
+    6.96,
+    50.94
+   ],
+   "offset": [
+    -24,
+    -6
+   ],
+   "institutions": [
+    {
+     "name": "Universität zu Köln — I. Physikalisches Institut",
+     "type": "university",
+     "research": "Thiên văn hồng ngoại và dưới milimét, môi trường liên sao và hình thành sao, tâm Ngân Hà.",
+     "url": "http://www.ph1.uni-koeln.de/",
+     "rdsEntries": [
+      "I. Physikalisches Institut der Universität Köln"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "mainz",
+   "city": "Mainz",
+   "coordinates": [
+    8.27,
+    50.0
+   ],
+   "offset": [
+    -26,
+    0
+   ],
+   "institutions": [
+    {
+     "name": "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)",
+     "type": "university",
+     "research": "Vật lý hạt và vật lý hạt thiên văn thực nghiệm.",
+     "url": "https://www.etap.physik.uni-mainz.de",
+     "rdsEntries": [
+      "Arbeitsgruppe Experimentelle Teilchen- und Astroteilchen Physik der Johannes Gutenberg Universität Mainz"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "marburg",
+   "city": "Marburg",
+   "coordinates": [
+    8.77,
+    50.81
+   ],
+   "institutions": [
+    {
+     "name": "Philipps-Universität Marburg — Astronomiegeschichte und Beobachtende Astronomie",
+     "type": "university",
+     "research": "Lịch sử thiên văn học và thiên văn quan sát.",
+     "url": "https://www.uni-marburg.de/fb13/forschungsgruppen/astronomie",
+     "rdsEntries": [
+      "Arbeitsgruppe Astronomiegeschichte und Beobachtende Astronomie der Philipps-Universität Marburg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "muenchen",
+   "city": "München",
+   "coordinates": [
+    11.58,
+    48.14
+   ],
+   "offset": [
+    -20,
+    14
+   ],
+   "institutions": [
+    {
+     "name": "Ludwig-Maximilians-Universität München — Universitäts-Sternwarte",
+     "type": "university",
+     "research": "Thiên hà và vũ trụ học, vật lý thiên văn sao, vật lý thiên văn tính toán.",
+     "url": "http://www.usm.uni-muenchen.de/",
+     "rdsEntries": [
+      "Institut für Astronomie und Astrophysik der Universität München und Universitätssternwarte"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "potsdam",
+   "city": "Potsdam",
+   "coordinates": [
+    13.06,
+    52.4
+   ],
+   "offset": [
+    -26,
+    -4
+   ],
+   "institutions": [
+    {
+     "name": "Leibniz-Institut für Astrophysik Potsdam (AIP)",
+     "type": "non-university institute",
+     "research": "Từ trường vũ trụ, vật lý Mặt Trời và sao; Ngân Hà, thiên hà và vũ trụ học.",
+     "url": "https://www.aip.de/de/",
+     "rdsEntries": [
+      "Leibniz-Institut für Astrophysik Potsdam (AIP)"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Universität Potsdam — Lehrstuhl für Astrophysik",
+     "type": "university",
+     "research": "Sao nóng khối lượng lớn và gió sao, vật lý thiên văn năng lượng cao, thiên hà.",
+     "url": "https://www.astro.physik.uni-potsdam.de/~www/index.html",
+     "rdsEntries": [
+      "Lehrstuhl für Astrophysik der Universität Potsdam"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    },
+    {
+     "name": "Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut)",
+     "type": "non-university institute",
+     "research": "Thuyết tương đối rộng, sóng hấp dẫn và tương đối tính số.",
+     "url": "http://www.aei.mpg.de/",
+     "rdsEntries": [
+      "Albert-Einstein-Institut (MPI für Gravitationsphysik)"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "sonneberg",
+   "city": "Sonneberg",
+   "coordinates": [
+    11.17,
+    50.36
+   ],
+   "institutions": [
+    {
+     "name": "Sternwarte Sonneberg",
+     "type": "non-university institute",
+     "research": "Sao biến quang; kho kính ảnh tuần tra bầu trời.",
+     "url": "http://www.sonobs.de/",
+     "rdsEntries": [
+      "Sternwarte Sonneberg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "stuttgart",
+   "city": "Stuttgart",
+   "coordinates": [
+    9.18,
+    48.78
+   ],
+   "institutions": [
+    {
+     "name": "Universität Stuttgart — Deutsches SOFIA Institut",
+     "type": "university",
+     "research": "Thiên văn hồng ngoại trên máy bay (đài quan sát SOFIA).",
+     "url": "http://www.dsi.uni-stuttgart.de/",
+     "rdsEntries": [
+      "Deutsches SOFIA Institut, Stuttgart"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "tautenburg",
+   "city": "Tautenburg",
+   "coordinates": [
+    11.71,
+    50.98
+   ],
+   "offset": [
+    22,
+    -10
+   ],
+   "institutions": [
+    {
+     "name": "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium",
+     "type": "non-university institute",
+     "research": "Hành tinh ngoài Hệ Mặt Trời, vật lý sao, chớp tia gamma, thiên văn vô tuyến tần số thấp.",
+     "url": "http://www.tls-tautenburg.de/",
+     "rdsEntries": [
+      "Thüringer Landessternwarte - Karl-Schwarzschild-Observatorium"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "tuebingen",
+   "city": "Tübingen",
+   "coordinates": [
+    9.06,
+    48.52
+   ],
+   "institutions": [
+    {
+     "name": "Eberhard Karls Universität Tübingen — Institut für Astronomie und Astrophysik (IAAT)",
+     "type": "university",
+     "research": "Thiên văn năng lượng cao (tia X), vật lý thiên văn lý thuyết và tính toán.",
+     "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/",
+     "rdsEntries": [
+      "Institut für Astronomie und Astrophysik Tübingen (IAAT)"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "wuerzburg",
+   "city": "Würzburg",
+   "coordinates": [
+    9.93,
+    49.79
+   ],
+   "institutions": [
+    {
+     "name": "Julius-Maximilians-Universität Würzburg — Institut für Theoretische Physik und Astrophysik",
+     "type": "university",
+     "research": "Nhân thiên hà hoạt động, vật lý thiên văn năng lượng cao và vật lý hạt thiên văn.",
+     "url": "https://www.physik.uni-wuerzburg.de/astro/startseite/",
+     "rdsEntries": [
+      "Institut für Theoretische Physik und Astrophysik der Universität Würzburg"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  },
+  {
+   "id": "zeuthen",
+   "city": "Zeuthen",
+   "coordinates": [
+    13.62,
+    52.35
+   ],
+   "offset": [
+    22,
+    16
+   ],
+   "institutions": [
+    {
+     "name": "Deutsches Elektronen-Synchrotron DESY, Zeuthen",
+     "type": "non-university institute",
+     "research": "Vật lý hạt thiên văn: thiên văn tia gamma và neutrino.",
+     "url": "http://www.desy.de/",
+     "rdsEntries": [
+      "Deutsches Elektronen-Synchrotron DESY, Zeuthen"
+     ],
+     "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+@inst Max-Planck-Institut für Radioastronomie
+structure: Các mảng nghiên cứu: thiên văn milimét/dưới milimét; hình thành sao và tiến hoá thiên hà; thiên văn vô tuyến/VLBI; vật lý cơ bản trong thiên văn vô tuyến; cùng nhóm Lise Meitner, nhóm Otto Hahn và các bộ phận kỹ thuật (Effelsberg, VLBI-Technologie, mm/submm-Technologie)
+structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf
+scope: Nguồn là báo cáo thường niên 2024 của viện trên Mitteilungen der Astronomischen Gesellschaft 108 (2025): tên chỉ có chữ cái đầu của tên riêng, số liệu là của năm 2024 và báo cáo không ghi ai thuộc mảng nào, nên người được xếp theo ngạch (giám đốc, nhà khoa học, nghiên cứu sinh, khách). Trang nhân sự trên website của viện không đọc được bằng công cụ của mình.
+
+#unit Ban giám đốc
+kind: Giám đốc và giáo sư
+parent: Max-Planck-Institut für Radioastronomie
+topics: Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten (thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).
+note: Phân công bộ phận của từng giám đốc là theo hiểu biết chung, báo cáo 2024 chỉ liệt kê tên.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf
+pp: GD | M. Kramer; K. M. Menten; A. Saintonge
+pp: GD — giám đốc điều hành từ 01.07.2023 | J. A. Zensus
+pp: EM | G. Weigelt; R. Wielebinski
+
+#unit Nhà khoa học (toàn viện)
+kind: Danh sách toàn viện
+parent: Max-Planck-Institut für Radioastronomie
+topics: Thiên văn vô tuyến, milimét và dưới milimét; pulsar; VLBI; hình thành sao; từ trường vũ trụ.
+note: Không gồm hai trưởng bộ phận kỹ thuật (EDV, Elektronik).
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf
+pp: Trưởng nhóm Otto Hahn | B. Boccardi
+pp: Trưởng nhóm Lise Meitner | L. Spitler
+pp: Max Planck Fellow | N. Langer
+pp: NCV — trưởng bộ phận mm/submm-Technologie và Digitale Signalverarbeitung | B. Klein
+pp: NCV — trưởng Đài quan sát vô tuyến Effelsberg | A. Kraus
+pp: NCV — trưởng bộ phận VLBI-Technologie | H. Rottmann
+pp: NCV | U. Bach; V. Balakrishnan; E. Barr; R. Beck; J. Behrend; A. Belloche; P. Benke; M. Berezina; S. Britzen; A. Brunthaler; I. Cámara Mayorga; D. Champion; C.-H. Chen; W. Chen; M. Ciechanowicz; A. Damas Segovia; G. Desvignes; R. Dokara; S. Dornbusch; S. A. Dzib Quijano; A. Felke; P. Freire; Y. Guo; R. Güsten; S. Heyminck; S. Hochgürtel; H. Hu; A. M. Jacob; G. I. G. Jozsa; N. Junkes; A. Karska; R. Karuppusamy; C. Kasemann; A. Kazantsev; D. Kim; H.-R. Klöckner; S. Komossa; Y. Y. Kovalev; C. König; B. Kramer; T. P. Krichbaum; K. Lackeos; N. T. Le; C. Leinz; G. Lipunova; J. D. Livingston; A. P. Lobanov; Y. Ma; S. A. Mao; R. Mauersberger; Y. Men; M. R. Mertens; X. Miao; S. Mohan; K. Moochickal Ambalappat; D. Muders; S. Neupane; G.-F. Paraschos; Y. Pidopryhora; O. Polch; P. Pütz; I. D. Rammala; P. Reich; N. Reyes Guzmán; O. Ricken; J. Röder; M. Romano; E. Ros Ibarra; I. Rottmann; A. L. Roy; D. Schertl; T. Sprenger; S. Thiel; V. Vadamattom Shaji; V. Venkatraman Krishnan; S. D. M. von Fellenberg; J. D. Wagenveld; J. F. Wagner; A. Weiß; N. Wex; M. Wielgus; H. Wiesemeyer; B. Winkel; G. Witzel; J. Wongphechauxsorn; O. Wucknitz; U. Wyputta; F. Wyrowski; N. Yu; S. Yu; G. Y. Zhao
+xx: Thành viên khoa học bên ngoài (Auswärtiges Mitglied) | A. Eckart; M. Grewing; M. Harwit; K. I. Kellermann; P. A. Strittmatter
+
+#unit Nghiên cứu sinh (toàn viện)
+kind: Danh sách toàn viện
+parent: Max-Planck-Institut für Radioastronomie
+topics: Nghiên cứu sinh của viện, phần lớn thuộc IMPRS for Astronomy and Astrophysics (Bonn/Köln).
+note: Báo cáo ghi con số 54 nhưng liệt kê 56 tên; một số tên trùng với danh sách nhà khoa học vì đổi ngạch trong năm.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf
+pp: NCS | F. Abdul Kareem; E. S. Y. Alkhuja; V. Bartolini; A. Batrakov; M. Bause; P. Benke; S. Bethapudi; D. Bhatnagar; A. Cheema; I. B. Christensen; H.-H. Chung; M. Colom i Bernadich; L. Debbrecht; C. Degli Agosti; A. Dutta; I. Galic; L. V. Gebauer Werner; K. Grishunin; K. Grunthal; G. F. Grutzeck; M. Haslbauer; C. Heiter; T. D. Hoang; J. N. Jahns-Schindler; J. Jang; J. A. Jawor; M. H. Jeste; F. Jünemann; S. Khan; J. Kim; Y. Lian; L.-H. Lin; E. Madika; N. Manaswini; C. Mannes; E. Marcuzzo; L. Meng; K. R. Neralwar; L. Nicotera; A. S. Nikonov; D. Pillay; S. Ranchod; L. Ricci; J. Röder; F. Rösch; Saurabh; R. J. Senzel; I.-M. Skretas; J. Subramanyam; N. Sulzenauer; Z. M. Szabó; J. D. Wagenveld; Y. Wang; Y. Yan; X. Zhang; J.-W. Zhou
+
+#unit Khách mời (2024)
+kind: Khách mời
+parent: Max-Planck-Institut für Radioastronomie
+topics: Nhà khoa học khách đến làm việc tại viện trong năm 2024.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf
+xx: KM | F. Abbate; W. Alef; I. Antoniadis; J. Baars; A.-K. Baczko; A. Basu; W. Becker; U. Beckmann; S. Bernhart; P. Biermann; Y. K. Choi; D. Colombo; M. S. Cruces; A. Dehghanfar; V. K. Dimitrova; M. Dumke; C. Duran Urrutia; R. Eatough; H. Falcke; M. Figueira Sebastiao; M. Geyer; Y. Gong; L. Guillemot; C. Henkel; K. H. Hofmann; J. A. Höllmer; M. Janßen; F. F. D. Jaron; M. Johnson; S. Johnston; S. A. Jorquera Tapia; R. Keller; J.-Y. Kim; B. Koribalski; A. Kovács; M. Krause; M.-Y. Lee; I. Liodakis; M. Lisakov; K. Liu; R. Lu; N. R. MacDonald; R. Main; K. Meyer; M. A. Morello Ferrada; H. Müller; I. Myserlis; H. Nguyen; N. G. Ortiz León; A. Parthasarathy; V. Patino Alvarez; J. P. Perez Beaupuits; N. Porayko; R. Porcas; A. Possenti; W. Reich; A. Ridolfi; M. Rugel; T. Savolainen; S. Seethapuram Sridhar; S. N. Serrano Medina; L. Shao; A. Sinha; T. Tauris; P. J. Torne Torres; E. Traianou; G. Tuccari; A. Tursunov; J. Urquhart; S. P. Varghese Mullaseril; C. Walker; R. Wharton; T. Wilson; M. Xu; A. Yang; S. Yao; W. Zhu

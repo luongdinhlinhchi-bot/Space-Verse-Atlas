@@ -1,0 +1,16 @@
+@inst Universität Kassel — Fachgruppe Laborastrophysik
+structure: Experimentalphysik V — Laborastrophysik, Institut für Physik, Universität Kassel; trưởng nhóm: Thomas Giesen
+structureUrl: https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende.html
+scope: Danh sách thành viên hiện tại theo trang nhóm; không gồm thư ký và thành viên cũ.
+
+#unit Laborastrophysik
+parent: Institut für Physik
+topics: Vật lý thiên văn phòng thí nghiệm: quang phổ phân tử phục vụ quan sát thiên văn.
+note: Trang thành viên không ghi chủ đề nghiên cứu; chủ đề là tóm tắt sơ bộ.
+src: https://www.uni-kassel.de/fb10/institute/physik/forschungsgruppen/laborastrophysik/mitarbeitende.html
+pp: GSTN | Thomas Giesen
+pp: PD — trưởng nhóm con Astrophysik und Labor; trưởng dự án SFB B8N | Guido Fuchs
+pp: PD | Marius Gerlach
+pp: NCS | Eileen Döring; Varazdat Grigorian; Doris Herberth; Jan Jakob; Fabian Peterß; Behnaz Asadpour; Jonas Bosmann
+pp: THS | Denis Dugin; Thies Neumann; Elina Prakash; Akilan Senthilkumar; Caroline Maria Sunny; Jan Wenske; Xiaoyu Zhou
+pp: Sinh viên cử nhân | Jan-Niklas Ohlwein; Felix Terborg

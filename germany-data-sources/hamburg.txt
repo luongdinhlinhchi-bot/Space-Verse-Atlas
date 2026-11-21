@@ -1,0 +1,125 @@
+@inst Universität Hamburg — Hamburger Sternwarte
+structure: Hamburger Sternwarte, Fachbereich Physik, Universität Hamburg; các nhóm theo giáo sư (giám đốc điều hành: Robi Banerjee)
+structureUrl: https://www.physik.uni-hamburg.de/en/hs/subsite---about-us.html
+scope: Nhóm của từng người suy ra từ đường dẫn hồ sơ (group---<tên>). Chủ đề từng nhóm là tóm tắt sơ bộ, chưa đối chiếu trang nhóm. Không gồm nhân viên kỹ thuật, hành chính.
+
+#unit Nhóm Banerjee
+parent: Hamburger Sternwarte
+topics: Hình thành sao, môi trường liên sao, từ trường vũ trụ.
+note: Chủ đề tóm tắt sơ bộ, chưa đọc trang nhóm.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Robi Banerjee | GS — giám đốc điều hành | https://www.physik.uni-hamburg.de/en/hs/group---banerjee/team-members/banerjee-robi.html
+p: Arghya Chaudhuri | NCS | https://www.physik.uni-hamburg.de/en/hs/group---banerjee/team-members/arghiya-chaudhuri.html
+p: Lenard Kasselmann | NCS | https://www.physik.uni-hamburg.de/en/hs/group---banerjee/team-members/lenard-kasselmann.html
+p: Carolina Angélica Ortiz Rodriguez | NCS | https://www.physik.uni-hamburg.de/en/hs/group---banerjee/team-members/ortiz-carolina.html
+p: Rahul Patel | NCS | https://www.physik.uni-hamburg.de/en/hs/group---banerjee/team-members/rahul-patel.html
+p: Paulo Solar | NCS | https://www.physik.uni-hamburg.de/en/hs/group---banerjee/team-members/paulo-solar.html
+
+#unit Nhóm Brüggen
+parent: Hamburger Sternwarte
+topics: Thiên văn vô tuyến (LOFAR), cụm thiên hà, tia vũ trụ, mô phỏng plasma và MHD.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Marcus Brüggen | GS | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/brueggen-marcus.html
+p: Emanuele de Rubeis | PD | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/emanuele-de-rubeis.html
+p: Philipp Grete | PD | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/grete-philipp.html
+p: Victor Gustafsson | PD | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/gustafsson-victor.html
+p: Volker Heesen | PD | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/heesen-volker.html
+p: David Rafferty | PD | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/rafferty-david.html
+p: Nicolas Baron Perez | NCS | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/baron-nicolas.html
+p: Francesco Campolucci | NCS | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/campolucci-francesco.html
+p: Julie Magaard Knudsen | NCS | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/knudsen-julie.html
+p: Angelina Spasic | NCS | https://www.physik.uni-hamburg.de/en/hs/group---brueggen/team-members/spasic-angelina.html
+
+#unit Nhóm Hauschildt
+parent: Hamburger Sternwarte
+topics: Khí quyển sao và truyền bức xạ (mã PHOENIX).
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Peter Hauschildt | GS | https://www.physik.uni-hamburg.de/en/hs/group---hauschildt/team-members/hauschildt-peter.html
+p: Andreas Schweitzer | PD | https://www.physik.uni-hamburg.de/en/hs/group---hauschildt/team-members/schweitzer-andreas.html
+
+#unit Nhóm Kupfer
+parent: Hamburger Sternwarte
+topics: Sao đôi đặc, sao lùn trắng, nguồn sóng hấp dẫn trong Ngân Hà.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Thomas Kupfer | GS | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/kupfer-thomas.html
+p: Alexander Brown | PD | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/brown-alexander.html
+p: Mercedes Stephania Hernandez Padilla | PD | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/hernandez-stephania.html
+p: Sumari Barocci-Faul | NCS | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/barocci-faul-sumari.html
+p: Corey Bradshaw | NCS | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/bradshaw-corey.html
+p: Eric Stringer | NCS | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/stringer-eric.html
+p: Felix Teutloff | NCS | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/teutloff-felix.html
+p: Weitian Yu | NCS | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/yu-weitian.html
+x: Qiyuan Cheng | Sinh viên trao đổi (khách) | https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/cheng-qiyuan.html
+
+#unit Nhóm Liske
+parent: Hamburger Sternwarte
+topics: Thiên văn ngoài thiên hà quan sát.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Jochen Liske | GS | https://www.physik.uni-hamburg.de/en/hs/group---liske/team/liske-jochen.html
+p: Thorben Schmirander | PD | https://www.physik.uni-hamburg.de/en/hs/group---liske/team/schmirander-thorben.html
+
+#unit Nhóm Lucie-Smith
+parent: Hamburger Sternwarte
+topics: Vũ trụ học và hình thành cấu trúc với học máy.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Luisa Lucie-Smith | GS | https://www.physik.uni-hamburg.de/en/hs/group---lucie-smith/team-members/lucie-smith-luisa.html
+p: Eirini Angeloudi | PD | https://www.physik.uni-hamburg.de/en/hs/group---lucie-smith/team-members/eirini-angeloudi.html
+p: Subarna Chaki | NCS | https://www.physik.uni-hamburg.de/en/hs/group---lucie-smith/team-members/chaki-subana.html
+p: Wendy Wallace | NCS | https://www.physik.uni-hamburg.de/en/hs/group---lucie-smith/team-members/wendy-wallace.html
+
+#unit Nhóm Rosswog
+parent: Hamburger Sternwarte
+topics: Vật lý thiên văn tương đối tính: va chạm sao neutron, kilonova, mô phỏng số.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Stephan Rosswog | GS | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/rosswog-stephan.html
+p: Ricard Aguilera Miret | PD | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/aguilera-ricard.html
+p: Patrick Cheong | PD | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/cheong-patrick.html
+p: Swapnil Shankar | PD | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/shankar-swapnil.html
+p: Konrad Topolski | PD | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/topolski-konrad.html
+p: Adriel Ernesto Rodríguez Concepción | NCS | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/rodriguez-adriel.html
+p: Lukas Schnabel | NCS | https://www.physik.uni-hamburg.de/en/hs/group---rosswog/team-members/schnabel-lukas.html
+
+#unit Nhóm Kirchschlager
+parent: Hamburger Sternwarte
+topics: Bụi vũ trụ và môi trường liên sao.
+note: Trang không liệt kê thành viên khác cho nhóm này.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Florian Kirchschlager | JP | https://www.physik.uni-hamburg.de/en/hs/group---kirchschlager/team-members/kirchschlager-florian.html
+
+#unit Nhóm Schindler
+parent: Hamburger Sternwarte
+topics: Quasar và lỗ đen siêu nặng ở dịch chuyển đỏ cao.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Jan-Torge Schindler | JP | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/schindler-jan-torge.html
+p: Francesco Guarneri | PD | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/francesco-guarneri.html
+p: Laura Natalia Martínez Ramírez | PD | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/laura-martinez.html
+p: Tatsuyuki Sekine | NCS | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/tatsuyuki-sekine.html
+p: Radha Gharapurkar | TL | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/radha-gharapurkar.html
+p: Katharina Jurk | TL | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/katharina-jurk.html
+p: Lasse Seyberlich | TL | https://www.physik.uni-hamburg.de/en/hs/group---schindler/team-members/lasse-seyberlich.html
+
+#unit Nhóm Schmidt (vật lý thiên văn số)
+parent: Hamburger Sternwarte
+topics: Vật lý thiên văn số, tính toán hiệu năng cao.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Wolfram Schmidt-Brückner | PDZ | https://www.physik.uni-hamburg.de/en/hs/group---schmidt/team-members/schmidt-wolfram.html
+p: Rainer Wichmann | PD | https://www.physik.uni-hamburg.de/en/hs/group---schmidt/team-members/wichmann-rainer.html
+
+#unit Emeriti, thành viên liên kết và đã nghỉ hưu
+kind: Danh sách bổ sung
+parent: Hamburger Sternwarte
+topics: Giáo sư danh dự, thành viên liên kết và nhà nghiên cứu đã nghỉ hưu có tên trên trang nhân sự.
+src: https://www.physik.uni-hamburg.de/en/hs/subsite---staff.html
+p: Jürgen Schmitt | EM | https://www.physik.uni-hamburg.de/en/hs/group---other/emeriti/schmitt-juergen.html
+p: Gudrun Wolfschmidt | EM | https://www.physik.uni-hamburg.de/en/hs/group---other/emeriti/group---wolfschmidt/team-members/wolfschmidt-gudrun.html
+x: Laura Birzan | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/laura-birzan.html
+x: Stefan Czesla | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/czesla-stefan.html
+x: Birgit Fuhrmeister | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/fuhrmeister-birgit.html
+x: Dominik Hintz | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/hintz-dominik.html
+x: Matthias Hünsch | LK — truyền thông khoa học (PD) | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/huensch-matthias.html
+x: Holger Müller | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/mueller-holger.html
+x: Vera Maria Passegger | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/passegger-vera-maria.html
+x: Pranjal Trivedi | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/trivedi-pranjal.html
+x: Uwe Wolter | LK | https://www.physik.uni-hamburg.de/en/hs/group---other/associates/wolter-uwe.html
+x: Dieter Engels | NH | https://www.physik.uni-hamburg.de/en/hs/group---other/retired/engels-dieter.html
+x: Detlef Groote | NH | https://www.physik.uni-hamburg.de/en/hs/group---other/retired/groote-detlef.html

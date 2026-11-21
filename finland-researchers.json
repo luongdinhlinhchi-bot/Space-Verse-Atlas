@@ -1,0 +1,2373 @@
+{
+  "checked": "2026-11-15",
+  "scope": "Các nhóm đã xác định tại 7 cơ quan ở Phần Lan; thêm GCG qua đối chiếu danh bạ. Bao gồm nghiên cứu sinh và sinh viên đang tham gia nghiên cứu; tách thành viên bên ngoài.",
+  "units": {
+    "Computational Field Theory and Cosmology": {
+      "sources": [
+        "https://blogs.helsinki.fi/computational-field-theory/people/",
+        "https://researchportal.helsinki.fi/en/organisations/computational-field-theory-and-cosmology/",
+        "https://www.hip.fi/people/",
+        "https://researchportal.helsinki.fi/fi/organisations/computational-field-theory-and-cosmology/persons/",
+        "https://www.mn.uio.no/astro/english/people/aca/joserco/index.html",
+        "https://blogs.helsinki.fi/hakkijen/cv/"
+      ],
+      "people": [
+        {
+          "name": "Kari Rummukainen",
+          "role": "Giáo sư",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Mark Hindmarsh",
+          "role": "Giáo sư",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "David Weir",
+          "role": "Giáo sư",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Keijo Kajantie",
+          "role": "Giáo sư danh dự",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Deanna Hooper",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Jaakko Annala",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Jani Dahl",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Lorenzo Giombi",
+          "role": "Nghiên cứu viên được tài trợ",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Jaakko Hällfors",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Anna Kormu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Tiina Minkkinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Ahmed Salami",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Riikka Seppä Kalliokoski",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Satumaaria Sukuvaara",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Mika Mäki",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/computational-field-theory/people/"
+        },
+        {
+          "name": "Selda Koivula",
+          "role": "Nghiên cứu sinh",
+          "url": "https://researchportal.helsinki.fi/fi/organisations/computational-field-theory-and-cosmology/persons/"
+        },
+        {
+          "name": "Aaron Haarti",
+          "role": "Thành viên nghiên cứu; điện toán cho lý thuyết trường",
+          "url": "https://www.sc-asia.org/2026/data/poster/post217.pdf"
+        }
+      ],
+      "external": [],
+      "note": "",
+      "auditNote": "Đã đối chiếu trang nhóm với hồ sơ trường/HIP để cập nhật chức danh. José Ricardo Correia hiện ở Oslo; Jenni Häkkinen thuộc nhóm thiên hà; Hossam Khalil thuộc GCG. Hai lượt thăm Reuben Ares và Sinyan Güyer chưa có xác nhận còn diễn ra."
+    },
+    "Extreme Quantum Field Theory": {
+      "sources": [
+        "https://www.mv.helsinki.fi/home/arjvuori/group.html",
+        "https://neutronstars.fi/people/"
+      ],
+      "people": [
+        {
+          "name": "Aleksi Vuorinen",
+          "role": "Giáo sư",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Niko Jokela",
+          "role": "Giảng viên đại học",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Risto Paatelainen",
+          "role": "Giáo sư; đồng liên kết Turku",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Greg Jackson",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Javier Subils",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Juuso Österman",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Sofia Blomqvist",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Olavi Kiuru",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Aapeli Kärkkäinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Hanna Lempiäinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Pablo Navarrete",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Mika Nurmela",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Tomi Ruosteoja",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Verneri Sarjomaa",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Leon Sandbote",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        },
+        {
+          "name": "Mikko Seppälä",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/arjvuori/group.html"
+        }
+      ],
+      "external": [],
+      "note": "Các thành viên nghiên cứu vật lý sao neutron trong nhóm QFT.",
+      "auditNote": "Lọc các thành viên đang tham gia Centre of Excellence in Neutron-Star Physics; không gộp toàn bộ người làm QFT vào vật lý thiên văn."
+    },
+    "Observational Cosmology": {
+      "sources": [
+        "https://www.hip.fi/people/",
+        "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/contact-information-research-and-teaching-staff-physics",
+        "https://blog.hip.fi/author/esihvola/"
+      ],
+      "people": [
+        {
+          "name": "Elina Keihänen",
+          "role": "Trưởng dự án Euclid; tên trong HIP: Elina Sihvola",
+          "url": "https://blog.hip.fi/author/esihvola/"
+        },
+        {
+          "name": "Hannu Kurki-Suonio",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.hip.fi/people/"
+        },
+        {
+          "name": "Jussi Väliviita",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.hip.fi/people/"
+        },
+        {
+          "name": "Valtteri Lindholm",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.hip.fi/people/"
+        },
+        {
+          "name": "Akke Viitanen",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.hip.fi/people/"
+        },
+        {
+          "name": "Kimmo Kiiveri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.hip.fi/people/"
+        },
+        {
+          "name": "Susan Rissanen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/contact-information-research-and-teaching-staff-physics"
+        },
+        {
+          "name": "Jani Haapala",
+          "role": "Sinh viên tham gia nghiên cứu",
+          "url": "https://www.hip.fi/people/"
+        }
+      ],
+      "external": [],
+      "note": "Nhân sự Euclid tại Helsinki.",
+      "auditNote": "Danh sách Euclid của HIP, chỉ lấy người đặt tại Helsinki; Ghassem Gozaliasl thuộc Aalto."
+    },
+    "Particle Cosmology": {
+      "sources": [
+        "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people",
+        "https://www.hip.fi/people/",
+        "https://www.mv.helsinki.fi/home/kajantie/gradstud.html",
+        "https://www2.yukawa.kyoto-u.ac.jp/~mm2026/posters_4th.php"
+      ],
+      "people": [
+        {
+          "name": "Kimmo Tuominen",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Matti Heikinheimo",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Sebastian Sassi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Alex Stendahl",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Tushar Gupta",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Topi Sirkiä",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Aula Al-Adulrazzaq",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Hanna Lempiäinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Niklas Zimmermann",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/particle-cosmology/people"
+        },
+        {
+          "name": "Sarah Farzand",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.hip.fi/people/"
+        }
+      ],
+      "external": []
+    },
+    "Plasma Astrophysics": {
+      "sources": [
+        "https://neutronstars.fi/people/",
+        "https://natj.github.io/group/",
+        "https://researchportal.helsinki.fi/en/projects/illuminator-erc-stg-n%C3%A4ttil%C3%A4-52024-429/",
+        "https://thjsal.github.io/",
+        "https://vakrau.com/",
+        "https://yuanhongqu.github.io/"
+      ],
+      "people": [
+        {
+          "name": "Joonas Nättilä",
+          "role": "Phó giáo sư; trưởng nhóm",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Tuomo Salmi",
+          "role": "Academy Research Fellow",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Anna Bobrikova",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Anna Chashkina",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Vadzim Krautsou",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Yuanhong Qu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Tua Iho",
+          "role": "Nghiên cứu sinh",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Emil Issakainen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Ville-Vertti Linho",
+          "role": "Nghiên cứu sinh",
+          "url": "https://researchportal.helsinki.fi/en/projects/illuminator-erc-stg-n%C3%A4ttil%C3%A4-52024-429/"
+        },
+        {
+          "name": "Miro Palmu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Ethan van Woerkom",
+          "role": "Nghiên cứu sinh",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Sofia Blomqvist",
+          "role": "Nghiên cứu sinh; đồng hướng dẫn với nhóm QFT",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Olavi Kiuru",
+          "role": "Nghiên cứu sinh; đồng hướng dẫn với nhóm QFT",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Verneri Sarjomaa",
+          "role": "Nghiên cứu sinh; đồng hướng dẫn với nhóm QFT",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Julia Junttila",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Heidi-Maria Lehtonen",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://neutronstars.fi/people/"
+        },
+        {
+          "name": "Anssi Laine",
+          "role": "Sinh viên cử nhân tham gia nghiên cứu",
+          "url": "https://neutronstars.fi/people/"
+        }
+      ],
+      "external": [],
+      "note": "Các thành viên đồng hướng dẫn được liệt kê ở cả hai nhóm.",
+      "auditNote": "Đối chiếu nhóm Nättilä, dự án ILLUMINATOR và dự án Salmi với danh sách CoE sao neutron; các thành viên đồng hướng dẫn xuất hiện ở cả hai nhóm."
+    },
+    "Space Plasma Physics": {
+      "sources": [
+        "https://blogs.helsinki.fi/spacephysics/personnel/",
+        "https://blogs.helsinki.fi/spacephysics/research/"
+      ],
+      "people": [
+        {
+          "name": "Minna Palmroth",
+          "role": "Giáo sư",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Emilia Kilpua",
+          "role": "Giáo sư",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Adnane Osmane",
+          "role": "Phó giáo sư",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Lucile Turc",
+          "role": "Phó giáo sư",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Hannu Koskinen",
+          "role": "Giáo sư danh dự",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Matti Ala-Lahti",
+          "role": "Academy Research Fellow",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Eleanna Asvestari",
+          "role": "Academy Research Fellow",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Stephan Heinemann",
+          "role": "Academy Research Fellow",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Ranadeep Sarkar",
+          "role": "Academy Research Fellow",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Urs Ganse",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Simon Good",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Sanni Hoilijoki",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Patrick Kilian",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Jens Pomoell",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Daniel Price",
+          "role": "Nghiên cứu viên",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Markku Alho",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Farhad Daei",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Souhail Dahani",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Liam Edwards",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "George Greenyer",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Milla Kalliokoski",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Jonah Klowss",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Luke Majury",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Joshua Pettit",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Dovile Rasinskaite",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Mattia Sangalli",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Jonas Suni",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Andreas Wagner",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Abiyot Workayehu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Ivan Zaitsev",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Dani Adham",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Ezgi Gulay",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Veeti Haaja",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Anjana Ramiya Jegadeeshbabu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Venla Koikkalainen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Leo Kotipalo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Veera Lipsanen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Mirja Ojuva",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Lauri Pänkäläinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Julia Ruohotie",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Kasper Siilin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Juska Soljento",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Saara Takala",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        },
+        {
+          "name": "Tao Shi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://blogs.helsinki.fi/spacephysics/personnel/"
+        }
+      ],
+      "external": [],
+      "note": "",
+      "auditNote": "Phạm vi bao gồm vật lý Mặt Trời, nhật quyển và plasma không gian đã chọn ở bước trước. Đã loại mục previous employees."
+    },
+    "Interstellar Matter and Star Formation": {
+      "sources": [
+        "https://www.interstellarmedium.org/",
+        "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/contact-information-research-and-teaching-staff-physics",
+        "https://researchportal.helsinki.fi/en/projects/t%C3%A4htien-synnyn-monimittakaavaiset-havainnot-ja-mallinnus/"
+      ],
+      "people": [
+        {
+          "name": "Mika Juvela",
+          "role": "Giảng viên đại học; trưởng nhóm",
+          "url": "https://www.interstellarmedium.org/"
+        },
+        {
+          "name": "Job Vorster",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/contact-information-research-and-teaching-staff-physics"
+        }
+      ],
+      "external": [],
+      "note": "Đã xác nhận Mika Juvela và Job Vorster; chưa tìm thấy danh bạ đầy đủ của nhóm.",
+      "auditNote": "Hai người được xác nhận qua trang cá nhân, danh bạ khoa và dự án hình thành sao. Chưa có danh sách thành viên đầy đủ được nhóm công bố; Emma Mannfors đã chuyển sang FGI."
+    },
+    "Stellar Astrophysics": {
+      "sources": [
+        "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+      ],
+      "people": [
+        {
+          "name": "Thomas Hackman",
+          "role": "Nghiên cứu viên",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Mikko Tuomi",
+          "role": "Nghiên cứu viên",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "András Haris-Kiss",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Emilia Rintamäki",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Nora Routamo",
+          "role": "Thành viên nhóm, bằng MSc",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Jenna Salminen",
+          "role": "Thành viên nhóm, bằng MSc",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Astrid Korkeamäki",
+          "role": "Sinh viên tham gia nghiên cứu",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Joonas Uusitalo",
+          "role": "Nghiên cứu sau tiến sĩ; Laboratory of Chronology",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        }
+      ],
+      "external": [
+        {
+          "name": "Jyri Lehtinen",
+          "role": "Thành viên bên ngoài",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        },
+        {
+          "name": "Teemu Willamo",
+          "role": "Thành viên bên ngoài",
+          "url": "https://wiki.helsinki.fi/xwiki/bin/view/SOL/Stellar%20astrophysics%20group%20at%20University%20of%20Helsinki/"
+        }
+      ]
+    },
+    "Theoretical Extragalactic Research": {
+      "sources": [
+        "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+      ],
+      "people": [
+        {
+          "name": "Peter H. Johansson",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Till Sawala",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Bastián Reinoso",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Gábor Rácz",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Atte Keitaanranta",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Max Mattero",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Jenni Häkkinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Roosa Heiskanen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Meri Teeriaho",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Leevi Mänttäri",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Viola Varga",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Laura Savikoski",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Laura Laine",
+          "role": "Sinh viên thạc sĩ tham gia nghiên cứu",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        }
+      ],
+      "external": [
+        {
+          "name": "Alexander Rawlings",
+          "role": "Nghiên cứu viên thỉnh giảng; hiện tại MPA",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        },
+        {
+          "name": "Toni Tuominen",
+          "role": "Nghiên cứu viên thỉnh giảng",
+          "url": "https://www.mv.helsinki.fi/home/phjohans/group-website/people/"
+        }
+      ]
+    },
+    "Planetary-system Research": {
+      "sources": [
+        "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+      ],
+      "people": [
+        {
+          "name": "Karri Muinonen",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Mikael Granvik",
+          "role": "Giáo sư",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Antti Penttilä",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Anne Virkki",
+          "role": "Academy Research Fellow",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Eric MacLennan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Yehor Surkov",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Zuri Gray",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Rosemary Dorsey",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Joe DeMartini",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Grigori Fedorets",
+          "role": "FINCA postdoctoral fellow; liên kết PSR",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Hanna Pentikäinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Lakshika Palamakumbure",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Mikko Vuori",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Ari Leppälä",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Vesa Björn",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Elo Tuominen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Otto Solin",
+          "role": "Học viên sau đại học liên kết, bằng MSc",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Mikko Pöntinen",
+          "role": "Học viên sau đại học liên kết, bằng MSc",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        }
+      ],
+      "external": [
+        {
+          "name": "Hannakaisa Lindqvist",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Dagmara Oszkiewicz",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Guanglang Xu",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Maria Gritsevich",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Jouni Peltoniemi",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Joonas Herranen",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Tomas Kohout",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Johannes Markkanen",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Julia Martikainen",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Lauri Siltala",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Jani Tyynelä",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Timo Väisänen",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Olli Wilkman",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        },
+        {
+          "name": "Evgenij Zubko",
+          "role": "Thành viên bên ngoài",
+          "url": "https://www.helsinki.fi/en/researchgroups/planetary-system-research/people"
+        }
+      ]
+    },
+    "Tuorla Observatory": {
+      "sources": [
+        "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/research"
+      ],
+      "people": [],
+      "external": [],
+      "note": "Danh sách tên nằm tại hai nhóm trực thuộc High Energy Astrophysics và Astrophysical Transients bên dưới."
+    },
+    "High Energy Astrophysics": {
+      "sources": [
+        "https://sites.utu.fi/hea/group/",
+        "https://neutronstars.fi/people/"
+      ],
+      "people": [
+        {
+          "name": "Juri Poutanen",
+          "role": "Giáo sư",
+          "url": "https://users.utu.fi/jurpou/"
+        },
+        {
+          "name": "Andrei Berdyugin",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/andrei-berdyugin"
+        },
+        {
+          "name": "Sergey Tsygankov",
+          "role": "Nghiên cứu viên",
+          "url": "https://users.utu.fi/sertsy"
+        },
+        {
+          "name": "Alexandra Veledina",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/alexandra-veledina"
+        },
+        {
+          "name": "Fabio La Monaca",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/hea/group/"
+        },
+        {
+          "name": "Gregoire Marcel",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/gregoire-marcel"
+        },
+        {
+          "name": "Yongfeng Hu",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/yongfeng-hu"
+        },
+        {
+          "name": "Vilppu Piirola",
+          "role": "Emeritus",
+          "url": "https://www.utu.fi/en/people/vilppu-piirola"
+        },
+        {
+          "name": "Varpu Ahlberg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/varpu-ahlberg"
+        },
+        {
+          "name": "Anastasiia Bocharova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/anastasiia-bocharova"
+        },
+        {
+          "name": "María Alejandra Díaz Teodori",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/alejandra-diaz-teodori"
+        },
+        {
+          "name": "Sofia V. Forsblom",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/sofia-forsblom"
+        },
+        {
+          "name": "Anagha Pradeep Nitindala",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/anagha-pradeep-nitindala"
+        },
+        {
+          "name": "Alexander Salganik",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/alexander-salganik"
+        },
+        {
+          "name": "Hua Xiao",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/hua-xiao"
+        }
+      ],
+      "external": [
+        {
+          "name": "Pavel Abolmasov",
+          "role": "Thành viên ngoài trường",
+          "url": "https://sites.google.com/site/pavelabolmasov/home"
+        },
+        {
+          "name": "Anna Bobrikova",
+          "role": "Thành viên ngoài trường",
+          "url": "https://www.utu.fi/en/people/anna-bobrikova"
+        },
+        {
+          "name": "Anna Chashkina",
+          "role": "Thành viên ngoài trường",
+          "url": "https://www.linkedin.com/in/anna-chashkina-5a6361138/"
+        },
+        {
+          "name": "Jari Kajava",
+          "role": "Thành viên ngoài trường",
+          "url": "https://www.linkedin.com/in/jari-kajava-b51b0557/"
+        },
+        {
+          "name": "Vladislav Loktev",
+          "role": "Thành viên ngoài trường",
+          "url": "https://belliavesha.github.io/"
+        },
+        {
+          "name": "Tuomo Salmi",
+          "role": "Thành viên ngoài trường",
+          "url": "https://thjsal.github.io"
+        },
+        {
+          "name": "Vadzim Krautsou",
+          "role": "Sau tiến sĩ; CoE ghi trực thuộc Helsinki",
+          "url": "https://www.vakrau.com"
+        }
+      ]
+    },
+    "Astrophysical Transients": {
+      "sources": [
+        "https://sites.utu.fi/sne/group/",
+        "https://sites.utu.fi/finca/en/contact/"
+      ],
+      "people": [
+        {
+          "name": "Seppo Mattila",
+          "role": "Giáo sư",
+          "url": "https://www.utu.fi/en/people/seppo-mattila"
+        },
+        {
+          "name": "Rubina Kotak",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/rubina-kotak"
+        },
+        {
+          "name": "Erkki Kankare",
+          "role": "Nghiên cứu viên",
+          "url": "https://users.utu.fi/eskank/"
+        },
+        {
+          "name": "Hanindyo Kuncarayakti",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/hanindyo-kuncarayakti"
+        },
+        {
+          "name": "Tuomas Kangas",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/tuomas-kangas"
+        },
+        {
+          "name": "Mattias Ergon",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/mattias-ergon"
+        },
+        {
+          "name": "Thomas Reynolds",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/thomas-reynolds"
+        },
+        {
+          "name": "Stefan Schuldt",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/stefan-schuldt"
+        },
+        {
+          "name": "Barteld van Baal",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/sne/group/"
+        },
+        {
+          "name": "Circe Carr",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/circe-carr"
+        },
+        {
+          "name": "Teppo Heikkilä",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/teppo-heikkila"
+        },
+        {
+          "name": "Christina Humina",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/christina-humina"
+        },
+        {
+          "name": "Niilo Koivisto",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/niilo-koivisto"
+        },
+        {
+          "name": "Timo Kravtsov",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/timo-kravtsov"
+        },
+        {
+          "name": "Katja Matilainen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/katja-matilainen"
+        },
+        {
+          "name": "Iikka Mäntynen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/iikka-mantynen"
+        },
+        {
+          "name": "Uliana Pylypenko",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/uliana-pylypenko"
+        },
+        {
+          "name": "Niko Pyykkinen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/niko-pyykkinen"
+        },
+        {
+          "name": "Suman Sahu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/suman-sahu"
+        },
+        {
+          "name": "Auni Somero",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/auni-somero"
+        },
+        {
+          "name": "Christian Vassallo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/christian-vassallo"
+        },
+        {
+          "name": "Venla Kangas",
+          "role": "Học viên cao học",
+          "url": "https://sites.utu.fi/sne/group/"
+        },
+        {
+          "name": "Tuomas Ollila",
+          "role": "Học viên cao học",
+          "url": "https://sites.utu.fi/sne/group/"
+        },
+        {
+          "name": "Stina Peteri",
+          "role": "Học viên cao học",
+          "url": "https://sites.utu.fi/sne/group/"
+        }
+      ],
+      "external": [
+        {
+          "name": "Panagiotis Charalampopoulos",
+          "role": "Khách nghiên cứu dài hạn",
+          "url": "https://www.utu.fi/fi/ihmiset/panagiotis-charalampopoulos"
+        },
+        {
+          "name": "Takashi Nagao",
+          "role": "Khách nghiên cứu dài hạn",
+          "url": "https://users.utu.fi/tanaga/"
+        }
+      ]
+    },
+    "Finnish Centre for Astronomy with ESO (FINCA)": {
+      "sources": [
+        "https://sites.utu.fi/finca/en/contact/",
+        "https://www.utu.fi/en/people/mattias-ergon"
+      ],
+      "people": [
+        {
+          "name": "Petri Väisänen",
+          "role": "Giám đốc",
+          "url": "https://www.utu.fi/en/people/petri-vaisanen"
+        },
+        {
+          "name": "Kari Nilsson",
+          "role": "Phó giám đốc",
+          "url": "https://www.utu.fi/en/people/kari-nilsson"
+        },
+        {
+          "name": "Roberto De Propris",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/roberto-de-propris"
+        },
+        {
+          "name": "Pasi Hakala",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/pasi-hakala"
+        },
+        {
+          "name": "Johanna Hartke",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/johanna-hartke"
+        },
+        {
+          "name": "Talvikki Hovatta",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/talvikki-hovatta"
+        },
+        {
+          "name": "Tuomas Kangas",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/tuomas-kangas"
+        },
+        {
+          "name": "Hanindyo Kuncarayakti",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/hanindyo-kuncarayakti"
+        },
+        {
+          "name": "Barteld van Baal",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Avinash Chaturvedi",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Grigori Fedorets",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/grigori-fedorets"
+        },
+        {
+          "name": "Britton Jeter",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Junyao Li",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Georgios Paraschos",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Stefan Schuldt",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Xianqi Wang",
+          "role": "Sau tiến sĩ",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Timo Kravtsov",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Uliana Pylypenko",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Mikael Turkki",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Mattias Ergon",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.utu.fi/en/people/mattias-ergon"
+        }
+      ],
+      "external": [
+        {
+          "name": "Emma Johtela",
+          "role": "Học viên cao học liên kết",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Jenni Jormanainen",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.utu.fi/en/people/jenni-jormanainen"
+        },
+        {
+          "name": "Karri Koljonen",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.utu.fi/en/people/karri-koljonen"
+        },
+        {
+          "name": "Quentin Salomé",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.utu.fi/en/people/quentin-salome"
+        },
+        {
+          "name": "Maria Babakhanyan Stone",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.utu.fi/en/people/maria-stone"
+        },
+        {
+          "name": "Elina Lindfors",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.utu.fi/en/people/elina-lindfors"
+        },
+        {
+          "name": "Venkatessh Ramakrishnan",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.utu.fi/en/people/venkatessh-ramakrishnan"
+        },
+        {
+          "name": "Kelly Kelder",
+          "role": "Nghiên cứu sinh liên kết",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Pouya Kouch",
+          "role": "Nghiên cứu sinh liên kết",
+          "url": "https://www.utu.fi/en/people/pouya-kouch"
+        },
+        {
+          "name": "Suman Sahu",
+          "role": "Nghiên cứu sinh liên kết",
+          "url": "https://sites.utu.fi/finca/en/contact/"
+        },
+        {
+          "name": "Mauri Valtonen",
+          "role": "Giáo sư emeritus liên kết",
+          "url": "https://www.utu.fi/en/people/mauri-valtonen"
+        }
+      ]
+    },
+    "Space Research Laboratory (SRL)": {
+      "sources": [
+        "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/contact"
+      ],
+      "people": [
+        {
+          "name": "Rami Vainio",
+          "role": "Giáo sư",
+          "url": "https://www.utu.fi/en/people/rami-vainio"
+        },
+        {
+          "name": "Alexandr Afanasiev",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/alexandr-afanasiev"
+        },
+        {
+          "name": "Nina Gieseler (Nina Dresing)",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/nina-gieseler"
+        },
+        {
+          "name": "Jan Gieseler",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/jan-gieseler"
+        },
+        {
+          "name": "Immanuel Jeba Raj",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/immanuel-jeba-raj"
+        },
+        {
+          "name": "Diana Morosan",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.utu.fi/en/people/diana-morosan"
+        },
+        {
+          "name": "Philipp Oleynik",
+          "role": "Kỹ sư nghiên cứu; vật lý thiên văn năng lượng cao",
+          "url": "https://www.utu.fi/en/people/philipp-oleynik"
+        },
+        {
+          "name": "Christian Palmroos",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/christian-palmroos"
+        },
+        {
+          "name": "Esa Riihonen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/esa-riihonen"
+        },
+        {
+          "name": "Lidiya Annie John",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/lidiya-annie-john"
+        },
+        {
+          "name": "Annamaria Fedeli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/annamaria-fedeli"
+        },
+        {
+          "name": "Jaclyn Tayla Lang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/jaclyn-tayla-lang"
+        },
+        {
+          "name": "Sanna Normo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/sanna-normo"
+        },
+        {
+          "name": "Seve Nyberg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/seve-nyberg"
+        },
+        {
+          "name": "Karthik Satish Bhandari",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/karthik-satish-bhandari"
+        }
+      ],
+      "external": [],
+      "note": "",
+      "auditNote": "Đối chiếu danh bạ với hồ sơ và công bố về Mặt Trời, nhật quyển, gia tốc và vận chuyển hạt. Nhân sự chỉ làm thiết bị hoặc tác động sinh học của bức xạ không nằm trong danh sách này."
+    },
+    "Turku Field Theory and Cosmology": {
+      "sources": [
+        "https://quantum.utu.fi/?page_id=144"
+      ],
+      "people": [
+        {
+          "name": "Iiro Vilja",
+          "role": "Trưởng nhóm",
+          "url": "https://users.utu.fi/vilja/"
+        },
+        {
+          "name": "Jesse Huhtala",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utu.fi/en/people/jesse-huhtala"
+        }
+      ],
+      "external": []
+    },
+    "Cosmology Research Group": {
+      "sources": [
+        "https://www.jyu.fi/en/research-groups/cosmology-research-group"
+      ],
+      "people": [
+        {
+          "name": "Kimmo Kainulainen",
+          "role": "Giáo sư",
+          "url": "https://www.jyu.fi/en/people/kimmo-kainulainen"
+        },
+        {
+          "name": "Sami Nurmi",
+          "role": "Giảng viên cao cấp",
+          "url": "https://www.jyu.fi/en/people/sami-nurmi"
+        },
+        {
+          "name": "Olli Väisänen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/people/olli-vaisanen"
+        },
+        {
+          "name": "Michele Benaco",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/people/michele-benaco"
+        }
+      ],
+      "external": [
+        {
+          "name": "Dimitrios Karamitros",
+          "role": "Thành viên bên ngoài; sau tiến sĩ",
+          "url": "https://www.jyu.fi/en/research-groups/cosmology-research-group"
+        }
+      ]
+    },
+    "Exotic Nuclei and Beams (IGISOL)": {
+      "sources": [
+        "https://www.jyu.fi/en/research-groups/exotic-nuclei-and-beams-igisol",
+        "https://neutronstars.fi/people/",
+        "https://www.jyu.fi/en/projects/heavy-exotic-nuclei-for-nuclear-astrophysics",
+        "https://gezhuang0717.github.io/group/",
+        "https://arxiv.org/abs/2405.08511",
+        "https://arxiv.org/abs/1801.08940",
+        "https://www.jyu.fi/en/file-download/download/public/60698"
+      ],
+      "people": [
+        {
+          "name": "Anu Kankainen",
+          "role": "Giáo sư",
+          "url": "https://www.jyu.fi/en/people/anu-kankainen"
+        },
+        {
+          "name": "Zhuang Ge",
+          "role": "Academy Research Fellow",
+          "url": "https://www.jyu.fi/en/people/zhuang-ge"
+        },
+        {
+          "name": "Simon Rausch",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.jyu.fi/en/people/simon-rausch"
+        },
+        {
+          "name": "Vimal Vijayan",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.jyu.fi/en/people/vimal-vijayan"
+        },
+        {
+          "name": "Viki Rantamäki",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/people/viki-rantamaki"
+        },
+        {
+          "name": "Alexandre Roger",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/people/alexandre-roger"
+        },
+        {
+          "name": "Miikka Winter",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/people/miikka-winter"
+        },
+        {
+          "name": "Tommi Eronen",
+          "role": "Giảng viên cao cấp",
+          "url": "https://www.jyu.fi/en/people/tommi-eronen"
+        },
+        {
+          "name": "Mikael Reponen",
+          "role": "Staff scientist",
+          "url": "https://arxiv.org/abs/2405.08511"
+        },
+        {
+          "name": "Prince Parvez",
+          "role": "Nghiên cứu sinh; nền neutrino vũ trụ",
+          "url": "https://www.jyu.fi/en/file-download/download/public/60698"
+        },
+        {
+          "name": "Ari Jokinen",
+          "role": "Giáo sư",
+          "url": "https://arxiv.org/abs/1801.08940"
+        },
+        {
+          "name": "Iain Moore",
+          "role": "Giáo sư",
+          "url": "https://arxiv.org/abs/1801.08940"
+        }
+      ],
+      "external": [
+        {
+          "name": "Ville Virtanen",
+          "role": "Thành viên bên ngoài; sau tiến sĩ tại GANIL",
+          "url": "https://www.jyu.fi/en/research-groups/exotic-nuclei-and-beams-igisol"
+        }
+      ],
+      "note": "Nhân sự nghiên cứu vật lý thiên văn hạt nhân.",
+      "auditNote": "Nhân sự có công bố hoặc dự án về tổng hợp nguyên tố, sao neutron và nền neutrino vũ trụ; đối chiếu với danh sách thành viên IGISOL hiện tại."
+    },
+    "Global Properties of Nuclei": {
+      "sources": [
+        "https://www.jyu.fi/en/research-groups/global-properties-of-nuclei-group",
+        "https://neutronstars.fi/people/",
+        "https://www.jyu.fi/en/news/studying-nuclear-weak-processes-for-neutrino-and-dark-matter-physics",
+        "https://gpalkano.github.io/assets/doc/CV.pdf"
+      ],
+      "people": [
+        {
+          "name": "Markus Kortelainen",
+          "role": "Giáo sư",
+          "url": "https://www.jyu.fi/en/people/markus-kortelainen"
+        },
+        {
+          "name": "Cong Pan",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.jyu.fi/en/people/cong-pan"
+        },
+        {
+          "name": "Georgios Palkanoglou",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.jyu.fi/en/people/georgios-palkanoglou"
+        },
+        {
+          "name": "Aagrah Agnihotri",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.jyu.fi/en/people/aagrah-agnihotri"
+        },
+        {
+          "name": "Manu Kanerva",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/people/manu-kanerva"
+        },
+        {
+          "name": "Gauthier Danneaux",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.jyu.fi/en/research-groups/global-properties-of-nuclei-group"
+        },
+        {
+          "name": "Samuli Tähtelä",
+          "role": "Học viên cao học",
+          "url": "https://www.jyu.fi/en/research-groups/global-properties-of-nuclei-group"
+        }
+      ],
+      "external": []
+    },
+    "Astronomy Group": {
+      "sources": [
+        "https://www.oulu.fi/astronomy/people.html"
+      ],
+      "people": [
+        {
+          "name": "Heikki Salo",
+          "role": "Giáo sư emeritus",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        },
+        {
+          "name": "Vitaly Neustroev",
+          "role": "Giảng viên đại học",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        },
+        {
+          "name": "Aku Venhola",
+          "role": "Giảng viên đại học",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        },
+        {
+          "name": "Mélina Poulain",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        },
+        {
+          "name": "Paula Kvist",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        },
+        {
+          "name": "Sicheng (Tom) Yu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        },
+        {
+          "name": "Veera Vuolteenaho",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/astronomy/people.html"
+        }
+      ],
+      "external": []
+    },
+    "Space Climate": {
+      "sources": [
+        "https://www.oulu.fi/en/research-groups/space-climate"
+      ],
+      "people": [
+        {
+          "name": "Timo Asikainen",
+          "role": "Giáo sư",
+          "url": "https://www.oulu.fi/en/researchers/timo-asikainen"
+        },
+        {
+          "name": "Ilya Usoskin",
+          "role": "Giáo sư",
+          "url": "https://www.oulu.fi/university/researcher/ilya-usoskin"
+        },
+        {
+          "name": "Kalevi Mursula",
+          "role": "Giáo sư emeritus",
+          "url": "https://www.oulu.fi/en/research-groups/space-climate"
+        },
+        {
+          "name": "Kseniia Golubenko",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/researchers/kseniia-golubenko"
+        },
+        {
+          "name": "Timo Qvick",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/researchers/timo-qvick"
+        },
+        {
+          "name": "Antti Salminen",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/researchers/antti-salminen"
+        },
+        {
+          "name": "Pauli Väisänen",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/researchers/pauli-vaisanen"
+        },
+        {
+          "name": "Sergey Koldobskiy",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/research-groups/space-climate"
+        },
+        {
+          "name": "Alexandar Mishev",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/research-groups/space-climate"
+        },
+        {
+          "name": "Stepan Poluianov",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/researchers/stepan-poluianov"
+        },
+        {
+          "name": "Ismo Tähtinen",
+          "role": "Sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/researchers/ismo-tahtinen"
+        },
+        {
+          "name": "Veera Juntunen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/en/researchers/veera-juntunen-0"
+        },
+        {
+          "name": "Mikhail Vokhmyanin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/en/research-groups/space-climate"
+        },
+        {
+          "name": "Jani Mantere",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/en/research-groups/space-climate"
+        }
+      ],
+      "external": [],
+      "note": "Một số thành viên đồng thời thuộc Cosmic Rays Group.",
+      "auditNote": "Kết hợp các mục Researchers và Staff trên trang nhóm; người đồng thời thuộc Cosmic Rays Group được giữ ở cả hai nhóm."
+    },
+    "Cosmic Rays Group": {
+      "sources": [
+        "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+      ],
+      "people": [
+        {
+          "name": "Ilya Usoskin",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://www.oulu.fi/en/researchers/ilya-usoskin"
+        },
+        {
+          "name": "Alexandar Mishev",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        },
+        {
+          "name": "Stepan Poluianov",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        },
+        {
+          "name": "Shipra Sinha",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        },
+        {
+          "name": "Pauli Väisänen",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.oulu.fi/en/researchers/pauli-vaisanen"
+        },
+        {
+          "name": "Kseniia Golubenko",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.oulu.fi/en/researchers/kseniia-golubenko"
+        },
+        {
+          "name": "Sergey Koldobskiy",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        },
+        {
+          "name": "Bertalan Csapó",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        },
+        {
+          "name": "Markus Similä",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oulu.fi/en/research-groups/cosmic-rays-group"
+        }
+      ],
+      "external": []
+    },
+    "High-performance Computing Lab — Astroinformatics": {
+      "sources": [
+        "https://www.aalto.fi/en/department-of-computer-science/high-performance-computing-lab-hpclab",
+        "https://research.aalto.fi/fi/projects/momentkorpi-laggt31336/"
+      ],
+      "people": [
+        {
+          "name": "Maarit Korpi-Lagg",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://www.aalto.fi/en/people/maarit-korpi-lagg"
+        },
+        {
+          "name": "Ghassem Gozaliasl",
+          "role": "Nhà nghiên cứu; thiên hà và vũ trụ học",
+          "url": "https://www.aalto.fi/en/people/ghassem-gozaliasl"
+        },
+        {
+          "name": "Dale Michael Weigt",
+          "role": "Sau tiến sĩ",
+          "url": "https://www.aalto.fi/en/people/dale-michael-weigt"
+        },
+        {
+          "name": "Shreyas Giridhar",
+          "role": "Thành viên dự án MomEnt; mô phỏng đối lưu Mặt Trời",
+          "url": "https://research.aalto.fi/fi/projects/momentkorpi-laggt31336/"
+        },
+        {
+          "name": "Touko Olavi Puro",
+          "role": "Nhà nghiên cứu; mô phỏng vật lý thiên văn",
+          "url": "https://www.aalto.fi/en/department-of-computer-science/high-performance-computing-lab-hpclab"
+        }
+      ],
+      "external": [
+        {
+          "name": "Matthias Rheinhardt",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.aalto.fi/en/people/matthias-rheinhardt"
+        }
+      ],
+      "note": "Danh bạ cập nhật 10/11/2026. Đề tài của Adamay Bhardwaj và Ondřej Míchal chưa được xác định từ hồ sơ công khai.",
+      "excluded": [
+        {
+          "name": "Adamay Bhardwaj",
+          "reason": "Trợ lý nghiên cứu HPCLab; chưa có đề tài cá nhân công khai để xác định thuộc phạm vi."
+        },
+        {
+          "name": "Ondřej Míchal",
+          "reason": "Có trong HPCLab; chưa có đề tài cá nhân công khai để xác định thuộc phạm vi."
+        }
+      ],
+      "auditNote": "Danh sách HPCLab cập nhật 10/11/2026. Adamay Bhardwaj và Ondřej Míchal có tên trong danh bạ nhưng chưa có mô tả công khai xác định đề tài thiên văn; chưa đưa vào danh sách chuyên môn này."
+    },
+    "Radio Astronomy — Anne Lähteenmäki Group": {
+      "sources": [
+        "https://www.aalto.fi/en/department-of-electronics-and-nanoengineering/radio-astronomy",
+        "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people",
+        "https://olemiss.edu/news/2024/12/epscor-rii-awards-24/index.html"
+      ],
+      "people": [
+        {
+          "name": "Anne Lähteenmäki",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://www.aalto.fi/en/people/anne-lahteenmaki"
+        },
+        {
+          "name": "Talvikki Hovatta",
+          "role": "Nhà khoa học cấp cao; đồng liên kết FINCA",
+          "url": "https://www.aalto.fi/en/people/talvikki-hovatta"
+        },
+        {
+          "name": "Kaj Wiik",
+          "role": "Research Fellow; khoa học VLBI/EHT",
+          "url": "https://www.aalto.fi/en/people/kaj-johannes-wiik"
+        },
+        {
+          "name": "Joonas Suortti",
+          "role": "Nghiên cứu sinh; AGN và VLBI",
+          "url": "https://www.aalto.fi/en/people/joonas-antero-suortti"
+        },
+        {
+          "name": "Kaitlyn Thurmond",
+          "role": "Nghiên cứu sinh; blazar",
+          "url": "https://www.aalto.fi/en/people/kaitlyn-thurmond"
+        }
+      ],
+      "external": [
+        {
+          "name": "Britton Jeter",
+          "role": "Khách nghiên cứu; FINCA",
+          "url": "https://www.aalto.fi/en/people/britton-harold-jeter"
+        },
+        {
+          "name": "Georgios Paraschos",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.aalto.fi/en/people/georgios-filippos-paraschos",
+          "aliases": [
+            "Georgios Filippos Paraschos"
+          ]
+        }
+      ],
+      "excluded": [
+        {
+          "name": "Bela Dixit",
+          "reason": "Danh sách Metsähovi ghi backend development; chưa có nguồn xác nhận nghiên cứu thiên văn cơ bản ngoài nghiên cứu thiết bị."
+        },
+        {
+          "name": "Leo Ilmari Tamminen",
+          "reason": "Danh sách Metsähovi ghi project engineer, VLBI technology."
+        }
+      ]
+    },
+    "Metsähovi Radio Observatory": {
+      "sources": [
+        "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+      ],
+      "people": [
+        {
+          "name": "Tuomas Savolainen",
+          "role": "Giám đốc; nhà khoa học cấp cao; AGN/VLBI",
+          "url": "https://www.aalto.fi/en/people/tuomas-savolainen"
+        },
+        {
+          "name": "Merja Tornikoski",
+          "role": "Nhà khoa học cấp cao; AGN và Mặt Trời",
+          "url": "https://www.aalto.fi/en/people/merja-tornikoski"
+        },
+        {
+          "name": "Joni Tammi",
+          "role": "Nhà khoa học cấp cao; AGN",
+          "url": "https://www.aalto.fi/en/people/joni-tammi"
+        },
+        {
+          "name": "Shashikant Gupta",
+          "role": "Nghiên cứu sinh; AGN",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+        },
+        {
+          "name": "Sofia Kankkunen",
+          "role": "Nghiên cứu sinh; AGN",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+        },
+        {
+          "name": "Irene Varglund",
+          "role": "Nghiên cứu sinh; AGN",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+        }
+      ],
+      "external": [
+        {
+          "name": "Jenni Jormanainen",
+          "role": "FINCA; sau tiến sĩ; làm việc tại Metsähovi",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+        },
+        {
+          "name": "Pouya Kouch",
+          "role": "FINCA; nghiên cứu sinh; làm việc tại Metsähovi",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+        },
+        {
+          "name": "Mikael Turkki",
+          "role": "FINCA; nghiên cứu sinh; làm việc tại Metsähovi",
+          "url": "https://www.aalto.fi/en/metsahovi-radio-observatory/metsahovi-people"
+        },
+        {
+          "name": "Venkatessh Ramakrishnan",
+          "role": "University of Tampere; khách nghiên cứu tại Aalto",
+          "url": "https://www.aalto.fi/en/people/venkatessh-ramakrishnan"
+        }
+      ],
+      "note": "Các nhà nghiên cứu khác tại đài; thành viên Anne Lähteenmäki Group được liệt kê ở mục trên.",
+      "excluded": [
+        {
+          "name": "Juha Aatrokoski; Kjetil Holmberg; Christian Malino; Derek McKay; Ari Mujunen; Jere Raassina; Matias Hendolin",
+          "reason": "Danh bạ ghi nhiệm vụ kỹ thuật/vận hành/phát triển thiết bị; chưa xác lập nghiên cứu cơ bản cá nhân."
+        },
+        {
+          "name": "Demian Aaltonen; Oona Jääskeläinen",
+          "reason": "Trợ lý quan sát thuộc UH; danh bạ chưa chỉ ra đề tài nghiên cứu cơ bản cá nhân."
+        }
+      ],
+      "auditNote": "Nhân sự nghiên cứu tại đài ngoài danh sách Anne Lähteenmäki Group ở trên. Các thành viên FINCA/Tampere được ghi theo cơ quan chủ quản trong danh bạ đài; không tính thành nhân sự Aalto độc lập. Danh bạ cập nhật 22/01/2026."
+    },
+    "Planetary Space Weather": {
+      "sources": [
+        "https://planets.fmi.fi/team.html"
+      ],
+      "people": [
+        {
+          "name": "Riku Järvinen",
+          "role": "Trưởng nhóm; PI ERC/MEOW",
+          "url": "https://planets.fmi.fi/team.html"
+        },
+        {
+          "name": "Ilja Honkonen",
+          "role": "Nhà nghiên cứu cấp cao",
+          "url": "https://planets.fmi.fi/team.html"
+        },
+        {
+          "name": "Stepan Dubyagin",
+          "role": "Nhà nghiên cứu cấp cao",
+          "url": "https://planets.fmi.fi/team.html"
+        },
+        {
+          "name": "David Phillips",
+          "role": "Sau tiến sĩ",
+          "url": "https://planets.fmi.fi/team.html"
+        },
+        {
+          "name": "Samuel Grant",
+          "role": "Sau tiến sĩ",
+          "url": "https://planets.fmi.fi/team.html"
+        },
+        {
+          "name": "Mikko Borg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://planets.fmi.fi/team.html"
+        }
+      ],
+      "external": [
+        {
+          "name": "Esa Kallio",
+          "role": "Cố vấn khoa học; Aalto University",
+          "url": "https://planets.fmi.fi/team.html"
+        },
+        {
+          "name": "Pekka Janhunen",
+          "role": "Cố vấn khoa học; FMI",
+          "url": "https://planets.fmi.fi/team.html"
+        }
+      ],
+      "note": "",
+      "auditNote": "Nhóm trực thuộc Space Weather Research. Hai cố vấn được trang nhóm ghi riêng là advising collaborators."
+    },
+    "Inverse Tampere / Inverse Problems Group": {
+      "sources": [
+        "https://www.tuni.fi/en/tau/research/inverse-tampere",
+        "https://research.tuni.fi/inverse/people/",
+        "https://www.tuni.fi/en/people/joonas-j-lahtinen",
+        "https://www.tuni.fi/en/people/fernando-galazprieto",
+        "https://www.tuni.fi/en/tau/research/mathematics-research-centre-math"
+      ],
+      "people": [
+        {
+          "name": "Sampsa Pursiainen",
+          "role": "Giáo sư; phụ trách nghiên cứu chụp cắt lớp tiểu hành tinh",
+          "url": "https://research.tuni.fi/inverse/geoscience/"
+        }
+      ],
+      "external": [
+        {
+          "name": "Oluwatoki Yusuf",
+          "role": "Khách nghiên cứu; cấu trúc bên trong vật thể nhỏ Hệ Mặt Trời",
+          "url": "https://www.tuni.fi/en/people/yusuf-yusuf"
+        }
+      ],
+      "note": "Nhân sự có đề tài về tiểu hành tinh.",
+      "excluded": [
+        {
+          "name": "Pasi Raumonen; Pietari Mönkkönen",
+          "reason": "Nghiên cứu cây/rừng."
+        },
+        {
+          "name": "Joonas Lahtinen; Fernando Galaz Prieto",
+          "reason": "Hồ sơ cá nhân mô tả nghiên cứu ảnh não/neuroimaging."
+        },
+        {
+          "name": "Ishan Sen; Simo Ali-Löytty",
+          "reason": "Giao tiếp hỗ trợ; toán công nghiệp và định vị."
+        },
+        {
+          "name": "Liisa-Ida Sorsa",
+          "reason": "Tìm được luận án 2021 nhưng không có trong các danh bạ hiện tại đã kiểm tra."
+        }
+      ],
+      "auditNote": "Đã lọc danh bạ nhóm theo đề tài cá nhân: các thành viên còn lại làm nghiên cứu rừng, ảnh não hoặc giao tiếp hỗ trợ. Liisa-Ida Sorsa có luận án tiểu hành tinh năm 2021 nhưng không xuất hiện trong danh bạ hiện tại; chưa đưa vào nhân sự hiện tại."
+    },
+    "Space Weather Research": {
+      "sources": [
+        "https://en.ilmatieteenlaitos.fi/space-research-and-observation-technologies",
+        "https://angeo.copernicus.org/articles/44/855/2026/",
+        "https://sharp.fmi.fi/participants/",
+        "https://cicr.isee.nagoya-u.ac.jp/site1/info/colloquium.html",
+        "https://research.fi/en/results/publication/0707639026",
+        "https://www.egu26.eu/session/58150",
+        "https://www.ursi.org/proceedings/procAP25/AP-RASC2025.pdf"
+      ],
+      "people": [
+        {
+          "name": "Tiera Laitinen",
+          "role": "Trưởng nhóm",
+          "url": "https://en.ilmatieteenlaitos.fi/space-research-and-observation-technologies"
+        },
+        {
+          "name": "Liisa Juusola",
+          "role": "Nhà nghiên cứu; plasma Mặt Trời–từ quyển–điện ly",
+          "url": "https://en.ilmatieteenlaitos.fi/cv-liisa-juusola"
+        },
+        {
+          "name": "Kirsti Kauristie",
+          "role": "Nhà nghiên cứu; cực quang và điện động lực học",
+          "url": "https://en.ilmatieteenlaitos.fi/cv-kirsti-kauristie"
+        },
+        {
+          "name": "Maxime Grandin",
+          "role": "Research Council of Finland Fellow; PI LOUARN/ANAON",
+          "url": "https://angeo.copernicus.org/articles/44/855/2026/"
+        },
+        {
+          "name": "Jia Jia",
+          "role": "Nhà nghiên cứu LOUARN; tương tác thời tiết không gian–khí quyển",
+          "url": "https://chamos.fmi.fi/chamos_news.html"
+        },
+        {
+          "name": "Max van de Kamp",
+          "role": "Nhà nghiên cứu; plasma và cực quang",
+          "url": "https://angeo.copernicus.org/articles/44/855/2026/"
+        },
+        {
+          "name": "Theresa Hoppe",
+          "role": "Đồng nghiên cứu cực quang; điều phối dự án",
+          "url": "https://angeo.copernicus.org/articles/44/855/2026/"
+        },
+        {
+          "name": "Natalia Ganushkina",
+          "role": "Nhà nghiên cứu; vật lý plasma và sóng xung kích; đồng liên kết Michigan",
+          "url": "https://link.springer.com/article/10.1007/s11214-026-01332-4"
+        },
+        {
+          "name": "Ari Viljanen",
+          "role": "Nhà nghiên cứu; biến thiên từ trường do thời tiết không gian",
+          "url": "https://space.fmi.fi/~viljanea/publications.pdf"
+        },
+        {
+          "name": "Mirjam Kellinsalmi",
+          "role": "Nhà nghiên cứu; đáp ứng địa điện do thời tiết không gian",
+          "url": "https://research.fi/en/results/publication/0707639026"
+        },
+        {
+          "name": "Elena Marshalko",
+          "role": "Nhà nghiên cứu; mô hình trường điện do bão địa từ",
+          "url": "https://research.fi/en/results/publication/0707639026"
+        },
+        {
+          "name": "Sebastian Käki",
+          "role": "Nhà nghiên cứu; dòng điện trong tầng điện ly",
+          "url": "https://www.egu26.eu/session/58150"
+        },
+        {
+          "name": "Johannes Norberg",
+          "role": "Nhà nghiên cứu; dựng ảnh tầng điện ly",
+          "url": "https://en.ilmatieteenlaitos.fi/cv-johannes-norberg"
+        },
+        {
+          "name": "Elias Hirvonen",
+          "role": "Nghiên cứu ionosonde; đồng liên kết Aalto",
+          "url": "https://www.ursi.org/proceedings/procAP25/AP-RASC2025.pdf"
+        }
+      ],
+      "external": [],
+      "note": "Thành viên Planetary Space Weather nằm ở mục nhóm con. Chưa tìm thấy danh bạ đầy đủ; danh sách được đối chiếu từ hồ sơ và công bố 2025–2026.",
+      "excluded": [
+        {
+          "name": "Niilo Kalakoski; Monika Szeląg; Pekka Verronen",
+          "reason": "Có nghiên cứu ghép nối khí quyển–không gian nhưng danh bạ FMI xếp thuộc Earth Observation Research, không gán vào Space Weather Research."
+        },
+        {
+          "name": "Petri Koskimaa; Matias Takala; Olli Knuutila",
+          "reason": "Có tên trong hoạt động dịch vụ/dự án; chưa xác định vai trò nghiên cứu cơ bản và đơn vị nhỏ nhất hiện tại."
+        }
+      ],
+      "auditNote": "Nhân sự Planetary Space Weather được liệt kê trong nhóm con bên dưới. FMI không công bố danh bạ đầy đủ của Space Weather Research ở các trang đã kiểm tra; danh sách này được đối chiếu từ hồ sơ FMI, các nhóm dự án và công bố 2025–2026."
+    },
+    "Space Research and Technology": {
+      "sources": [
+        "https://space.fmi.fi/main/planetary-research-and-space-technology/",
+        "https://en.ilmatieteenlaitos.fi/space-research-and-observation-technologies",
+        "https://link.springer.com/article/10.1007/s11214-025-01187-1",
+        "https://orcid.org/0000-0002-3669-9875",
+        "https://orcid.org/0000-0001-7343-5556",
+        "https://en.ilmatieteenlaitos.fi/news/5VAw0kt7A5pURbkRukSZZw",
+        "https://aaltodoc.aalto.fi/server/api/core/bitstreams/55645931-4d8f-41eb-9493-17abb18c0e3a/content"
+      ],
+      "people": [
+        {
+          "name": "Maria Genzer",
+          "role": "Trưởng nhóm; khí quyển Sao Hỏa",
+          "url": "https://en.ilmatieteenlaitos.fi/space-research-and-observation-technologies"
+        },
+        {
+          "name": "Ari-Matti Harri",
+          "role": "Giáo sư nghiên cứu; trưởng đơn vị cấp trên; thành viên nghiên cứu Sao Hỏa",
+          "url": "https://en.ilmatieteenlaitos.fi/space-research-and-observation-technologies"
+        },
+        {
+          "name": "Mark Paton",
+          "role": "Nhà khoa học cấp cao; động lực học khí quyển Sao Hỏa",
+          "url": "https://en.ilmatieteenlaitos.fi/news/5VAw0kt7A5pURbkRukSZZw"
+        },
+        {
+          "name": "Joonas Leino",
+          "role": "Nhà nghiên cứu; triều và bức xạ khí quyển Sao Hỏa",
+          "url": "https://orcid.org/0000-0002-3669-9875"
+        },
+        {
+          "name": "Iina Jaakonaho",
+          "role": "Nhà nghiên cứu; khí quyển và quan trắc Sao Hỏa",
+          "url": "https://orcid.org/0000-0001-7343-5556"
+        },
+        {
+          "name": "Maria Hieta",
+          "role": "Nhà nghiên cứu; độ ẩm khí quyển Sao Hỏa",
+          "url": "https://link.springer.com/article/10.1007/s11214-025-01187-1"
+        },
+        {
+          "name": "Pekka Janhunen",
+          "role": "Research Manager; vật lý plasma không gian",
+          "url": "https://space.fmi.fi/~pjanhune/"
+        }
+      ],
+      "external": [
+        {
+          "name": "Hannu Savijärvi",
+          "role": "Đồng liên kết UH/FMI; nghiên cứu khí quyển Sao Hỏa",
+          "url": "https://link.springer.com/article/10.1007/s11214-025-01187-1"
+        },
+        {
+          "name": "Terhi Mäkinen",
+          "role": "Cộng tác nghiên cứu Sao Hỏa tại FMI; nguồn chưa xác định nhóm hành chính hiện tại",
+          "url": "https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-147.html"
+        }
+      ],
+      "note": "Chưa tìm thấy danh bạ đầy đủ; danh sách được đối chiếu từ hồ sơ và công bố 2025–2026. Nhóm hành chính của Terhi Mäkinen chưa được xác định.",
+      "excluded": [
+        {
+          "name": "Henrik Kahanpää",
+          "reason": "Đã chuyển sang Tartu Observatory từ 06/2023. https://tospexgroup.space/the-team/"
+        },
+        {
+          "name": "Jouni Polkko",
+          "reason": "Luận án tháng 01/2026 ghi chủ lao động hiện tại Isaware Oy; không tính là nhân sự FMI hiện tại. https://aaltodoc.aalto.fi/server/api/core/bitstreams/e097a7f2-18fa-448a-8dae-e0cf9fc2d71b/content"
+        },
+        {
+          "name": "Harri Haukka; Janne Kauhanen",
+          "reason": "Có đóng góp trong công bố thiết bị/Sao Hỏa; chưa xác định vai trò nghiên cứu cơ bản hiện tại ở nhóm nhỏ nhất."
+        }
+      ],
+      "auditNote": "FMI không công bố danh bạ đầy đủ của nhóm ở các trang đã kiểm tra. Tên được đối chiếu với công bố khí quyển Sao Hỏa 2025–2026 và hồ sơ cá nhân. Terhi Mäkinen được tách riêng vì chưa xác định nhóm hành chính hiện tại."
+    },
+    "Groups and Clusters of Galaxies (GCG)": {
+      "sources": [
+        "https://gcg-helsinki.github.io/team/",
+        "https://sites.utu.fi/finca/en/tutkimus/finca-fellowship/"
+      ],
+      "people": [
+        {
+          "name": "Alexis Finoguenov",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Hossam Khalil",
+          "role": "Nghiên cứu sinh",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Sanna Damsted",
+          "role": "Nghiên cứu sinh",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Jacob Kosowski",
+          "role": "Nghiên cứu sinh",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Tia Bäcker",
+          "role": "Nghiên cứu sinh",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Krishna Varanasi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Stefan Schuldt",
+          "role": "FINCA fellow; đặt tại Helsinki",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Junyao Li",
+          "role": "FINCA fellow; đặt tại Helsinki",
+          "url": "https://gcg-helsinki.github.io/team/"
+        }
+      ],
+      "external": [
+        {
+          "name": "Elmo Tempel",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Dominique Eckert",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Johan Comparat",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Chris Haines",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://gcg-helsinki.github.io/team/"
+        },
+        {
+          "name": "Lia Doubrawa",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://gcg-helsinki.github.io/team/"
+        }
+      ],
+      "note": "Nhóm thiên hà và cụm thiên hà; tách riêng khỏi nhóm Euclid. Stefan Schuldt và Junyao Li là FINCA fellows, do Turku tuyển dụng và làm việc tại Helsinki."
+    }
+  }
+}

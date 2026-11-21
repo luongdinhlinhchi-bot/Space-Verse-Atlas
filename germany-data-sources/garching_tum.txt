@@ -1,0 +1,26 @@
+@inst Technische Universität München — Physik-Department E15
+structure: Physik-Department, TU München: Lehrstuhl für Experimentelle Astroteilchenphysik (E15, Stefan Schönert) và Lehrstuhl Experimental Physics with Cosmic Particles (Elisa Resconi)
+structureUrl: https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1
+scope: Lấy từ danh sách thành viên của hai chair. Danh sách E15 không tách nghiên cứu sinh với nhà khoa học (ghi chung “Wissenschaftlerinnen und Wissenschaftler”).
+
+#unit Experimentelle Astroteilchenphysik (E15)
+kind: Chair (Lehrstuhl)
+parent: Physik-Department, TU München
+topics: Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nhân) và tìm vật chất tối (CRESST).
+src: https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1
+pp: GSTN | Stefan Schönert
+pp: Nhà khoa học / nghiên cứu sinh | Ahmed Abdelhameed; Matteo Agostini; Simon Appel; Heerak Banerjee; Elisabetta Bossio; Sarthak Choudhary; Tommaso Comellato; Andreas Erhart; Stephan Fichtinger; Vasile Mihai Ghete; Konstantin Gusev; Florian Henkes; Margarita Kaznacheeva; Angelina Kinast; Gabriele-Elisabeth Körner; Gunther Korschinek; Patrick Krause; Alexander Langenkämper; Andreas Leonhardt; Elizabeth Mondragon Cortes; Moritz Neuberger; Tobias Ortmann; Luca Maria Pattavina; Luigi Pertoldi; Lilly Peters; Tina Pollmann; Walter Potzel; Johannes Rothe; Nicole Schermer; Andreas Schosser; Mario Schwarz; Konstantin Schweizer; Hans Steiger; Raimund Strauß; Marco Vignati; Christoph Vogl; Victoria Wagner; Alexander Wex; Christoph Wiesinger; Michael Willers; Daniya Zinatulina
+pp: SV | Rosanna Deckert
+
+#unit Experimental Physics with Cosmic Particles
+kind: Chair (Lehrstuhl)
+parent: Physik-Department, TU München
+topics: Thiên văn neutrino (IceCube): dao động neutrino, mô hình neutrino khí quyển; máy gia tốc vũ trụ như blazar và tinh vân gió pulsar.
+src: https://www.ph.nat.tum.de/cosmic-particles/group-members ; https://www.ph.nat.tum.de/ph/profs/elisa-resconi/
+pp: GSTN | Elisa Resconi
+pp: TN | Phillipp Eller
+pp: PD | Chiara Bellenghi; Colton Hill; Alexandra Trettin
+pp: NCS | Leonhard Eidenschink; Vincent Gousy-Leblanc; Jakob Henrichs; Tobias Kerscher; Ruohan Li; Elena Manao; Alexandra Scholz; Christian Spannfellner; Laura Winter
+pp: THS | Amith Ashwath Narayan; Lea Ginzkey; Ben Nührenbörger; Valentin Reindel; Selina Rudolph; David Schultheiß; Lars von der Werth
+pp: Sinh viên trợ lý | Elias Fischer; Christian Locatelli
+pp: Sinh viên cử nhân | Finn Mika Isenberg; Elisa Polisky; Joschka Walser

@@ -1,0 +1,25 @@
+{
+  "note": "Toạ độ gần đúng của một số đảo/đá tiêu biểu, dùng làm ký hiệu vị trí quần đảo trên bản đồ tỉ lệ nhỏ; ký hiệu được vẽ lớn hơn kích thước thật.",
+  "groups": [
+    {"name": "Quần đảo Hoàng Sa", "islands": [
+      {"name": "Phú Lâm", "coordinates": [112.33, 16.83]},
+      {"name": "Hoàng Sa", "coordinates": [111.61, 16.53]},
+      {"name": "Tri Tôn", "coordinates": [111.20, 15.78]},
+      {"name": "Linh Côn", "coordinates": [112.73, 16.67]},
+      {"name": "Bông Bay", "coordinates": [112.50, 16.03]},
+      {"name": "Đá Bắc", "coordinates": [111.50, 17.08]}
+    ]},
+    {"name": "Quần đảo Trường Sa", "islands": [
+      {"name": "Song Tử Tây", "coordinates": [114.33, 11.43]},
+      {"name": "Thị Tứ", "coordinates": [114.28, 11.05]},
+      {"name": "Ba Bình", "coordinates": [114.37, 10.38]},
+      {"name": "Nam Yết", "coordinates": [114.37, 10.18]},
+      {"name": "Sinh Tồn", "coordinates": [114.33, 9.89]},
+      {"name": "Trường Sa", "coordinates": [111.92, 8.65]},
+      {"name": "Đá Tây", "coordinates": [112.22, 8.85]},
+      {"name": "Phan Vinh", "coordinates": [113.70, 8.97]},
+      {"name": "Tiên Nữ", "coordinates": [114.65, 8.86]},
+      {"name": "An Bang", "coordinates": [112.92, 7.89]}
+    ]}
+  ]
+}

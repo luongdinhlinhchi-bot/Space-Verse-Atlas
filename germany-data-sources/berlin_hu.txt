@@ -1,0 +1,13 @@
+@inst Humboldt-Universität zu Berlin — Experimentelle Astroteilchenphysik und Kosmologie
+structure: Institut für Physik, Humboldt-Universität zu Berlin — vật lý hạt thiên văn và thiên văn đa kênh
+structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf
+scope: Trang khoa Vật lý chặn công cụ đọc tự động; danh sách lấy từ báo cáo thường niên 2024 trên Mitteilungen der Astronomischen Gesellschaft 108 (2025), tên nhà khoa học chỉ có chữ cái đầu. Báo cáo không tách người theo nhóm của hai giáo sư.
+
+#unit Vật lý hạt thiên văn và thiên văn đa kênh
+parent: Institut für Physik
+topics: Nguồn năng lượng cao qua tia gamma và neutrino; sự kiện tạm thời (siêu tân tinh, kilonova, sự kiện xé sao); phân tích đa kênh thời gian thực bằng AI.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/humboldt-universitaet/jb-hu_berlin-2024.pdf
+pp: GS | D. Berge; M. Kowalski
+pp: NCV | A. Delgado; J. Nordin; R. D. Parsons
+pp: NCS | Jowita Borowska; Valery Brinnel; Aksay Eranhalodi; Alice Townsend
+pp: Sinh viên cử nhân / thạc sĩ | Andrea Ernst; Felix Fischer; Jonas Kramer; Jan Alcover Loetsch; Johanna Pfeil; Rebecca Rohde; Jannis Thienel

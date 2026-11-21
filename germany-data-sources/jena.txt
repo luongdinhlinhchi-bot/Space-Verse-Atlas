@@ -1,0 +1,33 @@
+@inst Friedrich-Schiller-Universität Jena — Astrophysikalisches Institut und Universitäts-Sternwarte
+structure: Astrophysikalisches Institut und Universitäts-Sternwarte (AIU), Physikalisch-Astronomische Fakultät; giám đốc viện: Ralph Neuhäuser
+structureUrl: https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1
+scope: Danh sách lấy từ báo cáo thường niên 2024 của viện. Nhóm của từng người suy theo mô tả trong báo cáo; người không rõ nhóm để ở mục chung.
+
+#unit Trümmerscheiben in Planetensystemen (FOR 2285) — lý thuyết đĩa mảnh vụn
+parent: Astrophysikalisches Institut und Universitäts-Sternwarte
+topics: Lý thuyết và mô phỏng đĩa mảnh vụn và hệ hành tinh của chúng.
+src: https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1
+pp: GSTN — phát ngôn viên FOR 2285 | Alexander V. Krivov
+pp: PDZ | Torsten Löhne
+pp: NCV — Alexander-von-Humboldt-Stiftung, đến 31.10.2024 | Antranik Sefilian
+
+#unit Laborastrophysik
+parent: Astrophysikalisches Institut und Universitäts-Sternwarte
+topics: Đo tính chất hồng ngoại, THz và phát xạ của vật liệu tương tự bụi vũ trụ.
+src: https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1
+pp: TN | Harald Mutschke
+pp: NCV — DFG, từ 1.7.2024 | Gaël Rouillé
+
+#unit Nhóm Neuhäuser và các nhân sự khác
+kind: Danh sách toàn viện (phần còn lại)
+parent: Astrophysikalisches Institut und Universitäts-Sternwarte
+topics: Sao trẻ, sao neutron và tàn dư siêu tân tinh, sao đôi và hành tinh ngoài Hệ Mặt Trời; thiên văn lịch sử.
+note: Báo cáo không ghi nhóm cho các nghiên cứu viên và học viên ở mục này.
+src: https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1
+pp: GS — giám đốc viện | Ralph Neuhäuser
+pp: GS — giám đốc Thüringer Landessternwarte Tautenburg | Markus Roth
+pp: Giáo sư đã nghỉ hưu | Werner Pfau
+pp: NCV | Baha Dinçel; Valeri Hambaryan; Markus Mugrauer
+pp: NCS | Christian Kranhold; Kai-Uwe Michel; Günay Paylı; Tobias Stein
+pp: THS | Janine Bätz; Luca Cortese; Friedrich Edelmann; Marc Friebe; Marcel Herrmann; Sebastian Hüttel; Clara Pukallus; Johannes Schmitt; Robin Schreyer; Surodeep Sheth; Buket Yalin; Jule Zander
+pp: Sinh viên cử nhân | Joshua Daldorf; Jennifer Gerbeth; Lukas Kruhöffer; Lara Pietsch; Jan Reichert; Anton Tschirschky

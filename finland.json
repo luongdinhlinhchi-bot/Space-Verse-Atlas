@@ -1,0 +1,130 @@
+{
+ "country": "FIN",
+ "checked": "2026-11-15",
+ "coordinateNote": "Representative city centres (longitude, latitude), not individual building locations. Institutions are grouped by municipality. Aalto is represented at its Espoo campus; Metsähovi is an affiliated observing site in Kirkkonummi, not a separate institution.",
+ "cities": [
+  {
+   "id": "helsinki",
+   "city": "Helsinki",
+   "coordinates": [
+    24.9384,
+    60.1699
+   ],
+   "offset": [
+    26,
+    8
+   ],
+   "institutions": [
+    {
+     "name": "University of Helsinki",
+     "type": "university",
+     "research": "Thiên văn học, vật lý thiên văn sao và thiên hà, vũ trụ học lý thuyết và quan sát.",
+     "url": "https://www.helsinki.fi/en/faculty-science/faculty/department-physics/research-physics"
+    },
+    {
+     "name": "Finnish Meteorological Institute (FMI)",
+     "type": "non-university institute",
+     "research": "Vật lý plasma Hệ Mặt Trời; mô hình gió Mặt Trời tương tác với môi trường các hành tinh.",
+     "url": "https://planets.fmi.fi/",
+     "locationSource": "https://en.ilmatieteenlaitos.fi/contact-information"
+    }
+   ]
+  },
+  {
+   "id": "espoo",
+   "city": "Espoo",
+   "coordinates": [
+    24.6559,
+    60.2055
+   ],
+   "offset": [
+    -26,
+    -8
+   ],
+   "institutions": [
+    {
+     "name": "Aalto University",
+     "type": "university",
+     "research": "Mô phỏng từ trường Mặt Trời, nhiễu loạn và môi trường liên sao; thiên văn vô tuyến qua Metsähovi.",
+     "url": "https://www.aalto.fi/en/department-of-computer-science/high-performance-computing-lab-hpclab",
+     "additionalSources": [
+      "https://www.aalto.fi/en/locations/metsahovi-radio-observatory",
+      "https://research.cs.aalto.fi/astroinformatics/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "turku",
+   "city": "Turku",
+   "coordinates": [
+    22.2666,
+    60.4518
+   ],
+   "institutions": [
+    {
+     "name": "University of Turku",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao, sao neutron, lỗ đen, hiện tượng quá độ, thiên hà và vũ trụ học; bao gồm FINCA.",
+     "url": "https://www.utu.fi/en/university/faculty-of-science/physics-and-astronomy/research",
+     "additionalSources": [
+      "https://www.utu.fi/en/research/research-at-the-finnish-centre-for-astronomy-with-eso",
+      "https://sites.utu.fi/finca/en/contact/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tampere",
+   "city": "Tampere",
+   "coordinates": [
+    23.761,
+    61.4981
+   ],
+   "institutions": [
+    {
+     "name": "Tampere University",
+     "type": "university",
+     "research": "Thiên văn học Hệ Mặt Trời: suy ra hình dạng, chuyển động quay và cấu trúc bên trong tiểu hành tinh từ dữ liệu quan sát.",
+     "url": "https://research.tuni.fi/inverse/geoscience/",
+     "additionalSources": [
+      "https://webpages.tuni.fi/inverse/topics"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jyvaskyla",
+   "city": "Jyväskylä",
+   "coordinates": [
+    25.7473,
+    62.2426
+   ],
+   "institutions": [
+    {
+     "name": "University of Jyväskylä",
+     "type": "university",
+     "research": "Vũ trụ sơ khai, lạm phát, vật chất tối và cấu trúc lớn của vũ trụ.",
+     "url": "https://www.jyu.fi/en/research-groups/cosmology-research-group"
+    }
+   ]
+  },
+  {
+   "id": "oulu",
+   "city": "Oulu",
+   "coordinates": [
+    25.4651,
+    65.0121
+   ],
+   "institutions": [
+    {
+     "name": "University of Oulu",
+     "type": "university",
+     "research": "Thiên hà, hệ sao đôi, đĩa bồi tụ, thiên văn tia gamma và Hệ Mặt Trời.",
+     "url": "https://www.oulu.fi/astronomy/"
+    }
+   ]
+  }
+ ],
+ "viewBox": "140 0 480 460"
+}

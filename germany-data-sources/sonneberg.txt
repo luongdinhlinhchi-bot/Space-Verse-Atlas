@@ -1,0 +1,13 @@
+@inst Sternwarte Sonneberg
+structure: Do công ty tư nhân 4π Systeme GmbH vận hành từ 1.1.2004; giám đốc: Peter Kroll
+structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/sonneberg/jb-stw_sonneberg-2024.pdf
+scope: Danh sách từ báo cáo thường niên 2024. Hoạt động 2024 gồm theo dõi số hoá sao biến quang, dự án kính ảnh “Lost Stars” với Praha, quan sát sao băng — thiên về khai thác kho dữ liệu và giám sát bầu trời hơn là nghiên cứu cơ bản quy mô lớn.
+
+#unit Sternwarte Sonneberg
+kind: Đài quan sát
+parent: 4π Systeme GmbH
+topics: Giám sát số sao biến quang, kho kính ảnh bầu trời, quan sát sao băng.
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/sonneberg/jb-stw_sonneberg-2024.pdf
+pp: GD | Peter Kroll
+pp: NCV | Mario Ennes; Olaf Fischer; Peter Friedrich; Thomas Müller
+xx: KM | W. Fürtig; E. Splittgerber; Manuel Tremmel
