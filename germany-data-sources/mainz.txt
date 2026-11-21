@@ -1,13 +1,16 @@
 @inst Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)
-structure: ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Köpke, AG Wurm
+coverage: partial
+structure: ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Oberlack (XENON/COSI), AG Wurm, nhóm Ludhova (JUNO), AG Köpke
 structureUrl: https://www.etap.physik.uni-mainz.de/index
-scope: Trang nhóm không có danh sách thành viên đọc được; mới ghi trưởng nhóm.
+scope: AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần (trang nhóm không truy cập được; thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+). AG Köpke mới có trưởng nhóm.
 
 #unit AG Böser
 parent: ETAP
 topics: Vật lý hạt thiên văn và neutrino năng lượng thấp: dao động neutrino và thiên văn IceCube, cảm biến ánh sáng WOM, đo khối lượng neutrino (Project 8), NuDoubt++.
 src: https://ag-boeser.physik.uni-mainz.de/
-pp: GSTN | Sebastian Böser
+p: Sebastian Böser | Giáo sư; trưởng nhóm | https://ag-boeser.physik.uni-mainz.de/#team
+pp: PD | Jan Weldert; Veronika Palusova
+pp: NCS | Kaustav Dutta; Aya El Boustani; Bastian Keßler; Kyra Mossel; Lea Schlickmann; Jakob Spinola; Julius Viol; John Wolff
 
 #unit AG Köpke
 parent: ETAP
@@ -17,7 +20,31 @@ pp: GSTN | Lutz Köpke
 
 #unit AG Wurm
 parent: ETAP
-topics: Vật lý neutrino (JUNO).
-note: Chủ đề tóm tắt sơ bộ.
-src: https://www.etap.physik.uni-mainz.de/index
-pp: GSTN | Michael Wurm
+topics: Neutrino thiên văn và công nghệ detector phông nền cực thấp: tìm nền neutrino siêu tân tinh khuếch tán (DSNB) với JUNO, tiền detector OSIRIS, hệ hiệu chuẩn laser AURORA, ANNIE.
+src: https://www.etap.physik.uni-mainz.de/experiment-juno/ ; https://www.prisma.uni-mainz.de/mainz-physics-academy/phd-fellowship-programme/current-mpa-fellows-and-associates/ ; https://neutrino.gsi.de/group_mem.html
+p: Michael Wurm | Giáo sư; trưởng nhóm | https://www.etap.physik.uni-mainz.de/prof-michael-wurm
+pp: NCS | Riccardo Bartocci; Brunilda Muçogllava; Sahar Safari
+
+#unit Nhóm Neutrino Ludhova (JUNO)
+parent: ETAP
+topics: Toàn bộ chuỗi phân tích JUNO: dao động neutrino lò phản ứng, thứ bậc khối lượng neutrino, neutrino địa cầu và Mặt Trời, DSNB. Nhóm chuyển từ FZ Jülich sang GSI/JGU Mainz (2024–2025).
+src: https://www.etap.physik.uni-mainz.de/experiment-juno/ ; https://neutrino.gsi.de/group_mem.html
+p: Livia Ludhova | Giáo sư; trưởng nhóm | https://neutrino.gsi.de/group_mem/group_mem_livia.html
+p: Rosmarie Wirth | Nghiên cứu sau tiến sĩ | https://neutrino.gsi.de/group_mem/group_mem_rosmarie.html
+p: Mariam Rifai | Nghiên cứu sau tiến sĩ | https://neutrino.gsi.de/group_mem/group_mem_mariam.html
+p: Cristobal Ignacio Morales Reveco | Nghiên cứu sinh (RWTH Aachen) | https://neutrino.gsi.de/group_mem/group_mem_cristobal.html
+p: Marco Malabarba | Nghiên cứu sinh | https://neutrino.gsi.de/group_mem/group_mem_marco.html
+p: Ujwal Konissery Santhosh | Nghiên cứu sinh | https://neutrino.gsi.de/group_mem/group_mem_ujwal.html
+p: Ze Chen | Nghiên cứu sinh | https://neutrino.gsi.de/group_mem/group_mem_ze.html
+p: Tim Nicolas Charissé | Nghiên cứu sinh | https://neutrino.gsi.de/group_mem/group_mem_tim.html
+p: Nurbakyt Amanbek | Nghiên cứu sinh | https://neutrino.gsi.de/group_mem/group_mem_nurba.html
+p: Karim Mahmoud | Nghiên cứu sinh | https://neutrino.gsi.de/group_mem/group_mem_karim.html
+
+#unit AG Oberlack (XENON/COSI)
+parent: ETAP
+topics: Hạt thiên văn dưới lòng đất và trên trời: tìm vật chất tối trực tiếp với XENONnT/XLZD, kính thiên văn tia gamma MeV COSI (mô phỏng phông nền, xấp xỉ đáp ứng detector bằng mạng nơ-ron), MainzTPC, camera Compton.
+src: https://xenon.physik.uni-mainz.de/ ; https://xenon.physik.uni-mainz.de/cosi/
+pp: GSTN | Uwe Oberlack
+pp: NCV | Alexander Deisting; Savitri Gallego; Christopher Hils; Francesco Lombardi; Jan Peter Lommler
+pp: NCS | Peter György; Pascal Janowski; Kaveh Kooshkjalali; Johannes Merz; Constantin Szyszka
+pp: SV | Peter Hartmann; Theresa Hahn; Bruno Minati; Haoyu Xie

@@ -1,0 +1,8 @@
+#inst Bielefeld
+#inst Technische Universität Berlin
+#inst Erlangen
+Dietrich Bödeker|https://ekvv.uni-bielefeld.de/kvv_publ/publ/lehrende_DetailAct?id=51109
+Dominik J. Schwarz|https://www.physik.uni-bielefeld.de/~dschwarz/
+Dieter Breitschwerdt|https://www-astro.physik.tu-berlin.de/~breitschwerdt/
+Ulrich Heber|https://ecap.nat.fau.de/?p=2541
+Manami Sasaki|https://ecap.nat.fau.de/?p=2157

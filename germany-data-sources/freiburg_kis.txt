@@ -1,7 +1,8 @@
 @inst Institut für Sonnenphysik (KIS)
 structure: Institut für Sonnenphysik (KIS), Freiburg, thuộc Hội Leibniz; các mảng: Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Solar Data Center
 structureUrl: https://www.leibniz-kis.de/en/research/
-scope: Có hai nhóm Solar Physics and Stellar Connections và Solar Telescopes theo trang nhóm. Nhóm Scientific Instrumentation và Science Data Centre chưa tìm được trang danh sách thành viên.
+coverage: full
+scope: Bốn nhóm khoa học đều lấy từ trang nhóm của KIS (Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Science Data Centre). Bộ phận hành chính – kỹ thuật không ghi vào bản đồ.
 
 #unit Solar Physics and Stellar Connections
 kind: Mảng nghiên cứu
@@ -30,3 +31,23 @@ pp: Nhà khoa học; quản lý kỹ thuật GSTOT | Reiner Volkmer
 pp: Nhà khoa học | Thomas Berkefeld; Sergio Javier González Manrique
 pp: Phó giám đốc bộ phận PB2 — vật lý Mặt Trời lý thuyết | Jozef Bruls
 pp: Nhân viên kỹ thuật (hệ điều khiển, điện tử) | Olivier Grassin; Felix Krämer
+
+#unit Scientific Instrumentation
+parent: KIS
+topics: Phát triển thiết bị đo Mặt Trời: máy quang phổ tạo ảnh VTF cho kính DKIST, cảm biến mặt sóng tương quan cho kính bay khí cầu Sunrise, ổn định ảnh cho PHI trên Solar Orbiter.
+src: https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/
+p: Jozef Bruls | Trưởng nhóm tạm quyền; PI của VTF | https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/
+pp: NCV — quản lý dự án | Michael Sigwarth; Thomas Berkefeld; Reiner Volkmer
+pp: NCV | Thomas Josef Kentischer; Alexander Bell; Matthias Schubert
+pp: Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter) | Andreas Fischer; Clemens Halbgewachs; Eiji Nakai
+
+#unit Science Data Centre (SDC)
+parent: KIS
+topics: Trung tâm dữ liệu khoa học Mặt Trời: hiệu chuẩn, lưu trữ và phân phối dữ liệu GREGOR/VTT/ChroTel, sản phẩm dữ liệu bậc cao, học máy, mô phỏng MHD.
+src: https://sdc.leibniz-kis.de/en/team
+p: Nazaret Bello González | Nhà khoa học dự án chính | https://sdc.leibniz-kis.de/en/team
+p: Peter Caligari | Trưởng dự án; trưởng CNTT | https://sdc.leibniz-kis.de/en/team
+pp: Nhà khoa học dự án | V. Gangadharan; I. Gorbachev; A. Gorobets; T. Yakobchuk
+pp: NCV — mô phỏng MHD | M. Schmassmann
+pp: Kiến trúc hệ thống / CNTT | P. Kehusmaa; A. Hochmuth
+

@@ -6,10 +6,11 @@ scope: Nguồn là báo cáo thường niên 2024 của viện trên Mitteilunge
 #unit Ban giám đốc
 kind: Giám đốc và giáo sư
 parent: Max-Planck-Institut für Radioastronomie
-topics: Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten (thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).
+topics: Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten († 30/12/2024; thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).
 note: Phân công bộ phận của từng giám đốc là theo hiểu biết chung, báo cáo 2024 chỉ liệt kê tên.
 src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf
-pp: GD | M. Kramer; K. M. Menten; A. Saintonge
+pp: GD | M. Kramer; A. Saintonge
+p: K. M. Menten | Giám đốc bộ phận thiên văn milimét/dưới milimét (đã mất ngày 30/12/2024 — theo trang tưởng niệm của MPIfR) | https://blog.mpifr-bonn.mpg.de/karlmenten/
 pp: GD — giám đốc điều hành từ 01.07.2023 | J. A. Zensus
 pp: EM | G. Weigelt; R. Wielebinski
 

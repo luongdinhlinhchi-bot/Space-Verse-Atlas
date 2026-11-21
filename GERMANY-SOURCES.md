@@ -85,3 +85,10 @@ Tổng: 40 cơ quan, 179 đơn vị, 2247 người không trùng tên.
 - Lấy link cá nhân từ danh bạ của LMU, AEI (Hannover và Potsdam), ZAH, MPE, MPS, AIP, Köln (xem `link-sources/`).
 - Köln: đủ thành viên của 8 nhóm, lấy từ danh sách nhóm trên máy chủ lecture.ph1.uni-koeln.de và danh bạ của viện.
 - Còn thiếu link cá nhân: DESY (trang nhóm chỉ ghi email), MPIfR (danh bạ cũ, không có trang cá nhân) và khoảng 110 trưởng nhóm ở các viện khác. Mainz chưa đọc được vì trang tải quá chậm.
+
+## Đợt 2026-11-22
+- Mainz (ETAP): AG Böser đủ danh sách; thêm AG Oberlack (XENON/COSI) và nhóm Ludhova (JUNO) đủ danh sách; AG Wurm một phần.
+- Tautenburg (TLS): danh sách nhân sự đầy đủ từ tls-tautenburg.de/institute/staff.
+- KIS: thêm Scientific Instrumentation và Science Data Centre.
+- Link cá nhân trưởng nhóm: MPIfR, Braunschweig, Bielefeld, TU Berlin, Erlangen, DESY, Kiel, Dresden, GSI, Dortmund.
+- Ghi chú: K. M. Menten (MPIfR) mất 30/12/2024; V. Bothmer (Göttingen) đã mất.

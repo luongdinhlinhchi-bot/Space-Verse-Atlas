@@ -1,0 +1,12 @@
+#inst DESY
+#inst Kiel
+#inst Dresden
+#inst GSI
+Walter Winter|https://www-zeuthen.desy.de/~wwinter
+Sebastian Wolf|https://www.blogs.uni-kiel.de/star
+Sergei A. Klioner|https://tu-dresden.de/bu/umwelt/geo/ipg/astro/observatorium/inhaber
+Andreas Bauswein|https://www.gsi.de/work/forschung/theorie/greatmoves
+#inst Dortmund
+Wolfgang Rhode|https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-dr-wolfgang-rhode/
+Dominik Elsässer|https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/pd-dr-dominik-elsaesser/
+Christian Glaser|https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/prof-dr-christian-glaser/

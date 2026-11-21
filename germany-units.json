@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21",
+ "checked": "2026-11-22",
  "institutions": {
   "Leibniz-Institut für Astrophysik Potsdam (AIP)": {
    "structure": "Hai mảng nghiên cứu: Stellar, Solar and Exoplanetary Physics; Extragalactic Astrophysics",
@@ -828,7 +828,7 @@
      "name": "Ban giám đốc",
      "kind": "Giám đốc và giáo sư",
      "parent": "Max-Planck-Institut für Radioastronomie",
-     "topics": "Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten (thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).",
+     "topics": "Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten († 30/12/2024; thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).",
      "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf",
      "note": "Phân công bộ phận của từng giám đốc là theo hiểu biết chung, báo cáo 2024 chỉ liệt kê tên."
     },
@@ -1348,10 +1348,10 @@
    "networks": []
   },
   "Institut für Sonnenphysik (KIS)": {
-   "coverage": "partial",
+   "coverage": "full",
    "structure": "Institut für Sonnenphysik (KIS), Freiburg, thuộc Hội Leibniz; các mảng: Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Solar Data Center",
    "structureUrl": "https://www.leibniz-kis.de/en/research/",
-   "scopeNote": "Có hai nhóm Solar Physics and Stellar Connections và Solar Telescopes theo trang nhóm. Nhóm Scientific Instrumentation và Science Data Centre chưa tìm được trang danh sách thành viên.",
+   "scopeNote": "Bốn nhóm khoa học đều lấy từ trang nhóm của KIS (Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Science Data Centre). Bộ phận hành chính – kỹ thuật không ghi vào bản đồ.",
    "units": [
     {
      "name": "Solar Physics and Stellar Connections",
@@ -1367,6 +1367,20 @@
      "topics": "Vận hành và phát triển kính thiên văn Mặt Trời Đức tại Teide (GREGOR, VTT); quang học thích ứng (MCAO); vật lý Mặt Trời thực nghiệm, từ tính Mặt Trời.",
      "url": "https://www.leibniz-kis.de/en/research/solar-telescopes/team",
      "note": "GSTOT = German Solar Telescopes at the Observatorio del Teide."
+    },
+    {
+     "name": "Scientific Instrumentation",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "KIS",
+     "topics": "Phát triển thiết bị đo Mặt Trời: máy quang phổ tạo ảnh VTF cho kính DKIST, cảm biến mặt sóng tương quan cho kính bay khí cầu Sunrise, ổn định ảnh cho PHI trên Solar Orbiter.",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Science Data Centre (SDC)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "KIS",
+     "topics": "Trung tâm dữ liệu khoa học Mặt Trời: hiệu chuẩn, lưu trữ và phân phối dữ liệu GREGOR/VTT/ChroTel, sản phẩm dữ liệu bậc cao, học máy, mô phỏng MHD.",
+     "url": "https://sdc.leibniz-kis.de/en/team"
     }
    ],
    "networks": []
@@ -1742,10 +1756,10 @@
    "networks": []
   },
   "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)": {
-   "coverage": "leaders",
-   "structure": "ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Köpke, AG Wurm",
+   "coverage": "partial",
+   "structure": "ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Oberlack (XENON/COSI), AG Wurm, nhóm Ludhova (JUNO), AG Köpke",
    "structureUrl": "https://www.etap.physik.uni-mainz.de/index",
-   "scopeNote": "Trang nhóm không có danh sách thành viên đọc được; mới ghi trưởng nhóm.",
+   "scopeNote": "AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần (trang nhóm không truy cập được; thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+). AG Köpke mới có trưởng nhóm.",
    "units": [
     {
      "name": "AG Böser",
@@ -1765,9 +1779,22 @@
      "name": "AG Wurm",
      "kind": "Nhóm nghiên cứu",
      "parent": "ETAP",
-     "topics": "Vật lý neutrino (JUNO).",
-     "url": "https://www.etap.physik.uni-mainz.de/index",
-     "note": "Chủ đề tóm tắt sơ bộ."
+     "topics": "Neutrino thiên văn và công nghệ detector phông nền cực thấp: tìm nền neutrino siêu tân tinh khuếch tán (DSNB) với JUNO, tiền detector OSIRIS, hệ hiệu chuẩn laser AURORA, ANNIE.",
+     "url": "https://www.etap.physik.uni-mainz.de/experiment-juno/"
+    },
+    {
+     "name": "Nhóm Neutrino Ludhova (JUNO)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "ETAP",
+     "topics": "Toàn bộ chuỗi phân tích JUNO: dao động neutrino lò phản ứng, thứ bậc khối lượng neutrino, neutrino địa cầu và Mặt Trời, DSNB. Nhóm chuyển từ FZ Jülich sang GSI/JGU Mainz (2024–2025).",
+     "url": "https://www.etap.physik.uni-mainz.de/experiment-juno/"
+    },
+    {
+     "name": "AG Oberlack (XENON/COSI)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "ETAP",
+     "topics": "Hạt thiên văn dưới lòng đất và trên trời: tìm vật chất tối trực tiếp với XENONnT/XLZD, kính thiên văn tia gamma MeV COSI (mô phỏng phông nền, xấp xỉ đáp ứng detector bằng mạng nơ-ron), MainzTPC, camera Compton.",
+     "url": "https://xenon.physik.uni-mainz.de/"
     }
    ],
    "networks": []
@@ -1893,17 +1920,31 @@
    "networks": []
   },
   "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium": {
-   "coverage": "leaders",
-   "structure": "Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena; giám đốc: Markus Roth",
-   "structureUrl": "https://www.dpg-physik.de/veranstaltungen/2025/tls",
-   "scopeNote": "Không tìm được trang nhân sự hiện tại hay báo cáo thường niên gần đây; mới ghi giám đốc và một nhà khoa học có tên trong thông báo tuyển dụng 2020.",
+   "coverage": "full",
+   "structure": "Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena. Hai mảng nghiên cứu: Sao & Hành tinh và Thiên hà ngoài (Extragalaktik), cùng bộ phận kỹ thuật, thiết bị quang học và máy tính khoa học. Giám đốc: Markus Roth; phó giám đốc: Matthias Hoeft.",
+   "structureUrl": "https://www.tls-tautenburg.de/institute/staff",
+   "scopeNote": "Danh sách nhân sự đầy đủ từ trang Personal của TLS (11/2026). Trang không ghi chức danh cho người chưa có học vị tiến sĩ, nên vai trò của họ ghi chung là \"thành viên nghiên cứu\". Nhân viên hành chính không ghi vào bản đồ.",
    "units": [
     {
-     "name": "Thüringer Landessternwarte",
-     "kind": "Đài quan sát",
+     "name": "Sao & Hành tinh",
+     "kind": "Nhóm nghiên cứu",
      "parent": "TLS",
-     "topics": "Nghiên cứu cơ bản vật lý thiên văn với kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới) và trạm LOFAR quốc tế; hành tinh ngoài Hệ Mặt Trời, vật lý sao, thiên văn vô tuyến tần số thấp.",
-     "url": "https://www.dpg-physik.de/veranstaltungen/2025/tls"
+     "topics": "Hành tinh ngoài Hệ Mặt Trời (vận tốc xuyên tâm, quá cảnh), hình thành sao và hành tinh trong các đám mây khí–bụi, vật lý sao, Mặt Trời; quan sát bằng kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới).",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Thiên hà ngoài (Extragalaktik)",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "TLS",
+     "topics": "Thiên hà, đám thiên hà và quasar; sóng xung kích và nhiễu loạn trong khí đám thiên hà quan sát ở bước sóng vô tuyến với trạm LOFAR quốc tế tại Tautenburg; tiến hóa vũ trụ học của thiên hà.",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Kỹ thuật, thiết bị quang học và máy tính khoa học",
+     "kind": "Bộ phận kỹ thuật",
+     "parent": "TLS",
+     "topics": "Vận hành kính thiên văn, xưởng điện tử và cơ khí, thiết bị quang học, CNTT và tính toán khoa học.",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
     }
    ],
    "networks": []

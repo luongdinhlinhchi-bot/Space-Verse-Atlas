@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21",
+ "checked": "2026-11-22",
  "scope": "Đức, kiểm tra 16–21/11/2026. Nguồn chính là trang nhân sự chính thức của từng viện; khi không đọc được thì dùng báo cáo thường niên trên Mitteilungen der Astronomischen Gesellschaft (2023–2024). Bao gồm nghiên cứu sinh và sinh viên; khách mời và thành viên liên kết tách riêng; không gồm nhân viên kỹ thuật, hành chính.",
  "units": {
   "Leibniz-Institut für Astrophysik Potsdam (AIP)::Solar Physics": {
@@ -7200,7 +7200,8 @@
     {
      "name": "Ulrich Heber",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/"
+     "url": "https://ecap.nat.fau.de/?p=2541",
+     "profile": true
     }
    ],
    "external": [],
@@ -7215,7 +7216,8 @@
     {
      "name": "Manami Sasaki",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.sternwarte.uni-erlangen.de/remeis-start/about-us/"
+     "url": "https://ecap.nat.fau.de/?p=2157",
+     "profile": true
     }
    ],
    "external": [],
@@ -7450,7 +7452,8 @@
     {
      "name": "Dieter Breitschwerdt",
      "role": "Giám đốc",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf"
+     "url": "https://www-astro.physik.tu-berlin.de/~breitschwerdt/",
+     "profile": true
     },
     {
      "name": "Beate Patzer",
@@ -7702,12 +7705,14 @@
     {
      "name": "Dietrich Bödeker",
      "role": "Giáo sư",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf"
+     "url": "https://ekvv.uni-bielefeld.de/kvv_publ/publ/lehrende_DetailAct?id=51109",
+     "profile": true
     },
     {
      "name": "Dominik J. Schwarz",
      "role": "Giáo sư",
-     "url": "https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bielefeld/uni_bielefeld/jb-uni_bielefeld_phys-2024-1.pdf"
+     "url": "https://www.physik.uni-bielefeld.de/~dschwarz/",
+     "profile": true
     },
     {
      "name": "Krishnakumar Moochickal Ambalappat",
@@ -8960,20 +8965,21 @@
      "profile": true
     },
     {
-     "name": "K. M. Menten",
-     "role": "Giám đốc",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
-    },
-    {
      "name": "A. Saintonge",
      "role": "Giám đốc",
      "url": "https://www.mpifr-bonn.mpg.de/person/133514/8864666",
      "profile": true
     },
     {
+     "name": "K. M. Menten",
+     "role": "Giám đốc bộ phận thiên văn milimét/dưới milimét (đã mất ngày 30/12/2024 — theo trang tưởng niệm của MPIfR)",
+     "url": "https://blog.mpifr-bonn.mpg.de/karlmenten/"
+    },
+    {
      "name": "J. A. Zensus",
      "role": "GD — giám đốc điều hành từ 01.07.2023",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
+     "url": "https://www.mpg.de/319617/radio-astronomy-zensus",
+     "profile": true
     },
     {
      "name": "G. Weigelt",
@@ -9012,7 +9018,8 @@
     {
      "name": "B. Klein",
      "role": "NCV — trưởng bộ phận mm/submm-Technologie và Digitale Signalverarbeitung",
-     "url": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/bonn/mpifr/jb-mpifr-2024.pdf"
+     "url": "https://h-brs.de/en/node/85259",
+     "profile": true
     },
     {
      "name": "A. Kraus",
@@ -10210,7 +10217,8 @@
     {
      "name": "Jessica Agarwal",
      "role": "Giáo sư",
-     "url": "https://tu-braunschweig.de/igep/institut"
+     "url": "https://gepris.dfg.de/gepris/person/1850402",
+     "profile": true
     },
     {
      "name": "Karl-Heinz Glaßmeier",
@@ -10486,7 +10494,8 @@
     {
      "name": "Andreas Bauswein",
      "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://www.gsi.de/work/forschung/theorie/theory-new/people?C=0"
+     "url": "https://www.gsi.de/work/forschung/theorie/greatmoves",
+     "profile": true
     }
    ],
    "external": [],
@@ -10692,7 +10701,8 @@
     {
      "name": "Dominik Elsässer",
      "role": "PDZ — đồng phụ trách nhóm",
-     "url": "https://rapp-uar.relaunch.tu-dortmund.de/team/scientists"
+     "url": "https://physik.tu-dortmund.de/en/research/research-focus-particle-physics/pd-dr-dominik-elsaesser/",
+     "profile": true
     },
     {
      "name": "Christian Arauner",
@@ -10791,7 +10801,8 @@
     {
      "name": "Sergei A. Klioner",
      "role": "GSTN — trưởng Lohrmann-Observatorium",
-     "url": "https://tu-dresden.de/bu/umwelt/geo/ipg/astro/raumastrometrie/mitarbeiter"
+     "url": "https://tu-dresden.de/bu/umwelt/geo/ipg/astro/observatorium/inhaber",
+     "profile": true
     },
     {
      "name": "Enrico Gerlach",
@@ -11229,6 +11240,119 @@
      "name": "Felix Krämer",
      "role": "Nhân viên kỹ thuật (hệ điều khiển, điện tử)",
      "url": "https://www.leibniz-kis.de/en/research/solar-telescopes/team"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Institut für Sonnenphysik (KIS)::Scientific Instrumentation": {
+   "sources": [
+    "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+   ],
+   "people": [
+    {
+     "name": "Jozef Bruls",
+     "role": "Trưởng nhóm tạm quyền; PI của VTF",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Michael Sigwarth",
+     "role": "NCV — quản lý dự án",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Thomas Berkefeld",
+     "role": "NCV — quản lý dự án",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Reiner Volkmer",
+     "role": "NCV — quản lý dự án",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Thomas Josef Kentischer",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Alexander Bell",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Matthias Schubert",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Andreas Fischer",
+     "role": "Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter)",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Clemens Halbgewachs",
+     "role": "Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter)",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    },
+    {
+     "name": "Eiji Nakai",
+     "role": "Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter)",
+     "url": "https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Institut für Sonnenphysik (KIS)::Science Data Centre (SDC)": {
+   "sources": [
+    "https://sdc.leibniz-kis.de/en/team"
+   ],
+   "people": [
+    {
+     "name": "Nazaret Bello González",
+     "role": "Nhà khoa học dự án chính",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "Peter Caligari",
+     "role": "Trưởng dự án; trưởng CNTT",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "V. Gangadharan",
+     "role": "Nhà khoa học dự án",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "I. Gorbachev",
+     "role": "Nhà khoa học dự án",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "A. Gorobets",
+     "role": "Nhà khoa học dự án",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "T. Yakobchuk",
+     "role": "Nhà khoa học dự án",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "M. Schmassmann",
+     "role": "NCV — mô phỏng MHD",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "P. Kehusmaa",
+     "role": "Kiến trúc hệ thống / CNTT",
+     "url": "https://sdc.leibniz-kis.de/en/team"
+    },
+    {
+     "name": "A. Hochmuth",
+     "role": "Kiến trúc hệ thống / CNTT",
+     "url": "https://sdc.leibniz-kis.de/en/team"
     }
    ],
    "external": [],
@@ -14690,7 +14814,8 @@
     {
      "name": "Sebastian Wolf",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://univis.uni-kiel.de/formbot/dsc_3Danew_2Fpande_26dir_3Dmathe_2Finstit_1_2Fabteil_1_26ref_3Dpande_26lang_3Den"
+     "url": "https://www.blogs.uni-kiel.de/star",
+     "profile": true
     },
     {
      "name": "Matheus Bernini Peron",
@@ -15688,6 +15813,56 @@
     {
      "name": "Sebastian Böser",
      "role": "Giáo sư; trưởng nhóm",
+     "url": "https://ag-boeser.physik.uni-mainz.de/#team"
+    },
+    {
+     "name": "Jan Weldert",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Veronika Palusova",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Kaustav Dutta",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Aya El Boustani",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Bastian Keßler",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Kyra Mossel",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Lea Schlickmann",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Jakob Spinola",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Julius Viol",
+     "role": "Nghiên cứu sinh",
+     "url": "https://ag-boeser.physik.uni-mainz.de/"
+    },
+    {
+     "name": "John Wolff",
+     "role": "Nghiên cứu sinh",
      "url": "https://ag-boeser.physik.uni-mainz.de/"
     }
    ],
@@ -15711,13 +15886,175 @@
   },
   "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)::AG Wurm": {
    "sources": [
-    "https://www.etap.physik.uni-mainz.de/index"
+    "https://www.etap.physik.uni-mainz.de/experiment-juno/",
+    "https://www.prisma.uni-mainz.de/mainz-physics-academy/phd-fellowship-programme/current-mpa-fellows-and-associates/",
+    "https://neutrino.gsi.de/group_mem.html"
    ],
    "people": [
     {
      "name": "Michael Wurm",
      "role": "Giáo sư; trưởng nhóm",
-     "url": "https://www.etap.physik.uni-mainz.de/index"
+     "url": "https://www.etap.physik.uni-mainz.de/prof-michael-wurm"
+    },
+    {
+     "name": "Riccardo Bartocci",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.etap.physik.uni-mainz.de/experiment-juno/"
+    },
+    {
+     "name": "Brunilda Muçogllava",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.etap.physik.uni-mainz.de/experiment-juno/"
+    },
+    {
+     "name": "Sahar Safari",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.etap.physik.uni-mainz.de/experiment-juno/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)::Nhóm Neutrino Ludhova (JUNO)": {
+   "sources": [
+    "https://www.etap.physik.uni-mainz.de/experiment-juno/",
+    "https://neutrino.gsi.de/group_mem.html"
+   ],
+   "people": [
+    {
+     "name": "Livia Ludhova",
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_livia.html"
+    },
+    {
+     "name": "Rosmarie Wirth",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_rosmarie.html"
+    },
+    {
+     "name": "Mariam Rifai",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_mariam.html"
+    },
+    {
+     "name": "Cristobal Ignacio Morales Reveco",
+     "role": "Nghiên cứu sinh (RWTH Aachen)",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_cristobal.html"
+    },
+    {
+     "name": "Marco Malabarba",
+     "role": "Nghiên cứu sinh",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_marco.html"
+    },
+    {
+     "name": "Ujwal Konissery Santhosh",
+     "role": "Nghiên cứu sinh",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_ujwal.html"
+    },
+    {
+     "name": "Ze Chen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_ze.html"
+    },
+    {
+     "name": "Tim Nicolas Charissé",
+     "role": "Nghiên cứu sinh",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_tim.html"
+    },
+    {
+     "name": "Nurbakyt Amanbek",
+     "role": "Nghiên cứu sinh",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_nurba.html"
+    },
+    {
+     "name": "Karim Mahmoud",
+     "role": "Nghiên cứu sinh",
+     "url": "https://neutrino.gsi.de/group_mem/group_mem_karim.html"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP)::AG Oberlack (XENON/COSI)": {
+   "sources": [
+    "https://xenon.physik.uni-mainz.de/",
+    "https://xenon.physik.uni-mainz.de/cosi/"
+   ],
+   "people": [
+    {
+     "name": "Uwe Oberlack",
+     "role": "Giáo sư; trưởng nhóm",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Alexander Deisting",
+     "role": "Nghiên cứu viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Savitri Gallego",
+     "role": "Nghiên cứu viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Christopher Hils",
+     "role": "Nghiên cứu viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Francesco Lombardi",
+     "role": "Nghiên cứu viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Jan Peter Lommler",
+     "role": "Nghiên cứu viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Peter György",
+     "role": "Nghiên cứu sinh",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Pascal Janowski",
+     "role": "Nghiên cứu sinh",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Kaveh Kooshkjalali",
+     "role": "Nghiên cứu sinh",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Johannes Merz",
+     "role": "Nghiên cứu sinh",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Constantin Szyszka",
+     "role": "Nghiên cứu sinh",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Peter Hartmann",
+     "role": "Sinh viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Theresa Hahn",
+     "role": "Sinh viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Bruno Minati",
+     "role": "Sinh viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
+    },
+    {
+     "name": "Haoyu Xie",
+     "role": "Sinh viên",
+     "url": "https://xenon.physik.uni-mainz.de/"
     }
    ],
    "external": [],
@@ -17646,22 +17983,226 @@
    ],
    "note": ""
   },
-  "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium::Thüringer Landessternwarte": {
+  "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium::Sao & Hành tinh": {
    "sources": [
-    "https://www.dpg-physik.de/veranstaltungen/2025/tls",
-    "https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1",
-    "https://www.astronomische-gesellschaft.de/en/activities/jobregister/Jobfiles/TLS_announce_staff_20200117.pdf"
+    "https://www.tls-tautenburg.de/institute/staff",
+    "https://www.tls-tautenburg.de/research/planets"
    ],
    "people": [
     {
      "name": "Markus Roth",
-     "role": "GD — giáo sư Đại học Jena",
-     "url": "https://www.dpg-physik.de/veranstaltungen/2025/tls"
+     "role": "Giám đốc TLS; giáo sư Đại học Jena; từ 9/2026 là thành viên Ban chấp hành Hội Thiên văn Đức (AG)",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
     },
     {
+     "name": "Artie Hatzes",
+     "role": "Giáo sư",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Christian Andreas",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Hans-Peter Doerr",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Jochen Eislöffel",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Eike W. Guenther",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Michael Hartmann",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Jana Köhler",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Stanislav Melnikov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Hemanth Pruthvi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Veronika Schaffenroth",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Daniel Sebastian",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Michael Sigwarth",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Bringfried Stecklum",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Verena Wolf",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Sebastian Podleska",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Vincent Prange",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Aashana Tripathi",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium::Thiên hà ngoài (Extragalaktik)": {
+   "sources": [
+    "https://www.tls-tautenburg.de/institute/staff",
+    "https://www.tls-tautenburg.de/research/extragalactic"
+   ],
+   "people": [
+    {
      "name": "Matthias Hoeft",
-     "role": "NCV — thiên văn vô tuyến (theo thông báo tuyển dụng 2020)",
-     "url": "https://www.dpg-physik.de/veranstaltungen/2025/tls"
+     "role": "Phó giám đốc; giáo sư",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Helmut Meusinger",
+     "role": "Giáo sư",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Alexander Drabent",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Prateek Gupta",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Duy Hoang",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Sylvio Klose",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "John Paul Bernaldez",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Shubham Bhagat",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Johannes Lindner",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Ludwig Pfeifer",
+     "role": "Thành viên nghiên cứu",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium::Kỹ thuật, thiết bị quang học và máy tính khoa học": {
+   "sources": [
+    "https://www.tls-tautenburg.de/institute/staff",
+    "https://www.tls-tautenburg.de/infrastructure/telescope"
+   ],
+   "people": [
+    {
+     "name": "Mathias Ball",
+     "role": "Công nghệ thông tin",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Tom Schmidt",
+     "role": "Công nghệ thông tin",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Lea Bohne",
+     "role": "Thiết bị quang học",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Michael Unseld",
+     "role": "Thiết bị quang học",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Lars Maiwald",
+     "role": "Máy tính khoa học",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Christian Högner",
+     "role": "Vận hành kính thiên văn",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Frank Ludwig",
+     "role": "Vận hành kính thiên văn",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Ralf Neubert",
+     "role": "Xưởng điện tử",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Michael Kehr",
+     "role": "Xưởng điện tử",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Johannes Winkler",
+     "role": "Xưởng cơ khí",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
+    },
+    {
+     "name": "Tom Löwinger",
+     "role": "Xưởng cơ khí",
+     "url": "https://www.tls-tautenburg.de/institute/staff"
     }
    ],
    "external": [],
@@ -19175,7 +19716,8 @@
     {
      "name": "Walter Winter",
      "role": "Trưởng nhóm nghiên cứu",
-     "url": "https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html"
+     "url": "https://www-zeuthen.desy.de/~wwinter",
+     "profile": true
     },
     {
      "name": "Martin Pohl",

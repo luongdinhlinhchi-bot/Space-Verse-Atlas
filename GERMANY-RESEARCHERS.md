@@ -1,6 +1,6 @@
 # Đức — đơn vị và nhà nghiên cứu (các cơ quan đã làm)
 
-Ngày kiểm tra nguồn: 2026-11-21. Đức, kiểm tra 16–21/11/2026. Nguồn chính là trang nhân sự chính thức của từng viện; khi không đọc được thì dùng báo cáo thường niên trên Mitteilungen der Astronomischen Gesellschaft (2023–2024). Bao gồm nghiên cứu sinh và sinh viên; khách mời và thành viên liên kết tách riêng; không gồm nhân viên kỹ thuật, hành chính.
+Ngày kiểm tra nguồn: 2026-11-22. Đức, kiểm tra 16–21/11/2026. Nguồn chính là trang nhân sự chính thức của từng viện; khi không đọc được thì dùng báo cáo thường niên trên Mitteilungen der Astronomischen Gesellschaft (2023–2024). Bao gồm nghiên cứu sinh và sinh viên; khách mời và thành viên liên kết tách riêng; không gồm nhân viên kỹ thuật, hành chính.
 
 ## Friedrich-Alexander-Universität Erlangen-Nürnberg — Dr. Karl Remeis-Sternwarte Bamberg — Bamberg
 
@@ -612,13 +612,13 @@ Nguồn là báo cáo thường niên 2024 của viện trên Mitteilungen der A
 
 Giám đốc và giáo sư. Trực thuộc: Max-Planck-Institut für Radioastronomie.
 
-Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten (thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).
+Giám đốc các bộ phận: M. Kramer (vật lý cơ bản trong thiên văn vô tuyến), K. M. Menten († 30/12/2024; thiên văn milimét/dưới milimét), A. Saintonge (hình thành sao và tiến hoá thiên hà), J. A. Zensus (thiên văn vô tuyến/VLBI).
 
 Phân công bộ phận của từng giám đốc là theo hiểu biết chung, báo cáo 2024 chỉ liệt kê tên.
 
 - M. Kramer — Giám đốc
-- K. M. Menten — Giám đốc
 - A. Saintonge — Giám đốc
+- K. M. Menten — Giám đốc bộ phận thiên văn milimét/dưới milimét (đã mất ngày 30/12/2024 — theo trang tưởng niệm của MPIfR)
 - J. A. Zensus — GD — giám đốc điều hành từ 01.07.2023
 - G. Weigelt — Danh dự (emeritus)
 - R. Wielebinski — Danh dự (emeritus)
@@ -1198,7 +1198,7 @@ Nguồn: [1](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/
 
 [Cơ cấu](https://www.leibniz-kis.de/en/research/): Institut für Sonnenphysik (KIS), Freiburg, thuộc Hội Leibniz; các mảng: Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Solar Data Center
 
-Có hai nhóm Solar Physics and Stellar Connections và Solar Telescopes theo trang nhóm. Nhóm Scientific Instrumentation và Science Data Centre chưa tìm được trang danh sách thành viên.
+Bốn nhóm khoa học đều lấy từ trang nhóm của KIS (Solar Physics and Stellar Connections, Solar Telescopes, Scientific Instrumentation, Science Data Centre). Bộ phận hành chính – kỹ thuật không ghi vào bản đồ.
 
 ### [Solar Physics and Stellar Connections](https://www.leibniz-kis.de/en/research/solar-physics/team-1/)
 
@@ -1246,6 +1246,43 @@ GSTOT = German Solar Telescopes at the Observatorio del Teide.
 - Felix Krämer — Nhân viên kỹ thuật (hệ điều khiển, điện tử)
 
 Nguồn: [1](https://www.leibniz-kis.de/en/research/solar-telescopes/team).
+
+### [Scientific Instrumentation](https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/)
+
+Nhóm nghiên cứu. Trực thuộc: KIS.
+
+Phát triển thiết bị đo Mặt Trời: máy quang phổ tạo ảnh VTF cho kính DKIST, cảm biến mặt sóng tương quan cho kính bay khí cầu Sunrise, ổn định ảnh cho PHI trên Solar Orbiter.
+
+- Jozef Bruls — Trưởng nhóm tạm quyền; PI của VTF
+- Michael Sigwarth — NCV — quản lý dự án
+- Thomas Berkefeld — NCV — quản lý dự án
+- Reiner Volkmer — NCV — quản lý dự án
+- Thomas Josef Kentischer — Nghiên cứu viên
+- Alexander Bell — Nghiên cứu viên
+- Matthias Schubert — Nghiên cứu viên
+- Andreas Fischer — Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter)
+- Clemens Halbgewachs — Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter)
+- Eiji Nakai — Kỹ sư (opto-cơ khí, cơ điện tử, Solar Orbiter)
+
+Nguồn: [1](https://www.leibniz-kis.de/en/research/scientific-instrumentation/team/).
+
+### [Science Data Centre (SDC)](https://sdc.leibniz-kis.de/en/team)
+
+Nhóm nghiên cứu. Trực thuộc: KIS.
+
+Trung tâm dữ liệu khoa học Mặt Trời: hiệu chuẩn, lưu trữ và phân phối dữ liệu GREGOR/VTT/ChroTel, sản phẩm dữ liệu bậc cao, học máy, mô phỏng MHD.
+
+- Nazaret Bello González — Nhà khoa học dự án chính
+- Peter Caligari — Trưởng dự án; trưởng CNTT
+- V. Gangadharan — Nhà khoa học dự án
+- I. Gorbachev — Nhà khoa học dự án
+- A. Gorobets — Nhà khoa học dự án
+- T. Yakobchuk — Nhà khoa học dự án
+- M. Schmassmann — NCV — mô phỏng MHD
+- P. Kehusmaa — Kiến trúc hệ thống / CNTT
+- A. Hochmuth — Kiến trúc hệ thống / CNTT
+
+Nguồn: [1](https://sdc.leibniz-kis.de/en/team).
 
 ## Max-Planck-Institut für Astrophysik — Garching
 
@@ -4128,9 +4165,9 @@ Nguồn: [1](https://astro.uni-koeln.de/en/members/emeritus).
 
 ## Johannes Gutenberg-Universität Mainz — Experimentelle Teilchen- und Astroteilchenphysik (ETAP) — Mainz
 
-[Cơ cấu](https://www.etap.physik.uni-mainz.de/index): ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Köpke, AG Wurm
+[Cơ cấu](https://www.etap.physik.uni-mainz.de/index): ETAP, Institut für Physik, JGU Mainz; các nhóm vật lý hạt thiên văn và neutrino: AG Böser, AG Oberlack (XENON/COSI), AG Wurm, nhóm Ludhova (JUNO), AG Köpke
 
-Trang nhóm không có danh sách thành viên đọc được; mới ghi trưởng nhóm.
+AG Böser, AG Oberlack và nhóm Ludhova lấy đủ từ trang nhóm (11/2026). AG Wurm chỉ có một phần (trang nhóm không truy cập được; thành viên lấy từ danh sách nghiên cứu sinh MPA/PRISMA+). AG Köpke mới có trưởng nhóm.
 
 ### [AG Böser](https://ag-boeser.physik.uni-mainz.de/)
 
@@ -4139,6 +4176,16 @@ Nhóm nghiên cứu. Trực thuộc: ETAP.
 Vật lý hạt thiên văn và neutrino năng lượng thấp: dao động neutrino và thiên văn IceCube, cảm biến ánh sáng WOM, đo khối lượng neutrino (Project 8), NuDoubt++.
 
 - Sebastian Böser — Giáo sư; trưởng nhóm
+- Jan Weldert — Nghiên cứu sau tiến sĩ
+- Veronika Palusova — Nghiên cứu sau tiến sĩ
+- Kaustav Dutta — Nghiên cứu sinh
+- Aya El Boustani — Nghiên cứu sinh
+- Bastian Keßler — Nghiên cứu sinh
+- Kyra Mossel — Nghiên cứu sinh
+- Lea Schlickmann — Nghiên cứu sinh
+- Jakob Spinola — Nghiên cứu sinh
+- Julius Viol — Nghiên cứu sinh
+- John Wolff — Nghiên cứu sinh
 
 Nguồn: [1](https://ag-boeser.physik.uni-mainz.de/).
 
@@ -4152,17 +4199,61 @@ Neutrino năng lượng thấp trong IceCube: neutrino khí quyển và từ si�
 
 Nguồn: [1](https://www.etap.physik.uni-mainz.de/prof-lutz-kopke), [2](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/269006).
 
-### [AG Wurm](https://www.etap.physik.uni-mainz.de/index)
+### [AG Wurm](https://www.etap.physik.uni-mainz.de/experiment-juno/)
 
 Nhóm nghiên cứu. Trực thuộc: ETAP.
 
-Vật lý neutrino (JUNO).
-
-Chủ đề tóm tắt sơ bộ.
+Neutrino thiên văn và công nghệ detector phông nền cực thấp: tìm nền neutrino siêu tân tinh khuếch tán (DSNB) với JUNO, tiền detector OSIRIS, hệ hiệu chuẩn laser AURORA, ANNIE.
 
 - Michael Wurm — Giáo sư; trưởng nhóm
+- Riccardo Bartocci — Nghiên cứu sinh
+- Brunilda Muçogllava — Nghiên cứu sinh
+- Sahar Safari — Nghiên cứu sinh
 
-Nguồn: [1](https://www.etap.physik.uni-mainz.de/index).
+Nguồn: [1](https://www.etap.physik.uni-mainz.de/experiment-juno/), [2](https://www.prisma.uni-mainz.de/mainz-physics-academy/phd-fellowship-programme/current-mpa-fellows-and-associates/), [3](https://neutrino.gsi.de/group_mem.html).
+
+### [Nhóm Neutrino Ludhova (JUNO)](https://www.etap.physik.uni-mainz.de/experiment-juno/)
+
+Nhóm nghiên cứu. Trực thuộc: ETAP.
+
+Toàn bộ chuỗi phân tích JUNO: dao động neutrino lò phản ứng, thứ bậc khối lượng neutrino, neutrino địa cầu và Mặt Trời, DSNB. Nhóm chuyển từ FZ Jülich sang GSI/JGU Mainz (2024–2025).
+
+- Livia Ludhova — Giáo sư; trưởng nhóm
+- Rosmarie Wirth — Nghiên cứu sau tiến sĩ
+- Mariam Rifai — Nghiên cứu sau tiến sĩ
+- Cristobal Ignacio Morales Reveco — Nghiên cứu sinh (RWTH Aachen)
+- Marco Malabarba — Nghiên cứu sinh
+- Ujwal Konissery Santhosh — Nghiên cứu sinh
+- Ze Chen — Nghiên cứu sinh
+- Tim Nicolas Charissé — Nghiên cứu sinh
+- Nurbakyt Amanbek — Nghiên cứu sinh
+- Karim Mahmoud — Nghiên cứu sinh
+
+Nguồn: [1](https://www.etap.physik.uni-mainz.de/experiment-juno/), [2](https://neutrino.gsi.de/group_mem.html).
+
+### [AG Oberlack (XENON/COSI)](https://xenon.physik.uni-mainz.de/)
+
+Nhóm nghiên cứu. Trực thuộc: ETAP.
+
+Hạt thiên văn dưới lòng đất và trên trời: tìm vật chất tối trực tiếp với XENONnT/XLZD, kính thiên văn tia gamma MeV COSI (mô phỏng phông nền, xấp xỉ đáp ứng detector bằng mạng nơ-ron), MainzTPC, camera Compton.
+
+- Uwe Oberlack — Giáo sư; trưởng nhóm
+- Alexander Deisting — Nghiên cứu viên
+- Savitri Gallego — Nghiên cứu viên
+- Christopher Hils — Nghiên cứu viên
+- Francesco Lombardi — Nghiên cứu viên
+- Jan Peter Lommler — Nghiên cứu viên
+- Peter György — Nghiên cứu sinh
+- Pascal Janowski — Nghiên cứu sinh
+- Kaveh Kooshkjalali — Nghiên cứu sinh
+- Johannes Merz — Nghiên cứu sinh
+- Constantin Szyszka — Nghiên cứu sinh
+- Peter Hartmann — Sinh viên
+- Theresa Hahn — Sinh viên
+- Bruno Minati — Sinh viên
+- Haoyu Xie — Sinh viên
+
+Nguồn: [1](https://xenon.physik.uni-mainz.de/), [2](https://xenon.physik.uni-mainz.de/cosi/).
 
 ## Philipps-Universität Marburg — Astronomiegeschichte und Beobachtende Astronomie — Marburg
 
@@ -5186,20 +5277,75 @@ Nguồn: [1](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/
 
 ## Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium — Tautenburg
 
-[Cơ cấu](https://www.dpg-physik.de/veranstaltungen/2025/tls): Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena; giám đốc: Markus Roth
+[Cơ cấu](https://www.tls-tautenburg.de/institute/staff): Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena. Hai mảng nghiên cứu: Sao & Hành tinh và Thiên hà ngoài (Extragalaktik), cùng bộ phận kỹ thuật, thiết bị quang học và máy tính khoa học. Giám đốc: Markus Roth; phó giám đốc: Matthias Hoeft.
 
-Không tìm được trang nhân sự hiện tại hay báo cáo thường niên gần đây; mới ghi giám đốc và một nhà khoa học có tên trong thông báo tuyển dụng 2020.
+Danh sách nhân sự đầy đủ từ trang Personal của TLS (11/2026). Trang không ghi chức danh cho người chưa có học vị tiến sĩ, nên vai trò của họ ghi chung là "thành viên nghiên cứu". Nhân viên hành chính không ghi vào bản đồ.
 
-### [Thüringer Landessternwarte](https://www.dpg-physik.de/veranstaltungen/2025/tls)
+### [Sao & Hành tinh](https://www.tls-tautenburg.de/institute/staff)
 
-Đài quan sát. Trực thuộc: TLS.
+Nhóm nghiên cứu. Trực thuộc: TLS.
 
-Nghiên cứu cơ bản vật lý thiên văn với kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới) và trạm LOFAR quốc tế; hành tinh ngoài Hệ Mặt Trời, vật lý sao, thiên văn vô tuyến tần số thấp.
+Hành tinh ngoài Hệ Mặt Trời (vận tốc xuyên tâm, quá cảnh), hình thành sao và hành tinh trong các đám mây khí–bụi, vật lý sao, Mặt Trời; quan sát bằng kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới).
 
-- Markus Roth — GD — giáo sư Đại học Jena
-- Matthias Hoeft — NCV — thiên văn vô tuyến (theo thông báo tuyển dụng 2020)
+- Markus Roth — Giám đốc TLS; giáo sư Đại học Jena; từ 9/2026 là thành viên Ban chấp hành Hội Thiên văn Đức (AG)
+- Artie Hatzes — Giáo sư
+- Christian Andreas — Nghiên cứu viên
+- Hans-Peter Doerr — Nghiên cứu viên
+- Jochen Eislöffel — Nghiên cứu viên
+- Eike W. Guenther — Nghiên cứu viên
+- Michael Hartmann — Nghiên cứu viên
+- Jana Köhler — Nghiên cứu viên
+- Stanislav Melnikov — Nghiên cứu viên
+- Hemanth Pruthvi — Nghiên cứu viên
+- Veronika Schaffenroth — Nghiên cứu viên
+- Daniel Sebastian — Nghiên cứu viên
+- Michael Sigwarth — Nghiên cứu viên
+- Bringfried Stecklum — Nghiên cứu viên
+- Verena Wolf — Nghiên cứu viên
+- Sebastian Podleska — Thành viên nghiên cứu
+- Vincent Prange — Thành viên nghiên cứu
+- Aashana Tripathi — Thành viên nghiên cứu
 
-Nguồn: [1](https://www.dpg-physik.de/veranstaltungen/2025/tls), [2](https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1), [3](https://www.astronomische-gesellschaft.de/en/activities/jobregister/Jobfiles/TLS_announce_staff_20200117.pdf).
+Nguồn: [1](https://www.tls-tautenburg.de/institute/staff), [2](https://www.tls-tautenburg.de/research/planets).
+
+### [Thiên hà ngoài (Extragalaktik)](https://www.tls-tautenburg.de/institute/staff)
+
+Nhóm nghiên cứu. Trực thuộc: TLS.
+
+Thiên hà, đám thiên hà và quasar; sóng xung kích và nhiễu loạn trong khí đám thiên hà quan sát ở bước sóng vô tuyến với trạm LOFAR quốc tế tại Tautenburg; tiến hóa vũ trụ học của thiên hà.
+
+- Matthias Hoeft — Phó giám đốc; giáo sư
+- Helmut Meusinger — Giáo sư
+- Alexander Drabent — Nghiên cứu viên
+- Prateek Gupta — Nghiên cứu viên
+- Duy Hoang — Nghiên cứu viên
+- Sylvio Klose — Nghiên cứu viên
+- John Paul Bernaldez — Thành viên nghiên cứu
+- Shubham Bhagat — Thành viên nghiên cứu
+- Johannes Lindner — Thành viên nghiên cứu
+- Ludwig Pfeifer — Thành viên nghiên cứu
+
+Nguồn: [1](https://www.tls-tautenburg.de/institute/staff), [2](https://www.tls-tautenburg.de/research/extragalactic).
+
+### [Kỹ thuật, thiết bị quang học và máy tính khoa học](https://www.tls-tautenburg.de/institute/staff)
+
+Bộ phận kỹ thuật. Trực thuộc: TLS.
+
+Vận hành kính thiên văn, xưởng điện tử và cơ khí, thiết bị quang học, CNTT và tính toán khoa học.
+
+- Mathias Ball — Công nghệ thông tin
+- Tom Schmidt — Công nghệ thông tin
+- Lea Bohne — Thiết bị quang học
+- Michael Unseld — Thiết bị quang học
+- Lars Maiwald — Máy tính khoa học
+- Christian Högner — Vận hành kính thiên văn
+- Frank Ludwig — Vận hành kính thiên văn
+- Ralf Neubert — Xưởng điện tử
+- Michael Kehr — Xưởng điện tử
+- Johannes Winkler — Xưởng cơ khí
+- Tom Löwinger — Xưởng cơ khí
+
+Nguồn: [1](https://www.tls-tautenburg.de/institute/staff), [2](https://www.tls-tautenburg.de/infrastructure/telescope).
 
 ## Eberhard Karls Universität Tübingen — Institut für Astronomie und Astrophysik (IAAT) — Tübingen
 

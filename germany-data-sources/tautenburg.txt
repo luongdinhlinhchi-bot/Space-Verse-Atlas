@@ -1,12 +1,35 @@
 @inst Thüringer Landessternwarte Tautenburg — Karl-Schwarzschild-Observatorium
-structure: Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena; giám đốc: Markus Roth
-structureUrl: https://www.dpg-physik.de/veranstaltungen/2025/tls
-scope: Không tìm được trang nhân sự hiện tại hay báo cáo thường niên gần đây; mới ghi giám đốc và một nhà khoa học có tên trong thông báo tuyển dụng 2020.
+coverage: full
+structure: Thüringer Landessternwarte Tautenburg (TLS), viện nghiên cứu ngoài đại học của bang Thüringen, liên kết với Đại học Jena. Hai mảng nghiên cứu: Sao & Hành tinh và Thiên hà ngoài (Extragalaktik), cùng bộ phận kỹ thuật, thiết bị quang học và máy tính khoa học. Giám đốc: Markus Roth; phó giám đốc: Matthias Hoeft.
+structureUrl: https://www.tls-tautenburg.de/institute/staff
+scope: Danh sách nhân sự đầy đủ từ trang Personal của TLS (11/2026). Trang không ghi chức danh cho người chưa có học vị tiến sĩ, nên vai trò của họ ghi chung là "thành viên nghiên cứu". Nhân viên hành chính không ghi vào bản đồ.
 
-#unit Thüringer Landessternwarte
-kind: Đài quan sát
+#unit Sao & Hành tinh
 parent: TLS
-topics: Nghiên cứu cơ bản vật lý thiên văn với kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới) và trạm LOFAR quốc tế; hành tinh ngoài Hệ Mặt Trời, vật lý sao, thiên văn vô tuyến tần số thấp.
-src: https://www.dpg-physik.de/veranstaltungen/2025/tls ; https://www.physik.uni-jena.de/pafmedia/199034/2024.pdf?download=1 ; https://www.astronomische-gesellschaft.de/en/activities/jobregister/Jobfiles/TLS_announce_staff_20200117.pdf
-pp: GD — giáo sư Đại học Jena | Markus Roth
-pp: NCV — thiên văn vô tuyến (theo thông báo tuyển dụng 2020) | Matthias Hoeft
+topics: Hành tinh ngoài Hệ Mặt Trời (vận tốc xuyên tâm, quá cảnh), hình thành sao và hành tinh trong các đám mây khí–bụi, vật lý sao, Mặt Trời; quan sát bằng kính Alfred-Jensch 2 m (kính Schmidt lớn nhất thế giới).
+src: https://www.tls-tautenburg.de/institute/staff ; https://www.tls-tautenburg.de/research/planets
+p: Markus Roth | Giám đốc TLS; giáo sư Đại học Jena; từ 9/2026 là thành viên Ban chấp hành Hội Thiên văn Đức (AG) | https://www.tls-tautenburg.de/institute/staff
+pp: GS | Artie Hatzes
+pp: NCV | Christian Andreas; Hans-Peter Doerr; Jochen Eislöffel; Eike W. Guenther; Michael Hartmann; Jana Köhler; Stanislav Melnikov; Hemanth Pruthvi; Veronika Schaffenroth; Daniel Sebastian; Michael Sigwarth; Bringfried Stecklum; Verena Wolf
+pp: Thành viên nghiên cứu | Sebastian Podleska; Vincent Prange; Aashana Tripathi
+
+#unit Thiên hà ngoài (Extragalaktik)
+parent: TLS
+topics: Thiên hà, đám thiên hà và quasar; sóng xung kích và nhiễu loạn trong khí đám thiên hà quan sát ở bước sóng vô tuyến với trạm LOFAR quốc tế tại Tautenburg; tiến hóa vũ trụ học của thiên hà.
+src: https://www.tls-tautenburg.de/institute/staff ; https://www.tls-tautenburg.de/research/extragalactic
+p: Matthias Hoeft | Phó giám đốc; giáo sư | https://www.tls-tautenburg.de/institute/staff
+pp: GS | Helmut Meusinger
+pp: NCV | Alexander Drabent; Prateek Gupta; Duy Hoang; Sylvio Klose
+pp: Thành viên nghiên cứu | John Paul Bernaldez; Shubham Bhagat; Johannes Lindner; Ludwig Pfeifer
+
+#unit Kỹ thuật, thiết bị quang học và máy tính khoa học
+kind: Bộ phận kỹ thuật
+parent: TLS
+topics: Vận hành kính thiên văn, xưởng điện tử và cơ khí, thiết bị quang học, CNTT và tính toán khoa học.
+src: https://www.tls-tautenburg.de/institute/staff ; https://www.tls-tautenburg.de/infrastructure/telescope
+pp: Công nghệ thông tin | Mathias Ball; Tom Schmidt
+pp: Thiết bị quang học | Lea Bohne; Michael Unseld
+pp: Máy tính khoa học | Lars Maiwald
+pp: Vận hành kính thiên văn | Christian Högner; Frank Ludwig
+pp: Xưởng điện tử | Ralf Neubert; Michael Kehr
+pp: Xưởng cơ khí | Johannes Winkler; Tom Löwinger
