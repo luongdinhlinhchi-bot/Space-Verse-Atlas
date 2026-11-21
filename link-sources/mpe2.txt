@@ -1,0 +1,41 @@
+#inst extraterrestrische Physik
+Annika Behrens|https://www.mpe.mpg.de/person/51053/1302618
+Birgit Boller|https://www.mpe.mpg.de/person/17635/1302618
+Surangkhana Buchner|https://www.mpe.mpg.de/person/126015/1302618
+Valentin Emberger|https://www.mpe.mpg.de/person/18218/1302618
+Susanne Friedrich|https://www.mpe.mpg.de/person/100985/1302618
+Gisela Hartner|https://www.mpe.mpg.de/person/17769/1302618
+David Kaltenbrunner|https://www.mpe.mpg.de/person/106565/1302618
+Lars Kassler|https://www.mpe.mpg.de/person/128059/1302618
+Elif Kutdemir Öncü|https://www.mpe.mpg.de/person/154187/1302618
+Gabriella Loparco|https://www.mpe.mpg.de/person/138252/1302618
+Astrid Mayr|https://www.mpe.mpg.de/person/115233/1302618
+Apostolos Menis|https://www.mpe.mpg.de/person/173503/1302618
+Thomas Müller|https://www.mpe.mpg.de/person/106439/1302618
+Yu Voon Ng|https://www.mpe.mpg.de/person/173506/1302618
+Efe Öztaban|https://www.mpe.mpg.de/person/173507/1302618
+Egehan Öztürk|https://www.mpe.mpg.de/person/149781/1302618
+Georgios Rachovitis|https://www.mpe.mpg.de/person/127947/1302618
+Sebastian Splitthoff|https://www.mpe.mpg.de/person/173508/1302618
+Ian Stewart|https://www.mpe.mpg.de/person/100501/1302618
+Veronika Stieglitz|https://www.mpe.mpg.de/person/51901/1302618
+Vittorio Tortorella|https://www.mpe.mpg.de/person/176745/1302618
+Robert Willer|https://www.mpe.mpg.de/person/113380/1302618
+Silas Zelmer|https://www.mpe.mpg.de/person/129548/1302618
+C. Barféty|https://www.mpe.mpg.de/personnel/124849
+Maria Clara Cavalcante|https://www.mpe.mpg.de/personnel/174485
+R. Davies|https://www.mpe.mpg.de/personnel/17676
+Huangschengzhi Ding|https://www.mpe.mpg.de/personnel/129549
+H. Feuchtgruber|https://www.mpe.mpg.de/personnel/17729
+Andrea Fiorilli|https://www.mpe.mpg.de/personnel/124934
+Benedikt Grashey|https://www.mpe.mpg.de/personnel/150331
+Julian Hein|https://www.mpe.mpg.de/personnel/174202
+Marcel Lindmeir|https://www.mpe.mpg.de/personnel/128246
+Alejandro Perez|https://www.mpe.mpg.de/personnel/130471
+Jan-Niklas Pippert|https://www.mpe.mpg.de/personnel/133262
+Michela Prozzo|https://www.mpe.mpg.de/personnel/151144
+C. Pulsoni|https://www.mpe.mpg.de/personnel/37847
+Iliya Tikhonenko|https://www.mpe.mpg.de/personnel/124823
+Sofia Tonelli|https://www.mpe.mpg.de/personnel/173656
+H. Übler|https://www.mpe.mpg.de/personnel/136837
+Andreas Weger|https://www.mpe.mpg.de/personnel/128245

@@ -1,13 +1,14 @@
 @inst Technische Universität Berlin — Zentrum für Astronomie und Astrophysik
-structure: Zentrum für Astronomie und Astrophysik, TU Berlin; giám đốc: Dieter Breitschwerdt
+structure: Fachgruppe Astronomie und Astrophysik (Zentrum für Astronomie und Astrophysik), TU Berlin; ban lãnh đạo theo trang Leitung & Sekretariate (11/2026): Kathrin Egberts, Wolf-Christian Müller, Dirk Schulze-Makuch, Robert Wolf
 structureUrl: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
 scope: Cập nhật theo báo cáo thường niên 2024 (Mitteilungen der AG 108, 2025): các nhóm Büchner và Rauer không còn trong danh sách giáo sư 2024 nên đã bỏ. Gán người vào nhóm dựa trên trang nhóm cũ (đã lưu trữ); người không rõ nhóm để ở mục chung. Không đưa vào nhóm plasma nhiệt hạch của R. Wolf.
 
 #unit Galaktischer Materiekreislauf (Breitschwerdt)
 parent: Zentrum für Astronomie und Astrophysik
 topics: Mô phỏng môi trường liên sao, mây vận tốc cao, quầng thiên hà; vật lý thiên văn phân tử và bụi; vận chuyển 60Fe, Bong bóng Địa phương.
-src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf ; https://www-astro.physik.tu-berlin.de/node/270
-p: Dieter Breitschwerdt | GD | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
+src: https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf ; https://www-astro.physik.tu-berlin.de/node/270 ; https://www.tu.berlin/physik/astro/ueber-uns/leitung-sekretariate
+p: Kathrin Egberts | GS — Strukturprofessur Astrophysik, chuyên ngành chu trình vật chất vũ trụ (theo trang TU Berlin 11/2026) | https://www.tu.berlin/vcard/egberts/175372
+p: Dieter Breitschwerdt | GS — trưởng nhóm, giám đốc theo báo cáo 2024 | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
 p: Beate Patzer | NCV — Akademische Oberrätin | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
 p: Michael Schulreich | NCV | https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf
 x: Miguel de Avillez | Giáo sư khách mời — University of Évora | https://www-astro.physik.tu-berlin.de/node/270

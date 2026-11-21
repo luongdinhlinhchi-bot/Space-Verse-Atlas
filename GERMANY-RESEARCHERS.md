@@ -70,7 +70,7 @@ Nguồn: [1](https://www.sternwarte.uni-erlangen.de/remeis-start/members/).
 
 ## Technische Universität Berlin — Zentrum für Astronomie und Astrophysik — Berlin
 
-[Cơ cấu](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf): Zentrum für Astronomie und Astrophysik, TU Berlin; giám đốc: Dieter Breitschwerdt
+[Cơ cấu](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf): Fachgruppe Astronomie und Astrophysik (Zentrum für Astronomie und Astrophysik), TU Berlin; ban lãnh đạo theo trang Leitung & Sekretariate (11/2026): Kathrin Egberts, Wolf-Christian Müller, Dirk Schulze-Makuch, Robert Wolf
 
 Cập nhật theo báo cáo thường niên 2024 (Mitteilungen der AG 108, 2025): các nhóm Büchner và Rauer không còn trong danh sách giáo sư 2024 nên đã bỏ. Gán người vào nhóm dựa trên trang nhóm cũ (đã lưu trữ); người không rõ nhóm để ở mục chung. Không đưa vào nhóm plasma nhiệt hạch của R. Wolf.
 
@@ -80,7 +80,8 @@ Nhóm nghiên cứu. Trực thuộc: Zentrum für Astronomie und Astrophysik.
 
 Mô phỏng môi trường liên sao, mây vận tốc cao, quầng thiên hà; vật lý thiên văn phân tử và bụi; vận chuyển 60Fe, Bong bóng Địa phương.
 
-- Dieter Breitschwerdt — Giám đốc
+- Kathrin Egberts — GS — Strukturprofessur Astrophysik, chuyên ngành chu trình vật chất vũ trụ (theo trang TU Berlin 11/2026)
+- Dieter Breitschwerdt — GS — trưởng nhóm, giám đốc theo báo cáo 2024
 - Beate Patzer — NCV — Akademische Oberrätin
 - Michael Schulreich — Nghiên cứu viên
 
@@ -88,7 +89,7 @@ Khách mời / thành viên liên kết:
 
 - Miguel de Avillez — Giáo sư khách mời — University of Évora
 
-Nguồn: [1](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf), [2](https://www-astro.physik.tu-berlin.de/node/270).
+Nguồn: [1](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf), [2](https://www-astro.physik.tu-berlin.de/node/270), [3](https://www.tu.berlin/physik/astro/ueber-uns/leitung-sekretariate).
 
 ### [Sonnen- und stellare Plasmaphysik (Müller)](https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf)
 
@@ -1907,9 +1908,11 @@ Chair (Lehrstuhl). Trực thuộc: Physik-Department, TU München.
 
 Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nhân) và tìm vật chất tối (CRESST).
 
+Trang danh sách E15 cũ hiện đã gỡ (11/2026) và có thể không còn cập nhật. Đã bỏ 3 người được xác nhận đã chuyển đi: Tina Pollmann (Đại học Amsterdam từ 2020), Matteo Agostini (UCL) và Christoph Wiesinger (biên chế tại MPIK Heidelberg từ 2025).
+
 - Stefan Schönert — Giáo sư; trưởng nhóm
+- Raimund Strauß — Trưởng nhóm Cryogenic Detectors, điều phối hợp tác NUCLEUS
 - Ahmed Abdelhameed — Nhà khoa học / nghiên cứu sinh
-- Matteo Agostini — Nhà khoa học / nghiên cứu sinh
 - Simon Appel — Nhà khoa học / nghiên cứu sinh
 - Heerak Banerjee — Nhà khoa học / nghiên cứu sinh
 - Elisabetta Bossio — Nhà khoa học / nghiên cứu sinh
@@ -1933,7 +1936,6 @@ Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nh�
 - Luca Maria Pattavina — Nhà khoa học / nghiên cứu sinh
 - Luigi Pertoldi — Nhà khoa học / nghiên cứu sinh
 - Lilly Peters — Nhà khoa học / nghiên cứu sinh
-- Tina Pollmann — Nhà khoa học / nghiên cứu sinh
 - Walter Potzel — Nhà khoa học / nghiên cứu sinh
 - Johannes Rothe — Nhà khoa học / nghiên cứu sinh
 - Nicole Schermer — Nhà khoa học / nghiên cứu sinh
@@ -1941,12 +1943,10 @@ Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nh�
 - Mario Schwarz — Nhà khoa học / nghiên cứu sinh
 - Konstantin Schweizer — Nhà khoa học / nghiên cứu sinh
 - Hans Steiger — Nhà khoa học / nghiên cứu sinh
-- Raimund Strauß — Nhà khoa học / nghiên cứu sinh
 - Marco Vignati — Nhà khoa học / nghiên cứu sinh
 - Christoph Vogl — Nhà khoa học / nghiên cứu sinh
 - Victoria Wagner — Nhà khoa học / nghiên cứu sinh
 - Alexander Wex — Nhà khoa học / nghiên cứu sinh
-- Christoph Wiesinger — Nhà khoa học / nghiên cứu sinh
 - Michael Willers — Nhà khoa học / nghiên cứu sinh
 - Daniya Zinatulina — Nhà khoa học / nghiên cứu sinh
 - Rosanna Deckert — Sinh viên
@@ -5241,7 +5241,7 @@ Professur và nhóm nghiên cứu. Trực thuộc: Institut für Physik und Astr
 Thiên văn tia gamma năng lượng rất cao (H.E.S.S., CTAO), nguồn gốc tia vũ trụ.
 
 - Christian Stegmann — Giáo sư (đồng thời giám đốc DESY Astroparticle Physics)
-- Kathrin Egberts — Privatdozentin — trưởng nhóm
+- Kathrin Egberts — Privatdozentin — trưởng nhóm (trang TU Berlin 11/2026 ghi bà là giáo sư Strukturprofessur Astrophysik ở TU Berlin)
 - Tiffany Collins — Nghiên cứu viên
 - Rowan Batzofin — Nghiên cứu sinh
 - Mohadeseh Ozlati Moghadam — Nghiên cứu sinh

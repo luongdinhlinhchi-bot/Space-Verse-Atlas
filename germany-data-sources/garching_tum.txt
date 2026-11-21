@@ -8,8 +8,10 @@ kind: Chair (Lehrstuhl)
 parent: Physik-Department, TU München
 topics: Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nhân) và tìm vật chất tối (CRESST).
 src: https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1
-pp: GSTN | Stefan Schönert
-pp: Nhà khoa học / nghiên cứu sinh | Ahmed Abdelhameed; Matteo Agostini; Simon Appel; Heerak Banerjee; Elisabetta Bossio; Sarthak Choudhary; Tommaso Comellato; Andreas Erhart; Stephan Fichtinger; Vasile Mihai Ghete; Konstantin Gusev; Florian Henkes; Margarita Kaznacheeva; Angelina Kinast; Gabriele-Elisabeth Körner; Gunther Korschinek; Patrick Krause; Alexander Langenkämper; Andreas Leonhardt; Elizabeth Mondragon Cortes; Moritz Neuberger; Tobias Ortmann; Luca Maria Pattavina; Luigi Pertoldi; Lilly Peters; Tina Pollmann; Walter Potzel; Johannes Rothe; Nicole Schermer; Andreas Schosser; Mario Schwarz; Konstantin Schweizer; Hans Steiger; Raimund Strauß; Marco Vignati; Christoph Vogl; Victoria Wagner; Alexander Wex; Christoph Wiesinger; Michael Willers; Daniya Zinatulina
+note: Trang danh sách E15 cũ hiện đã gỡ (11/2026) và có thể không còn cập nhật. Đã bỏ 3 người được xác nhận đã chuyển đi: Tina Pollmann (Đại học Amsterdam từ 2020), Matteo Agostini (UCL) và Christoph Wiesinger (biên chế tại MPIK Heidelberg từ 2025).
+p: Stefan Schönert | Giáo sư; trưởng nhóm | https://www.professoren.tum.de/en/schoenert-stefan?L=1
+p: Raimund Strauß | Trưởng nhóm Cryogenic Detectors, điều phối hợp tác NUCLEUS | https://www.professoren.tum.de/en/tum-junior-fellows/s/strauss-raimund
+pp: Nhà khoa học / nghiên cứu sinh | Ahmed Abdelhameed; Simon Appel; Heerak Banerjee; Elisabetta Bossio; Sarthak Choudhary; Tommaso Comellato; Andreas Erhart; Stephan Fichtinger; Vasile Mihai Ghete; Konstantin Gusev; Florian Henkes; Margarita Kaznacheeva; Angelina Kinast; Gabriele-Elisabeth Körner; Gunther Korschinek; Patrick Krause; Alexander Langenkämper; Andreas Leonhardt; Elizabeth Mondragon Cortes; Moritz Neuberger; Tobias Ortmann; Luca Maria Pattavina; Luigi Pertoldi; Lilly Peters; Walter Potzel; Johannes Rothe; Nicole Schermer; Andreas Schosser; Mario Schwarz; Konstantin Schweizer; Hans Steiger; Marco Vignati; Christoph Vogl; Victoria Wagner; Alexander Wex; Michael Willers; Daniya Zinatulina
 pp: SV | Rosanna Deckert
 
 #unit Experimental Physics with Cosmic Particles

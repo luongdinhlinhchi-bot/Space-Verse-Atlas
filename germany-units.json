@@ -556,7 +556,7 @@
   },
   "Technische Universität Berlin — Zentrum für Astronomie und Astrophysik": {
    "coverage": "full",
-   "structure": "Zentrum für Astronomie und Astrophysik, TU Berlin; giám đốc: Dieter Breitschwerdt",
+   "structure": "Fachgruppe Astronomie und Astrophysik (Zentrum für Astronomie und Astrophysik), TU Berlin; ban lãnh đạo theo trang Leitung & Sekretariate (11/2026): Kathrin Egberts, Wolf-Christian Müller, Dirk Schulze-Makuch, Robert Wolf",
    "structureUrl": "https://astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/berlin/tu/jb-tu_berlin-2024.pdf",
    "scopeNote": "Cập nhật theo báo cáo thường niên 2024 (Mitteilungen der AG 108, 2025): các nhóm Büchner và Rauer không còn trong danh sách giáo sư 2024 nên đã bỏ. Gán người vào nhóm dựa trên trang nhóm cũ (đã lưu trữ); người không rõ nhóm để ở mục chung. Không đưa vào nhóm plasma nhiệt hạch của R. Wolf.",
    "units": [
@@ -1614,7 +1614,8 @@
      "kind": "Chair (Lehrstuhl)",
      "parent": "Physik-Department, TU München",
      "topics": "Vật lý neutrino (Borexino, GERDA/LEGEND, LENA, tán xạ neutrino–hạt nhân) và tìm vật chất tối (CRESST).",
-     "url": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1"
+     "url": "https://www.ph.tum.de/research/groups/group/TUPHE15/?list=1",
+     "note": "Trang danh sách E15 cũ hiện đã gỡ (11/2026) và có thể không còn cập nhật. Đã bỏ 3 người được xác nhận đã chuyển đi: Tina Pollmann (Đại học Amsterdam từ 2020), Matteo Agostini (UCL) và Christoph Wiesinger (biên chế tại MPIK Heidelberg từ 2025)."
     },
     {
      "name": "Experimental Physics with Cosmic Particles",
