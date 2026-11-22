@@ -1,0 +1,5 @@
+@country FRA
+checked: 2026-11-22
+pin: 4
+coordinateNote: Chỉ vẽ phần lãnh thổ Pháp ở châu Âu. Meudon và Saclay đặt lệch nhẹ khỏi Paris để không chồng chấm.
+listSource: https://www.insu.cnrs.fr/

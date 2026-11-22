@@ -1,0 +1,3519 @@
+{
+ "cities": [
+  {
+   "id": "saclay",
+   "city": "Saclay (Orsay)",
+   "coordinates": [
+    2.17,
+    48.71
+   ],
+   "institutions": [
+    {
+     "name": "CEA Paris-Saclay — Département d'Astrophysique (DAp, Irfu) / UMR AIM",
+     "type": "institute",
+     "research": "Vũ trụ học và thiên hà (Euclid — thiết bị VIS, JWST), hình thành sao và môi trường liên sao, vật lý Mặt Trời và ngoại hành tinh (MIRI/JWST), vật lý thiên văn năng lượng cao (SVOM, XMM-Newton, CTAO), mô phỏng plasma thiên văn; phát triển thiết bị không gian.",
+     "url": "https://irfu.cea.fr/dap/",
+     "coverage": "partial",
+     "structure": "Khoa Vật lý thiên văn của Irfu (CEA), đồng thời là phần chính của đơn vị hỗn hợp AIM (CEA–CNRS–Université Paris Cité); sáu phòng nghiên cứu và một pôle thiết bị.",
+     "structureUrl": "https://irfu.cea.fr/dap/le-departement-d-astrophysique-umr-aim-dap",
+     "scopeNote": "Chỉ có danh sách nhà nghiên cứu biên chế (membres permanents) theo trang từng phòng (11/2026); postdoc, NCS và kỹ sư pôle thiết bị không được công bố.",
+     "units": [
+      {
+       "name": "Vũ trụ học và tiến hóa thiên hà (LCEG)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DAp / AIM",
+       "topics": "Hình thành sao trong thiên hà xa, cụm thiên hà, Euclid, JWST, BlueMUSE.",
+       "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Reza Ansari",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Hervé Aussel",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Emmanuel Bertin",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Catherine Cesarsky",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Sandrine Codis",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Jean-Charles Cuillandre",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Emanuele Daddi",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "David Elbaz",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Emeric Le Floc’h",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Roland Lehoucq",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Joseph Lewis",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Benjamin Magnelli",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         },
+         {
+          "name": "Gabriel Pratt",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Hình thành sao và môi trường liên sao (LFEMI)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DAp / AIM",
+       "topics": "Sợi khí liên sao (Herschel, ArTéMiS), bụi, tia gamma khuếch tán, ngoại hành tinh chụp trực tiếp, MIRI/JWST, PRIMA.",
+       "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Philippe Andre",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Patrice Bouchet",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Jean-Marc Casandjian",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Valentin Christiaens",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Frédéric Galliano",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Isabelle Grenier",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Vianney Lebouteiller",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Suzanne Madden",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Anaëlle Maury",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Alexander Menshchikov",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Eric Pantin",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         },
+         {
+          "name": "Marc Sauvage",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Động lực học sao, ngoại hành tinh và môi trường (LDE3)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DAp / AIM",
+       "topics": "Vật lý Mặt Trời và thời tiết không gian, địa chấn học sao, khí quyển ngoại hành tinh (JWST/MIRI, Ariel).",
+       "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Allan-Sacha Brun",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Elsa Ducrot",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Rafael García Bustinduy",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Antonio García Muñoz",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Angela Gonçalves dos Santos",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Pierre-Olivier Lagage",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Barbara Perri",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         },
+         {
+          "name": "Antoine Strugarek",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Hiện tượng vũ trụ năng lượng cao (LEPCHE)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DAp / AIM",
+       "topics": "Chớp gamma (SVOM, COMCUBE), tàn dư siêu tân tinh, sao đôi X-quang, magnetar, gamma năng lượng cao (Fermi, CTAO, XMM-Newton).",
+       "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jean Ballet",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Renaud Belmont",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Stéphane Corbel",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Anne Decourchelle",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Diego Gotz",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Karl Kosack",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Philippe Laurent",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Jérôme Rodriguez-Vachoux",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Thierry Stolarczyk",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         },
+         {
+          "name": "Damien Turpin",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vũ trụ học và thống kê (CosmoStat)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DAp / AIM",
+       "topics": "Thấu kính hấp dẫn yếu (Euclid), xử lý tín hiệu và học máy cho vũ trụ học, cụm thiên hà X-quang.",
+       "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Samuel Farrens",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+         },
+         {
+          "name": "Martin Kilbinger",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+         },
+         {
+          "name": "Jean-Luc Starck",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+         },
+         {
+          "name": "François Lanusse",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+         },
+         {
+          "name": "Marguerite Pierre",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+         },
+         {
+          "name": "Natalia Porqueres",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://irfu.cea.fr/dap/cosmologie-et-statistiques/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Mô hình hoá plasma thiên văn (LMPA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DAp / AIM",
+       "topics": "Siêu tân tinh suy sụp lõi, magnetar, hình thành sao, MHD số.",
+       "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Matteo Bugli",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         },
+         {
+          "name": "Thierry Foglizzo",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         },
+         {
+          "name": "Matthias González",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         },
+         {
+          "name": "Jérôme Guilet",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         },
+         {
+          "name": "Patrick Hennebelle",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         },
+         {
+          "name": "Ugo Lebreuilly",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         },
+         {
+          "name": "Raphaël Raynaud",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Institut d'Astrophysique Spatiale (IAS) — Université Paris-Saclay / CNRS",
+     "type": "institute",
+     "research": "Vũ trụ học (Planck/HFI, nền vi sóng vũ trụ, bolometer), môi trường liên sao và bụi (Herschel, JWST), vật lý Mặt Trời và sao (Solar Orbiter, SOHO), hành tinh và thiên thể nhỏ (Mars, Mercury, sao chổi, ngoại hành tinh), hoá học thiên văn thực nghiệm; chế tạo thiết bị không gian.",
+     "url": "https://www.ias.universite-paris-saclay.fr/",
+     "coverage": "limited",
+     "structure": "Đơn vị hỗn hợp UMR 8617 (CNRS – Université Paris-Saclay) tại Orsay; năm đội khoa học (Astrochimie & Origines, AMIS, Cosmologie, Hệ Mặt Trời & hệ hành tinh, Mặt Trời & sao) cùng các nền tảng IDOC và PARADISE.",
+     "structureUrl": "https://www.ias.universite-paris-saclay.fr/sites/default/files/laboratoire/ORGANIGRAMME_janvier%202026_General.pdf",
+     "scopeNote": "Danh bạ IAS chuyển sang máy chủ mới và không truy cập được (11/2026); chỉ ghi ban giám đốc theo báo cáo HCERES và trưởng đội được nêu trên trang từng đội.",
+     "units": [
+      {
+       "name": "Ban giám đốc và trưởng đội",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAS",
+       "topics": "—",
+       "url": "https://www.ias.universite-paris-saclay.fr/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marc Ollivier",
+          "role": "Ban giám đốc (theo HCERES)",
+          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         },
+         {
+          "name": "Marian Douspis",
+          "role": "Ban giám đốc (theo HCERES)",
+          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         },
+         {
+          "name": "Zahia Djouadi",
+          "role": "Trưởng đội Astrochimie & Origines",
+          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         },
+         {
+          "name": "Emilie Habart",
+          "role": "Trưởng đội Môi trường liên sao (AMIS)",
+          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         },
+         {
+          "name": "Laura Salvati",
+          "role": "Đồng trưởng đội Vũ trụ học",
+          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         },
+         {
+          "name": "Éric Buchlin",
+          "role": "Trưởng đội Vật lý Mặt Trời và sao",
+          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ],
+   "offset": [
+    14.0,
+    12.0
+   ]
+  },
+  {
+   "id": "meudon",
+   "city": "Meudon",
+   "coordinates": [
+    2.23,
+    48.8
+   ],
+   "institutions": [
+    {
+     "name": "Observatoire de Paris-PSL — LIRA (Laboratoire d'instrumentation et de recherche en astrophysique)",
+     "type": "institute",
+     "research": "Hệ Mặt Trời-hành tinh và sao-ngoại hành tinh, khí quyển Trái Đất và hành tinh, thiên hà phân giải sao và quần thể sao; thiết kế và chế tạo thiết bị không gian và mặt đất (SPHERE, GRAVITY, MICADO, JUICE, PLATO, Solar Orbiter).",
+     "url": "https://lira.obspm.fr/",
+     "coverage": "full",
+     "structure": "Một trong ba khoa học bộ của Observatoire de Paris-PSL, lập ngày 1/1/2025 từ việc hợp nhất các đội của LESIA, LERMA và GEPI; khoảng 300 thành viên tại Meudon và Paris. Sáu pôle: Sao & Thiên hà, Độ phân giải góc cao, Nhật quyển & Plasma, Hành tinh học, Hệ ngoại hành tinh, Kỹ thuật.",
+     "structureUrl": "https://lesia.obspm.fr/Le-LESIA-est-devenu-le-LIRA-au-1er.html",
+     "scopeNote": "Đủ danh sách theo Annuaire LIRA lọc theo từng pôle (11/2026); người thuộc nhiều pôle chỉ ghi ở pôle đầu tiên. Trang không ghi chức danh nên vai trò để chung; một số người có trang cá nhân. Bỏ pôle Hành chính.",
+     "units": [
+      {
+       "name": "Pôle Sao và Thiên hà (ETGA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LIRA, Observatoire de Paris-PSL",
+       "topics": "Địa chấn học sao (PLATO), khảo cổ Ngân Hà (Gaia), quần thể sao, sao khối lượng lớn, môi trường liên sao 3D.",
+       "url": "https://lira.obspm.fr/-Poles-scientifiques-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pierre Kervella",
+          "role": "Thành viên pôle",
+          "url": "http://lesia.obspm.fr/perso/pierre-kervella"
+         },
+         {
+          "name": "Benoît Mosser",
+          "role": "Thành viên pôle",
+          "url": "https://sites.lesia.obspm.fr/benoit-mosser/"
+         },
+         {
+          "name": "Coralie Neiner",
+          "role": "Thành viên pôle",
+          "url": "http://lesia.obspm.fr/perso/coralie-neiner"
+         },
+         {
+          "name": "Daniel Reese",
+          "role": "Thành viên pôle",
+          "url": "http://lesia.obspm.fr/perso/daniel-reese/"
+         },
+         {
+          "name": "Karim Abd El Dayem",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Jannat Alazzawi",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Caroline Barban",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Kevin Belkacem",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Tristan Boin",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Piercarlo Bonifacio",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Elisabetta Caffau",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Laia Casamiquela Floriach",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Paola Di Matteo",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Patrick Francois",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Lahoucine Ghouchou",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Adrien Girardot",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Ana Gomez",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Marie-Jo Goupil",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Francois Hammer",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Misha Haywood",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Blaise Jacob",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "David Katz",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Wilma Kiviaho",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Jonathan Labadie-Bartz",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Rosine Lallement",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Chervin Laporte",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Yveline Lebreton",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Ducheng Lu",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Louis Manchon",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Eric Michel",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Richard Monier",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Miguel Montargès",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Niklas Moszczynski",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Rhita-Maria Ouazzani",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Zhaohang Peng",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Jordan Philidet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Christian Renié",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Noel Robichon",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Frederic Royer",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Davoud-Reza Samadi",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Monique Spite",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Didier Tiphène",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         },
+         {
+          "name": "Yanbin Yang",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lira.obspm.fr/-Annuaire-?pole=ETGA"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Pôle Độ phân giải góc cao (HRAA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LIRA, Observatoire de Paris-PSL",
+       "topics": "Quang học thích ứng, giao thoa kế (GRAVITY+), MICADO/ELT, lỗ đen trung tâm Ngân Hà.",
+       "url": "https://lira.obspm.fr/-Poles-scientifiques-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Johan Mazoyer",
+          "role": "Thành viên pôle",
+          "url": "http://johanmazoyer.com/"
+         },
+         {
+          "name": "Daniel Rouan",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/daniel-rouan/"
+         },
+         {
+          "name": "Anton Afanasyev",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Pierre Baudoz",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Anthony Berdeu",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Cyrille Blanchard",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Garance Bras",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Julien Brulé",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Frédéric Chapron",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Yann Clénet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Jean Commere",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Vincent Coudé du Foresto",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Roderick Dembet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Olivier Dupuis",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Raphaël Galicher",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Eric Gendron",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Marie Glanc",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Lucie Hamel",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Elsa Huby",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Sylvestre Lacour",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Iva Laginja",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Vincent Lapeyrere",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Nicolas Levraud",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Florian Moura Ferreira",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Mathias Nowak",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Thibaut Paumard",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Guy Perrin",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Ekaterina Sivkova",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Irene Urso",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Pierre Vermot",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Fabrice Vidal",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         },
+         {
+          "name": "Frédéric Vincent",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lira.obspm.fr/-Annuaire-?pole=HRAA"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Pôle Nhật quyển và Plasma thiên văn (HPA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LIRA, Observatoire de Paris-PSL",
+       "topics": "Gió Mặt Trời, vô tuyến Mặt Trời và hành tinh (NenuFAR), Parker Solar Probe, Solar Orbiter, từ trường Mặt Trời.",
+       "url": "https://lira.obspm.fr/-Poles-scientifiques-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Olga Alexandrova",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/olga-alexandrova/"
+         },
+         {
+          "name": "Veronique Bommier",
+          "role": "Thành viên pôle",
+          "url": "http://lesia.obspm.fr/perso/veronique-bommier/"
+         },
+         {
+          "name": "Xavier Bonnin",
+          "role": "Thành viên pôle",
+          "url": "https://sites.lesia.obspm.fr/xavier-bonnin/"
+         },
+         {
+          "name": "Carine Briand",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/carine-briand/"
+         },
+         {
+          "name": "Baptiste Cecconi",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/baptiste-cecconi/"
+         },
+         {
+          "name": "Pascal Démoulin",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/pascal-demoulin/"
+         },
+         {
+          "name": "Karine Issautier",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/karine-issautier/"
+         },
+         {
+          "name": "Milan Maksimovic",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/milan-maksimovic/"
+         },
+         {
+          "name": "Jean-Marie Malherbe",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/jean-marie-malherbe/"
+         },
+         {
+          "name": "Nicole Meyer",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/perso/nicole-meyer/"
+         },
+         {
+          "name": "Filippo Pantellini",
+          "role": "Thành viên pôle",
+          "url": "https://sites.lesia.obspm.fr/filippo-pantellini"
+         },
+         {
+          "name": "Philippe Zarka",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/philippe-zarka/"
+         },
+         {
+          "name": "Arnaud Zaslavsky",
+          "role": "Thành viên pôle",
+          "url": "https://sites.lesia.obspm.fr/arnaud-zaslavsky/"
+         },
+         {
+          "name": "Jean Aboudarham",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Shilpi Bhunia",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Isabelle Buale",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Florence Cornu",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Daniel Crussaire",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Laura Debisschop",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Moustapha Dekkali",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Quentin Duchene",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Nicolas Fuller",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Julien Girard",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Léa Griton",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Lucas Grosset",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Ahmed Houeibib",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Karl-Ludwig Klein",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Laurent Lamy",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Alain Lecacheux",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Alan Loh",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Corentin Louis",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Emilie Mauduit",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Quynh Nhu Nguyen",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "David Paipa Leon",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Renaud Romagnan",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Erwan Rouille",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Pauline Teysseyre",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Baptiste Verkampt",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Nicole Vilmer",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Jinge Zhang",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         },
+         {
+          "name": "Xiang Zhang",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lira.obspm.fr/-Annuaire-?pole=HPA"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Pôle Hành tinh học (PLT)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LIRA, Observatoire de Paris-PSL",
+       "topics": "Khí quyển hành tinh, sao chổi và thiên thể nhỏ, thiết bị dưới mm (JUICE/SWI), thiên văn phòng thí nghiệm, viễn thám Trái Đất.",
+       "url": "https://lira.obspm.fr/-Poles-scientifiques-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Benjamin Charnay",
+          "role": "Thành viên pôle",
+          "url": "https://lesia.obspm.fr/perso/benjamin-charnay/"
+         },
+         {
+          "name": "Stéphane Erard",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/stephane-erard/"
+         },
+         {
+          "name": "Philippe Thébault",
+          "role": "Thành viên pôle",
+          "url": "http://lesia.obspm.fr/perso/philippe-thebault/"
+         },
+         {
+          "name": "Thomas Widemann",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/thomas-widemann/"
+         },
+         {
+          "name": "Filipe Aires",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Bruno Bézard",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Saoud Baouche",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Deborah Bardet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Antonella Barucci",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Tanguy Bertrand",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Nicolas Biver",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Dominique Bockelée-Morvan",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Felipe Braga Ribas",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Henda Chaabouni",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Cassandre Chaudesaygues",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Tanguy Chope",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Vincent Cobut",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Emanuele Congiu",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Athéna Coustenis",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Gael David",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Yan Delorme",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Daniéla Despan",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Alain Doressoundiram",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Francois Dulieu",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Thérèse Encrenaz",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Sara Falcionella",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Alexandre Feret",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Sonia Fornasier",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Thierry Fouchet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Lina Gatilova",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Basile Husquinet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Sophie Jacquinod",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Carlos Jimenez",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Lise Kilic",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Quentin Kral",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Jean-Michel Krieg",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Emmanuel Lellouch",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Cédric Leyrat",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Michele Lissoni",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Alain Maestrini",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Frédéric Merlin",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Raphael Moreno",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Catherine Prigent",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Françoise Roques",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Valeriia Sokolova",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Damya Souami",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Robin Sultana",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Titouan Teissieres",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Catalina Torres",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Jeanne Treuttel",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Thibaut Vacelet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Jérôme Valentin",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Sandrine Vinatier",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Julie Vitorino",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Antonin Wargnier",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Martina Wiedner",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         },
+         {
+          "name": "Vladimir Zakharov",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lira.obspm.fr/-Annuaire-?pole=PLT"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Pôle Hệ ngoại hành tinh (EXOPL)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LIRA, Observatoire de Paris-PSL",
+       "topics": "Chụp ảnh trực tiếp ngoại hành tinh (SPHERE), đĩa mảnh vụn, khí quyển ngoại hành tinh. Nhiều thành viên đồng thời thuộc các pôle khác.",
+       "url": "https://lira.obspm.fr/-Poles-scientifiques-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Anthony Boccaletti",
+          "role": "Thành viên pôle",
+          "url": "http://www.lesia.obspm.fr/perso/anthony-boccaletti/"
+         },
+         {
+          "name": "Nicole Allard",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=EXOPL"
+         },
+         {
+          "name": "Paul Huet",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=EXOPL"
+         },
+         {
+          "name": "Anne-Marie Lagrange",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=EXOPL"
+         },
+         {
+          "name": "Clement Perrot",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=EXOPL"
+         },
+         {
+          "name": "Christian Wilkinson",
+          "role": "Thành viên pôle",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=EXOPL"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lira.obspm.fr/-Annuaire-?pole=EXOPL"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Pôle Kỹ thuật",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LIRA, Observatoire de Paris-PSL",
+       "topics": "Kỹ sư thiết kế, chế tạo và vận hành thiết bị mặt đất và không gian.",
+       "url": "https://lira.obspm.fr/-Poles-scientifiques-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alain Coulais",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/perso/alain-coulais/"
+         },
+         {
+          "name": "Emmanuel Grolleau",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://sites.lesia.obspm.fr/emmanuel-grolleau/"
+         },
+         {
+          "name": "Florence Henry",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://sites.lesia.obspm.fr/florence-henry/"
+         },
+         {
+          "name": "Pierre-Luc Astier",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Gaele Barbary",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Pernelle Bernardi",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Marion Bonafous",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Jean-Tristan Buey",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Frederic Dauplay",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Séphan Diana",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Daniel Dias",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Richard Douet",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Yan Feng",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Videsh Gamage",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Gregory Gay",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Pierre-Vincent Gouel",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Yanis Gougeat",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Goran Greblo",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Abdallah Hamini",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Eléonore Holle",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Karim Hussein",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Ihsan Ibn Taïeb",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Vincent Lamande",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Bertrand Le Ruyet",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Bryan Lucas",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Lee-Roy Malac-Allain",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Pierre-Yves Martin",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Sheryar Masood",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Napoléon Nguyen Tuong",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Laurent Nussbaum",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Jérôme Parisot",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Eitan Pechevis",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Augustin Pelage",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Denis Perret",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Philippe Plasson",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Jean-Michel Réess",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Arnaud Sevin",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Sudagar Vassin",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Didier Zeganadin",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         },
+         {
+          "name": "Laurent Zhang",
+          "role": "Kỹ sư / nhân sự kỹ thuật",
+          "url": "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lira.obspm.fr/-Annuaire-?pole=TECH"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ],
+   "offset": [
+    -14.0,
+    10.0
+   ]
+  },
+  {
+   "id": "paris",
+   "city": "Paris",
+   "coordinates": [
+    2.35,
+    48.86
+   ],
+   "institutions": [
+    {
+     "name": "Laboratoire AstroParticule et Cosmologie (APC) — Université Paris Cité / CNRS / CEA",
+     "type": "institute",
+     "research": "Vật lý thiên văn năng lượng cao và đa thông điệp (gamma, neutrino, tia vũ trụ, SVOM), vũ trụ học (CMB, khảo sát cấu trúc lớn), sóng hấp dẫn (LISA, Virgo), vật lý lý thuyết.",
+     "url": "https://apc.u-paris.fr/",
+     "coverage": "full",
+     "structure": "Đơn vị hỗn hợp UMR 7164 (Université Paris Cité, CNRS/IN2P3, CEA, Obs. Paris); 5 nhóm nghiên cứu (Hautes Énergies, Cosmologie, Gravitation, Particules, Théorie) và các dịch vụ kỹ thuật.",
+     "structureUrl": "https://apc.u-paris.fr/",
+     "scopeNote": "Đủ thành viên bốn nhóm Hautes Énergies, Cosmologie, Gravitation và Théorie theo annuaire APC (11/2026); bỏ nhóm Particules (vật lý neutrino lò phản ứng) và các dịch vụ. Annuaire không ghi chức danh và không có trang cá nhân.",
+     "units": [
+      {
+       "name": "Gravitation",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "APC",
+       "topics": "Sóng hấp dẫn (Virgo, LISA, Einstein Telescope), phân tích dữ liệu LISA.",
+       "url": "https://apc.u-paris.fr/fr/gravitation",
+       "researchers": {
+        "people": [
+         {
+          "name": "Isander-Louis Ahrend",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Lukas Kerim Arda",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Stanislav Babak",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Quentin Baghi",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Matteo Barsuglia",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Eleonora Capocasa",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Eric Chassande Mottin",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Marius Cordier",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Théo Courty",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Jacques Ding",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Saptarshi Ghosh",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Hubert Halloin",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Francesco Iraci",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Clément Jacquet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Adrian Macquet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Sara Manzini",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Giorgio Mentasti",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Alphonse Moreau",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Lucas Pardessus",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Antoine Petiteau",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Edward Porter",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Thomas Sainrat",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Liu Tao",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Léon Vidal",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý thiên văn năng lượng cao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "APC",
+       "topics": "Thiên văn gamma (H.E.S.S., CTAO), neutrino (KM3NeT, ANTARES), tia vũ trụ (Pierre Auger), chớp gamma (SVOM), sao đôi X-quang, đa thông điệp.",
+       "url": "https://apc.u-paris.fr/fr/astrophysique-haute-energie",
+       "researchers": {
+        "people": [
+         {
+          "name": "Justin Albinet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Denis Allard",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Julien Aublin",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Bruny Baret",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Yvonne Becherini",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Tomas Bylund",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Floriane Cangemi",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Marie-Sophie Carrasco",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Fabien Casse",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Matteo Cerruti",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Sylvain Chaty",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Alexis Coleiro",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Alexandre Creusot",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Arache Djannati-Ataï",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Corinne Donzaud",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Kirsty Feijen",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Stefano Gabici",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Paolo Goldoni",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Andrea Goldwurm",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Noa Grollimund",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Lea Heckmann",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Bruno Khelifi",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Cyril Emmanuel Lachaud",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Mathieu Lamoureux",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Philippe Laurent",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Anne Lemiere",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Zheyu Lin",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Enzio M'Sihid",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Sacha Mugnier",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Etienne Parizot",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Pierre Pichard",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Santiago Pita",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Michael Punch",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Gwendal Richomme",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Xavier Rodrigues",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Waddia Summan",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Regis Terrier",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Minh Bao Ton That",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Peggy Varniere",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Isabelle Yvon",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vũ trụ học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "APC",
+       "topics": "Nền vi sóng vũ trụ (Planck, LiteBIRD, Simons Observatory, QUBIC), cấu trúc lớn (DESI, LSST/Rubin, Euclid), cụm thiên hà.",
+       "url": "https://apc.u-paris.fr/fr/cosmologie",
+       "researchers": {
+        "people": [
+         {
+          "name": "Eric Aubourg",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Artem Basyrov",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Benjamin Beringue",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Martin Bucher",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Gabriel Chardin",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Eva Elkhoury",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Josquin Errard",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Kenneth Ganga",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Jean-Christophe Hamilton",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Alexandre Huchet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Katherine Laliotis",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Lia Lammert",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Malcolm Landais",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Sotirios Sauveur Loucatos",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Nicolas Mai",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Pierre Masson",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Simona Mei",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Calum Murray",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Michel Piat",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Anna Preto",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Elisa Radjabou",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Marina Ricci",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Cyrille Rosset",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Cecile Roucelle",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Radoslaw Stompor",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Paul Tagnon",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Julien Tang",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Timothée Tollet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Stephen Torchinsky",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Hoang Viet Tran",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Vinh Phat Tran",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Amalia Villarrubia Aguilar",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Anais Widmer",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Lý thuyết",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "APC",
+       "topics": "Vũ trụ học lý thuyết, vật lý hạt thiên văn, neutrino trong vũ trụ, tia vũ trụ, hấp dẫn lượng tử.",
+       "url": "https://apc.u-paris.fr/fr/theorie",
+       "researchers": {
+        "people": [
+         {
+          "name": "Thomas Apostolidis",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Damien Begue",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Théodore Bertrand",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Jeffrey Blunier",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Thomas Colas",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Oscar Combaluzier Szteinsznaider",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Philippe Fourquet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Gwenael Giacinti",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Eric Huguet",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Maksim Kleimenov",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Alexander Korochkin",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Ilias Kyritsis",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Marc Lachieze Rey",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "David Langlois",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Sébastien Le Bihan",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Martin Lemoine",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Wenlian Li",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Alessandro Longo",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Jihad Mourad",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Andrii Neronov",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Francesco Nitti",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Andrea Olzi",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Jean-Loup Raymond",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Luca Santoni",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Dmitri Semikoz",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Julien Serreau",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Leonardo Stanzani",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Maria Cristina Volpe",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         },
+         {
+          "name": "Zhanfeng Zhu",
+          "role": "Thành viên nhóm",
+          "url": "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Institut d'Astrophysique de Paris (IAP)",
+     "type": "institute",
+     "research": "Vũ trụ học (CMB/Planck, Euclid, cấu trúc lớn), hình thành và tiến hóa thiên hà, hấp dẫn tương đối tính và sóng hấp dẫn, ngoại hành tinh, vật lý thiên văn năng lượng cao; mô phỏng số trên máy tính hiệu năng cao.",
+     "url": "https://www.iap.fr/",
+     "coverage": "limited",
+     "structure": "Đơn vị hỗn hợp UMR 7095 của CNRS và Sorbonne Université, thành lập năm 1936; năm đội nghiên cứu (trong đó có GReCO — hấp dẫn tương đối tính và vũ trụ học) cùng các \"dự án chiến lược\".",
+     "structureUrl": "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf",
+     "scopeNote": "Trang web IAP đang được thay bằng một trang tạm (19/11/2026) và không còn danh bạ nhân sự; chỉ ghi ban giám đốc theo báo cáo đánh giá HCERES 2025.",
+     "units": [
+      {
+       "name": "Ban giám đốc",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAP",
+       "topics": "—",
+       "url": "https://www.iap.fr/",
+       "researchers": {
+        "people": [
+         {
+          "name": "François Bouchet",
+          "role": "Ban giám đốc (theo báo cáo HCERES 2025)",
+          "url": "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf"
+         },
+         {
+          "name": "Kumiko Kotera",
+          "role": "Ban giám đốc (theo báo cáo HCERES 2025)",
+          "url": "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Observatoire de Paris-PSL — LTE (Laboratoire Temps Espace, gồm IMCCE và SYRTE cũ)",
+     "type": "institute",
+     "research": "Lịch thiên văn và cơ học thiên thể (lịch INPOP, ổn định Hệ Mặt Trời, tiến hóa khí hậu cổ), thiên thể nhỏ và vệ tinh (Gaia, che khuất sao, sao băng FRIPON), hệ quy chiếu thời gian-không gian, đồng hồ nguyên tử, tự quay Trái Đất, lịch sử thiên văn.",
+     "url": "https://lte.observatoiredeparis.psl.eu/",
+     "coverage": "partial",
+     "structure": "Khoa học bộ thứ ba của Observatoire de Paris-PSL, lập 1/1/2025 từ việc hợp nhất SYRTE và IMCCE; chín đội nghiên cứu.",
+     "structureUrl": "https://lte.observatoiredeparis.psl.eu/-Equipes-de-recherche-",
+     "scopeNote": "Chỉ lấy ba đội thiên văn thuộc IMCCE cũ (ASD, PEGASE, ACME) theo trang thành viên của từng đội; các đội đo lường thời gian, nguyên tử và hệ quy chiếu của SYRTE cũ chưa đưa vào. Danh bạ LTE cần đăng nhập.",
+     "units": [
+      {
+       "name": "ASD — Thiên văn và hệ động lực",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LTE, Observatoire de Paris-PSL",
+       "topics": "Lịch hành tinh INPOP, ổn định lâu dài Hệ Mặt Trời, nghiệm thiên văn cho khí hậu cổ Trái Đất và Sao Hỏa, động lực học hệ ngoại hành tinh, hệ Hamilton.",
+       "url": "https://www.imcce.fr/recherche/equipes/asd/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alain Albouy",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Gwenaël Boué",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Alain Chenciner",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Pierre Auclair-Desrotour",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Jacques Féjoz",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Jacques Laskar",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Laurent Niederman",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Nicolas Rambaux",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Philippe Robutel",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "David Sauzin",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Pau Bujons",
+          "role": "Kỹ sư",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Mickaël Gastineau",
+          "role": "Kỹ sư",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Hervé Manche",
+          "role": "Kỹ sư",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Eliaz Pitavy",
+          "role": "Kỹ sư",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Mar Giralt",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Paul Ramond",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Arsen Sultanov",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Yujing Wu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Aya Alnajjarine",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Baptiste Loire",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Pierre-Louis Phan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Alexandre Prieur",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         },
+         {
+          "name": "Julie Vermersch",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/asd/members"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.imcce.fr/recherche/equipes/asd/members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "PEGASE — Hành tinh học và động lực học thiên thể nhỏ",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LTE, Observatoire de Paris-PSL (đặt tại Đài thiên văn Lille)",
+       "topics": "Vệ tinh tự nhiên và vành đai, tiểu hành tinh đôi, sao băng, che khuất sao, dữ liệu Gaia cho thiên thể nhỏ.",
+       "url": "https://www.imcce.fr/recherche/equipes/pegase/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Kevin Baillié",
+          "role": "Trưởng đội",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Josselin Desmars",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Marc Fouchard",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Daniel Hestroffer",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Valéry Lainey",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Stéfan Renner",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Vincent Robert",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Melaine Saillenfest",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Jérémie Vaubaillon",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Alain Vienne",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Jean-Louis Simon",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Jean-Eudes Arlot",
+          "role": "Nhà thiên văn / GS danh dự",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Bruno Sicardy",
+          "role": "Nhà thiên văn / GS danh dự",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "William Thuillot",
+          "role": "Nhà thiên văn / GS danh dự",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Simon Anghel",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Yaqiong Wang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Aisha Ashimbekova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Alexandre Bougakov",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Raphaël Lallemand",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Ziyu Liu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Shunjing Zhao",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         },
+         {
+          "name": "Pedro David",
+          "role": "Kỹ sư",
+          "url": "https://www.imcce.fr/recherche/equipes/pegase/members"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.imcce.fr/recherche/equipes/pegase/members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "ACME — Thiên thể nhỏ, sao băng và quan sát",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LTE, Observatoire de Paris-PSL",
+       "topics": "Quan sát và quỹ đạo tiểu hành tinh, mạng camera sao băng FRIPON, dịch vụ dữ liệu thiên thể nhỏ.",
+       "url": "https://www.imcce.fr/recherche/equipes/acme/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jérôme Berthier",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Mirel Birlan",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "François Colas",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Florent Deleflie",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Pascal Descamps",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Lucie Maquet",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Jonathan Normand",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Frédéric Vachier",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         },
+         {
+          "name": "Julien Dubouil",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.imcce.fr/recherche/equipes/acme/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.imcce.fr/recherche/equipes/acme/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Observatoire de Paris-PSL — LUX (Centre de recherche en astronomie et astrophysique)",
+     "type": "institute",
+     "research": "Vật lý thiên văn tương đối tính và năng lượng cao (sao neutron, lỗ đen, sóng hấp dẫn, CTAO, SVOM), vũ trụ học và tiến hóa thiên hà (Euclid, SKA, ALMA), môi trường liên sao và plasma, detector MKID.",
+     "url": "https://lux.observatoiredeparis.psl.eu/",
+     "coverage": "full",
+     "structure": "Một trong ba khoa học bộ của Observatoire de Paris-PSL (hình thành 2025 từ các đội LUTH, LERMA, GEPI); giám đốc Philippe Grandclement, phó giám đốc Philippe Salomé và Susanna Vergani. Ba đội khoa học ASTRE, COSGAL, MIS-PLASMAS và đội R&D Detector.",
+     "structureUrl": "https://lux.observatoiredeparis.psl.eu/-Organisation-",
+     "scopeNote": "Đủ thành viên theo trang của từng đội (11/2026), có phân loại nhà nghiên cứu, kỹ sư, postdoc, NCS và danh dự. Trang không có hồ sơ cá nhân; danh bạ Observatoire cần đăng nhập.",
+     "units": [
+      {
+       "name": "ASTRE — Vật lý thiên văn tương đối tính và năng lượng cao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUX, Observatoire de Paris-PSL",
+       "topics": "Sao neutron, lỗ đen, sóng hấp dẫn, dòng phụt tương đối tính, thiên văn gamma (H.E.S.S., CTAO), chớp gamma (SVOM), SageManifolds.",
+       "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Laura Bernard",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Guillaume Voisin",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Valentina Abril-Melgarejo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Halim Ashkar",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Tomas Bylund",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Pierre Cristofari",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Eric Gourgoulhon",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Philippe Grandclement",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Aaron Held",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Alexandre Le Tiec",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Zakaria Meliani",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Fabrice Mottez",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Christophe Sauty",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Susanna Vergani",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Andreas Zech",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Onur Ates",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Yannis Canton",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Ulysse Chosson",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Marco Mancini",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Fabrice Roy",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Mathieu Servillat",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Arwa Elhashash",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Sofia Bisero",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Hugo Candan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Tom Colin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Theo Francez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Marine Garnichey",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Baptiste Le Nagat Neher",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Victor Schyns",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Paloma Thevenet",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Georges Alecian",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Catherine Boisson",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Hélène Sol",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         },
+         {
+          "name": "Grazyna Stasinska",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lux.observatoiredeparis.psl.eu/-ASTRE-"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "COSGAL — Vũ trụ học và thiên hà",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUX, Observatoire de Paris-PSL",
+       "topics": "Tiến hóa thiên hà gần và xa, vũ trụ học số, tái ion hoá (SKA, NenuFAR), khí phân tử (ALMA, IRAM), Euclid, JWST, MOONS, MOSAIC/ELT.",
+       "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Anaëlle Hallé",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Pier-Stefano Corasaniti",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Jean-Michel Alimi",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Fabienne Casoli",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Andrea Cattaneo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Françoise Combes",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Hector Flores",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Marc Huertas-Company",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Mathieu Langer",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Amandine Le Brun",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Jean-Michel Martin",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Anne-Laure Melchior",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Florent Mertens",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Mathieu Puech",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Yann Rasera",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Philippe Salomé",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Benoît Semelin",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Cyril Tasse",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Maxime Trebitsch",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "David Valls-Gabaud",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Yaye-Awa Ba",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Aristide Doussot",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Nicolas Moreau",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Grégory Sainton",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Ivana Beslic",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "David Cornu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Himanish Ganjoo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Ian Hothi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Eleni Tsaprazi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Dilruwan Dehiwalage-Don",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Fabien Castillo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Romane Cologni",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Florian Dedieu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Théo Gayoux",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Kevin Luke",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Nathan Meagher",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Clemente Riesco Bravo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Louen Robin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Estelle Salibur",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Aashiya Shaji",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Adrian Szpilfidel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Felix Tornatore",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Adam Zarka",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Jean-François Lestrade",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "Wim van Driel",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         },
+         {
+          "name": "François Viallefond",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lux.observatoiredeparis.psl.eu/-COSGAL-"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "MIS-PLASMAS — Môi trường liên sao và plasma",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUX, Observatoire de Paris-PSL",
+       "topics": "Hoá học và vật lý môi trường liên sao, hình thành sao, plasma thiên văn trong phòng thí nghiệm, dữ liệu nguyên tử-phân tử.",
+       "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Emeric Bron",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Andrea Ciardi",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Christian Balança",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Andrea Bracco",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Sylvie Cabrit",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Fabrice Dayou",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Fabrice Debbasch",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Franck Delahaye",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Stefano Gabici",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Maryvonne Gerin",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Franck Le Petit",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Laurent Pagani",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Jean-François Panis",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Jérôme Pety",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Arno Vanthieghem",
+          "role": "Nhà nghiên cứu",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Christophe Blaess",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Norbert Champion",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "David Languignon",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Carlo-Maria Zwolf",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Vo Hong Minh Phan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Milan Sil",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Victor Tranchant",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Weipeng Yao",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Gaia Bilosi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Antoine Hacquard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Armand Karami",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Maya Lemaitre",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Coline Mahob",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Nathan Maindon",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Helena Mazurek",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Aurélien Piluso",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Ulysse Remond",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Thershi Seebaruth",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Maxence Tabary",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Julien Zylberman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Thibaut Le Bertre",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Jacques Le Bourlot",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Evelyne Roueff",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Jean Schneider",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Chantal-Jeanne Stehlé",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         },
+         {
+          "name": "Lydia Tchang-Brillet",
+          "role": "Nhà nghiên cứu danh dự",
+          "url": "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "R&D — Đội Detector",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUX, Observatoire de Paris-PSL",
+       "topics": "Detector siêu dẫn MKID cho thiên văn mm và quang học.",
+       "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-",
+       "researchers": {
+        "people": [
+         {
+          "name": "Faouzi Boussaha",
+          "role": "Trưởng nhóm",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         },
+         {
+          "name": "Christine Chaumont",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         },
+         {
+          "name": "Josiane Firminy",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         },
+         {
+          "name": "Florent Reix",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         },
+         {
+          "name": "Frédéric Sayède",
+          "role": "Kỹ sư (ITA)",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         },
+         {
+          "name": "Maria Appavou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         },
+         {
+          "name": "Hugo Boucher",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "FRA",
+ "checked": "2026-11-22",
+ "pin": 4,
+ "coordinateNote": "Chỉ vẽ phần lãnh thổ Pháp ở châu Âu. Meudon và Saclay đặt lệch nhẹ khỏi Paris để không chồng chấm.",
+ "listSource": "https://www.insu.cnrs.fr/"
+}

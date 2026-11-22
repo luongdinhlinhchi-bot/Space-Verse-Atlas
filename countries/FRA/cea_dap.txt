@@ -1,0 +1,53 @@
+@city saclay | Saclay (Orsay) | 2.17, 48.71 | 14, 12
+
+@inst CEA Paris-Saclay — Département d'Astrophysique (DAp, Irfu) / UMR AIM
+city: saclay
+type: institute
+url: https://irfu.cea.fr/dap/
+research: Vũ trụ học và thiên hà (Euclid — thiết bị VIS, JWST), hình thành sao và môi trường liên sao, vật lý Mặt Trời và ngoại hành tinh (MIRI/JWST), vật lý thiên văn năng lượng cao (SVOM, XMM-Newton, CTAO), mô phỏng plasma thiên văn; phát triển thiết bị không gian.
+coverage: partial
+structure: Khoa Vật lý thiên văn của Irfu (CEA), đồng thời là phần chính của đơn vị hỗn hợp AIM (CEA–CNRS–Université Paris Cité); sáu phòng nghiên cứu và một pôle thiết bị.
+structureUrl: https://irfu.cea.fr/dap/le-departement-d-astrophysique-umr-aim-dap
+scope: Chỉ có danh sách nhà nghiên cứu biên chế (membres permanents) theo trang từng phòng (11/2026); postdoc, NCS và kỹ sư pôle thiết bị không được công bố.
+
+#unit Vũ trụ học và tiến hóa thiên hà (LCEG)
+parent: DAp / AIM
+topics: Hình thành sao trong thiên hà xa, cụm thiên hà, Euclid, JWST, BlueMUSE.
+url: https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/
+src: https://irfu.cea.fr/dap/cosmologie-et-evolution-des-galaxies-2/
+pp: Nhà nghiên cứu biên chế | Reza Ansari; Hervé Aussel; Emmanuel Bertin; Catherine Cesarsky; Sandrine Codis; Jean-Charles Cuillandre; Emanuele Daddi; David Elbaz; Emeric Le Floc’h; Roland Lehoucq; Joseph Lewis; Benjamin Magnelli; Gabriel Pratt
+
+#unit Hình thành sao và môi trường liên sao (LFEMI)
+parent: DAp / AIM
+topics: Sợi khí liên sao (Herschel, ArTéMiS), bụi, tia gamma khuếch tán, ngoại hành tinh chụp trực tiếp, MIRI/JWST, PRIMA.
+url: https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/
+src: https://irfu.cea.fr/dap/formation-d-etoiles-et-milieu-interstellaire/
+pp: Nhà nghiên cứu biên chế | Philippe Andre; Patrice Bouchet; Jean-Marc Casandjian; Valentin Christiaens; Frédéric Galliano; Isabelle Grenier; Vianney Lebouteiller; Suzanne Madden; Anaëlle Maury; Alexander Menshchikov; Eric Pantin; Marc Sauvage
+
+#unit Động lực học sao, ngoại hành tinh và môi trường (LDE3)
+parent: DAp / AIM
+topics: Vật lý Mặt Trời và thời tiết không gian, địa chấn học sao, khí quyển ngoại hành tinh (JWST/MIRI, Ariel).
+url: https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/
+src: https://irfu.cea.fr/dap/dynamique-des-etoiles-des-exoplanetes-et-de-leur-environnement/
+pp: Nhà nghiên cứu biên chế | Allan-Sacha Brun; Elsa Ducrot; Rafael García Bustinduy; Antonio García Muñoz; Angela Gonçalves dos Santos; Pierre-Olivier Lagage; Barbara Perri; Antoine Strugarek
+
+#unit Hiện tượng vũ trụ năng lượng cao (LEPCHE)
+parent: DAp / AIM
+topics: Chớp gamma (SVOM, COMCUBE), tàn dư siêu tân tinh, sao đôi X-quang, magnetar, gamma năng lượng cao (Fermi, CTAO, XMM-Newton).
+url: https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/
+src: https://irfu.cea.fr/dap/etude-des-phenomenes-cosmiques-de-haute-energie/
+pp: Nhà nghiên cứu biên chế | Jean Ballet; Renaud Belmont; Stéphane Corbel; Anne Decourchelle; Diego Gotz; Karl Kosack; Philippe Laurent; Jérôme Rodriguez-Vachoux; Thierry Stolarczyk; Damien Turpin
+
+#unit Vũ trụ học và thống kê (CosmoStat)
+parent: DAp / AIM
+topics: Thấu kính hấp dẫn yếu (Euclid), xử lý tín hiệu và học máy cho vũ trụ học, cụm thiên hà X-quang.
+url: https://irfu.cea.fr/dap/cosmologie-et-statistiques/
+src: https://irfu.cea.fr/dap/cosmologie-et-statistiques/
+pp: Nhà nghiên cứu biên chế | Samuel Farrens; Martin Kilbinger; Jean-Luc Starck; François Lanusse; Marguerite Pierre; Natalia Porqueres
+
+#unit Mô hình hoá plasma thiên văn (LMPA)
+parent: DAp / AIM
+topics: Siêu tân tinh suy sụp lõi, magnetar, hình thành sao, MHD số.
+url: https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/
+src: https://irfu.cea.fr/dap/modelisation-des-plasmas-astrophysiques/
+pp: Nhà nghiên cứu biên chế | Matteo Bugli; Thierry Foglizzo; Matthias González; Jérôme Guilet; Patrick Hennebelle; Ugo Lebreuilly; Raphaël Raynaud

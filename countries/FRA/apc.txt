@@ -1,0 +1,37 @@
+@inst Laboratoire AstroParticule et Cosmologie (APC) — Université Paris Cité / CNRS / CEA
+city: paris
+type: institute
+url: https://apc.u-paris.fr/
+research: Vật lý thiên văn năng lượng cao và đa thông điệp (gamma, neutrino, tia vũ trụ, SVOM), vũ trụ học (CMB, khảo sát cấu trúc lớn), sóng hấp dẫn (LISA, Virgo), vật lý lý thuyết.
+coverage: full
+structure: Đơn vị hỗn hợp UMR 7164 (Université Paris Cité, CNRS/IN2P3, CEA, Obs. Paris); 5 nhóm nghiên cứu (Hautes Énergies, Cosmologie, Gravitation, Particules, Théorie) và các dịch vụ kỹ thuật.
+structureUrl: https://apc.u-paris.fr/
+scope: Đủ thành viên bốn nhóm Hautes Énergies, Cosmologie, Gravitation và Théorie theo annuaire APC (11/2026); bỏ nhóm Particules (vật lý neutrino lò phản ứng) và các dịch vụ. Annuaire không ghi chức danh và không có trang cá nhân.
+
+#unit Gravitation
+parent: APC
+topics: Sóng hấp dẫn (Virgo, LISA, Einstein Telescope), phân tích dữ liệu LISA.
+url: https://apc.u-paris.fr/fr/gravitation
+src: https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php
+pp: Thành viên nhóm | Isander-Louis Ahrend; Lukas Kerim Arda; Stanislav Babak; Quentin Baghi; Matteo Barsuglia; Eleonora Capocasa; Eric Chassande Mottin; Marius Cordier; Théo Courty; Jacques Ding; Saptarshi Ghosh; Hubert Halloin; Francesco Iraci; Clément Jacquet; Adrian Macquet; Sara Manzini; Giorgio Mentasti; Alphonse Moreau; Lucas Pardessus; Antoine Petiteau; Edward Porter; Thomas Sainrat; Liu Tao; Léon Vidal
+
+#unit Vật lý thiên văn năng lượng cao
+parent: APC
+topics: Thiên văn gamma (H.E.S.S., CTAO), neutrino (KM3NeT, ANTARES), tia vũ trụ (Pierre Auger), chớp gamma (SVOM), sao đôi X-quang, đa thông điệp.
+url: https://apc.u-paris.fr/fr/astrophysique-haute-energie
+src: https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php
+pp: Thành viên nhóm | Justin Albinet; Denis Allard; Julien Aublin; Bruny Baret; Yvonne Becherini; Tomas Bylund; Floriane Cangemi; Marie-Sophie Carrasco; Fabien Casse; Matteo Cerruti; Sylvain Chaty; Alexis Coleiro; Alexandre Creusot; Arache Djannati-Ataï; Corinne Donzaud; Kirsty Feijen; Stefano Gabici; Paolo Goldoni; Andrea Goldwurm; Noa Grollimund; Lea Heckmann; Bruno Khelifi; Cyril Emmanuel Lachaud; Mathieu Lamoureux; Philippe Laurent; Anne Lemiere; Zheyu Lin; Enzio M'Sihid; Sacha Mugnier; Etienne Parizot; Pierre Pichard; Santiago Pita; Michael Punch; Gwendal Richomme; Xavier Rodrigues; Waddia Summan; Regis Terrier; Minh Bao Ton That; Peggy Varniere; Isabelle Yvon
+
+#unit Vũ trụ học
+parent: APC
+topics: Nền vi sóng vũ trụ (Planck, LiteBIRD, Simons Observatory, QUBIC), cấu trúc lớn (DESI, LSST/Rubin, Euclid), cụm thiên hà.
+url: https://apc.u-paris.fr/fr/cosmologie
+src: https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php
+pp: Thành viên nhóm | Eric Aubourg; Artem Basyrov; Benjamin Beringue; Martin Bucher; Gabriel Chardin; Eva Elkhoury; Josquin Errard; Kenneth Ganga; Jean-Christophe Hamilton; Alexandre Huchet; Katherine Laliotis; Lia Lammert; Malcolm Landais; Sotirios Sauveur Loucatos; Nicolas Mai; Pierre Masson; Simona Mei; Calum Murray; Michel Piat; Anna Preto; Elisa Radjabou; Marina Ricci; Cyrille Rosset; Cecile Roucelle; Radoslaw Stompor; Paul Tagnon; Julien Tang; Timothée Tollet; Stephen Torchinsky; Hoang Viet Tran; Vinh Phat Tran; Amalia Villarrubia Aguilar; Anais Widmer
+
+#unit Lý thuyết
+parent: APC
+topics: Vũ trụ học lý thuyết, vật lý hạt thiên văn, neutrino trong vũ trụ, tia vũ trụ, hấp dẫn lượng tử.
+url: https://apc.u-paris.fr/fr/theorie
+src: https://apc.u-paris.fr/apps/annuaire/annuaireSiteAPC.php
+pp: Thành viên nhóm | Thomas Apostolidis; Damien Begue; Théodore Bertrand; Jeffrey Blunier; Thomas Colas; Oscar Combaluzier Szteinsznaider; Philippe Fourquet; Gwenael Giacinti; Eric Huguet; Maksim Kleimenov; Alexander Korochkin; Ilias Kyritsis; Marc Lachieze Rey; David Langlois; Sébastien Le Bihan; Martin Lemoine; Wenlian Li; Alessandro Longo; Jihad Mourad; Andrii Neronov; Francesco Nitti; Andrea Olzi; Jean-Loup Raymond; Luca Santoni; Dmitri Semikoz; Julien Serreau; Leonardo Stanzani; Maria Cristina Volpe; Zhanfeng Zhu

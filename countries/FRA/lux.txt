@@ -1,0 +1,56 @@
+@city paris | Paris | 2.35, 48.86
+
+@inst Observatoire de Paris-PSL — LUX (Centre de recherche en astronomie et astrophysique)
+city: paris
+type: institute
+url: https://lux.observatoiredeparis.psl.eu/
+research: Vật lý thiên văn tương đối tính và năng lượng cao (sao neutron, lỗ đen, sóng hấp dẫn, CTAO, SVOM), vũ trụ học và tiến hóa thiên hà (Euclid, SKA, ALMA), môi trường liên sao và plasma, detector MKID.
+coverage: full
+structure: Một trong ba khoa học bộ của Observatoire de Paris-PSL (hình thành 2025 từ các đội LUTH, LERMA, GEPI); giám đốc Philippe Grandclement, phó giám đốc Philippe Salomé và Susanna Vergani. Ba đội khoa học ASTRE, COSGAL, MIS-PLASMAS và đội R&D Detector.
+structureUrl: https://lux.observatoiredeparis.psl.eu/-Organisation-
+scope: Đủ thành viên theo trang của từng đội (11/2026), có phân loại nhà nghiên cứu, kỹ sư, postdoc, NCS và danh dự. Trang không có hồ sơ cá nhân; danh bạ Observatoire cần đăng nhập.
+
+#unit ASTRE — Vật lý thiên văn tương đối tính và năng lượng cao
+parent: LUX, Observatoire de Paris-PSL
+topics: Sao neutron, lỗ đen, sóng hấp dẫn, dòng phụt tương đối tính, thiên văn gamma (H.E.S.S., CTAO), chớp gamma (SVOM), SageManifolds.
+url: https://lux.observatoiredeparis.psl.eu/-ASTRE-
+src: https://lux.observatoiredeparis.psl.eu/-ASTRE-
+pp: Trưởng nhóm | Laura Bernard; Guillaume Voisin
+pp: Nhà nghiên cứu | Valentina Abril-Melgarejo; Halim Ashkar; Tomas Bylund; Pierre Cristofari; Eric Gourgoulhon; Philippe Grandclement; Aaron Held; Alexandre Le Tiec; Zakaria Meliani; Fabrice Mottez; Christophe Sauty; Susanna Vergani; Andreas Zech
+pp: Kỹ sư (ITA) | Onur Ates; Yannis Canton; Ulysse Chosson; Marco Mancini; Fabrice Roy; Mathieu Servillat
+pp: PD | Arwa Elhashash
+pp: NCS | Sofia Bisero; Hugo Candan; Tom Colin; Theo Francez; Marine Garnichey; Baptiste Le Nagat Neher; Victor Schyns; Paloma Thevenet
+pp: Nhà nghiên cứu danh dự | Georges Alecian; Catherine Boisson; Hélène Sol; Grazyna Stasinska
+
+#unit COSGAL — Vũ trụ học và thiên hà
+parent: LUX, Observatoire de Paris-PSL
+topics: Tiến hóa thiên hà gần và xa, vũ trụ học số, tái ion hoá (SKA, NenuFAR), khí phân tử (ALMA, IRAM), Euclid, JWST, MOONS, MOSAIC/ELT.
+url: https://lux.observatoiredeparis.psl.eu/-COSGAL-
+src: https://lux.observatoiredeparis.psl.eu/-COSGAL-
+pp: Trưởng nhóm | Anaëlle Hallé; Pier-Stefano Corasaniti
+pp: Nhà nghiên cứu | Jean-Michel Alimi; Fabienne Casoli; Andrea Cattaneo; Françoise Combes; Hector Flores; Marc Huertas-Company; Mathieu Langer; Amandine Le Brun; Jean-Michel Martin; Anne-Laure Melchior; Florent Mertens; Mathieu Puech; Yann Rasera; Philippe Salomé; Benoît Semelin; Cyril Tasse; Maxime Trebitsch; David Valls-Gabaud
+pp: Kỹ sư (ITA) | Yaye-Awa Ba; Aristide Doussot; Nicolas Moreau; Grégory Sainton
+pp: PD | Ivana Beslic; David Cornu; Himanish Ganjoo; Ian Hothi; Eleni Tsaprazi; Dilruwan Dehiwalage-Don
+pp: NCS | Fabien Castillo; Romane Cologni; Florian Dedieu; Théo Gayoux; Kevin Luke; Nathan Meagher; Clemente Riesco Bravo; Louen Robin; Estelle Salibur; Aashiya Shaji; Adrian Szpilfidel; Felix Tornatore; Adam Zarka
+pp: Nhà nghiên cứu danh dự | Jean-François Lestrade; Wim van Driel; François Viallefond
+
+#unit MIS-PLASMAS — Môi trường liên sao và plasma
+parent: LUX, Observatoire de Paris-PSL
+topics: Hoá học và vật lý môi trường liên sao, hình thành sao, plasma thiên văn trong phòng thí nghiệm, dữ liệu nguyên tử-phân tử.
+url: https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-
+src: https://lux.observatoiredeparis.psl.eu/-MIS-PLASMAS-26-
+pp: Trưởng nhóm | Emeric Bron; Andrea Ciardi
+pp: Nhà nghiên cứu | Christian Balança; Andrea Bracco; Sylvie Cabrit; Fabrice Dayou; Fabrice Debbasch; Franck Delahaye; Stefano Gabici; Maryvonne Gerin; Franck Le Petit; Laurent Pagani; Jean-François Panis; Jérôme Pety; Arno Vanthieghem
+pp: Kỹ sư (ITA) | Christophe Blaess; Norbert Champion; David Languignon; Carlo-Maria Zwolf
+pp: PD | Vo Hong Minh Phan; Milan Sil; Victor Tranchant; Weipeng Yao
+pp: NCS | Gaia Bilosi; Antoine Hacquard; Armand Karami; Maya Lemaitre; Coline Mahob; Nathan Maindon; Helena Mazurek; Aurélien Piluso; Ulysse Remond; Thershi Seebaruth; Maxence Tabary; Julien Zylberman
+pp: Nhà nghiên cứu danh dự | Thibaut Le Bertre; Jacques Le Bourlot; Evelyne Roueff; Jean Schneider; Chantal-Jeanne Stehlé; Lydia Tchang-Brillet
+
+#unit R&D — Đội Detector
+parent: LUX, Observatoire de Paris-PSL
+topics: Detector siêu dẫn MKID cho thiên văn mm và quang học.
+url: https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-
+src: https://lux.observatoiredeparis.psl.eu/-004-Equipe-Detecteurs-
+pp: Trưởng nhóm | Faouzi Boussaha
+pp: Kỹ sư (ITA) | Christine Chaumont; Josiane Firminy; Florent Reix; Frédéric Sayède
+pp: NCS | Maria Appavou; Hugo Boucher

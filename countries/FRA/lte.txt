@@ -1,0 +1,39 @@
+@inst Observatoire de Paris-PSL — LTE (Laboratoire Temps Espace, gồm IMCCE và SYRTE cũ)
+city: paris
+type: institute
+url: https://lte.observatoiredeparis.psl.eu/
+research: Lịch thiên văn và cơ học thiên thể (lịch INPOP, ổn định Hệ Mặt Trời, tiến hóa khí hậu cổ), thiên thể nhỏ và vệ tinh (Gaia, che khuất sao, sao băng FRIPON), hệ quy chiếu thời gian-không gian, đồng hồ nguyên tử, tự quay Trái Đất, lịch sử thiên văn.
+coverage: partial
+structure: Khoa học bộ thứ ba của Observatoire de Paris-PSL, lập 1/1/2025 từ việc hợp nhất SYRTE và IMCCE; chín đội nghiên cứu.
+structureUrl: https://lte.observatoiredeparis.psl.eu/-Equipes-de-recherche-
+scope: Chỉ lấy ba đội thiên văn thuộc IMCCE cũ (ASD, PEGASE, ACME) theo trang thành viên của từng đội; các đội đo lường thời gian, nguyên tử và hệ quy chiếu của SYRTE cũ chưa đưa vào. Danh bạ LTE cần đăng nhập.
+
+#unit ASD — Thiên văn và hệ động lực
+parent: LTE, Observatoire de Paris-PSL
+topics: Lịch hành tinh INPOP, ổn định lâu dài Hệ Mặt Trời, nghiệm thiên văn cho khí hậu cổ Trái Đất và Sao Hỏa, động lực học hệ ngoại hành tinh, hệ Hamilton.
+url: https://www.imcce.fr/recherche/equipes/asd/
+src: https://www.imcce.fr/recherche/equipes/asd/members
+pp: Nhà nghiên cứu biên chế | Alain Albouy; Gwenaël Boué; Alain Chenciner; Pierre Auclair-Desrotour; Jacques Féjoz; Jacques Laskar; Laurent Niederman; Nicolas Rambaux; Philippe Robutel; David Sauzin
+pp: Kỹ sư | Pau Bujons; Mickaël Gastineau; Hervé Manche; Eliaz Pitavy
+pp: PD | Mar Giralt; Paul Ramond; Arsen Sultanov; Yujing Wu
+pp: NCS | Aya Alnajjarine; Baptiste Loire; Pierre-Louis Phan; Alexandre Prieur; Julie Vermersch
+
+#unit PEGASE — Hành tinh học và động lực học thiên thể nhỏ
+parent: LTE, Observatoire de Paris-PSL (đặt tại Đài thiên văn Lille)
+topics: Vệ tinh tự nhiên và vành đai, tiểu hành tinh đôi, sao băng, che khuất sao, dữ liệu Gaia cho thiên thể nhỏ.
+url: https://www.imcce.fr/recherche/equipes/pegase/
+src: https://www.imcce.fr/recherche/equipes/pegase/members
+pp: Trưởng đội | Kevin Baillié
+pp: Nhà nghiên cứu | Josselin Desmars; Marc Fouchard; Daniel Hestroffer; Valéry Lainey; Stéfan Renner; Vincent Robert; Melaine Saillenfest; Jérémie Vaubaillon; Alain Vienne; Jean-Louis Simon
+pp: Nhà thiên văn / GS danh dự | Jean-Eudes Arlot; Bruno Sicardy; William Thuillot
+pp: PD | Simon Anghel; Yaqiong Wang
+pp: NCS | Aisha Ashimbekova; Alexandre Bougakov; Raphaël Lallemand; Ziyu Liu; Shunjing Zhao
+pp: Kỹ sư | Pedro David
+
+#unit ACME — Thiên thể nhỏ, sao băng và quan sát
+parent: LTE, Observatoire de Paris-PSL
+topics: Quan sát và quỹ đạo tiểu hành tinh, mạng camera sao băng FRIPON, dịch vụ dữ liệu thiên thể nhỏ.
+url: https://www.imcce.fr/recherche/equipes/acme/
+src: https://www.imcce.fr/recherche/equipes/acme/
+pp: Nhà nghiên cứu biên chế | Jérôme Berthier; Mirel Birlan; François Colas; Florent Deleflie; Pascal Descamps; Lucie Maquet; Jonathan Normand; Frédéric Vachier
+pp: NCS | Julien Dubouil

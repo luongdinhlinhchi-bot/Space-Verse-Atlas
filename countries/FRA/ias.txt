@@ -1,0 +1,20 @@
+@inst Institut d'Astrophysique Spatiale (IAS) — Université Paris-Saclay / CNRS
+city: saclay
+type: institute
+url: https://www.ias.universite-paris-saclay.fr/
+research: Vũ trụ học (Planck/HFI, nền vi sóng vũ trụ, bolometer), môi trường liên sao và bụi (Herschel, JWST), vật lý Mặt Trời và sao (Solar Orbiter, SOHO), hành tinh và thiên thể nhỏ (Mars, Mercury, sao chổi, ngoại hành tinh), hoá học thiên văn thực nghiệm; chế tạo thiết bị không gian.
+coverage: limited
+structure: Đơn vị hỗn hợp UMR 8617 (CNRS – Université Paris-Saclay) tại Orsay; năm đội khoa học (Astrochimie & Origines, AMIS, Cosmologie, Hệ Mặt Trời & hệ hành tinh, Mặt Trời & sao) cùng các nền tảng IDOC và PARADISE.
+structureUrl: https://www.ias.universite-paris-saclay.fr/sites/default/files/laboratoire/ORGANIGRAMME_janvier%202026_General.pdf
+scope: Danh bạ IAS chuyển sang máy chủ mới và không truy cập được (11/2026); chỉ ghi ban giám đốc theo báo cáo HCERES và trưởng đội được nêu trên trang từng đội.
+
+#unit Ban giám đốc và trưởng đội
+parent: IAS
+topics: —
+url: https://www.ias.universite-paris-saclay.fr/
+src: https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf
+pp: Ban giám đốc (theo HCERES) | Marc Ollivier; Marian Douspis
+pp: Trưởng đội Astrochimie & Origines | Zahia Djouadi
+pp: Trưởng đội Môi trường liên sao (AMIS) | Emilie Habart
+pp: Đồng trưởng đội Vũ trụ học | Laura Salvati
+pp: Trưởng đội Vật lý Mặt Trời và sao | Éric Buchlin

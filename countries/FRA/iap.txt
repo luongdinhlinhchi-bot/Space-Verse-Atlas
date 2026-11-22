@@ -1,0 +1,16 @@
+@inst Institut d'Astrophysique de Paris (IAP)
+city: paris
+type: institute
+url: https://www.iap.fr/
+research: Vũ trụ học (CMB/Planck, Euclid, cấu trúc lớn), hình thành và tiến hóa thiên hà, hấp dẫn tương đối tính và sóng hấp dẫn, ngoại hành tinh, vật lý thiên văn năng lượng cao; mô phỏng số trên máy tính hiệu năng cao.
+coverage: limited
+structure: Đơn vị hỗn hợp UMR 7095 của CNRS và Sorbonne Université, thành lập năm 1936; năm đội nghiên cứu (trong đó có GReCO — hấp dẫn tương đối tính và vũ trụ học) cùng các "dự án chiến lược".
+structureUrl: https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf
+scope: Trang web IAP đang được thay bằng một trang tạm (19/11/2026) và không còn danh bạ nhân sự; chỉ ghi ban giám đốc theo báo cáo đánh giá HCERES 2025.
+
+#unit Ban giám đốc
+parent: IAP
+topics: —
+url: https://www.iap.fr/
+src: https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf
+pp: Ban giám đốc (theo báo cáo HCERES 2025) | François Bouchet; Kumiko Kotera
