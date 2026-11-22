@@ -1,0 +1,104 @@
+@city innsbruck | Innsbruck | 11.39, 47.26
+
+@inst Universität Innsbruck — Institut für Astro- und Teilchenphysik
+city: innsbruck
+type: university
+url: https://www.uibk.ac.at/en/astro/
+research: Thiên văn gamma năng lượng rất cao (H.E.S.S., CTAO), tia vũ trụ, thấu kính hấp dẫn yếu và cụm thiên hà, sao khối lượng lớn, địa chấn học sao, thiên hà lùn và bề mặt sáng thấp. Viện còn nhóm vật lý hạt thực nghiệm (ATLAS) không đưa vào.
+coverage: full
+structure: Viện thuộc Khoa Kỹ thuật và Vật lý, ĐH Innsbruck, với 10 nhóm nghiên cứu.
+structureUrl: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+scope: Đủ danh sách theo trang Staff by Research Groups (11/2026), mỗi người có trang riêng. Bỏ nhân viên hành chính, trợ lý sinh viên và nhóm Vật lý hạt thực nghiệm.
+
+#unit Vật lý hạt thiên văn (Astroparticle Physics)
+parent: Institut für Astro- und Teilchenphysik
+topics: Thiên văn gamma năng lượng rất cao (H.E.S.S., CTAO), tia vũ trụ.
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Olaf Reimer | Giáo sư | https://www.uibk.ac.at/en/astro/staff/olaf-reimer/
+p: Markus Holler | Nhà khoa học cấp cao | https://www.uibk.ac.at/en/astro/staff/markus-holler/
+p: Qixin Yu | PD | https://www.uibk.ac.at/en/astro/staff/qixin-yu/
+p: Josefine Hessl | NCS | https://www.uibk.ac.at/en/astro/staff/josefine-hessl/
+p: Tobias Preis | NCS | https://www.uibk.ac.at/en/astro/staff/tobias-preis/
+p: Sebastian Panny | NCS (bên ngoài) | https://www.uibk.ac.at/en/astro/staff/sebastian-panny/
+p: Julia Thaler | NCS (bên ngoài) | https://www.uibk.ac.at/en/astro/staff/julia-thaler/
+
+#unit Vật lý hạt thiên văn lý thuyết
+parent: Institut für Astro- und Teilchenphysik
+topics: Mô hình phát xạ năng lượng cao từ AGN, blazar, neutrino.
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Anita Reimer | Giáo sư | https://www.uibk.ac.at/en/astro/staff/anita-reimer/
+p: Frans van der Merwe | NCS | https://www.uibk.ac.at/en/astro/staff/van-der-merve-frans/
+p: Manuel Rocamora | NCS (bên ngoài) | https://www.uibk.ac.at/en/astro/staff/manuel-rocamora/
+
+#unit Vật lý hạt thiên văn tính toán
+parent: Institut für Astro- und Teilchenphysik
+topics: Lan truyền tia vũ trụ, mô phỏng MHD.
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Ralf Kissmann | PGS | https://www.uibk.ac.at/en/astro/staff/ralf-kissmann/
+p: Stefan Kis | NCS (bên ngoài) | https://www.uibk.ac.at/en/astro/staff/stefan-kis/
+p: Andrés Ramirez | NCS (bên ngoài) | https://www.uibk.ac.at/en/astro/staff/andres-ramirez/
+
+#unit Vật lý thiên văn Thiên Hà (Galactic Astrophysics)
+parent: Institut für Astro- und Teilchenphysik
+topics: Sao khối lượng lớn, quang phổ định lượng, trung tâm Ngân Hà.
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Norbert Przybilla | Giáo sư | https://www.uibk.ac.at/en/astro/staff/norbert-przybilla/
+p: Wolfgang Kausch | Nhà khoa học cấp cao | https://www.uibk.ac.at/en/astro/staff/wolfgang-kausch/
+p: Nadeen Sabha | PD | https://www.uibk.ac.at/en/astro/staff/nadeen-sabha/
+p: Miguel Urbaneja | PD | https://www.uibk.ac.at/en/astro/staff/miguel-urbaneja/
+p: Patrick Aschenbrenner | NCS | https://www.uibk.ac.at/en/astro/staff/patrick-aschenbrenner/
+p: Jessica Pilling | NCS | https://www.uibk.ac.at/en/astro/staff/jessica-pilling/
+
+#unit Vật lý thiên văn ngoài Thiên Hà (Extragalactic Astrophysics)
+parent: Institut für Astro- und Teilchenphysik
+topics: Thấu kính hấp dẫn yếu, cụm thiên hà, vũ trụ học (Euclid, KiDS).
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Tim Schrabback | Giáo sư | https://www.uibk.ac.at/en/astro/staff/tim-schrabback/
+p: Sebastian Grandis | Nhà khoa học cấp cao | https://www.uibk.ac.at/en/astro/staff/sebastian-grandis/
+p: Yuzheng Kang | PD | https://www.uibk.ac.at/en/astro/staff/kang-yuzheng/
+p: Laila Linke | PD | https://www.uibk.ac.at/en/astro/staff/laila-linke/
+p: Benjamin Csizi | NCS | https://www.uibk.ac.at/en/astro/staff/benjamin-csizi/
+p: Henning Jansen | NCS | https://www.uibk.ac.at/en/astro/staff/henning-jansen/
+p: Florian Kleinebreil | NCS (bên ngoài) | https://www.uibk.ac.at/en/astro/staff/florian-kleinebreil/
+p: Jonas Krüger | NCS | https://www.uibk.ac.at/en/astro/staff/kruger-jonas/
+p: Mengyu Li | NCS | https://www.uibk.ac.at/en/astro/staff/mengyu-li/
+p: Geet Mankar | NCS | https://www.uibk.ac.at/en/astro/staff/geet-mankar/
+p: Jahin Shahriyar | NCS | https://www.uibk.ac.at/en/astro/staff/jahin-shahriyar/
+p: Elena Silvestre Roselló | NCS | https://www.uibk.ac.at/en/astro/staff/elena-silvestre-rosello/
+p: Leoneph Stepman | NCS | https://www.uibk.ac.at/en/astro/staff/leoneph-stepman/
+p: Nikolas Zimmermann | NCS | https://www.uibk.ac.at/en/astro/staff/nikolas-zimmermann/
+p: Herbert Hartl | PGS danh dự | https://www.uibk.ac.at/en/astro/staff/herbert-hartl/
+p: Ronald Weinberger | PGS danh dự | https://www.uibk.ac.at/en/astro/staff/ronald-weinberger/
+
+#unit Tiến hóa sao và địa chấn học sao
+parent: Institut für Astro- und Teilchenphysik
+topics: Sao trẻ và sao tiền dãy chính, địa chấn học sao (BRITE, TESS, PLATO).
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Konstanze Zwintz | Giáo sư | https://www.uibk.ac.at/en/astro/staff/konstanze-zwintz/
+p: Eduard Vorobiev | PD | https://www.uibk.ac.at/en/astro/staff/eduard-vorobiev/
+p: Johannes Joergensen | NCS | https://www.uibk.ac.at/en/astro/staff/johannes-joergensen/
+p: Nena Scheller | NCS | https://www.uibk.ac.at/en/astro/staff/nena-scheller/
+
+#unit Hình thành và tiến hóa thiên hà
+parent: Institut für Astro- und Teilchenphysik
+topics: Thiên hà lùn, thiên hà bề mặt sáng thấp, Euclid.
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Francine Marleau | Giáo sư | https://www.uibk.ac.at/en/astro/staff/francine-marleau/
+p: Marlon Fügenschuh | NCS | https://www.uibk.ac.at/en/astro/staff/marlon-fugenschuh/
+p: Isabella Grimaldi | NCS | https://www.uibk.ac.at/en/astro/staff/grimaldi-isabella/
+p: Selin Sprenger | NCS | https://www.uibk.ac.at/en/astro/staff/selin-sprenger/
+p: Sara Tacchetto | NCS | https://www.uibk.ac.at/en/astro/staff/tacchetto-sara/
+
+#unit Vật lý thiên văn sao
+parent: Institut für Astro- und Teilchenphysik
+topics: Sao biến quang, tinh vân hành tinh, khí quyển Trái Đất trong quan sát.
+url: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+src: https://www.uibk.ac.at/en/astro/staff/by-research-groups/
+p: Stefan Kimeswenger | PGS | https://www.uibk.ac.at/en/astro/staff/stefan-kimeswenger/

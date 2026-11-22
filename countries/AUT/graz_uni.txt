@@ -1,0 +1,56 @@
+@city graz | Graz | 15.44, 47.07
+
+@inst Universität Graz — Institut für Physik, Bereich Astrophysik (Astrophysics and Geophysics)
+city: graz
+type: university
+url: https://astrophysics.uni-graz.at/
+research: Vật lý Mặt Trời và nhật quyển (bùng nổ, phun trào CME, thời tiết không gian; STIX trên Solar Orbiter), vật lý thiên văn sao (hoạt động sao, sao "sống động" và ngoại hành tinh), vật lý thiên văn tính toán (dynamo, đối lưu). Vận hành Đài thiên văn Mặt Trời Kanzelhöhe và Đài Lustbühel.
+coverage: full
+structure: Bộ phận Vật lý thiên văn và Địa vật lý thuộc Viện Vật lý, ĐH Graz; trưởng bộ phận Astrid Veronig. Bốn nhóm: Vật lý Mặt Trời, Vật lý nhật quyển, Vật lý thiên văn sao, Vật lý thiên văn tính toán.
+structureUrl: https://astrophysics.uni-graz.at/en/team-astrophysics/
+scope: Đủ danh sách theo trang Astrophysics team (11/2026); bỏ văn phòng, quản trị hệ thống, trợ lý sinh viên. Chỉ trưởng nhóm có trang cá nhân; người khác ghi theo trang nhóm.
+
+#unit Vật lý Mặt Trời và nhật quyển
+parent: Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz
+topics: Bùng nổ Mặt Trời, CME, gió Mặt Trời, thời tiết không gian, STIX/Solar Orbiter, học sâu cho dữ liệu Mặt Trời.
+url: https://astrophysics.uni-graz.at/en/our-research/solar-and-heliospheric-physics/
+src: https://astrophysics.uni-graz.at/en/team-astrophysics/
+p: Astrid Veronig | Giáo sư; trưởng bộ phận; trưởng nhóm Vật lý Mặt Trời; giám đốc Đài Kanzelhöhe | https://astrophysics.uni-graz.at/en/veronig/
+p: Manuela Stadlober-Temmer | PGS; trưởng nhóm Vật lý nhật quyển | https://astrophysics.uni-graz.at/en/stadlober-temmer/
+p: Julia Katharina Thalmann | PD; chủ nhiệm dự án | https://homepage.uni-graz.at/de/julia.thalmann/
+pp: PD; chủ nhiệm dự án | Yara De Leo; Georg Fischer; Teimuraz Zaqarashvili
+pp: PD | Karin Dissauer; Barbara Süsser-Rechberger
+pp: Nhân sự khoa học | Philippe-André Bourdin; Werner Pötzi
+pp: NCS | Markus Baumgartner-Steinleitner; Thierry Fox; Isabella Kraus; Daniel Milosic; Anthony Moulin; Amaia Razquin Lizarraga; Zhengzhan Shang
+pp: NCS / nghiên cứu viên khách mời | Xinyue Wang; Yuncong Li
+
+#unit Vật lý thiên văn sao (Lively Stars)
+parent: Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz
+topics: Biến thiên độ sáng sao, hoạt động từ của sao, ảnh hưởng tới phát hiện ngoại hành tinh, bùng nổ sao.
+url: https://lively-stars.uni-graz.at/
+src: https://astrophysics.uni-graz.at/en/team-astrophysics/
+p: Alexander Shapiro | Giáo sư; trưởng nhóm | https://lively-stars.uni-graz.at/en/lively-stars/our-team/alexander-shapiro/
+pp: Nhà khoa học cấp cao | Sowmya Krishnamurthy; Veronika Witzke
+pp: PD; chủ nhiệm dự án | Martin Leitzinger; Petra Odert
+pp: PD | Cosima Breu; Dusan Vukadinovic
+pp: Quản lý dự án | Imtiyaz Chauhan
+pp: NCS | Florian Kröll; Thomas Tunstall
+pp: Thành viên nhóm | Nicolas Lampl
+
+#unit Vật lý thiên văn tính toán
+parent: Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz
+topics: Mô phỏng dynamo và đối lưu sao, MHD.
+url: https://astrophysics.uni-graz.at/en/our-research/
+src: https://astrophysics.uni-graz.at/en/team-astrophysics/
+pp: Giáo sư; trưởng nhóm | Petri Käpylä
+pp: PD | Kishore Gopalakrishnan; Giovanni Leidi
+pp: NCS | Vishal Vetrivel
+
+#unit Đài thiên văn Kanzelhöhe và Lustbühel
+parent: Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz
+topics: Quan sát Mặt Trời liên tục (H-alpha, ánh sáng trắng), nhận diện bùng nổ thời gian thực cho ESA Space Weather.
+url: https://physik.uni-graz.at/en/about-the-institute/astrophysics-and-geophysics/
+src: https://astrophysics.uni-graz.at/en/team-astrophysics/
+pp: Nhân sự khoa học | Dietmar Baumgartner
+pp: Kỹ thuật viên | Heinrich Freislich; Heinz Strutzmann; Rainer Kuschnig
+p: Arnold Hanslmeier | GS nghỉ hưu | http://homepage.uni-graz.at/de/arnold.hanslmeier/

@@ -1,0 +1,137 @@
+@city wien | Wien | 16.37, 48.21
+
+@inst Universität Wien — Institut für Astrophysik
+city: wien
+type: university
+url: https://astro.univie.ac.at/
+research: Hình thành sao và môi trường liên sao (bản đồ bụi 3D, Gaia), thiên hà và động lực học (van de Ven), vũ trụ học tính toán (Hahn), tái ion hoá (Hutter), sao và hoạt động sao, khí quyển và từ quyển ngoại hành tinh, sao AGB, thiết bị không gian (MICADO/ELT, ARIEL, CHEOPS).
+coverage: full
+structure: Viện thuộc Khoa Vật lý thiên văn, ĐH Vienna, đặt tại Đài thiên văn Vienna (Universitätssternwarte).
+structureUrl: https://astro.univie.ac.at/index.php?id=190250&L=0
+scope: Đủ danh sách theo trang Mitarbeiter*innen (11/2026), mỗi người có hồ sơ u:find; bỏ nhân viên hành chính và kỹ thuật chung. Trang gộp postdoc và nghiên cứu sinh nên không tách được.
+
+#unit Giáo sư (Professuren)
+parent: Institut für Astrophysik, Universität Wien
+topics: —
+url: https://astro.univie.ac.at/
+src: https://astro.univie.ac.at/index.php?id=190250&L=0
+p: Joao Alves | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=40864
+p: Sudeshna Boro Saikia | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=61672
+p: Manuel Güdel | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=40508
+p: Alvaro Hacar Gonzalez | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=49016
+p: Oliver Hahn | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=113277
+p: Anne Hutter | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=1014771
+p: Franz Kerschbaum | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=8354
+p: Kristina Kislyakova | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=64456
+p: Glenn van de Ven | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=105436
+p: Werner Zeilinger | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=9923
+p: Bodo Ziegler | Giáo sư | https://ufind.univie.ac.at/de/person.html?id=42950
+
+#unit Giáo sư nghỉ hưu
+parent: Institut für Astrophysik, Universität Wien
+topics: —
+url: https://astro.univie.ac.at/
+src: https://astro.univie.ac.at/index.php?id=190250&L=0
+p: Rudolf Dvorak | GS nghỉ hưu | https://ufind.univie.ac.at/de/person.html?id=887
+p: Gerhard Hensler | GS nghỉ hưu | https://ufind.univie.ac.at/de/person.html?id=85269
+p: Josef Hron | GS nghỉ hưu | https://ufind.univie.ac.at/de/person.html?id=2160
+p: Werner Wolfgang Weiss | GS nghỉ hưu | https://ufind.univie.ac.at/de/person.html?id=6181
+
+#unit Nhà khoa học cấp cao (Senior Scientists)
+parent: Institut für Astrophysik, Universität Wien
+topics: —
+url: https://astro.univie.ac.at/
+src: https://astro.univie.ac.at/index.php?id=190250&L=0
+p: Begoña Anahí Caldú Primo | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=116398
+p: Oliver Czoske | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=41202
+p: Prashin Jethwa | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=107335
+p: Kieran Leschinski | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=51531
+p: Stefan Meingast | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=41503
+p: Roland Ottensamer | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=80666
+p: Elke Pilat-Lohinger | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=13325
+p: Tanja Rindler-Daller | Nhà khoa học cấp cao | https://ufind.univie.ac.at/de/person.html?id=87630
+
+#unit Postdoc và nghiên cứu sinh
+parent: Institut für Astrophysik, Universität Wien
+topics: —
+url: https://astro.univie.ac.at/
+src: https://astro.univie.ac.at/index.php?id=190250&L=0
+p: Marianna Aiello | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1022042
+p: Francisco Ignacio Aros Pinochet | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=106555
+p: Martin Baláž | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1006224
+p: Timotheüs Bliek | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=115484
+p: Alina Böcker | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1009200
+p: Johann Böhm | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1008755
+p: Katja Fahrion | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1011895
+p: Christopher Granabetter | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1012624
+p: Adrián Gutiérrez Adame | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1011967
+p: Fabian Haberhauer | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=102059
+p: Oliver Herbort | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1002735
+p: Emily Lauren Hunt | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1019181
+p: Sebastian Hutschenreuter | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1007267
+p: Shivam Dhananjay Joshi | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1013680
+p: Sam Sophie-Marie Kampitsch | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1012173
+p: Lilly Kormann | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1008570
+p: Anja Krause | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1010160
+p: Prem Kumar | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1012399
+p: Mathias Lechthaler | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=116366
+p: Dominik Loidolt | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=64822
+p: Armin Luntzer | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=35034
+p: Evelyn Macdonald | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1016400
+p: Efrem Maconi | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1006375
+p: Christian Maier | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=45534
+p: Federica Mauro | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1009645
+p: Marko Mecina | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=39460
+p: Gerald Mösenlechner | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=105418
+p: Louis Müller | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1017381
+p: Luisa Obermüller | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1016735
+p: Shaunak Padhyegurjar | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1022685
+p: Michelangelo Pantaleoni | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1013048
+p: Nicole Pawellek | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=117641
+p: Martin Piecka | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1005770
+p: Sylvia Plöckinger | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=35033
+p: Shivani Ramesh | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1022899
+p: Anuja Raorane | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1016448
+p: Stefanie Reiter | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=114108
+p: Nils-Martin Robeling | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1013977
+p: Alena Kristina Rottensteiner | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=111426
+p: Juan Diego Soler Pulido | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1018218
+p: Ivan Stankovic | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1014606
+p: Jens Stücker | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1013498
+p: Mate Szilagyi | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1024149
+p: Sabine Thater | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=109657
+p: Gwenaëlle Van Looveren | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=117311
+p: Nora Wagner | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1011545
+p: Lukas Winkler | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=110475
+p: Lisa Wölfer | Postdoc / NCS | https://ufind.univie.ac.at/de/person.html?id=1023648
+
+#unit Thành viên liên kết
+parent: Institut für Astrophysik, Universität Wien
+topics: —
+url: https://astro.univie.ac.at/
+src: https://astro.univie.ac.at/index.php?id=190250&L=0
+p: Salim Ansari | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90000725
+p: Bernhard Aringer | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=10341
+p: Verena Baumgartner | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=18582
+p: Francesca Bonanomi | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=116013
+p: Anirban Chowdhury | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90002045
+p: Eric Gaidos | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=63781
+p: Lukas Gehrig | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90000726
+p: Carolin Höfer | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90002052
+p: Julia Lamprecht | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90001724
+p: Ryan Leaman | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=108275
+p: Thomas Lebzelter | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=8420
+p: Guimei Liu | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90001652
+p: Thomas Maindl | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=8692
+p: James McKevitt | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=115970
+p: Walter Nowotny-Schipper | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=20455
+p: Laura Posch | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=115646
+p: Sebastian Ratzenböck | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=105280
+p: Simon Schleich | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=1004151
+p: Andrea Socci | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=115545
+p: Simone Spedicato | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=1011828
+p: Daniel Steiner | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=43251
+p: Eduard Vorobiev | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=42150
+p: Shengwen Zhang | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=90002119
+p: Alice Zocchi | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=111841
+p: Péter Àbrahám | Thành viên liên kết | https://ufind.univie.ac.at/de/person.html?id=1009336

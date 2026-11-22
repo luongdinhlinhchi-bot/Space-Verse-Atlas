@@ -1,0 +1,1785 @@
+{
+ "cities": [
+  {
+   "id": "graz",
+   "city": "Graz",
+   "coordinates": [
+    15.44,
+    47.07
+   ],
+   "institutions": [
+    {
+     "name": "Universität Graz — Institut für Physik, Bereich Astrophysik (Astrophysics and Geophysics)",
+     "type": "university",
+     "research": "Vật lý Mặt Trời và nhật quyển (bùng nổ, phun trào CME, thời tiết không gian; STIX trên Solar Orbiter), vật lý thiên văn sao (hoạt động sao, sao \"sống động\" và ngoại hành tinh), vật lý thiên văn tính toán (dynamo, đối lưu). Vận hành Đài thiên văn Mặt Trời Kanzelhöhe và Đài Lustbühel.",
+     "url": "https://astrophysics.uni-graz.at/",
+     "coverage": "full",
+     "structure": "Bộ phận Vật lý thiên văn và Địa vật lý thuộc Viện Vật lý, ĐH Graz; trưởng bộ phận Astrid Veronig. Bốn nhóm: Vật lý Mặt Trời, Vật lý nhật quyển, Vật lý thiên văn sao, Vật lý thiên văn tính toán.",
+     "structureUrl": "https://astrophysics.uni-graz.at/en/team-astrophysics/",
+     "scopeNote": "Đủ danh sách theo trang Astrophysics team (11/2026); bỏ văn phòng, quản trị hệ thống, trợ lý sinh viên. Chỉ trưởng nhóm có trang cá nhân; người khác ghi theo trang nhóm.",
+     "units": [
+      {
+       "name": "Vật lý Mặt Trời và nhật quyển",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz",
+       "topics": "Bùng nổ Mặt Trời, CME, gió Mặt Trời, thời tiết không gian, STIX/Solar Orbiter, học sâu cho dữ liệu Mặt Trời.",
+       "url": "https://astrophysics.uni-graz.at/en/our-research/solar-and-heliospheric-physics/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Astrid Veronig",
+          "role": "Giáo sư; trưởng bộ phận; trưởng nhóm Vật lý Mặt Trời; giám đốc Đài Kanzelhöhe",
+          "url": "https://astrophysics.uni-graz.at/en/veronig/"
+         },
+         {
+          "name": "Manuela Stadlober-Temmer",
+          "role": "PGS; trưởng nhóm Vật lý nhật quyển",
+          "url": "https://astrophysics.uni-graz.at/en/stadlober-temmer/"
+         },
+         {
+          "name": "Julia Katharina Thalmann",
+          "role": "PD; chủ nhiệm dự án",
+          "url": "https://homepage.uni-graz.at/de/julia.thalmann/"
+         },
+         {
+          "name": "Yara De Leo",
+          "role": "PD; chủ nhiệm dự án",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Georg Fischer",
+          "role": "PD; chủ nhiệm dự án",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Teimuraz Zaqarashvili",
+          "role": "PD; chủ nhiệm dự án",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Karin Dissauer",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Barbara Süsser-Rechberger",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Philippe-André Bourdin",
+          "role": "Nhân sự khoa học",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Werner Pötzi",
+          "role": "Nhân sự khoa học",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Markus Baumgartner-Steinleitner",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Thierry Fox",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Isabella Kraus",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Daniel Milosic",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Anthony Moulin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Amaia Razquin Lizarraga",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Zhengzhan Shang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Xinyue Wang",
+          "role": "NCS / nghiên cứu viên khách mời",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Yuncong Li",
+          "role": "NCS / nghiên cứu viên khách mời",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý thiên văn sao (Lively Stars)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz",
+       "topics": "Biến thiên độ sáng sao, hoạt động từ của sao, ảnh hưởng tới phát hiện ngoại hành tinh, bùng nổ sao.",
+       "url": "https://lively-stars.uni-graz.at/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alexander Shapiro",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://lively-stars.uni-graz.at/en/lively-stars/our-team/alexander-shapiro/"
+         },
+         {
+          "name": "Sowmya Krishnamurthy",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Veronika Witzke",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Martin Leitzinger",
+          "role": "PD; chủ nhiệm dự án",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Petra Odert",
+          "role": "PD; chủ nhiệm dự án",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Cosima Breu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Dusan Vukadinovic",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Imtiyaz Chauhan",
+          "role": "Quản lý dự án",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Florian Kröll",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Thomas Tunstall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Nicolas Lampl",
+          "role": "Thành viên nhóm",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý thiên văn tính toán",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz",
+       "topics": "Mô phỏng dynamo và đối lưu sao, MHD.",
+       "url": "https://astrophysics.uni-graz.at/en/our-research/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Petri Käpylä",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Kishore Gopalakrishnan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Giovanni Leidi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Vishal Vetrivel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Đài thiên văn Kanzelhöhe và Lustbühel",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Bộ phận Vật lý thiên văn, Viện Vật lý, ĐH Graz",
+       "topics": "Quan sát Mặt Trời liên tục (H-alpha, ánh sáng trắng), nhận diện bùng nổ thời gian thực cho ESA Space Weather.",
+       "url": "https://physik.uni-graz.at/en/about-the-institute/astrophysics-and-geophysics/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Dietmar Baumgartner",
+          "role": "Nhân sự khoa học",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Heinrich Freislich",
+          "role": "Kỹ thuật viên",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Heinz Strutzmann",
+          "role": "Kỹ thuật viên",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Rainer Kuschnig",
+          "role": "Kỹ thuật viên",
+          "url": "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+         },
+         {
+          "name": "Arnold Hanslmeier",
+          "role": "GS nghỉ hưu",
+          "url": "http://homepage.uni-graz.at/de/arnold.hanslmeier/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophysics.uni-graz.at/en/team-astrophysics/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "ÖAW — Institut für Weltraumforschung (IWF Graz)",
+     "type": "institute",
+     "research": "Viện nghiên cứu không gian của Viện Hàn lâm Khoa học Áo: thời tiết, khí hậu và tiến hóa ngoại hành tinh (JWST, CHEOPS, PLATO), đĩa tạo hành tinh, vật lý hành tinh trong Hệ Mặt Trời, vật lý plasma không gian; chế tạo từ kế và máy tính bay cho hơn 40 sứ mệnh.",
+     "url": "https://www.oeaw.ac.at/en/iwf/",
+     "coverage": "full",
+     "structure": "Viện thuộc Viện Hàn lâm Khoa học Áo (ÖAW); giám đốc Christiane Helling, phó giám đốc Luca Fossati. Tám nhóm: 5 nhóm khoa học, 2 nhóm thiết bị bay và nhóm Đo laser vệ tinh.",
+     "structureUrl": "https://www.oeaw.ac.at/en/iwf/institute/the-team",
+     "scopeNote": "Đủ danh sách theo trang The Team (11/2026), mỗi người có trang riêng; bỏ hành chính, sinh viên thạc sĩ và nhóm Đo laser vệ tinh (trắc địa). Trang không ghi chức danh cho từng thành viên nên chỉ ghi vai trò của trưởng nhóm.",
+     "units": [
+      {
+       "name": "Thời tiết và khí hậu ngoại hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Mây và hoá học khí quyển ngoại hành tinh, mô hình khí hậu 3D, JWST, khả năng sống.",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-weather-and-climate",
+       "researchers": {
+        "people": [
+         {
+          "name": "Christiane Helling",
+          "role": "Giám đốc IWF; trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/helling-christiane"
+         },
+         {
+          "name": "Nidhi Bangera",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/bangera-nidhi"
+         },
+         {
+          "name": "Bruno Besser",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/besser-bruno"
+         },
+         {
+          "name": "Deepak Bisht",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/bisht-deepak"
+         },
+         {
+          "name": "Aljona Blöcker",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/bloecker-aljona"
+         },
+         {
+          "name": "Ludmila Carone",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/carone-ludmila"
+         },
+         {
+          "name": "Linda Giuliani",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/giuliani-linda"
+         },
+         {
+          "name": "Kenneth Goodis Gordon",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/goodis-gordon-kenneth"
+         },
+         {
+          "name": "Andrei Hünemeyer Dullius",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/huenemeyer-dullius-andrei"
+         },
+         {
+          "name": "Amit Reza",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/reza-amit"
+         },
+         {
+          "name": "Vikas Soni",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/soni-vikas"
+         },
+         {
+          "name": "Ruth-Sophie Taubner",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/taubner-ruth-sophie"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-weather-and-climate"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Đặc trưng và tiến hóa ngoại hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Thoát khí quyển, tiến hóa hành tinh, CHEOPS, PLATO, phổ truyền qua.",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-characterisation-and-evolution",
+       "researchers": {
+        "people": [
+         {
+          "name": "Luca Fossati",
+          "role": "Phó giám đốc; trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/fossati-luca"
+         },
+         {
+          "name": "Sreejith Aickara Gopinathan",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/aickara-gopinathan-sreejith"
+         },
+         {
+          "name": "Andrea Bonfanti",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/bonfanti-andrea"
+         },
+         {
+          "name": "Sandipan Borthakur",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/borthakur-sandipan"
+         },
+         {
+          "name": "Patricio Ernesto Cubillos Vallejos",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/cubillos-vallejos-patricio-ernesto"
+         },
+         {
+          "name": "Pietro Leonardi",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/leonardi-pietro"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-characterisation-and-evolution"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Đĩa tạo hành tinh và hoá học thiên văn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Mô hình đĩa tiền hành tinh (ProDiMo), hoá học thiên văn.",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/planet-forming-disks-and-astrochemistry",
+       "researchers": {
+        "people": [
+         {
+          "name": "Peter Woitke",
+          "role": "Trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/protoplanetare-scheiben-und-astrochemie/woitke-peter"
+         },
+         {
+          "name": "Kundan Kadam",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/protoplanetare-scheiben-und-astrochemie/kadam-kundan"
+         },
+         {
+          "name": "Manuel Scherf",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/protoplanetare-scheiben-und-astrochemie/scherf-manuel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/planet-forming-disks-and-astrochemistry"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý hành tinh trong Hệ Mặt Trời",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Khí quyển cao và thoát khí của hành tinh, Sao Kim, Sao Hỏa, vô tuyến hành tinh, bề mặt hành tinh.",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/solar-system-planetary-physics",
+       "researchers": {
+        "people": [
+         {
+          "name": "Helmut Lammer",
+          "role": "Trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/lammer-helmut"
+         },
+         {
+          "name": "Mohammed Yahia Boudjada",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/boudjada-mohammed-yahia"
+         },
+         {
+          "name": "Guenter Kargl",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/kargl-guenter"
+         },
+         {
+          "name": "Maxim Khodachenko",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/khodachenko-maxim"
+         },
+         {
+          "name": "Wolfgang Macher",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/macher-wolfgang"
+         },
+         {
+          "name": "Ali Varsani",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/varsani-ali"
+         },
+         {
+          "name": "Fabian Weichbold",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/weichbold-fabian"
+         },
+         {
+          "name": "Stephan Zivithal",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/zivithal-stephan"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/solar-system-planetary-physics"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý plasma không gian",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Từ quyển Trái Đất và hành tinh, tái kết nối từ, gió Mặt Trời; MMS, Cluster, BepiColombo, JUICE, SMILE.",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/space-plasma-physics",
+       "researchers": {
+        "people": [
+         {
+          "name": "Rumi Nakamura",
+          "role": "Trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/nakamura-rumi"
+         },
+         {
+          "name": "Wolfgang Baumjohann",
+          "role": "Nguyên giám đốc; chủ tịch Ban Toán-Khoa học tự nhiên ÖAW",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/baumjohann-wolfgang"
+         },
+         {
+          "name": "Georg Blüthner",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/bluethner-georg"
+         },
+         {
+          "name": "Hans Ulrich Eichelberger",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/eichelberger-hans-ulrich"
+         },
+         {
+          "name": "Aneesah Kamran",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/kamran-aneesah"
+         },
+         {
+          "name": "Hyangpyo Kim",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/kim-hyangpyo"
+         },
+         {
+          "name": "Evgeny Panov",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/panov-evgeny"
+         },
+         {
+          "name": "Sohom Roy",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/roy-sohom"
+         },
+         {
+          "name": "Daniel Schmid",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/schmid-daniel"
+         },
+         {
+          "name": "Adriana Settino",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/settino-adriana"
+         },
+         {
+          "name": "Aditi Upadhyay",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/upadhyay-aditi"
+         },
+         {
+          "name": "Martin Volwerk",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/volwerk-martin"
+         },
+         {
+          "name": "Zoltan Vörös",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/voeroes-zoltan"
+         },
+         {
+          "name": "Seiji Zenitani",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/zenitani-seiji"
+         },
+         {
+          "name": "Tielong Zhang",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/zhang-tielong"
+         },
+         {
+          "name": "Ruoxian Zhou",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/zhou-ruoxian"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/space-plasma-physics"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Máy tính trên tàu (Onboard Computing)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Phần cứng và phần mềm xử lý dữ liệu cho thiết bị bay.",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/onboard-computing",
+       "researchers": {
+        "people": [
+         {
+          "name": "Gabriel Giono",
+          "role": "Trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/giono-gabriel"
+         },
+         {
+          "name": "Manfred Steller",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/steller-manfred"
+         },
+         {
+          "name": "Parviz Azhdarzadeh",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/azhdarzadeh-parviz"
+         },
+         {
+          "name": "Franz Giner",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/giner-franz"
+         },
+         {
+          "name": "Hadil Hajri",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/hajri-hadil"
+         },
+         {
+          "name": "Johann Hasiba",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/hasiba-johann"
+         },
+         {
+          "name": "Karl Hofmann",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/hofmann-karl"
+         },
+         {
+          "name": "Irmgard Jernej",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/jernej-irmgard"
+         },
+         {
+          "name": "Harald Jeszenszky",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/jeszenszky-harald"
+         },
+         {
+          "name": "Christoph Kürbisch",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/kuerbisch-christoph"
+         },
+         {
+          "name": "Gunter Laky",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/laky-gunter"
+         },
+         {
+          "name": "Mario Leichtfried",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/leichtfried-mario"
+         },
+         {
+          "name": "Gabriel Maynard-Hernandez",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/maynard-hernandez-gabriel"
+         },
+         {
+          "name": "Sonja Neukirchner",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/neukirchner-sonja"
+         },
+         {
+          "name": "Harald Ottacher",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/ottacher-harald"
+         },
+         {
+          "name": "Tobias Schmidt",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/schmidt-tobias"
+         },
+         {
+          "name": "Michael Steinberger",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/steinberger-michael"
+         },
+         {
+          "name": "Jorge Lucio Tonfat Seclen",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/tonfat-seclen-jorge-lucio"
+         },
+         {
+          "name": "Robert Wallner",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/wallner-robert"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/onboard-computing"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Từ kế không gian (Space Magnetometers)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IWF Graz",
+       "topics": "Chế tạo từ kế cho các sứ mệnh (MMS, BepiColombo, JUICE, Solar Orbiter…).",
+       "url": "https://www.oeaw.ac.at/en/iwf/institute/the-team/space-magnetometers",
+       "researchers": {
+        "people": [
+         {
+          "name": "Werner Magnes",
+          "role": "Trưởng nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/magnes-werner"
+         },
+         {
+          "name": "Martín Alejandro Agú",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/agu-martin-alejandro"
+         },
+         {
+          "name": "Christoph Amtmann",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/amtmann-christoph"
+         },
+         {
+          "name": "Alexander Betzler",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/betzler-alexander"
+         },
+         {
+          "name": "Magda Delva",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/delva-magda"
+         },
+         {
+          "name": "David Felbermayr",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/david-felbermayr"
+         },
+         {
+          "name": "David Fischer",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/fischer-david"
+         },
+         {
+          "name": "Gerhard Fremuth",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/fremuth-gerhard"
+         },
+         {
+          "name": "Constant Lentz",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/lentz-constant"
+         },
+         {
+          "name": "Andreas Pollinger",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/pollinger-andreas"
+         },
+         {
+          "name": "Raphael Steinhöfler",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/raphael-steinhoefler"
+         },
+         {
+          "name": "Aris Valavanoglou",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/valavanoglou-aris"
+         },
+         {
+          "name": "Josef Wilfinger",
+          "role": "Thành viên nhóm",
+          "url": "https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/wilfinger-josef"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oeaw.ac.at/en/iwf/institute/the-team/space-magnetometers"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "innsbruck",
+   "city": "Innsbruck",
+   "coordinates": [
+    11.39,
+    47.26
+   ],
+   "institutions": [
+    {
+     "name": "Universität Innsbruck — Institut für Astro- und Teilchenphysik",
+     "type": "university",
+     "research": "Thiên văn gamma năng lượng rất cao (H.E.S.S., CTAO), tia vũ trụ, thấu kính hấp dẫn yếu và cụm thiên hà, sao khối lượng lớn, địa chấn học sao, thiên hà lùn và bề mặt sáng thấp. Viện còn nhóm vật lý hạt thực nghiệm (ATLAS) không đưa vào.",
+     "url": "https://www.uibk.ac.at/en/astro/",
+     "coverage": "full",
+     "structure": "Viện thuộc Khoa Kỹ thuật và Vật lý, ĐH Innsbruck, với 10 nhóm nghiên cứu.",
+     "structureUrl": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+     "scopeNote": "Đủ danh sách theo trang Staff by Research Groups (11/2026), mỗi người có trang riêng. Bỏ nhân viên hành chính, trợ lý sinh viên và nhóm Vật lý hạt thực nghiệm.",
+     "units": [
+      {
+       "name": "Vật lý hạt thiên văn (Astroparticle Physics)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Thiên văn gamma năng lượng rất cao (H.E.S.S., CTAO), tia vũ trụ.",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Olaf Reimer",
+          "role": "Giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/olaf-reimer/"
+         },
+         {
+          "name": "Markus Holler",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://www.uibk.ac.at/en/astro/staff/markus-holler/"
+         },
+         {
+          "name": "Qixin Yu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uibk.ac.at/en/astro/staff/qixin-yu/"
+         },
+         {
+          "name": "Josefine Hessl",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/josefine-hessl/"
+         },
+         {
+          "name": "Tobias Preis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/tobias-preis/"
+         },
+         {
+          "name": "Sebastian Panny",
+          "role": "NCS (bên ngoài)",
+          "url": "https://www.uibk.ac.at/en/astro/staff/sebastian-panny/"
+         },
+         {
+          "name": "Julia Thaler",
+          "role": "NCS (bên ngoài)",
+          "url": "https://www.uibk.ac.at/en/astro/staff/julia-thaler/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý hạt thiên văn lý thuyết",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Mô hình phát xạ năng lượng cao từ AGN, blazar, neutrino.",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Anita Reimer",
+          "role": "Giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/anita-reimer/"
+         },
+         {
+          "name": "Frans van der Merwe",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/van-der-merve-frans/"
+         },
+         {
+          "name": "Manuel Rocamora",
+          "role": "NCS (bên ngoài)",
+          "url": "https://www.uibk.ac.at/en/astro/staff/manuel-rocamora/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý hạt thiên văn tính toán",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Lan truyền tia vũ trụ, mô phỏng MHD.",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ralf Kissmann",
+          "role": "Phó giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/ralf-kissmann/"
+         },
+         {
+          "name": "Stefan Kis",
+          "role": "NCS (bên ngoài)",
+          "url": "https://www.uibk.ac.at/en/astro/staff/stefan-kis/"
+         },
+         {
+          "name": "Andrés Ramirez",
+          "role": "NCS (bên ngoài)",
+          "url": "https://www.uibk.ac.at/en/astro/staff/andres-ramirez/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý thiên văn Thiên Hà (Galactic Astrophysics)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Sao khối lượng lớn, quang phổ định lượng, trung tâm Ngân Hà.",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Norbert Przybilla",
+          "role": "Giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/norbert-przybilla/"
+         },
+         {
+          "name": "Wolfgang Kausch",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://www.uibk.ac.at/en/astro/staff/wolfgang-kausch/"
+         },
+         {
+          "name": "Nadeen Sabha",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uibk.ac.at/en/astro/staff/nadeen-sabha/"
+         },
+         {
+          "name": "Miguel Urbaneja",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uibk.ac.at/en/astro/staff/miguel-urbaneja/"
+         },
+         {
+          "name": "Patrick Aschenbrenner",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/patrick-aschenbrenner/"
+         },
+         {
+          "name": "Jessica Pilling",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/jessica-pilling/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý thiên văn ngoài Thiên Hà (Extragalactic Astrophysics)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Thấu kính hấp dẫn yếu, cụm thiên hà, vũ trụ học (Euclid, KiDS).",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Tim Schrabback",
+          "role": "Giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/tim-schrabback/"
+         },
+         {
+          "name": "Sebastian Grandis",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://www.uibk.ac.at/en/astro/staff/sebastian-grandis/"
+         },
+         {
+          "name": "Yuzheng Kang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uibk.ac.at/en/astro/staff/kang-yuzheng/"
+         },
+         {
+          "name": "Laila Linke",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uibk.ac.at/en/astro/staff/laila-linke/"
+         },
+         {
+          "name": "Benjamin Csizi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/benjamin-csizi/"
+         },
+         {
+          "name": "Henning Jansen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/henning-jansen/"
+         },
+         {
+          "name": "Florian Kleinebreil",
+          "role": "NCS (bên ngoài)",
+          "url": "https://www.uibk.ac.at/en/astro/staff/florian-kleinebreil/"
+         },
+         {
+          "name": "Jonas Krüger",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/kruger-jonas/"
+         },
+         {
+          "name": "Mengyu Li",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/mengyu-li/"
+         },
+         {
+          "name": "Geet Mankar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/geet-mankar/"
+         },
+         {
+          "name": "Jahin Shahriyar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/jahin-shahriyar/"
+         },
+         {
+          "name": "Elena Silvestre Roselló",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/elena-silvestre-rosello/"
+         },
+         {
+          "name": "Leoneph Stepman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/leoneph-stepman/"
+         },
+         {
+          "name": "Nikolas Zimmermann",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/nikolas-zimmermann/"
+         },
+         {
+          "name": "Herbert Hartl",
+          "role": "PGS danh dự",
+          "url": "https://www.uibk.ac.at/en/astro/staff/herbert-hartl/"
+         },
+         {
+          "name": "Ronald Weinberger",
+          "role": "PGS danh dự",
+          "url": "https://www.uibk.ac.at/en/astro/staff/ronald-weinberger/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Tiến hóa sao và địa chấn học sao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Sao trẻ và sao tiền dãy chính, địa chấn học sao (BRITE, TESS, PLATO).",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Konstanze Zwintz",
+          "role": "Giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/konstanze-zwintz/"
+         },
+         {
+          "name": "Eduard Vorobiev",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uibk.ac.at/en/astro/staff/eduard-vorobiev/"
+         },
+         {
+          "name": "Johannes Joergensen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/johannes-joergensen/"
+         },
+         {
+          "name": "Nena Scheller",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/nena-scheller/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Hình thành và tiến hóa thiên hà",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Thiên hà lùn, thiên hà bề mặt sáng thấp, Euclid.",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Francine Marleau",
+          "role": "Giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/francine-marleau/"
+         },
+         {
+          "name": "Marlon Fügenschuh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/marlon-fugenschuh/"
+         },
+         {
+          "name": "Isabella Grimaldi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/grimaldi-isabella/"
+         },
+         {
+          "name": "Selin Sprenger",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/selin-sprenger/"
+         },
+         {
+          "name": "Sara Tacchetto",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uibk.ac.at/en/astro/staff/tacchetto-sara/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vật lý thiên văn sao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astro- und Teilchenphysik",
+       "topics": "Sao biến quang, tinh vân hành tinh, khí quyển Trái Đất trong quan sát.",
+       "url": "https://www.uibk.ac.at/en/astro/staff/by-research-groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Stefan Kimeswenger",
+          "role": "Phó giáo sư",
+          "url": "https://www.uibk.ac.at/en/astro/staff/stefan-kimeswenger/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uibk.ac.at/en/astro/staff/by-research-groups/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "wien",
+   "city": "Wien",
+   "coordinates": [
+    16.37,
+    48.21
+   ],
+   "institutions": [
+    {
+     "name": "Universität Wien — Institut für Astrophysik",
+     "type": "university",
+     "research": "Hình thành sao và môi trường liên sao (bản đồ bụi 3D, Gaia), thiên hà và động lực học (van de Ven), vũ trụ học tính toán (Hahn), tái ion hoá (Hutter), sao và hoạt động sao, khí quyển và từ quyển ngoại hành tinh, sao AGB, thiết bị không gian (MICADO/ELT, ARIEL, CHEOPS).",
+     "url": "https://astro.univie.ac.at/",
+     "coverage": "full",
+     "structure": "Viện thuộc Khoa Vật lý thiên văn, ĐH Vienna, đặt tại Đài thiên văn Vienna (Universitätssternwarte).",
+     "structureUrl": "https://astro.univie.ac.at/index.php?id=190250&L=0",
+     "scopeNote": "Đủ danh sách theo trang Mitarbeiter*innen (11/2026), mỗi người có hồ sơ u:find; bỏ nhân viên hành chính và kỹ thuật chung. Trang gộp postdoc và nghiên cứu sinh nên không tách được.",
+     "units": [
+      {
+       "name": "Giáo sư (Professuren)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astrophysik, Universität Wien",
+       "topics": "—",
+       "url": "https://astro.univie.ac.at/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Joao Alves",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=40864"
+         },
+         {
+          "name": "Sudeshna Boro Saikia",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=61672"
+         },
+         {
+          "name": "Manuel Güdel",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=40508"
+         },
+         {
+          "name": "Alvaro Hacar Gonzalez",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=49016"
+         },
+         {
+          "name": "Oliver Hahn",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=113277"
+         },
+         {
+          "name": "Anne Hutter",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1014771"
+         },
+         {
+          "name": "Franz Kerschbaum",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=8354"
+         },
+         {
+          "name": "Kristina Kislyakova",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=64456"
+         },
+         {
+          "name": "Glenn van de Ven",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=105436"
+         },
+         {
+          "name": "Werner Zeilinger",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=9923"
+         },
+         {
+          "name": "Bodo Ziegler",
+          "role": "Giáo sư",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=42950"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astro.univie.ac.at/index.php?id=190250&L=0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Giáo sư nghỉ hưu",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astrophysik, Universität Wien",
+       "topics": "—",
+       "url": "https://astro.univie.ac.at/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Rudolf Dvorak",
+          "role": "GS nghỉ hưu",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=887"
+         },
+         {
+          "name": "Gerhard Hensler",
+          "role": "GS nghỉ hưu",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=85269"
+         },
+         {
+          "name": "Josef Hron",
+          "role": "GS nghỉ hưu",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=2160"
+         },
+         {
+          "name": "Werner Wolfgang Weiss",
+          "role": "GS nghỉ hưu",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=6181"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astro.univie.ac.at/index.php?id=190250&L=0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nhà khoa học cấp cao (Senior Scientists)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astrophysik, Universität Wien",
+       "topics": "—",
+       "url": "https://astro.univie.ac.at/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Begoña Anahí Caldú Primo",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=116398"
+         },
+         {
+          "name": "Oliver Czoske",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=41202"
+         },
+         {
+          "name": "Prashin Jethwa",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=107335"
+         },
+         {
+          "name": "Kieran Leschinski",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=51531"
+         },
+         {
+          "name": "Stefan Meingast",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=41503"
+         },
+         {
+          "name": "Roland Ottensamer",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=80666"
+         },
+         {
+          "name": "Elke Pilat-Lohinger",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=13325"
+         },
+         {
+          "name": "Tanja Rindler-Daller",
+          "role": "Nhà khoa học cấp cao",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=87630"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astro.univie.ac.at/index.php?id=190250&L=0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Postdoc và nghiên cứu sinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astrophysik, Universität Wien",
+       "topics": "—",
+       "url": "https://astro.univie.ac.at/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marianna Aiello",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1022042"
+         },
+         {
+          "name": "Francisco Ignacio Aros Pinochet",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=106555"
+         },
+         {
+          "name": "Martin Baláž",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1006224"
+         },
+         {
+          "name": "Timotheüs Bliek",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=115484"
+         },
+         {
+          "name": "Alina Böcker",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1009200"
+         },
+         {
+          "name": "Johann Böhm",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1008755"
+         },
+         {
+          "name": "Katja Fahrion",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1011895"
+         },
+         {
+          "name": "Christopher Granabetter",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1012624"
+         },
+         {
+          "name": "Adrián Gutiérrez Adame",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1011967"
+         },
+         {
+          "name": "Fabian Haberhauer",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=102059"
+         },
+         {
+          "name": "Oliver Herbort",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1002735"
+         },
+         {
+          "name": "Emily Lauren Hunt",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1019181"
+         },
+         {
+          "name": "Sebastian Hutschenreuter",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1007267"
+         },
+         {
+          "name": "Shivam Dhananjay Joshi",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1013680"
+         },
+         {
+          "name": "Sam Sophie-Marie Kampitsch",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1012173"
+         },
+         {
+          "name": "Lilly Kormann",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1008570"
+         },
+         {
+          "name": "Anja Krause",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1010160"
+         },
+         {
+          "name": "Prem Kumar",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1012399"
+         },
+         {
+          "name": "Mathias Lechthaler",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=116366"
+         },
+         {
+          "name": "Dominik Loidolt",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=64822"
+         },
+         {
+          "name": "Armin Luntzer",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=35034"
+         },
+         {
+          "name": "Evelyn Macdonald",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1016400"
+         },
+         {
+          "name": "Efrem Maconi",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1006375"
+         },
+         {
+          "name": "Christian Maier",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=45534"
+         },
+         {
+          "name": "Federica Mauro",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1009645"
+         },
+         {
+          "name": "Marko Mecina",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=39460"
+         },
+         {
+          "name": "Gerald Mösenlechner",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=105418"
+         },
+         {
+          "name": "Louis Müller",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1017381"
+         },
+         {
+          "name": "Luisa Obermüller",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1016735"
+         },
+         {
+          "name": "Shaunak Padhyegurjar",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1022685"
+         },
+         {
+          "name": "Michelangelo Pantaleoni",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1013048"
+         },
+         {
+          "name": "Nicole Pawellek",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=117641"
+         },
+         {
+          "name": "Martin Piecka",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1005770"
+         },
+         {
+          "name": "Sylvia Plöckinger",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=35033"
+         },
+         {
+          "name": "Shivani Ramesh",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1022899"
+         },
+         {
+          "name": "Anuja Raorane",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1016448"
+         },
+         {
+          "name": "Stefanie Reiter",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=114108"
+         },
+         {
+          "name": "Nils-Martin Robeling",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1013977"
+         },
+         {
+          "name": "Alena Kristina Rottensteiner",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=111426"
+         },
+         {
+          "name": "Juan Diego Soler Pulido",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1018218"
+         },
+         {
+          "name": "Ivan Stankovic",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1014606"
+         },
+         {
+          "name": "Jens Stücker",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1013498"
+         },
+         {
+          "name": "Mate Szilagyi",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1024149"
+         },
+         {
+          "name": "Sabine Thater",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=109657"
+         },
+         {
+          "name": "Gwenaëlle Van Looveren",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=117311"
+         },
+         {
+          "name": "Nora Wagner",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1011545"
+         },
+         {
+          "name": "Lukas Winkler",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=110475"
+         },
+         {
+          "name": "Lisa Wölfer",
+          "role": "Postdoc / NCS",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1023648"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astro.univie.ac.at/index.php?id=190250&L=0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Thành viên liên kết",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut für Astrophysik, Universität Wien",
+       "topics": "—",
+       "url": "https://astro.univie.ac.at/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Salim Ansari",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90000725"
+         },
+         {
+          "name": "Bernhard Aringer",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=10341"
+         },
+         {
+          "name": "Verena Baumgartner",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=18582"
+         },
+         {
+          "name": "Francesca Bonanomi",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=116013"
+         },
+         {
+          "name": "Anirban Chowdhury",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90002045"
+         },
+         {
+          "name": "Eric Gaidos",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=63781"
+         },
+         {
+          "name": "Lukas Gehrig",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90000726"
+         },
+         {
+          "name": "Carolin Höfer",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90002052"
+         },
+         {
+          "name": "Julia Lamprecht",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90001724"
+         },
+         {
+          "name": "Ryan Leaman",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=108275"
+         },
+         {
+          "name": "Thomas Lebzelter",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=8420"
+         },
+         {
+          "name": "Guimei Liu",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90001652"
+         },
+         {
+          "name": "Thomas Maindl",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=8692"
+         },
+         {
+          "name": "James McKevitt",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=115970"
+         },
+         {
+          "name": "Walter Nowotny-Schipper",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=20455"
+         },
+         {
+          "name": "Laura Posch",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=115646"
+         },
+         {
+          "name": "Sebastian Ratzenböck",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=105280"
+         },
+         {
+          "name": "Simon Schleich",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1004151"
+         },
+         {
+          "name": "Andrea Socci",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=115545"
+         },
+         {
+          "name": "Simone Spedicato",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1011828"
+         },
+         {
+          "name": "Daniel Steiner",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=43251"
+         },
+         {
+          "name": "Eduard Vorobiev",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=42150"
+         },
+         {
+          "name": "Shengwen Zhang",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=90002119"
+         },
+         {
+          "name": "Alice Zocchi",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=111841"
+         },
+         {
+          "name": "Péter Àbrahám",
+          "role": "Thành viên liên kết",
+          "url": "https://ufind.univie.ac.at/de/person.html?id=1009336"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astro.univie.ac.at/index.php?id=190250&L=0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "AUT",
+ "checked": "2026-11-22",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là trung tâm thành phố.",
+ "listSource": "https://www.oegaa.at/"
+}

@@ -1,0 +1,5 @@
+@country AUT
+checked: 2026-11-22
+pin: 5
+coordinateNote: Toạ độ là trung tâm thành phố.
+listSource: https://www.oegaa.at/

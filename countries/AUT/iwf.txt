@@ -1,0 +1,128 @@
+@inst ÖAW — Institut für Weltraumforschung (IWF Graz)
+city: graz
+type: institute
+url: https://www.oeaw.ac.at/en/iwf/
+research: Viện nghiên cứu không gian của Viện Hàn lâm Khoa học Áo: thời tiết, khí hậu và tiến hóa ngoại hành tinh (JWST, CHEOPS, PLATO), đĩa tạo hành tinh, vật lý hành tinh trong Hệ Mặt Trời, vật lý plasma không gian; chế tạo từ kế và máy tính bay cho hơn 40 sứ mệnh.
+coverage: full
+structure: Viện thuộc Viện Hàn lâm Khoa học Áo (ÖAW); giám đốc Christiane Helling, phó giám đốc Luca Fossati. Tám nhóm: 5 nhóm khoa học, 2 nhóm thiết bị bay và nhóm Đo laser vệ tinh.
+structureUrl: https://www.oeaw.ac.at/en/iwf/institute/the-team
+scope: Đủ danh sách theo trang The Team (11/2026), mỗi người có trang riêng; bỏ hành chính, sinh viên thạc sĩ và nhóm Đo laser vệ tinh (trắc địa). Trang không ghi chức danh cho từng thành viên nên chỉ ghi vai trò của trưởng nhóm.
+
+#unit Thời tiết và khí hậu ngoại hành tinh
+parent: IWF Graz
+topics: Mây và hoá học khí quyển ngoại hành tinh, mô hình khí hậu 3D, JWST, khả năng sống.
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-weather-and-climate
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-weather-and-climate
+p: Christiane Helling | Giám đốc IWF; trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/helling-christiane
+p: Nidhi Bangera | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/bangera-nidhi
+p: Bruno Besser | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/besser-bruno
+p: Deepak Bisht | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/bisht-deepak
+p: Aljona Blöcker | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/bloecker-aljona
+p: Ludmila Carone | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/carone-ludmila
+p: Linda Giuliani | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/giuliani-linda
+p: Kenneth Goodis Gordon | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/goodis-gordon-kenneth
+p: Andrei Hünemeyer Dullius | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/huenemeyer-dullius-andrei
+p: Amit Reza | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/reza-amit
+p: Vikas Soni | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/soni-vikas
+p: Ruth-Sophie Taubner | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-wetter-und-klima/taubner-ruth-sophie
+
+#unit Đặc trưng và tiến hóa ngoại hành tinh
+parent: IWF Graz
+topics: Thoát khí quyển, tiến hóa hành tinh, CHEOPS, PLATO, phổ truyền qua.
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-characterisation-and-evolution
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/exoplanet-characterisation-and-evolution
+p: Luca Fossati | Phó giám đốc; trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/fossati-luca
+p: Sreejith Aickara Gopinathan | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/aickara-gopinathan-sreejith
+p: Andrea Bonfanti | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/bonfanti-andrea
+p: Sandipan Borthakur | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/borthakur-sandipan
+p: Patricio Ernesto Cubillos Vallejos | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/cubillos-vallejos-patricio-ernesto
+p: Pietro Leonardi | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/exoplaneten-charakterisierung-und-evolution/leonardi-pietro
+
+#unit Đĩa tạo hành tinh và hoá học thiên văn
+parent: IWF Graz
+topics: Mô hình đĩa tiền hành tinh (ProDiMo), hoá học thiên văn.
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/planet-forming-disks-and-astrochemistry
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/planet-forming-disks-and-astrochemistry
+p: Peter Woitke | Trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/protoplanetare-scheiben-und-astrochemie/woitke-peter
+p: Kundan Kadam | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/protoplanetare-scheiben-und-astrochemie/kadam-kundan
+p: Manuel Scherf | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/protoplanetare-scheiben-und-astrochemie/scherf-manuel
+
+#unit Vật lý hành tinh trong Hệ Mặt Trời
+parent: IWF Graz
+topics: Khí quyển cao và thoát khí của hành tinh, Sao Kim, Sao Hỏa, vô tuyến hành tinh, bề mặt hành tinh.
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/solar-system-planetary-physics
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/solar-system-planetary-physics
+p: Helmut Lammer | Trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/lammer-helmut
+p: Mohammed Yahia Boudjada | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/boudjada-mohammed-yahia
+p: Guenter Kargl | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/kargl-guenter
+p: Maxim Khodachenko | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/khodachenko-maxim
+p: Wolfgang Macher | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/macher-wolfgang
+p: Ali Varsani | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/varsani-ali
+p: Fabian Weichbold | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/weichbold-fabian
+p: Stephan Zivithal | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/planetenphysik-im-sonnensystem/zivithal-stephan
+
+#unit Vật lý plasma không gian
+parent: IWF Graz
+topics: Từ quyển Trái Đất và hành tinh, tái kết nối từ, gió Mặt Trời; MMS, Cluster, BepiColombo, JUICE, SMILE.
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/space-plasma-physics
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/space-plasma-physics
+p: Rumi Nakamura | Trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/nakamura-rumi
+p: Wolfgang Baumjohann | Nguyên giám đốc; chủ tịch Ban Toán-Khoa học tự nhiên ÖAW | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/baumjohann-wolfgang
+p: Georg Blüthner | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/bluethner-georg
+p: Hans Ulrich Eichelberger | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/eichelberger-hans-ulrich
+p: Aneesah Kamran | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/kamran-aneesah
+p: Hyangpyo Kim | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/kim-hyangpyo
+p: Evgeny Panov | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/panov-evgeny
+p: Sohom Roy | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/roy-sohom
+p: Daniel Schmid | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/schmid-daniel
+p: Adriana Settino | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/settino-adriana
+p: Aditi Upadhyay | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/upadhyay-aditi
+p: Martin Volwerk | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/volwerk-martin
+p: Zoltan Vörös | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/voeroes-zoltan
+p: Seiji Zenitani | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/zenitani-seiji
+p: Tielong Zhang | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/zhang-tielong
+p: Ruoxian Zhou | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraumplasmaphysik/zhou-ruoxian
+
+#unit Máy tính trên tàu (Onboard Computing)
+parent: IWF Graz
+topics: Phần cứng và phần mềm xử lý dữ liệu cho thiết bị bay.
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/onboard-computing
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/onboard-computing
+p: Gabriel Giono | Trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/giono-gabriel
+p: Manfred Steller | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/steller-manfred
+p: Parviz Azhdarzadeh | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/azhdarzadeh-parviz
+p: Franz Giner | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/giner-franz
+p: Hadil Hajri | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/hajri-hadil
+p: Johann Hasiba | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/hasiba-johann
+p: Karl Hofmann | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/hofmann-karl
+p: Irmgard Jernej | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/jernej-irmgard
+p: Harald Jeszenszky | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/jeszenszky-harald
+p: Christoph Kürbisch | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/kuerbisch-christoph
+p: Gunter Laky | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/laky-gunter
+p: Mario Leichtfried | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/leichtfried-mario
+p: Gabriel Maynard-Hernandez | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/maynard-hernandez-gabriel
+p: Sonja Neukirchner | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/neukirchner-sonja
+p: Harald Ottacher | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/ottacher-harald
+p: Tobias Schmidt | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/schmidt-tobias
+p: Michael Steinberger | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/steinberger-michael
+p: Jorge Lucio Tonfat Seclen | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/tonfat-seclen-jorge-lucio
+p: Robert Wallner | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/bordcomputer/wallner-robert
+
+#unit Từ kế không gian (Space Magnetometers)
+parent: IWF Graz
+topics: Chế tạo từ kế cho các sứ mệnh (MMS, BepiColombo, JUICE, Solar Orbiter…).
+url: https://www.oeaw.ac.at/en/iwf/institute/the-team/space-magnetometers
+src: https://www.oeaw.ac.at/en/iwf/institute/the-team/space-magnetometers
+p: Werner Magnes | Trưởng nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/magnes-werner
+p: Martín Alejandro Agú | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/agu-martin-alejandro
+p: Christoph Amtmann | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/amtmann-christoph
+p: Alexander Betzler | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/betzler-alexander
+p: Magda Delva | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/delva-magda
+p: David Felbermayr | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/david-felbermayr
+p: David Fischer | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/fischer-david
+p: Gerhard Fremuth | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/fremuth-gerhard
+p: Constant Lentz | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/lentz-constant
+p: Andreas Pollinger | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/pollinger-andreas
+p: Raphael Steinhöfler | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/raphael-steinhoefler
+p: Aris Valavanoglou | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/valavanoglou-aris
+p: Josef Wilfinger | Thành viên nhóm | https://www.oeaw.ac.at/en/iwf/institut/das-team/weltraummagnetometer/wilfinger-josef
