@@ -1,0 +1,127 @@
+@city zurich | Zürich | 8.51, 47.41
+
+@inst ETH Zürich — Institute for Particle Physics and Astrophysics (IPA)
+city: zurich
+type: university
+url: https://ipa.phys.ethz.ch/
+research: Ngoại hành tinh và khả năng sống (LIFE, METIS), cấu trúc trong ngoại hành tinh, vật lý Mặt Trời, vũ trụ học (Euclid, SKA), sóng hấp dẫn (LISA, NANOGrav), thiên văn gamma năng lượng rất cao (MAGIC, CTA). Viện còn các nhóm vật lý hạt không đưa vào đây.
+coverage: full
+structure: Viện thuộc Khoa Vật lý ETH Zürich, khoảng 200 người trong 18 nhóm; 7 nhóm làm vật lý thiên văn.
+structureUrl: https://ipa.phys.ethz.ch/research-groups.html
+scope: Lấy 7 nhóm vật lý thiên văn; danh sách theo trang People của từng nhóm (11/2026), mỗi người có trang riêng. Trang ETH không ghi chức danh nên vai trò suy từ học vị (Prof./Dr.); người làm ở hai nhóm chỉ ghi một lần. Bỏ trợ lý hành chính.
+
+#unit Ngoại hành tinh và khả năng sống (Quanz)
+parent: IPA, ETH Zürich
+topics: Chụp ảnh trực tiếp ngoại hành tinh, sứ mệnh giao thoa kế không gian LIFE, khí quyển và dấu hiệu sinh học, thiết bị (METIS/ELT, ERIS).
+url: https://quanz-group.ethz.ch/quanz-group/
+src: https://quanz-group.ethz.ch/quanz-group/people.html
+p: Christina Agyemang | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MzY3NzAy.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Lia Aleksandrovic-Sartori | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MTY0MTUx.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Thomas Birbacher | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjIzODU5.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Jacopo Bottoni | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjYwODUw.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Emilie Bouzerand | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjY0OTkw.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Zach Burr | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MzYzMjgy.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Blanca Crazzolara | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjU5OTky.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Felix Dannert | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjUzNzY3.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: David Eglin | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjU4MjE5.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Lee Daniel Feinberg | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.Mzc4NDE5.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Germain Garreau | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.Mzc0MjU4.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Emily Garvin | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjU2OTMw.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Adrian Michael Glauser | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MTE3NzEz.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Jonah Timothy Hansen | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MzQxMDAy.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Philipp Huber | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjA4ODg4.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Sean Alexander Jordan | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MzUyNzc5.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Caroline Keufer-Platz | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjIzNjE0.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Maximilian Kirchhoff | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MTcxNDU0.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Helena Kühnle | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjI0NzM5.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Ryan Meierhofer | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MjQ3NTc1.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Julio Pino Jiménez | NCS / nhân sự nghiên cứu | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MzU4MTU2.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+p: Sascha Patrick Quanz | Giáo sư; trưởng nhóm | https://quanz-group.ethz.ch/quanz-group/people.html
+p: Eckhart Arthur Spalding | Nhà khoa học (tiến sĩ) | https://quanz-group.ethz.ch/quanz-group/people/person-detail.MzY2NDI1.TGlzdC80OTI0LC02MTUwNjA4NDM=.html
+
+#unit Ngoại hành tinh (Queloz)
+parent: IPA, ETH Zürich
+topics: Phát hiện và đặc trưng ngoại hành tinh, vận tốc xuyên tâm, nguồn gốc sự sống (Centre for Origin and Prevalence of Life).
+url: https://queloz-group.ethz.ch/
+src: https://queloz-group.ethz.ch/people.html
+p: Didier Queloz | Giáo sư; trưởng nhóm | https://queloz-group.ethz.ch/people/person-detail.MjgzOTU3.TGlzdC80NTc2LC0yNjk4NjczNzI=.html
+p: Clark Edward Baker | Nhà khoa học (tiến sĩ) | https://queloz-group.ethz.ch/people/person-detail.Mzc3MDgy.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Melissa Hellen Bendixen | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.MzgzMDgy.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Nadine Denise Bircher | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.Mzg2MTk4.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: David Degen | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.MjM3NTMw.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Clàudia Janó Muñoz | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.MzkzMTU4.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Florian Lienhard | Nhà khoa học (tiến sĩ) | https://queloz-group.ethz.ch/people/person-detail.MTk3OTU5.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Yara Luginbühl | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.MzU0OTA4.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Corinna Dorit Renée Marchand | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.MzA4NTA0.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Peter Pihlmann Pedersen | Nhà khoa học (tiến sĩ) | https://queloz-group.ethz.ch/people/person-detail.MzEwOTEw.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+p: Merlin Zgraggen | NCS / nhân sự nghiên cứu | https://queloz-group.ethz.ch/people/person-detail.Mzg4NjI3.TGlzdC80MjQxLC0yNjk4NjczNzI=.html
+
+#unit Cấu trúc trong và khí quyển ngoại hành tinh (Dorn)
+parent: IPA, ETH Zürich
+topics: Siêu Trái Đất và tiểu Hải Vương tinh: cấu trúc trong, khí quyển, mô hình suy luận.
+url: https://dorn-group.ethz.ch/
+src: https://dorn-group.ethz.ch/people.html
+p: Komal Bali | NCS / nhân sự nghiên cứu | https://dorn-group.ethz.ch/people/person-detail.MzM2MjIy.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+p: Caroline Dorn | Giáo sư; trưởng nhóm | https://dorn-group.ethz.ch/people/person-detail.MTQ4ODgy.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+p: Sarah Eva A Joiret | Nhà khoa học (tiến sĩ) | https://dorn-group.ethz.ch/people/person-detail.MzgzNTc1.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+p: Céline Nussbaumer | NCS / nhân sự nghiên cứu | https://dorn-group.ethz.ch/people/person-detail.Mjc0NDE2.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+p: Annika Salmi | NCS / nhân sự nghiên cứu | https://dorn-group.ethz.ch/people/person-detail.Mzc1Nzgw.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+p: Marie-Luise Steinmeyer | Nhà khoa học (tiến sĩ) | https://dorn-group.ethz.ch/people/person-detail.MzQxOTgx.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+p: Marilina Valatsou | NCS / nhân sự nghiên cứu | https://dorn-group.ethz.ch/people/person-detail.Mjk5NDM4.TGlzdC80ODQxLDEyMzUwMDgyOTM=.html
+
+#unit Vật lý thiên văn Mặt Trời (Harra)
+parent: IPA, ETH Zürich
+topics: Bùng nổ Mặt Trời, phun trào vật chất vành nhật hoa, gió Mặt Trời; Solar Orbiter, Hinode; hợp tác PMOD/WRC Davos.
+url: https://sun.ethz.ch/
+src: https://sun.ethz.ch/people.html
+p: Adriana De-Sassi | NCS / nhân sự nghiên cứu | https://sun.ethz.ch/people/person-detail.MjM3MDcw.TGlzdC8zNDI5LDEzMDEwMzEzNzg=.html
+p: Louise Harra | Giáo sư; trưởng nhóm | https://sun.ethz.ch/people/person-detail.lharra.html
+p: Stefan Johann Hofmeister | Nhà khoa học (tiến sĩ) | https://sun.ethz.ch/people/person-detail.Mzg4MTY2.TGlzdC8zNDI5LDEzMDEwMzEzNzg=.html
+p: Fabrizio Vignali | NCS / nhân sự nghiên cứu | https://sun.ethz.ch/people/person-detail.Mjc3MjIx.TGlzdC8zNDI5LDEzMDEwMzEzNzg=.html
+p: Yingjie Zhu | Nhà khoa học (tiến sĩ) | https://sun.ethz.ch/people/person-detail.MzQ0Mzgx.TGlzdC8zNDI5LDEzMDEwMzEzNzg=.html
+
+#unit Vũ trụ học (Refregier)
+parent: IPA, ETH Zürich
+topics: Vật chất tối và năng lượng tối, thấu kính yếu, Euclid, SKA, mô phỏng và phương pháp suy luận.
+url: https://cosmology.ethz.ch/
+src: https://cosmology.ethz.ch/People.html
+p: Alexandre Refregier | Giáo sư; trưởng nhóm | https://cosmology.ethz.ch/People/person-details.refregier.html
+p: Nicola Lo Russo | Quản lý dự án | https://www.phys.ethz.ch/the-department/people/person-detail.Mjc1MzM5.TGlzdC81MTUsMTE3MjU5OTI5OQ==.html
+p: Julian Adamek | Kỹ sư | https://cosmology.ethz.ch/People/person-details.Mzc3MDgz.TGlzdC8zNTk0LC0xMzgyOTQ3MjAz.html
+p: John Hennig | Kỹ sư | https://ethz.ch/en/the-eth-zurich/organisation/departments/informatikdienste/personen/person-detail.MzA4NjA5.TGlzdC80NDMwLDQ0MTE5MDAyNQ==.html
+p: Uwe Schmitt | Kỹ sư | https://ethz.ch/staffnet/de/organisation/abteilungen/informatikdienste/personen/person-detail.uwe-schmitt.html
+p: Tommaso Boschi | Kỹ sư | https://cosmology.ethz.ch/People/person-details.MzY5NDgz.TGlzdC8zNTk0LC0xMzgyOTQ3MjAz.html
+p: Marianna Papadionysiou | Kỹ sư | https://ethz.ch/en/the-eth-zurich/organisation/departments/informatikdienste/personen/person-detail.MjIyMDg2.TGlzdC80NDMwLDQ0MTE5MDAyNQ==.html
+p: Thierry Viant | Kỹ sư | https://www.phys.ethz.ch/de/das-departement/personen/person-detail.MTIxMzE5.TGlzdC81MTUsMTE3MjU5OTI5OQ==.html
+p: Michele Bianco | PD | https://cosmology.ethz.ch/People/person-details.MzQwMjU4.TGlzdC8zNzA4LC0xMzgyOTQ3MjAz.html
+p: Devin Crichton | PD | https://cosmology.ethz.ch/People/person-details.dcrichton.html
+p: Jozef Bucko | PD | https://cosmology.ethz.ch/People/person-details.MjUzNDAx.TGlzdC8zNzA4LC0xMzgyOTQ3MjAz.html
+p: Pascal Hitz | NCS | https://cosmology.ethz.ch/People/person-details.MjI2MTMz.TGlzdC8zNzA2LC0xMzgyOTQ3MjAz.html
+p: Joël Mayor | NCS | https://cosmology.ethz.ch/People/person-details.Mjc5NDI2.TGlzdC8zNzA2LC0xMzgyOTQ3MjAz.html
+p: Jennifer Studer | NCS | https://cosmology.ethz.ch/People/person-details.MjI1MDY1.TGlzdC8zNzA2LC0xMzgyOTQ3MjAz.html
+p: Veronika Oehl | NCS | https://cosmology.ethz.ch/People/person-details.MzEwMDU5.TGlzdC8zNzA2LC0xMzgyOTQ3MjAz.html
+p: Laura Reymond | NCS | https://cosmology.ethz.ch/People/person-details.MjQ2NzIw.TGlzdC8zNzA2LC0xMzgyOTQ3MjAz.html
+p: Arne Thomsen | NCS | https://cosmology.ethz.ch/People/person-details.MjMwMzU1.TGlzdC8zNzA2LC0xMzgyOTQ3MjAz.html
+
+#unit Vật lý hấp dẫn (Vallisneri)
+parent: IPA, ETH Zürich
+topics: Sứ mệnh LISA (Swiss LISA Data Center), mảng định thời pulsar NANOGrav.
+url: https://vallisneri-group.ethz.ch/
+src: https://vallisneri-group.ethz.ch/people.html
+p: Giada Badaracco | NCS / nhân sự nghiên cứu | https://vallisneri-group.ethz.ch/people/person-detail.MjU5NjYz.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Uddipta Bhardwaj | Nhà khoa học (tiến sĩ) | https://vallisneri-group.ethz.ch/people/person-detail.MzY3OTI1.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Giovanni Giarda | NCS / nhân sự nghiên cứu | https://vallisneri-group.ethz.ch/people/person-detail.MzY2MDYx.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Simon Grimm | Nhà khoa học (tiến sĩ) | https://vallisneri-group.ethz.ch/people/person-detail.MTI3ODk4.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Niklas Houba | Nhà khoa học (tiến sĩ) | https://vallisneri-group.ethz.ch/people/person-detail.MzI0ODcz.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Patrick Michael Meyers | Nhà khoa học (tiến sĩ) | https://vallisneri-group.ethz.ch/people/person-detail.MzY3MTgy.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Davide Piras | Nhà khoa học (tiến sĩ) | https://vallisneri-group.ethz.ch/people/person-detail.MzgxNDIy.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Maria Radisch | NCS / nhân sự nghiên cứu | https://vallisneri-group.ethz.ch/people/person-detail.MjQ5NjY2.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Arianna Renzini | Nhà khoa học (tiến sĩ) | https://vallisneri-group.ethz.ch/people/person-detail.MzY0ODg2.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+p: Michele Vallisneri | Giáo sư; trưởng nhóm | https://vallisneri-group.ethz.ch/people/person-detail.MzU1OTIy.TGlzdC81Mjk3LC0xNzMwMTc0NjIz.html
+
+#unit Thiên văn gamma năng lượng rất cao (Biland)
+parent: IPA, ETH Zürich
+topics: Kính Cherenkov khí quyển MAGIC, FACT, chuẩn bị CTA; nguồn gamma trên 100 GeV.
+url: https://biland-group.ethz.ch/
+src: https://biland-group.ethz.ch/the-group.html
+p: Adrian Biland | Giáo sư; trưởng nhóm | https://biland-group.ethz.ch/the-group.html

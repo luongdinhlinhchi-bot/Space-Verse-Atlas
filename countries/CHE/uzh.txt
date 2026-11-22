@@ -1,0 +1,99 @@
+@inst Universität Zürich — Department of Astrophysics
+city: zurich
+type: university
+url: https://www.astro.uzh.ch/en.html
+research: Vật lý thiên văn lý thuyết và tính toán: hình thành thiên hà và cấu trúc vũ trụ, vật chất tối, lỗ đen và sóng hấp dẫn, khoa học hành tinh (hành tinh khổng lồ, va chạm), thấu kính hấp dẫn, mô phỏng quy mô lớn.
+coverage: full
+structure: Khoa Vật lý thiên văn thuộc Khoa Toán và Khoa học tự nhiên, UZH; 9 nhóm nghiên cứu.
+structureUrl: https://www.astro.uzh.ch/en/research/research-groups.html
+scope: Đủ theo trang Faculty & Staff và trang thành viên của từng nhóm (11/2026). Nhóm Harald Ita (vật lý hạt, cùng PSI) không đưa vào. Phần lớn nghiên cứu sinh chỉ có email nên ghi theo trang nhóm.
+
+#unit Nhóm Robert Feldmann
+parent: Department of Astrophysics, UZH
+topics: Hình thành thiên hà, mô phỏng (FIRE), học máy.
+url: https://www.astro.uzh.ch/en/research/research-groups/Robert-Feldmann.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Robert-Feldmann.html
+p: Robert Feldmann | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1115201
+pp: Nhà khoa học (tiến sĩ) | Rebekka Coles-Bieri
+pp: NCS / nhân sự nghiên cứu | Siyu Bian
+
+#unit Nhóm Ravit Helled
+parent: Department of Astrophysics, UZH
+topics: Khoa học hành tinh: cấu trúc trong của hành tinh khổng lồ (Sao Mộc, Sao Thổ) và ngoại hành tinh, vật lý Mặt Trời.
+url: https://www.astro.uzh.ch/en/research/research-groups/Ravit-Helled.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Ravit-Helled.html
+p: Ravit Helled | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1181501
+p: Simon Müller | Nhà khoa học biên chế | https://tiny-hippo.github.io/
+pp: Nhà khoa học; điều phối UZH Space | Jean-Noël Mettler
+pp: Nhà khoa học (tiến sĩ) — vật lý Mặt Trời | Jérôme Bétrisey
+p: Gabriele Cugno | Nhà khoa học (tiến sĩ) | https://gcugno.github.io/
+pp: Nhà khoa học (tiến sĩ) | Oliver Schib
+pp: NCS / nhân sự nghiên cứu | Mirco Bussmann
+pp: NCS / nhân sự nghiên cứu | Cesare Cozza
+pp: NCS / nhân sự nghiên cứu | Thomas Douçot
+pp: NCS / nhân sự nghiên cứu | Mark Eberlein
+pp: NCS / nhân sự nghiên cứu | Clément Lindner
+pp: NCS / nhân sự nghiên cứu | Luca Morf
+pp: NCS / nhân sự nghiên cứu | Lorenzo Peerani
+
+#unit Nhóm Lucio Mayer
+parent: Department of Astrophysics, UZH
+topics: Lỗ đen khối lượng lớn, sóng hấp dẫn, hình thành thiên hà và hành tinh, vũ trụ sơ khai.
+url: https://www.astro.uzh.ch/en/research/research-groups/Lucio-Mayer.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Lucio-Mayer.html
+p: Lucio Mayer | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1183001
+p: Pedro R. Capelo | Nhà khoa học (tiến sĩ) | http://www.astro.uzh.ch/~pcapelo
+p: Nils Vu | Nghiên cứu viên độc lập (SNSF Ambizione) | https://nilsvu.de/
+pp: Nhà khoa học (tiến sĩ) | Tamar Meshveliani
+pp: NCS / nhân sự nghiên cứu | Angel Bashyal
+pp: NCS / nhân sự nghiên cứu | Noemi Fabri
+
+#unit Nhóm Ben Moore
+parent: Department of Astrophysics, UZH
+topics: Hình thành cấu trúc vũ trụ, vật chất tối, hình thành hành tinh; Center for Theoretical Astrophysics and Cosmology (CTAC).
+url: https://www.astro.uzh.ch/en/research/research-groups/Ben-Moore.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Ben-Moore.html
+p: Ben Moore | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1131301
+pp: Nhà khoa học (tiến sĩ) | Valentina Tamburello
+pp: Nhà khoa học (tiến sĩ) | Dan Tye
+p: Florian Wirz | NCS / nhân sự nghiên cứu | https://www.phonebook.uzh.ch/index.html?ID=2988004
+
+#unit Nhóm Prasenjit Saha
+parent: Department of Astrophysics, UZH
+topics: Thấu kính hấp dẫn, giao thoa cường độ quang học.
+url: https://www.astro.uzh.ch/en/research/research-groups/Prasenjit-Saha.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Prasenjit-Saha.html
+p: Prasenjit Saha | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1182801
+pp: NCS / nhân sự nghiên cứu | Lucijana Stanic
+
+#unit Nhóm Aurel Schneider
+parent: Department of Astrophysics, UZH
+topics: Vũ trụ học: vật chất tối, baryon trong cấu trúc lớn, học máy.
+url: https://www.astro.uzh.ch/en/research/research-groups/Aurel-Schneider.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Aurel-Schneider.html
+p: Aurel Schneider | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1872901
+p: Andreas Nygaard | Nhà khoa học (tiến sĩ) | https://andreasnygaard.github.io/
+
+#unit Nhóm Joachim Stadel
+parent: Department of Astrophysics, UZH
+topics: Mô phỏng quy mô lớn (PKDGRAV), va chạm hành tinh, khoa học dữ liệu.
+url: https://www.astro.uzh.ch/en/research/research-groups/Joachim-Stadel.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Joachim-Stadel.html
+p: Joachim Stadel | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1131401
+pp: Nhà khoa học (tiến sĩ); cùng ĐH Bern | Christian Reinhardt
+
+#unit Nhóm Jaiyul Yoo
+parent: Department of Astrophysics, UZH
+topics: Vũ trụ học lý thuyết, hiệu ứng tương đối tính trong cấu trúc lớn.
+url: https://www.astro.uzh.ch/en/research/research-groups/Jaiyul-Yoo.html
+src: https://www.astro.uzh.ch/en/research/research-groups/Jaiyul-Yoo.html
+p: Jaiyul Yoo | Giáo sư; trưởng nhóm | https://www.phonebook.uzh.ch/?ID=1132401
+pp: NCS / nhân sự nghiên cứu | Giovanni Piccoli
+
+#unit Nhà khoa học biên chế
+parent: Department of Astrophysics, UZH
+topics: Hạ tầng mô phỏng và tính toán hiệu năng cao.
+url: https://www.astro.uzh.ch/en/aboutus/Faculty--Staff.html
+src: https://www.astro.uzh.ch/en/aboutus/Faculty--Staff.html
+p: Doug Potter | Nhà khoa học | https://www.phonebook.uzh.ch/?ID=1148401
+p: Darren Reed | Nhà khoa học | https://www.phonebook.uzh.ch/?ID=2206201

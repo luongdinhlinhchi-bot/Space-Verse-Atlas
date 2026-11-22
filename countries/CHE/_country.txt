@@ -1,0 +1,5 @@
+@country CHE
+checked: 2026-11-22
+pin: 5
+coordinateNote: Đài thiên văn Genève và LASTRO (EPFL) cùng nằm ở Sauverny, Versoix, ngoại ô Genève.
+listSource: https://www.sbfi.admin.ch/

@@ -1,0 +1,93 @@
+@city lausanne | Lausanne | 6.57, 46.52
+
+@inst EPFL — Laboratoire d'Astrophysique (LASTRO) và các nhóm vật lý thiên văn
+city: lausanne
+type: university
+url: https://www.epfl.ch/research/domains/astrophysics/
+research: Vũ trụ học và năng lượng tối (DESI, Euclid, 4MOST, robot sợi quang Astrobots), thấu kính hấp dẫn, tiến hóa thiên hà và mô phỏng (mã GEAR), quang phổ thiên hà (GALSPEC), thước đo khoảng cách vũ trụ (Cepheid), vật lý hạt thiên văn, vũ trụ học vô tuyến (SKA), vật chất tối (DARKSKIES), bụi liên hành tinh.
+coverage: full
+structure: Mảng Vật lý thiên văn EPFL (giám đốc khoa học Andrii Neronov) gồm 7 nhóm: LASTRO (Kneib), GALSPEC (Hirschmann), Jablonka, Anderson, Revaz, Vật lý hạt thiên văn (Neronov), Vũ trụ học vô tuyến (Tolley), DARKSKIES (Harvey). Làm việc ở hai nơi: campus Lausanne và Đài thiên văn Sauverny (Versoix).
+structureUrl: https://www.epfl.ch/research/domains/astrophysics/home/research-groups/
+scope: Đủ danh sách theo trang Members (11/2026), mỗi người có trang people.epfl.ch; bỏ trợ lý hành chính, sinh viên dự án, quản lý sự kiện và báo chí. Trang không ghi nhóm cho từng nhà khoa học trẻ.
+
+#unit Giảng viên và trưởng nhóm
+parent: Astrophysics @ EPFL
+topics: Năng lượng tối, thấu kính, thiên hà, khoảng cách vũ trụ, vật lý hạt thiên văn, vũ trụ học vô tuyến.
+url: https://www.epfl.ch/research/domains/astrophysics/home/research-groups/
+src: https://www.epfl.ch/research/domains/astrophysics/home/members/
+p: Andrii Neronov | GS; giám đốc khoa học mảng Vật lý thiên văn EPFL | https://people.epfl.ch/andrii.neronov
+p: Jean-Paul Kneib | Giáo sư chính thức; giám đốc LASTRO | https://people.epfl.ch/jean-paul.kneib
+p: Michaela Hirschmann | Giáo sư (host professor); nhóm GALSPEC | https://people.epfl.ch/michaela.hirschmann
+p: Pascale Jablonka | Giáo sư kiêm nhiệm | https://people.epfl.ch/pascale.jablonka
+p: Emma Tolley | Trợ lý giáo sư; vũ trụ học vô tuyến | https://people.epfl.ch/emma.tolley
+p: Georges Meylan | Giáo sư (host professor) | https://people.epfl.ch/georges.meylan
+p: Pierre North | Giáo sư (host professor) | https://people.epfl.ch/pierre.north
+p: Yves Revaz | Nhà khoa học cấp cao (MER) | https://people.epfl.ch/yves.revaz
+p: Richard Anderson | Khách mời; trưởng nhóm Thước đo khoảng cách (ERC) | https://people.epfl.ch/richard.anderson
+
+#unit Nhà khoa học, postdoc và khách mời
+parent: Astrophysics @ EPFL
+topics: —
+url: https://www.epfl.ch/research/domains/astrophysics/home/research-groups/
+src: https://www.epfl.ch/research/domains/astrophysics/home/members/
+p: Hakim Atek | PD | https://people.epfl.ch/hakim.atek
+p: Avraham Binnenfeld | Nhà khoa học | https://people.epfl.ch/avraham.binnenfeld
+p: Nicolas Cerardi | Nhà khoa học | https://people.epfl.ch/nicolas.cerardi
+p: Chin-Shin Chang | Nhà khoa học | https://people.epfl.ch/chin-shin.chang
+p: Rafaela Gsponer | Nhà khoa học | https://people.epfl.ch/rafaela.gsponer
+p: David Harvey | Nhà khoa học; trưởng nhóm DARKSKIES | https://people.epfl.ch/david.harvey
+p: Stephan Hellmich | Nhà khoa học | https://people.epfl.ch/stephan.hellmich
+p: Berry Holl | Nhà khoa học | https://people.epfl.ch/berry.holl
+p: Yu Liu | Nhà khoa học | https://people.epfl.ch/y.liu
+p: Srikanth Nagesh | Nhà khoa học | https://people.epfl.ch/srikanth.nagesh
+p: Christian Partmann | Nhà khoa học | https://people.epfl.ch/christian.partmann
+p: Adèle Plat | Nhà khoa học | https://people.epfl.ch/adele.plat
+p: Antoine Rocher | Nhà khoa học | https://people.epfl.ch/antoine.rocher
+p: Mark Sargent | Nhà khoa học | https://people.epfl.ch/mark.sargent
+p: Ronald Scaria | Nhà khoa học | https://people.epfl.ch/ronald.scaria
+p: Veerle Sterken | Nhà khoa học | https://people.epfl.ch/veerle.sterken
+p: Florian Cabot | Trợ lý khoa học | https://people.epfl.ch/florian.cabot
+p: Volodymyr Savchenko | Chuyên gia ứng dụng HPC | https://people.epfl.ch/volodymyr.savchenko
+p: Mauricio Cruz Reyes | Khách mời | https://people.epfl.ch/mauricio.cruzreyes
+p: Marion Farcy | Khách mời | https://people.epfl.ch/marion.farcy
+p: Belén Irureta-Goyena Chang | Khách mời | https://people.epfl.ch/belen.irureta
+p: Bastian Lengen | Khách mời | https://people.epfl.ch/bastian.lengen
+p: Oliver Müller | Khách mời | https://people.epfl.ch/oliver.muller
+p: Rémi Poitevineau | Khách mời | https://people.epfl.ch/remi.poitevineau
+p: Robin Tress | Khách mời | https://people.epfl.ch/robin.tress
+p: Giordano Viviani | Khách mời | https://people.epfl.ch/giordano.viviani
+p: Aurélien Verdier | Nhân sự nghiên cứu | https://people.epfl.ch/aurelien.verdier
+
+#unit Kỹ sư (Astrobots và hạ tầng)
+parent: Astrophysics @ EPFL
+topics: Robot định vị sợi quang cho khảo sát quang phổ (DESI, 4MOST, MegaMapper), hạ tầng tính toán.
+url: https://www.epfl.ch/research/domains/astrophysics/home/research-groups/
+src: https://www.epfl.ch/research/domains/astrophysics/home/members/
+p: Diane Chapuis | Kỹ sư | https://people.epfl.ch/diane.chapuis
+p: Gloria Mellinand | Kỹ sư | https://people.epfl.ch/gloria.mellinand
+p: Etienne Orliac | Kỹ sư hệ thống | https://people.epfl.ch/etienne.orliac
+p: Sébastien Pernecker | Kỹ sư | https://people.epfl.ch/sebastien.pernecker
+p: Maxime Rombach | Kỹ sư | https://people.epfl.ch/maxime.rombach
+p: Lucas Sasaki Pereira | Kỹ sư | https://people.epfl.ch/lucas.sasakipereira
+p: Eirini Tagkoudi | Kỹ sư | https://people.epfl.ch/eirini.tagkoudi
+p: Jonathan Wei | Kỹ sư | https://people.epfl.ch/jonathan.wei
+
+#unit Nghiên cứu sinh
+parent: Astrophysics @ EPFL
+topics: —
+url: https://www.epfl.ch/research/domains/astrophysics/home/research-groups/
+src: https://www.epfl.ch/research/domains/astrophysics/home/members/
+p: Markus Bredberg | NCS | https://people.epfl.ch/markus.bredberg
+p: Shengyu He | NCS | https://people.epfl.ch/shengyu.he
+p: Patrick Hirling | NCS | https://people.epfl.ch/patrick.hirling
+p: Timour Jestin | NCS | https://people.epfl.ch/timour.jestin
+p: Robert Kincaid | NCS | https://people.epfl.ch/robert.kincaid
+p: Ashutosh Kumar Mishra | NCS | https://people.epfl.ch/ashutosh.mishra
+p: Jonathan Petersson | NCS | https://people.epfl.ch/jonathan.petersson
+p: Oliver Pineda Suarez | NCS | https://people.epfl.ch/oliver.pinedasuarez
+p: Darwin Roduit | NCS | https://people.epfl.ch/darwin.roduit
+p: Lucie Scharré | NCS | https://people.epfl.ch/lucie.scharre
+p: Ethan Tregidga | NCS | https://people.epfl.ch/ethan.tregidga
+p: Felix Vecchi | NCS | https://people.epfl.ch/felix.vecchi
+p: Xie Yushan | NCS | https://people.epfl.ch/xie.yushan
+p: Yiwen Wu | NCS khách mời | https://people.epfl.ch/yiwen.wu

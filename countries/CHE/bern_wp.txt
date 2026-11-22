@@ -1,0 +1,143 @@
+@city bern | Bern | 7.44, 46.95
+
+@inst Universität Bern — Physikalisches Institut, Space Research & Planetary Sciences (WP)
+city: bern
+type: university
+url: https://www.space.unibe.ch/
+research: Hình thành và tiến hóa hành tinh (mô hình quần thể Bern), ngoại hành tinh (CHEOPS — trung tâm vận hành khoa học, PLATO), khí quyển ngoại hành tinh, sao chổi và thiên thể băng (Rosetta/ROSINA, Comet Interceptor), quang phổ khối và thiết bị bay (JUICE/NIM, BepiColombo), thiên thạch, camera hành tinh (CaSSIS), quang học thiên văn.
+coverage: full
+structure: Bộ phận Nghiên cứu Không gian và Khoa học Hành tinh (WP) của Viện Vật lý, ĐH Bern; trưởng bộ phận Christoph Mordasini. Liên kết với Center for Space and Habitability (CSH) và NCCR PlanetS.
+structureUrl: https://www.space.unibe.ch/about_us/team/index_eng.html
+scope: Đủ danh sách theo các trang Team (Senior, Scientific, Technical Staff, Emeriti; 11/2026), mỗi người có trang riêng. Bỏ nhân viên hành chính, IT, xưởng cơ khí, kỹ thuật viên phòng thí nghiệm và các giáo sư danh dự đã mất.
+
+#unit Trưởng nhóm (Senior Staff)
+parent: Physikalisches Institut, Universität Bern
+topics: Hình thành hành tinh, ngoại hành tinh, sao chổi, quang phổ khối không gian, thiên thạch, chụp ảnh ngoại hành tinh.
+url: https://www.space.unibe.ch/
+src: https://www.space.unibe.ch/about_us/team/index_eng.html
+p: Christoph Mordasini | Giáo sư; trưởng bộ phận | https://www.space.unibe.ch/about_us/personen/prof_dr_mordasini_christoph/index_eng.html
+p: Yann Alibert | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_alibert_yann/index_eng.html
+p: Brice-Olivier Demory | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_demory_brice_olivier/index_eng.html
+p: Nora Hänni | Trợ lý giáo sư | https://www.space.unibe.ch/about_us/personen/ass_prof_dr_haenni_nora/index_eng.html
+p: Jonas G. Kühn | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_kuehn_jonas_g/index_eng.html
+p: Daniel Kitzmann | PD (Privatdozent) | https://www.space.unibe.ch/about_us/personen/pd_dr_kitzmann_daniel/index_eng.html
+p: Martin Jutzi | PD (Privatdozent) | https://www.space.unibe.ch/about_us/personen/pd_dr_jutzi_martin/index_eng.html
+p: Ingo Leya | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_leya_ingo/index_eng.html
+p: Raphael Marschall | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_marschall_raphael/index_eng.html
+p: Hugh Osborn | Trợ lý giáo sư | https://www.space.unibe.ch/about_us/personen/ass_prof_dr_osborn_hugh/index_eng.html
+p: Antoine Pommerol | PD (Privatdozent) | https://www.space.unibe.ch/about_us/personen/pd_dr_pommerol_antoine/index_eng.html
+p: Martin Rubin | PD (Privatdozent) | https://www.space.unibe.ch/about_us/personen/pd_dr_rubin_martin/index_eng.html
+p: Marek Tulej | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_tulej_marek/index_eng.html
+p: Audrey Vorburger | Trợ lý giáo sư | https://www.space.unibe.ch/about_us/personen/audreyvorburger/index_eng.html
+p: Peter Wurz | Giáo sư | https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html
+
+#unit Nhà khoa học và khách mời
+parent: Physikalisches Institut, Universität Bern
+topics: —
+url: https://www.space.unibe.ch/
+src: https://www.space.unibe.ch/about_us/team/index_eng.html
+p: Alizée Amsler Moulanier | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_amsler_moulanier_alize/index_eng.html
+p: Liliane Burkhard | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_burkhard_liliane/index_eng.html
+p: Holly Capelo | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_capelo_holly/index_eng.html
+p: Rico Fausch | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_fausch_rico/index_eng.html
+p: Fabio Ferrari | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_ferrari_fabio/index_eng.html
+p: André Galli | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/pd_dr_galli_andr/index_eng.html
+p: Janis Hagelberg | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_hagelberg_janis/index_eng.html
+p: Tadahiro Kimura | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_kimura_tadahiro/index_eng.html
+p: Helena Lecoq Molinos | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_lecoq_molinos_helena/index_eng.html
+p: Lucas Marquis | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_marquis_lucas/index_eng.html
+p: Filip Matuszewski | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_matuszewski_filip/index_eng.html
+p: Christian Reinhardt | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_reinhardt_christian/index_eng.html
+p: Andreas Riedo | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/pd_dr_riedo_andreas/index_eng.html
+p: Timm-Emanuel Riesen | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_riesen_timm_emanuel/index_eng.html
+p: Linus Stöckli | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_stoeckli_linus/index_eng.html
+p: Joost Wardenier | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_wardenier_joost/index_eng.html
+p: Jesse Weder | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_weder_jesse/index_eng.html
+p: Emily Wong | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_wong_emily/index_eng.html
+p: John Wimarsson | Nhà khoa học | https://www.space.unibe.ch/about_us/personen/dr_wimarsson_john/index_eng.html
+p: Xiumin Huang | Nhà khoa học khách mời | https://www.space.unibe.ch/about_us/personen/dr_huang_xiumin/index_eng.html
+p: Daniel Mege | Nhà khoa học khách mời | https://www.space.unibe.ch/about_us/personen/prof_dr_mege_daniel/index_eng.html
+
+#unit Nghiên cứu sinh
+parent: Physikalisches Institut, Universität Bern
+topics: —
+url: https://www.space.unibe.ch/
+src: https://www.space.unibe.ch/about_us/team/index_eng.html
+p: Dominik Belousov | NCS | https://www.space.unibe.ch/about_us/personen/belousov_dominik/index_eng.html
+p: Robin Bonny | NCS | https://www.space.unibe.ch/about_us/personen/bonny_robin/index_eng.html
+p: Drinor Cacaj | NCS | https://www.space.unibe.ch/about_us/personen/cacaj_drinor/index_eng.html
+p: Damian Duss | NCS | https://www.space.unibe.ch/about_us/personen/duss_damian/index_eng.html
+p: Tim Mosimann | NCS | https://www.space.unibe.ch/about_us/personen/mosimann_tim/index_eng.html
+p: Antea Doriot | NCS | https://www.space.unibe.ch/about_us/personen/doriot_antea/index_eng.html
+p: Taha El Moudden | NCS | https://www.space.unibe.ch/about_us/personen/el_moudden_taha/index_eng.html
+p: Romain Eltschinger | NCS | https://www.space.unibe.ch/about_us/personen/eltschinger_romain/index_eng.html
+p: Viktória Fröhlich | NCS | https://www.space.unibe.ch/about_us/personen/froehlich_viktria/index_eng.html
+p: Benedikt Gottstein | NCS | https://www.space.unibe.ch/about_us/personen/gottstein_benedikt/index_eng.html
+p: Luca Knecht | NCS | https://www.space.unibe.ch/about_us/personen/knecht_luca/index_eng.html
+p: Liurong Lin | NCS | https://www.space.unibe.ch/about_us/personen/lin_liurong/index_eng.html
+p: Brian Magee | NCS | https://www.space.unibe.ch/about_us/personen/magee_brian/index_eng.html
+p: Sara Marques | NCS | https://www.space.unibe.ch/about_us/personen/marques_sara/index_eng.html
+p: Onė Mikulskytė | NCS | https://www.space.unibe.ch/about_us/personen/mikulskyt_on/index_eng.html
+p: Farshid Nozarian | NCS | https://www.space.unibe.ch/about_us/personen/nozarian_farshid/index_eng.html
+p: Lorenzo Obersnel | NCS | https://www.space.unibe.ch/about_us/personen/obersnel_lorenzo/index_eng.html
+p: Eros Reij | NCS | https://www.space.unibe.ch/about_us/personen/reij_eros/index_eng.html
+p: Jamila Scammell | NCS | https://www.space.unibe.ch/about_us/personen/scammell_jamila/index_eng.html
+p: Ruben Tandon | NCS | https://www.space.unibe.ch/about_us/personen/tandon_ruben/index_eng.html
+p: Esther Wang | NCS | https://www.space.unibe.ch/about_us/personen/wang_esther/index_eng.html
+p: Samuel Wyler | NCS | https://www.space.unibe.ch/about_us/personen/wyler_samuel/index_eng.html
+
+#unit Kỹ sư và quản lý dự án thiết bị bay
+parent: Physikalisches Institut, Universität Bern
+topics: Thiết kế, chế tạo và thử nghiệm thiết bị không gian (CHEOPS, CaSSIS, NIM/JUICE, BELA).
+url: https://www.space.unibe.ch/
+src: https://www.space.unibe.ch/about_us/team/index_eng.html
+p: Timothy Bandy | Kỹ sư | https://www.space.unibe.ch/about_us/personen/bandy_timothy/index_eng.html
+p: Matthias Blaukovitsch | Kỹ sư | https://www.space.unibe.ch/about_us/personen/blaukovitsch_matthias/index_eng.html
+p: Mathias Brändli | Kỹ sư | https://www.space.unibe.ch/about_us/personen/braendli_mathias/index_eng.html
+p: Virginie Cessa | Kỹ sư | https://www.space.unibe.ch/about_us/personen/cessa_virginie/index_eng.html
+p: Antonio Costanzo | Kỹ sư | https://www.space.unibe.ch/about_us/personen/costanzo_antonio/index_eng.html
+p: Ebru Dagtekin | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dagtekin_ebru/index_eng.html
+p: Thierry De Roche | Kỹ sư | https://www.space.unibe.ch/about_us/personen/de_roche_thierry/index_eng.html
+p: Joackim De Figueiredo | Kỹ sư | https://www.space.unibe.ch/about_us/personen/de_figueiredo_joackim/index_eng.html
+p: Miguel Dias Almeida | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dias_almeida_miguel/index_eng.html
+p: Vincent Dor | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dor_vincent/index_eng.html
+p: Davide Frey | Kỹ sư | https://www.space.unibe.ch/about_us/personen/frey_davide/index_eng.html
+p: Joël Fritschi | Kỹ sư | https://www.space.unibe.ch/about_us/personen/fritschi_jol/index_eng.html
+p: Otso Gächter | Kỹ sư | https://www.space.unibe.ch/about_us/personen/gaechter_otso/index_eng.html
+p: Martin Gäumann | Kỹ sư | https://www.space.unibe.ch/about_us/personen/gaeumann_martin/index_eng.html
+p: Edward Haynes | Kỹ sư | https://www.space.unibe.ch/about_us/personen/haynes_edward/index_eng.html
+p: Cornelia Heid | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dr_heid_cornelia/index_eng.html
+p: Vitus Hodel | Kỹ sư | https://www.space.unibe.ch/about_us/personen/vitus_hodel/index_eng.html
+p: Victor Huarcaya | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dr_huarcaya_victor/index_eng.html
+p: Alex Iseli | Kỹ sư | https://www.space.unibe.ch/about_us/personen/iseli_alex/index_eng.html
+p: Peter Keresztes Schmidt | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dr_keresztes_schmidt_peter/index_eng.html
+p: Thomas Lema | Kỹ sư | https://www.space.unibe.ch/about_us/personen/lema_thomas/index_eng.html
+p: Kimberley Mason-Piercy | Kỹ sư | https://www.space.unibe.ch/about_us/personen/mason_piercy_kimberley/index_eng.html
+p: Fabian Mast | Kỹ sư | https://www.space.unibe.ch/about_us/personen/mast_fabian/index_eng.html
+p: Neville Mehta | Kỹ sư | https://www.space.unibe.ch/about_us/personen/mehta_neville/index_eng.html
+p: Martin Monney | Kỹ sư | https://www.space.unibe.ch/about_us/personen/monney_martin/index_eng.html
+p: Daniele Piazza | Kỹ sư | https://www.space.unibe.ch/about_us/personen/dr_piazza_daniele/index_eng.html
+p: Martin Rieder | Kỹ sư | https://www.space.unibe.ch/about_us/personen/rieder_martin/index_eng.html
+p: Mirsad Sarajlic | Kỹ sư | https://www.space.unibe.ch/about_us/personen/sarajlic_mirsad/index_eng.html
+p: Simon Studer | Kỹ sư | https://www.space.unibe.ch/about_us/personen/studer_simon/index_eng.html
+p: Nico Sutter | Kỹ sư | https://www.space.unibe.ch/about_us/personen/sutter_nico/index_eng.html
+p: Sebastian Wolf | Kỹ sư | https://www.space.unibe.ch/about_us/personen/wolf_sebastian/index_eng.html
+p: Tiziano Zarro | Kỹ sư | https://www.space.unibe.ch/about_us/personen/zarro_tiziano/index_eng.html
+p: Andrew Acciardo | Quản lý dự án | https://www.space.unibe.ch/about_us/personen/dr_acciardo_andrew/index_eng.html
+p: Patricio Becerra | Quản lý dự án | https://www.space.unibe.ch/about_us/personen/dr_becerra_patricio/index_eng.html
+p: Christopher Broeg | Quản lý dự án | https://www.space.unibe.ch/about_us/personen/dr_broeg_christopher/index_eng.html
+p: Benoit Plet | Quản lý dự án | https://www.space.unibe.ch/about_us/personen/dr_plet_benoit/index_eng.html
+p: Anthony Servonet | Quản lý dự án | https://www.space.unibe.ch/about_us/personen/servonet_anthony/index_eng.html
+
+#unit Giáo sư danh dự
+parent: Physikalisches Institut, Universität Bern
+topics: —
+url: https://www.space.unibe.ch/
+src: https://www.space.unibe.ch/about_us/team/index_eng.html
+p: Kathrin Altwegg | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_altwegg_kathrin/index_eng.html
+p: Willy Benz | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_benz_willy/index_eng.html
+p: Peter Bochsler | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_bochsler_peter/index_eng.html
+p: Otto Eugster | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_eugster_otto/index_eng.html
+p: Erwin Flückiger | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_flueckiger_erwin/index_eng.html
+p: Ernest Kopp | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_kopp_ernest/index_eng.html
+p: Nicolas Thomas | GS danh dự | https://www.space.unibe.ch/about_us/personen/prof_em_dr_thomas_nicolas/index_eng.html

@@ -1,0 +1,168 @@
+@city geneve | Genève (Sauverny) | 6.14, 46.31
+
+@inst Université de Genève — Département d'Astronomie (Observatoire de Genève)
+city: geneve
+type: university
+url: https://www.unige.ch/sciences/astro/
+research: Ngoại hành tinh (HARPS, ESPRESSO, CHEOPS, NIRPS; nơi phát hiện 51 Pegasi b), tiến hóa sao và tổng hợp hạt nhân, sao biến quang và Gaia (CU7), hình thành sao, thiên hà bùng nổ sao và thiên hà ở bình minh vũ trụ (JWST), tái ion hoá, vũ trụ cực đoan (trung tâm dữ liệu ISDC, X-quang/gamma).
+coverage: full
+structure: Khoa Thiên văn thuộc Khoa Khoa học, ĐH Genève, với hai địa điểm Sauverny và Ecogia (Versoix); 4 trục nghiên cứu (Hệ ngoại hành tinh; Hình thành và tiến hóa sao; Thiên hà và Vũ trụ; Vũ trụ cực đoan) chia thành 8 nhóm.
+structureUrl: https://www.unige.ch/sciences/astro/recherche
+scope: Đủ thành viên hiện tại theo trang thành viên của 8 nhóm (11/2026); bỏ thành viên cũ và học viên thạc sĩ. Người thuộc nhiều nhóm chỉ ghi một lần. Trang nhóm Vũ trụ cực đoan không ghi chức danh.
+
+#unit Hệ ngoại hành tinh (Exoplanets)
+parent: Département d'Astronomie, UNIGE
+topics: Phát hiện bằng vận tốc xuyên tâm (HARPS, ESPRESSO, NIRPS), quang trắc (CHEOPS, PLATO), khí quyển ngoại hành tinh, động lực học và khả năng sống, thiết bị.
+url: https://www.unige.ch/sciences/astro/exoplanets/team
+src: https://www.unige.ch/sciences/astro/exoplanets/team
+p: Émeline Bolmont | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/emeline-bolmont
+p: François Bouchy | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/francois-bouchy
+p: Vincent Bourrier | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/vincent-bourrier
+p: Jean-Baptiste Delisle | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/jean-baptiste-delisle
+p: Xavier Dumusque | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/xavier-dumusque
+p: David Ehrenreich | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/ehrenreich-david
+p: Adrien Leleu | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/leleu-adrien
+p: Monika Lendl | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/monika-lendl
+p: Christophe Lovis | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/christophe-lovis
+p: Michel Mayor | GS danh dự; Nobel Vật lý 2019 | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/michel-mayor
+p: Francesco Pepe | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/francesco-pepe
+p: Damien Ségransan | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/damien-segransan
+p: Stéphane Udry | Giảng viên | https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/stephane-udry
+p: Aaron Bello Arufe | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/bello-arufe-aaron
+p: Siddharth Bhatnagar | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/bhatnagar-siddharth
+p: Maddalena Bugatti | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/bugatti-maddalena
+p: Charles Cadieux | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/cadieux-charles
+p: Carles Cantero Mitjans | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/cantero-mitjans-carles
+p: Yann Carteret | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/carteret-yann
+p: Amadeo Castro González | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/castro-gonzalez-amadeo
+p: William Ceva | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/ceva-will
+p: Jérémy Couturier | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/couturier-jeremy
+p: Guglielmo De Toma | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/guglielmo-de-toma
+p: Adrien Deline | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/adrien-deline
+p: Yannick Eyholzer | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/eyholzer-yannick
+p: João Faria | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/faria-joao
+p: Casper Farret Jentink | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/farret-jentink-casper
+p: Émile Fontanet | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/fontanet-emile
+p: Erik Fridén | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/friden-erik
+p: Rosa Hoogenboom | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/rosa-hoogenboom
+p: Mathilde Houelle | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/houelle-mathilde
+p: Asena Kuzucan | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/kuzucan-asena
+p: Leon Kwok | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/kwok-leon
+p: Baptiste Lavie | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/baptiste-lavie
+p: Lina Messamah | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/messamah-lina
+p: Arianna Nigioni | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/nigioni-arianna
+p: Sophie Saesen | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/sophie-saesen
+p: Muskan Shinde | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/shinde-muskan
+p: Sara Tavella | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/tavella-sara
+p: Luis Thomas | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/thomas-luis
+p: Tenzin Tsultrim | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/tsultrim-tenzin
+p: Julia Venturini | Nhà nghiên cứu (postdoc/NCS/cộng tác viên) | https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/venturini-julia
+p: Fabien Alesina | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/alesina-fabien
+p: Anja Bekkelien | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/anja-bekkelien
+p: Nicolas Billot | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/nicolas-billot
+p: Nicolas Blind | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/nicolas-blind
+p: Isaac Dinis | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/dinis-isaac
+p: Yevgeniy Ivanisenko | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/ivanisenko-yevgeniy
+p: Tim Kallioinen | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/kallioinen-tim
+p: Audrey Lanotte | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/lanotte-audrey
+p: Mohamed Meharga | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/mohamed-tahar-meharga
+p: Nathanaël Restori | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/restori-nathanael
+p: Pablo Santos Díaz | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/santos-diaz-pablo
+p: Danuta Sosnowska | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/danuta-sosnowska
+p: Nicolas Unger | Nhân sự kỹ thuật dự án | https://www.unige.ch/sciences/astro/exoplanets/team/project-staff/unger-nicolas
+p: Nicolas Buchschacher | Nhân sự kỹ thuật biên chế | https://www.unige.ch/sciences/astro/exoplanets/team/permanent-staff/nicolas-buchschacher
+p: Bruno Chazelas | Nhân sự kỹ thuật biên chế | https://www.unige.ch/sciences/astro/exoplanets/team/permanent-staff/chazelas-bruno
+p: Michaël Sordet | Nhân sự kỹ thuật biên chế | https://www.unige.ch/sciences/astro/exoplanets/team/permanent-staff/michael-sordet
+p: François Wildi | Nhân sự kỹ thuật biên chế | https://www.unige.ch/sciences/astro/exoplanets/team/permanent-staff/wildi-francois
+p: Rosemary Mardling | Khách mời dài hạn | https://www.unige.ch/sciences/astro/exoplanets/team/long-term-visitors/mardling-rosemary
+
+#unit Tiến hóa sao, tổng hợp hạt nhân và tiến hóa hoá học thiên hà
+parent: Département d'Astronomie, UNIGE
+topics: Mô hình tiến hóa sao có quay (mã Geneva), sao khối lượng lớn, sao đôi, tổng hợp hạt nhân.
+url: https://www.unige.ch/sciences/astro/evolution/membres
+src: https://www.unige.ch/sciences/astro/evolution/membres
+p: Georges Meynet | GS danh dự | https://www.unige.ch/sciences/astro/evolution/membres/georges-meynet
+p: Corinne Charbonnel | Giáo sư | https://www.unige.ch/sciences/astro/evolution/membres/corinne-charbonnel
+p: André Maeder | GS danh dự | https://www.unige.ch/sciences/astro/evolution/membres/andre-maeder
+p: Anastasios Fragkos | PGS | https://www.unige.ch/sciences/astro/evolution/membres/anastasios-fragkos
+p: Sylvia Ekström | PGS | https://www.unige.ch/sciences/astro/evolution/membres/sylvia-ekstrom
+p: Patrick Eggenberger | Giảng viên-nghiên cứu (MER) | https://www.unige.ch/sciences/astro/evolution/membres/patrick-eggenberger
+p: Cyril Georgy | Cộng tác viên khoa học | https://www.unige.ch/sciences/astro/evolution/membres/cyril-georgy
+p: Max Briel | PD | https://www.unige.ch/sciences/astro/evolution/membres/max-briel
+p: Sophie Rosu | PD | https://www.unige.ch/sciences/astro/evolution/membres/dr-sophie-rosu
+p: Luca Sciarini | NCS | https://www.unige.ch/sciences/astro/evolution/membres/luca-sciarini
+p: Maxime Marchand | NCS | https://www.unige.ch/sciences/astro/evolution/membres/maxime-marchand
+p: André Oliva | Cộng tác viên ngoài | https://www.unige.ch/sciences/astro/evolution/membres/andre-oliva
+
+#unit Sao biến quang — sứ mệnh Gaia (CU7)
+parent: Département d'Astronomie, UNIGE
+topics: Xử lý và phân loại dữ liệu biến quang của Gaia (Coordination Unit 7, DPCG).
+url: https://www.unige.ch/sciences/astro/variability/fr/equipe
+src: https://www.unige.ch/sciences/astro/variability/fr/equipe
+p: Laurent Eyer | Giảng viên-nghiên cứu (MER); trưởng Gaia CU7 | https://www.unige.ch/sciences/astro/variability/en/people/laurent-eyer
+p: Krzysztof Nienartowicz | Quản lý DPCG; kiến trúc dữ liệu CU7 | https://www.unige.ch/sciences/astro/variability/en/people/krzysztof-nienartowicz
+p: Claude Chaudet | Nhà nghiên cứu — xử lý dữ liệu GPU | https://www.unige.ch/sciences/astro/variability/en/people/claude-chaudet
+p: Nick Chornay | PD — phân loại | https://www.unige.ch/sciences/astro/variability/en/people/nick-chornay
+p: Berry Holl | Phó nhà khoa học (adjoint scientifique) | https://www.unige.ch/sciences/astro/variability/en/people/berry-holl
+p: Grégory Jevardat De Fombelle | Kỹ sư phần mềm; phó quản lý DPCG | https://www.unige.ch/sciences/astro/variability/en/people/gregory-jevardat-de-fombelle
+p: Daniel Krefl | Nhà nghiên cứu — cơ sở dữ liệu GPU | https://www.unige.ch/sciences/astro/variability/en/people/daniel-krefl
+p: Nami Mowlavi | Nhà nghiên cứu — nghiên cứu đối tượng đặc biệt | https://www.unige.ch/sciences/astro/variability/en/people/nami-mowlavi
+p: Lorenzo Rimoldini | Phó nhà khoa học — phát triển phân loại | https://www.unige.ch/sciences/astro/variability/en/people/lorenzo-rimoldini
+p: Michel Grenon | GS danh dự | https://www.unige.ch/sciences/astro/variability/en/people/michel-grenon
+
+#unit Hình thành sao
+parent: Département d'Astronomie, UNIGE
+topics: Sao trẻ, hoạt động từ và X-quang của sao trẻ.
+url: https://www.unige.ch/sciences/astro/youngstars/fr/members
+src: https://www.unige.ch/sciences/astro/youngstars/fr/members
+p: Marc Audard | Giảng viên-nghiên cứu (MER); trưởng nhóm; phó trưởng Gaia CU7; thư ký điều hành EAS | https://www.unige.ch/sciences/astro/youngstars/members/marc-audard
+p: Loris Berthelot | PD | https://www.unige.ch/sciences/astro/youngstars/members/loris-berthelot
+p: Maddalena Benedet | NCS | https://www.unige.ch/sciences/astro/youngstars/members/maddalena-benedet
+
+#unit Starbursts trong vũ trụ
+parent: Département d'Astronomie, UNIGE
+topics: Thiên hà bùng nổ sao, quần thể sao trẻ, quan sát mm (ALMA, IRAM).
+url: https://www.unige.ch/sciences/astro/starbursts/fr/equipe
+src: https://www.unige.ch/sciences/astro/starbursts/fr/equipe
+p: Daniel Schaerer | Giáo sư; trưởng nhóm | https://www.unige.ch/sciences/astro/starbursts/fr/equipe/daniel-schaerer
+p: Miroslava Dessauges-Zavadsky | Cộng tác viên khoa học; điều phối dự án mm (IRAM, ALMA) | https://www.unige.ch/sciences/astro/starbursts/fr/equipe/miroslava-dessauges
+
+#unit Thiên hà ở bình minh vũ trụ
+parent: Département d'Astronomie, UNIGE
+topics: Thiên hà xa nhất với JWST và HST.
+url: https://www.unige.ch/sciences/astro/cosmicdawn/team/
+src: https://www.unige.ch/sciences/astro/cosmicdawn/team/
+p: Pascal Oesch | PGS; trưởng nhóm | https://www.unige.ch/sciences/astro/cosmicdawn/team/pascal-oesch
+p: Mahsa Sanati | PD (SNSF) | https://www.unige.ch/sciences/astro/cosmicdawn/team/mahsa-sanati
+p: Romain Meyer | PD | https://www.unige.ch/sciences/astro/cosmicdawn/team/romain-meyer
+p: Mengyuan Xiao | PD | https://www.unige.ch/sciences/astro/cosmicdawn/team/mengyuan-xiao
+p: Emma Giovinazzo | NCS | https://www.unige.ch/sciences/astro/cosmicdawn/team/Emma-Giovinazzo
+p: Corentin Meuwly | NCS | https://www.unige.ch/sciences/astro/cosmicdawn/team/Corentin-Meuwly
+
+#unit Nguồn của tái ion hoá vũ trụ
+parent: Département d'Astronomie, UNIGE
+topics: Truyền bức xạ Lyman-alpha, thoát photon ion hoá, mô phỏng tái ion hoá.
+url: https://www.unige.ch/sciences/astro/reionization/fr/team
+src: https://www.unige.ch/sciences/astro/reionization/fr/team
+p: Anne Verhamme | Giáo sư; trưởng nhóm | https://www.unige.ch/sciences/astro/reionization/team/anne-verhamme
+p: Thibault Garel | Maître assistant | https://www.unige.ch/sciences/astro/reionization/team/thibault-garel
+p: Moupiya Maji | PD | https://www.unige.ch/sciences/astro/reionization/team/moupiya-maji
+p: Floriane Leclercq | PD | https://www.unige.ch/sciences/astro/reionization/team/floriane-leclercq
+p: Haruka Kusakabe | PD | https://www.unige.ch/sciences/astro/reionization/team/haruka-kusakabe
+p: Valentin Mauerhofer | NCS | https://www.unige.ch/sciences/astro/reionization/team/valentin-mauerhofer
+p: Charlotte Simmonds | NCS | https://www.unige.ch/sciences/astro/reionization/team/charlotte-simmonds
+p: Mladen Ivkovic | NCS | https://www.unige.ch/sciences/astro/reionization/team/mladen-ivkovic
+p: Eloïse Vitte | NCS | https://www.unige.ch/sciences/astro/reionization/team/eloise-vitte
+
+#unit Vũ trụ cực đoan (ISDC)
+parent: Département d'Astronomie, UNIGE
+topics: Lỗ đen và AGN, cụm thiên hà, X-quang và gamma (INTEGRAL, Euclid, Athena), trung tâm dữ liệu ISDC tại Ecogia.
+url: https://www.unige.ch/sciences/astro/research-groups/compacts-objects-hot-universe
+src: https://www.unige.ch/sciences/astro/research-groups/compacts-objects-hot-universe
+p: Stephane Paltani | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/stephane-paltani
+p: Roland Walter | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/roland-walter
+p: Melanie Habouzit | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/melanie-habouzit
+p: Claudio Ricci | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/claudio-ricci
+p: Dominique Eckert | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/dominique-eckert
+p: Carlo Ferrigno | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/carlo-ferrigno
+p: Enrico Bozzo | Thành viên nhóm | https://www.unige.ch/sciences/astro/extreme-universe/members/enrico-bozzo

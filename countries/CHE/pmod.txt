@@ -1,0 +1,34 @@
+@city davos | Davos | 9.84, 46.80
+
+@inst PMOD/WRC — Physikalisch-Meteorologisches Observatorium Davos / World Radiation Center
+city: davos
+type: institute
+url: https://www.pmodwrc.ch/
+research: Vật lý Mặt Trời và đo bức xạ Mặt Trời: thiết bị bay đo tổng bức xạ Mặt Trời (TSI) và chụp ảnh EUV (Solar Orbiter/EUI, PROBA-3/DARA), chuẩn bức xạ thế giới (WRC). Ngoài ra có mô hình khí hậu và đo ozon.
+coverage: full
+structure: Viện tư nhân liên kết ETH Zürich; giám đốc Louise Harra (kiêm GS ETH). Các bộ phận: nhóm Vật lý Mặt Trời, Trung tâm Bức xạ Thế giới (WRC: SRS, IRS, WORCC, WCC-UV), nhóm Mô hình khí hậu, Phòng Kỹ thuật.
+structureUrl: https://www.pmodwrc.ch/en/institute/employees/
+scope: Theo trang Employees (11/2026), chỉ lấy nhóm Vật lý Mặt Trời, Phòng Đo bức xạ Mặt Trời (WRC-SRS) và kỹ sư dự án không gian; bỏ nhóm khí hậu, ozon, đo quang khí quyển và hành chính. Trang không có hồ sơ cá nhân riêng.
+
+#unit Nhóm Vật lý Mặt Trời và Đo bức xạ Mặt Trời (SRS)
+parent: PMOD/WRC
+topics: Hoạt động Mặt Trời, tổng bức xạ Mặt Trời, thiết bị bay (Solar Orbiter EUI, PROBA-3 DARA).
+url: https://www.pmodwrc.ch/
+src: https://www.pmodwrc.ch/en/institute/employees/
+pp: Giám đốc PMOD/WRC; trưởng nhóm Vật lý Mặt Trời; GS liên kết ETH | Louise Harra
+pp: Trưởng phòng WRC-SRS | Wolfgang Finsterle
+pp: Nhà khoa học cấp cao; PI DARA/PROBA-3; nguyên giám đốc | Werner Schmutz
+pp: Quản lý dự án và nhà khoa học thiết bị không gian | Margit Haberreiter
+pp: Nhà khoa học thiết bị — tổng bức xạ Mặt Trời | Jean-Philippe Montillet
+pp: PD | Krzysztof Barczynski; Yingjie Zhu
+
+#unit Phòng Kỹ thuật — dự án không gian
+parent: PMOD/WRC
+topics: Thiết kế và chế tạo thiết bị bay đo bức xạ Mặt Trời.
+url: https://www.pmodwrc.ch/
+src: https://www.pmodwrc.ch/en/institute/employees/
+pp: Đồng trưởng phòng kỹ thuật; kỹ sư hệ thống | Daniel Pfiffner
+pp: Đồng trưởng phòng kỹ thuật; quản lý dự án không gian | Valeria Büchel
+pp: Quản lý dự án không gian | Andri Morandi; Florian Reinhard
+pp: Kỹ sư điện tử | Etienne De Coulon; Matthias Gander; Manfred Gyo; Christian Marty; Jan Niklas Valär
+pp: Kỹ sư cơ khí | Markus Heim; Patrik Langer
