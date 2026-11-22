@@ -1,0 +1,3347 @@
+{
+ "cities": [
+  {
+   "id": "amsterdam",
+   "city": "Amsterdam",
+   "coordinates": [
+    4.9,
+    52.37
+   ],
+   "institutions": [
+    {
+     "name": "Universiteit van Amsterdam — Anton Pannekoek Institute for Astronomy (API)",
+     "type": "university",
+     "research": "Hai chủ đề: Vật lý thiên văn năng lượng cao (bồi tụ và phụt, vật chất đặc trong sao neutron, sự kiện thoáng qua như chớp vô tuyến nhanh, sao nổ, hạt năng lượng cao) và Nguồn gốc (ngoại hành tinh và hình thành hành tinh, sao khối lượng lớn và quần thể sao).",
+     "url": "https://api.uva.nl/",
+     "coverage": "full",
+     "structure": "Viện thuộc Khoa Khoa học, UvA; hai chủ đề nghiên cứu High Energy Astrophysics và Origins. Là thành viên NOVA và GRAPPA.",
+     "structureUrl": "https://api.uva.nl/contact/people",
+     "scopeNote": "Đủ danh sách theo các trang People (Scientific staff, Research Associates, PhD Candidates, Other Academic Staff, Emeriti; 11/2026); mỗi người có hồ sơ UvA. Giảng viên chia theo hai chủ đề dựa trên mô tả nhóm; bỏ nhân viên hỗ trợ và học viên thạc sĩ.",
+     "units": [
+      {
+       "name": "High Energy Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Anton Pannekoek Institute",
+       "topics": "Bồi tụ và dòng phụt quanh lỗ đen và sao neutron, vật chất đặc, chớp vô tuyến nhanh và pulsar (LOFAR, CHIME), sự kiện thoáng qua, tàn dư siêu tân tinh, mô phỏng MHD tương đối tính, X-quang (XRISM, Athena).",
+       "url": "https://api.uva.nl/research/research-themes/hea",
+       "researchers": {
+        "people": [
+         {
+          "name": "Nathalie Degenaar",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/n.d.degenaar"
+         },
+         {
+          "name": "Jason Hessels",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/j.w.t.hessels"
+         },
+         {
+          "name": "Daniela Huppenkothen",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/d.huppenkothen"
+         },
+         {
+          "name": "Sera Markoff",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/s.b.markoff"
+         },
+         {
+          "name": "Philipp Moesta",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/p.moesta"
+         },
+         {
+          "name": "Ziggy Pleunis",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/z.pleunis"
+         },
+         {
+          "name": "Oliver Porth",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/o.j.g.porth"
+         },
+         {
+          "name": "Antonia Rowlinson",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/b.a.rowlinson"
+         },
+         {
+          "name": "Phil Uttley",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/p.uttley"
+         },
+         {
+          "name": "Jacco Vink",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/j.vink"
+         },
+         {
+          "name": "Anna Watts",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/a.l.watts"
+         },
+         {
+          "name": "Rudy Wijnands",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/r.a.d.wijnands"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://api.uva.nl/contact/people/scientific-staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Origins",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Anton Pannekoek Institute",
+       "topics": "Ngoại hành tinh và khí quyển, đĩa tiền hành tinh và hình thành hành tinh, hoá học thiên văn (PAH), sao khối lượng lớn, sao đôi và quần thể sao, phát xạ vô tuyến từ sao.",
+       "url": "https://api.uva.nl/research/research-themes/ori",
+       "researchers": {
+        "people": [
+         {
+          "name": "Julia Bodensteiner",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/j.bodensteiner"
+         },
+         {
+          "name": "Joe Callingham",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/j.r.callingham"
+         },
+         {
+          "name": "Alessandra Candian",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/a.candian2"
+         },
+         {
+          "name": "Carsten Dominik",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/c.dominik"
+         },
+         {
+          "name": "Lex Kaper",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/l.kaper"
+         },
+         {
+          "name": "Alex de Koter",
+          "role": "Giáo sư",
+          "url": "https://www.uva.nl/en/profile/a.dekoter"
+         },
+         {
+          "name": "Antonija Oklopčić",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/a.oklopcic"
+         },
+         {
+          "name": "Silvia Toonen",
+          "role": "Giảng viên (tenure/tenure track)",
+          "url": "https://www.uva.nl/en/profile/s.g.m.toonen"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://api.uva.nl/contact/people/scientific-staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu viên (Research Associates)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Anton Pannekoek Institute",
+       "topics": "—",
+       "url": "https://api.uva.nl/contact/people/research-associates",
+       "researchers": {
+        "people": [
+         {
+          "name": "Robin Baeyens",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/r.l.l.baeyens"
+         },
+         {
+          "name": "Tjarda Boekholt",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/t.c.n.boekholt"
+         },
+         {
+          "name": "Clara Dehman",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/c.dehman"
+         },
+         {
+          "name": "Jakob van den Eijnden",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/a.j.vandeneijnden"
+         },
+         {
+          "name": "Elle Hanson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/l.e.hanson"
+         },
+         {
+          "name": "Marc Klinger-Plaisier",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/m.klinger"
+         },
+         {
+          "name": "Aylecia Lattimer",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/a.lattimer"
+         },
+         {
+          "name": "Matteo Lucchini",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/m.lucchini"
+         },
+         {
+          "name": "Laura Olivera Nieto",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/l.oliveranieto"
+         },
+         {
+          "name": "Eli Pattie",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/e.c.pattie"
+         },
+         {
+          "name": "Julia Speicher",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/j.i.speicher"
+         },
+         {
+          "name": "Vadym Voitsekhovskyi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/v.voitsekhovskyi"
+         },
+         {
+          "name": "Michael Wondrak",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uva.nl/en/profile/m.f.wondrak"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://api.uva.nl/contact/people/research-associates"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nhân sự học thuật khác (kiêm nhiệm, bán thời gian)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Anton Pannekoek Institute",
+       "topics": "—",
+       "url": "https://api.uva.nl/contact/people/other-academic-staff-lijst",
+       "researchers": {
+        "people": [
+         {
+          "name": "Elisa Costantini",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.uva.nl/en/profile/e.costantini"
+         },
+         {
+          "name": "Michiel Hogerheijde",
+          "role": "Giáo sư (kiêm nhiệm)",
+          "url": "https://www.uva.nl/en/profile/m.r.hogerheijde"
+         },
+         {
+          "name": "Inge Loes ten Kate",
+          "role": "Giáo sư (kiêm nhiệm)",
+          "url": "https://www.uva.nl/en/profile/i.l.tenkate"
+         },
+         {
+          "name": "Andrew King",
+          "role": "Giáo sư (kiêm nhiệm)",
+          "url": "https://www.uva.nl/en/profile/a.r.king"
+         },
+         {
+          "name": "Vanna Pugliese",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.uva.nl/en/profile/g.pugliese"
+         },
+         {
+          "name": "Rasjied Sloot",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.uva.nl/en/profile/m.r.sloot"
+         },
+         {
+          "name": "Michael Wise",
+          "role": "Giáo sư (kiêm nhiệm)",
+          "url": "https://www.uva.nl/en/profile/m.wise"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://api.uva.nl/contact/people/other-academic-staff-lijst"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu sinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Anton Pannekoek Institute",
+       "topics": "—",
+       "url": "https://api.uva.nl/contact/people/phd-list",
+       "researchers": {
+        "people": [
+         {
+          "name": "Manan Agarwal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/m.agarwal"
+         },
+         {
+          "name": "Sara Azizi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/s.azizi"
+         },
+         {
+          "name": "Eleonora Caruso",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/e.caruso"
+         },
+         {
+          "name": "Ruby Duncan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/r.a.duncan"
+         },
+         {
+          "name": "Mariska Hoogkamer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/m.m.hoogkamer"
+         },
+         {
+          "name": "Elise Koo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/e.j.m.koo"
+         },
+         {
+          "name": "Dirk Kuiper",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/d.kuiper"
+         },
+         {
+          "name": "Alexandra Moroianu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/a.m.moroianu"
+         },
+         {
+          "name": "Omar Ould Boukattine",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/o.s.ouldboukattine"
+         },
+         {
+          "name": "Valerio Pandolfi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/v.pandolfi"
+         },
+         {
+          "name": "Adam Parkosidis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/a.parkosidis"
+         },
+         {
+          "name": "Subhrat Praharaj",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/s.praharaj"
+         },
+         {
+          "name": "Sylvain Ranguin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/s.l.ranguin"
+         },
+         {
+          "name": "Lars Reems",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/l.s.a.reems"
+         },
+         {
+          "name": "Rittick Roy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/r.roy"
+         },
+         {
+          "name": "Anja Schmit",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/a.schmit"
+         },
+         {
+          "name": "Hinna Shivkumar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/h.shivkumar"
+         },
+         {
+          "name": "Katelyn Smith",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/k.g.smith"
+         },
+         {
+          "name": "Philipp Stöcker",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/p.o.stoecker"
+         },
+         {
+          "name": "Sebastián Vilaza Dallago",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uva.nl/en/profile/s.j.vilazadallago"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://api.uva.nl/contact/people/phd-list"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Giáo sư danh dự",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Anton Pannekoek Institute",
+       "topics": "—",
+       "url": "https://api.uva.nl/contact/people/emeriti-lijst",
+       "researchers": {
+        "people": [
+         {
+          "name": "Hubertus Henrichs",
+          "role": "GS danh dự",
+          "url": "https://www.uva.nl/en/profile/h.f.henrichs"
+         },
+         {
+          "name": "Edward van den Heuvel",
+          "role": "GS danh dự",
+          "url": "https://www.uva.nl/en/profile/e.p.j.vandenheuvel"
+         },
+         {
+          "name": "Teije de Jong",
+          "role": "GS danh dự",
+          "url": "https://www.uva.nl/en/profile/t.dejong"
+         },
+         {
+          "name": "Henny Lamers",
+          "role": "GS danh dự",
+          "url": "https://www.uva.nl/en/profile/h.j.g.l.m.lamers"
+         },
+         {
+          "name": "Evert Meurs",
+          "role": "GS danh dự",
+          "url": "https://www.uva.nl/en/profile/e.j.a.meurs"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://api.uva.nl/contact/people/emeriti-lijst"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Nikhef — Nationaal instituut voor subatomaire fysica",
+     "type": "institute",
+     "research": "Viện quốc gia (NWO-I) về vật lý hạt; các chương trình gần với thiên văn: sóng hấp dẫn (Virgo, LIGO, KAGRA, Einstein Telescope), thiên văn neutrino (KM3NeT), tia vũ trụ (Pierre Auger) và vật chất tối (XENON).",
+     "url": "https://www.nikhef.nl/",
+     "coverage": "limited",
+     "structure": "Viện hợp tác giữa NWO-I và các đại học (UvA, VU, Utrecht, Radboud, Groningen, Maastricht, Twente); mỗi chương trình nghiên cứu có trưởng chương trình riêng.",
+     "structureUrl": "https://www.nikhef.nl/en/research/research-themes-nikhef/",
+     "scopeNote": "Nikhef không công bố danh sách thành viên theo chương trình; chỉ ghi trưởng chương trình được nêu trên trang chủ đề (11/2026). Không đưa các chương trình máy gia tốc (ATLAS, LHCb, ALICE).",
+     "units": [
+      {
+       "name": "Sóng hấp dẫn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Nikhef",
+       "topics": "Phân tích tín hiệu va chạm lỗ đen và sao neutron (Virgo, LIGO, KAGRA), phát triển Einstein Telescope.",
+       "url": "https://www.nikhef.nl/en/research/research-themes/learning-from-gravitational-waves/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Andreas Freise",
+          "role": "Trưởng chương trình (liên hệ)",
+          "url": "https://www.nikhef.nl/personnel/andreas-freise/"
+         },
+         {
+          "name": "Chris Van Den Broeck",
+          "role": "Trưởng chương trình (liên hệ); GS ĐH Utrecht",
+          "url": "https://www.nikhef.nl/personnel/chris-van-den-broeck/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.nikhef.nl/en/research/research-themes/learning-from-gravitational-waves/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "KM3NeT — Neutrino và nguồn của chúng",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Nikhef",
+       "topics": "Kính thiên văn neutrino dưới đáy Địa Trung Hải (ARCA, ORCA): nguồn neutrino vũ trụ và tính chất neutrino.",
+       "url": "https://www.nikhef.nl/en/research/research-themes/km3net-neutrinos-and-their-sources/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Aart Heijboer",
+          "role": "Trưởng chương trình (liên hệ)",
+          "url": "https://www.nikhef.nl/personnel/aart-heijboer/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.nikhef.nl/en/research/research-themes/km3net-neutrinos-and-their-sources/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "dwingeloo",
+   "city": "Dwingeloo",
+   "coordinates": [
+    6.4,
+    52.81
+   ],
+   "institutions": [
+    {
+     "name": "ASTRON — Netherlands Institute for Radio Astronomy",
+     "type": "institute",
+     "research": "Viện quốc gia về thiên văn vô tuyến (NWO-I): vận hành LOFAR và WSRT-Apertif, tham gia SKA. Nghiên cứu chớp vô tuyến nhanh và pulsar, kỷ nguyên tái ion hoá, khảo sát tần số thấp, khí HI và thiên hà lân cận, AGN, sự kiện thoáng qua, sao phát vô tuyến và ngoại hành tinh, thời tiết không gian.",
+     "url": "https://www.astron.nl/",
+     "coverage": "full",
+     "structure": "Bốn bộ phận: Astronomy & Operations (A&O), Research & Development, Innovation & Systems và Business Support; giám đốc Jessica Dempsey (Geoffrey Bower từ 1/9/2026).",
+     "structureUrl": "https://www.astron.nl/about/organisation/management/",
+     "scopeNote": "Bộ phận Astronomy & Operations đủ danh sách theo trang People của ASTRON Science (11/2026), mỗi người có trang riêng. Kỹ sư R&D không đưa vào vì không có danh sách công khai.",
+     "units": [
+      {
+       "name": "Astronomy & Operations (A&O) — nhà khoa học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ASTRON",
+       "topics": "Chớp vô tuyến nhanh, pulsar, tái ion hoá (LOFAR-EoR), khảo sát LoTSS, HI và thiên hà lân cận, AGN, sự kiện thoáng qua, sao vô tuyến, thời tiết không gian, hiệu chuẩn và thiết bị vô tuyến.",
+       "url": "https://www.astron.nl/about/organisation/astronomy-operations/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Betsey Adams",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-e-a-k-betsey-adams/"
+         },
+         {
+          "name": "Aida Ahmadi",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-aida-ahmadi/"
+         },
+         {
+          "name": "Pikky Atri",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-p-pikky-atri/"
+         },
+         {
+          "name": "Cees Bassa",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-c-g-cees-bassa/"
+         },
+         {
+          "name": "Erwin de Blok",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/prof-dr-w-j-g-erwin-de-blok/"
+         },
+         {
+          "name": "Michiel Brentjens",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-m-a-michiel-brentjens/"
+         },
+         {
+          "name": "Joe Callingham",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-j-r-joe-callingham/"
+         },
+         {
+          "name": "Brian Hare",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-b-brian-hare/"
+         },
+         {
+          "name": "Jason Hessels",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/prof-dr-j-w-t-jason-hessels/"
+         },
+         {
+          "name": "Marco Iacobelli",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-m-marco-iacobelli/"
+         },
+         {
+          "name": "Violette Impellizzeri",
+          "role": "Trưởng bộ phận Astronomy & Operations",
+          "url": "https://science.astron.nl/people/dr-v-violette-impellizzeri-head-of-astronomy-operations/"
+         },
+         {
+          "name": "Gemma Janssen",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-g-h-gemma-janssen/"
+         },
+         {
+          "name": "Vlad Kondratiev",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-v-vlad-kondratiev/"
+         },
+         {
+          "name": "Alexander Kutkin",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-a-alexander-kutkin/"
+         },
+         {
+          "name": "Joeri van Leeuwen",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-a-g-j-joeri-van-leeuwen/"
+         },
+         {
+          "name": "Maaijke Mevius",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-m-maaijke-mevius/"
+         },
+         {
+          "name": "Andre Offringa",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/ddr-a-r-andre-offringa/"
+         },
+         {
+          "name": "Emanuela Orrù",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/emanuela-orru/"
+         },
+         {
+          "name": "Aditya Parthasarathy",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/aditya-parthasarathy/"
+         },
+         {
+          "name": "Roberto Pizzo",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-r-f-roberto-pizzo/"
+         },
+         {
+          "name": "Antonia Rowlinson",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-b-a-antonia-rowlinson/"
+         },
+         {
+          "name": "Tim Shimwell",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-t-w-tim-shimwell/"
+         },
+         {
+          "name": "Aleksandar Shulevski",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-a-aleksandar-shulevski/"
+         },
+         {
+          "name": "Harish Vedantham",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/harish-vedantham/"
+         },
+         {
+          "name": "Sander ter Veen",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-s-sander-ter-veen/"
+         },
+         {
+          "name": "Emma van der Wateren",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/e-emma-van-der-wateren/"
+         },
+         {
+          "name": "Pietro Zucca",
+          "role": "Nhà khoa học biên chế",
+          "url": "https://science.astron.nl/people/dr-p-pietro-zucca/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://science.astron.nl/people/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Astronomy & Operations — postdoc và nghiên cứu sinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ASTRON",
+       "topics": "Chớp vô tuyến nhanh, pulsar, tái ion hoá (LOFAR-EoR), khảo sát LoTSS, HI và thiên hà lân cận, AGN, sự kiện thoáng qua, sao vô tuyến, thời tiết không gian, hiệu chuẩn và thiết bị vô tuyến.",
+       "url": "https://www.astron.nl/about/organisation/astronomy-operations/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Apurba Bera",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/apurba-bera/"
+         },
+         {
+          "name": "Pragya Chawla",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/pragya-chawla/"
+         },
+         {
+          "name": "Abigail Colclasure",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/abigail-colclasure/"
+         },
+         {
+          "name": "Cristina Cordun",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/cristina-cordun/"
+         },
+         {
+          "name": "Ivey Davis",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/dr-ivey-davis/"
+         },
+         {
+          "name": "Henrik Edler",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/henrik-edler/"
+         },
+         {
+          "name": "Nina Gusinskaia",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/nina-gusinskaia/"
+         },
+         {
+          "name": "David Konijn",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/david-konijn/"
+         },
+         {
+          "name": "Marten Lourens",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/marten-lourens/"
+         },
+         {
+          "name": "David McKenna",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/david-mckenna/"
+         },
+         {
+          "name": "Selah Melfor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/selah-melfor/"
+         },
+         {
+          "name": "Tia Nolan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/tia-nolan/"
+         },
+         {
+          "name": "Inés Pastor-Marazuela",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/ines-pastor-marazuela/"
+         },
+         {
+          "name": "Lieuwe de Regt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/lieuwe-de-regt/"
+         },
+         {
+          "name": "Michele Ronchi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/dr-michele-ronchi/"
+         },
+         {
+          "name": "Katelyn Smith",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/katelyn-smith/"
+         },
+         {
+          "name": "Sofia Sosa Fiscella",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/dr-sofia-sosa-fiscella/"
+         },
+         {
+          "name": "Christopher Sterpka",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/christopher-sterpka/"
+         },
+         {
+          "name": "Reshma Anna Thomas",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/reshma-anna-thomas/"
+         },
+         {
+          "name": "Paulina Turekova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/paulina-turekova/"
+         },
+         {
+          "name": "Ruggero Valdata",
+          "role": "Nghiên cứu sinh",
+          "url": "https://science.astron.nl/people/r-ruggero-valdata/"
+         },
+         {
+          "name": "Dany Vohl",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://science.astron.nl/people/dr-dany-vohl/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://science.astron.nl/people/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "JIVE — Joint Institute for VLBI ERIC",
+     "type": "institute",
+     "research": "Tổ chức quốc tế (ERIC) vận hành bộ tương quan của Mạng VLBI châu Âu (EVN), hỗ trợ người dùng và nghiên cứu bằng giao thoa vô tuyến đường đáy rất dài: chớp vô tuyến nhanh, AGN, sao đôi X-quang, maser, trắc địa không gian.",
+     "url": "https://jive.eu/",
+     "coverage": "full",
+     "structure": "Tổ chức nghiên cứu hạ tầng châu Âu (JIV-ERIC) đặt tại ASTRON, Dwingeloo.",
+     "structureUrl": "https://jive.eu/organisation.html",
+     "scopeNote": "Đủ danh sách theo trang Staff (11/2026); trang không ghi chức danh nên mọi người được ghi chung là nhân sự JIVE (gồm nhà khoa học, kỹ sư phần mềm/tương quan và hỗ trợ).",
+     "units": [
+      {
+       "name": "JIVE (toàn tổ chức)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "JIV-ERIC",
+       "topics": "Bộ tương quan EVN (SFXC), hỗ trợ người dùng VLBI, lưu trữ dữ liệu EVN, nghiên cứu bằng VLBI.",
+       "url": "https://jive.eu/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Mislav Balokovic",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/balokovic.html"
+         },
+         {
+          "name": "Paul Boven",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/boven.html"
+         },
+         {
+          "name": "Wybren Buijs",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/buijs.html"
+         },
+         {
+          "name": "Bob Campbell",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/campbell.html"
+         },
+         {
+          "name": "Giuseppe Cimò",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/cimo.html"
+         },
+         {
+          "name": "Bob Eldering",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/eldering.html"
+         },
+         {
+          "name": "Florian Eppel",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/eppel.html"
+         },
+         {
+          "name": "Bert Harms",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/harms.html"
+         },
+         {
+          "name": "Ioanna Kazakou",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/kazakou.html"
+         },
+         {
+          "name": "Aard Keimpema",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/keimpema.html"
+         },
+         {
+          "name": "Mark Kettenis",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/kettenis.html"
+         },
+         {
+          "name": "Yvonne Kool",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/kool.html"
+         },
+         {
+          "name": "Martin Leeuwinga",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/leeuwinga.html"
+         },
+         {
+          "name": "Waleed Madkour",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/madkour.html"
+         },
+         {
+          "name": "Benito Marcote",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/marcote.html"
+         },
+         {
+          "name": "Miriam Nyamai",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/nyamai.html"
+         },
+         {
+          "name": "Junghwan Oh",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/oh.html"
+         },
+         {
+          "name": "Zsolt Paragi",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/paragi.html"
+         },
+         {
+          "name": "Mas Said",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/said.html"
+         },
+         {
+          "name": "Agnieszka Slowikowska",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/slowikowska.html"
+         },
+         {
+          "name": "Des Small",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/small.html"
+         },
+         {
+          "name": "Ilse van Bemmel",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/van-bemmel.html"
+         },
+         {
+          "name": "Aukelien van den Poll",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/van-den-poll.html"
+         },
+         {
+          "name": "Huib van Langevelde",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/van-langevelde.html"
+         },
+         {
+          "name": "Marjolein Verkouter",
+          "role": "Nhân sự JIVE",
+          "url": "https://jive.eu/verkouter.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://jive.eu/staff.html"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "groningen",
+   "city": "Groningen",
+   "coordinates": [
+    6.57,
+    53.22
+   ],
+   "institutions": [
+    {
+     "name": "Rijksuniversiteit Groningen — Kapteyn Astronomical Institute",
+     "type": "university",
+     "research": "Thiên hà và khảo cổ thiên hà (Gaia, Ngân Hà), vũ trụ học và kỷ nguyên tái ion hoá (LOFAR-EoR), thấu kính hấp dẫn mạnh, khí trong thiên hà (vô tuyến HI), hình thành hành tinh và đĩa tiền hành tinh, vật lý thiên văn năng lượng cao, thiết bị hồng ngoại xa và dưới milimét (cùng SRON và ASTRON).",
+     "url": "https://www.rug.nl/research/kapteyn/",
+     "coverage": "full",
+     "structure": "Viện thuộc Khoa Khoa học & Kỹ thuật, ĐH Groningen; giám đốc Inga Kamp. Là thành viên trường nghiên cứu NOVA; nhiều nhà khoa học kiêm nhiệm tại ASTRON và SRON.",
+     "structureUrl": "https://www.rug.nl/research/kapteyn/institute/management/management-team",
+     "scopeNote": "Đủ danh sách theo các trang Information about staff (Academic Staff, Emeriti, Scientific Support, Computer Group, Postdocs, PhD Students; 11/2026). Link là trang hồ sơ của ĐH Groningen; người chưa có hồ sơ ghi theo nguồn. Bỏ nhân viên hành chính.",
+     "units": [
+      {
+       "name": "Giảng viên (Academic Staff)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Kapteyn Astronomical Institute",
+       "topics": "Khảo cổ thiên hà, thiên hà lùn, động lực học khí, vũ trụ học 21-cm, thấu kính mạnh, đĩa tiền hành tinh và khí quyển ngoại hành tinh, sao neutron và lỗ đen (X-quang), thiết bị dưới mm.",
+       "url": "https://www.rug.nl/research/kapteyn/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Andrey Baryshev",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/a.barychev/"
+         },
+         {
+          "name": "Karina Caputi",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/k.i.caputi/"
+         },
+         {
+          "name": "Quentin Changeat",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/q.changeat/"
+         },
+         {
+          "name": "Sunny Cheng",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/t.cheng/"
+         },
+         {
+          "name": "Filippo Fraternali",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/f.fraternali/"
+         },
+         {
+          "name": "Amina Helmi",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/a.helmi/"
+         },
+         {
+          "name": "Inga Kamp",
+          "role": "Giáo sư; giám đốc viện",
+          "url": "https://www.rug.nl/staff/i.e.e.kamp/"
+         },
+         {
+          "name": "Léon Koopmans",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/l.v.e.koopmans/"
+         },
+         {
+          "name": "Tim Lichtenberg",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/tim.lichtenberg/"
+         },
+         {
+          "name": "John McKean",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/j.p.mckean/"
+         },
+         {
+          "name": "Mariano Méndez",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/r.m.mendez/"
+         },
+         {
+          "name": "Reynier Peletier",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/r.f.peletier/"
+         },
+         {
+          "name": "Francesca Rizzo",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/f.rizzo/"
+         },
+         {
+          "name": "Else Starkenburg",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/e.starkenburg/"
+         },
+         {
+          "name": "Eline Tolstoy",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/e.tolstoy/"
+         },
+         {
+          "name": "Scott Trager",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/s.c.trager/"
+         },
+         {
+          "name": "Manuela Vecchi",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/m.vecchi/"
+         },
+         {
+          "name": "Marc Verheijen",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/m.a.w.verheijen/"
+         },
+         {
+          "name": "Rien van de Weijgaert",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/m.a.m.van.de.weygaert/"
+         },
+         {
+          "name": "Saleem Zaroubi",
+          "role": "Giảng viên (GS/PGS/tenure track)",
+          "url": "https://www.rug.nl/staff/s.zaroubi/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.rug.nl/research/kapteyn/institute/people/vastwp?lang=en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Giáo sư danh dự",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Kapteyn Astronomical Institute",
+       "topics": "—",
+       "url": "https://www.rug.nl/research/kapteyn/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Tjeerd van Albada",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/t.s.van.albada/"
+         },
+         {
+          "name": "Peter Barthel",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/p.d.barthel/"
+         },
+         {
+          "name": "Wim Brouw",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/w.n.brouw/"
+         },
+         {
+          "name": "Bernard Jones",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/b.j.t.jones/"
+         },
+         {
+          "name": "Jan Willem Pel",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/j.w.pel/"
+         },
+         {
+          "name": "Renzo Sancisi",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/r.sancisi/"
+         },
+         {
+          "name": "Bob Sanders",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/r.h.sanders/"
+         },
+         {
+          "name": "Olaf Scholten",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/o.scholten/"
+         },
+         {
+          "name": "Edwin Valentijn",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/staff/e.a.valentijn/"
+         },
+         {
+          "name": "Thijs van der Hulst",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/emeritus?lang=en"
+         },
+         {
+          "name": "Piet van der Kruit",
+          "role": "GS danh dự",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/emeritus?lang=en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.rug.nl/research/kapteyn/institute/people/emeritus?lang=en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nhân sự hỗ trợ khoa học và nhóm máy tính",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Kapteyn Astronomical Institute",
+       "topics": "Kỹ thuật thiết bị, phòng thí nghiệm, dữ liệu (OmegaCEN, Euclid, LOFAR) và hạ tầng tính toán.",
+       "url": "https://www.rug.nl/research/kapteyn/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jan Barkhof",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/j.barkhof/"
+         },
+         {
+          "name": "Marielle Bekema",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/m.e.bekema/"
+         },
+         {
+          "name": "Danny Boxhoorn",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/d.r.boxhoorn/"
+         },
+         {
+          "name": "Ronald Hesper",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/r.hesper/"
+         },
+         {
+          "name": "Albert Koops",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/a.koops/"
+         },
+         {
+          "name": "Michiel Kregel",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/m.kregel/"
+         },
+         {
+          "name": "Gijs Verdoes Kleijn",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/g.a.verdoes.kleijn/"
+         },
+         {
+          "name": "Willem Jan Vriend",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/w.vriend/"
+         },
+         {
+          "name": "Jelte de Jong",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/staff/j.t.a.de.jong/"
+         },
+         {
+          "name": "Tom Criens",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/wetobp?lang=en"
+         },
+         {
+          "name": "Dirk van der Geest",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/wetobp?lang=en"
+         },
+         {
+          "name": "Martin Vogelaar",
+          "role": "Nhân sự khoa học-kỹ thuật",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/wetobp?lang=en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.rug.nl/research/kapteyn/institute/people/wetobp?lang=en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu sau tiến sĩ",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Kapteyn Astronomical Institute",
+       "topics": "—",
+       "url": "https://www.rug.nl/research/kapteyn/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Hugo Buddelmeijer",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/h.buddelmeijer/"
+         },
+         {
+          "name": "Edoardo Ceccarelli",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/e.ceccarelli/"
+         },
+         {
+          "name": "Atrideb Chatterjee",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/a.chatterjee/"
+         },
+         {
+          "name": "Kariuki Chege",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/j.k.chege/"
+         },
+         {
+          "name": "Pablo Corcho Caballero",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/p.corcho.caballero/"
+         },
+         {
+          "name": "Guillaume Desprez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/g.p.a.desprez/"
+         },
+         {
+          "name": "Luca Di Mascolo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/l.di.mascolo/"
+         },
+         {
+          "name": "Connor Duffy",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/c.a.duffy/"
+         },
+         {
+          "name": "Jennifer Friske",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/j.k.s.friske/"
+         },
+         {
+          "name": "Qiuhan He",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/qiuhan.he/"
+         },
+         {
+          "name": "Gaoxiang Jin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/g.jin/"
+         },
+         {
+          "name": "Vishambhar Pandey",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/v.n.pandey/"
+         },
+         {
+          "name": "Adam Watson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/staff/a.j.watson/"
+         },
+         {
+          "name": "Gustavo Medina Toledo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/postdoc?lang=en"
+         },
+         {
+          "name": "Nick Storm",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/postdoc?lang=en"
+         },
+         {
+          "name": "Marissa Vlasblom",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/postdoc?lang=en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.rug.nl/research/kapteyn/institute/people/postdoc?lang=en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu sinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Kapteyn Astronomical Institute",
+       "topics": "—",
+       "url": "https://www.rug.nl/research/kapteyn/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Bram Alferink",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/b.d.alferink/"
+         },
+         {
+          "name": "Manuel Bayer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/m.bayer/"
+         },
+         {
+          "name": "Candela Bellavita",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/c.a.bellavita/"
+         },
+         {
+          "name": "Ernesto Benitez Walz",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/e.benitez.walz/"
+         },
+         {
+          "name": "Jelke Bethlehem",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/j.bethlehem/"
+         },
+         {
+          "name": "Daniel Boyea",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/d.a.boyea/"
+         },
+         {
+          "name": "Jelena Bošković Pantović",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/j.boskovic/"
+         },
+         {
+          "name": "Saphira Brandenberger",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/s.n.brandenberger/"
+         },
+         {
+          "name": "Marco Canossa Gosteinski",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/m.a.canossa.gosteinski/"
+         },
+         {
+          "name": "Mi Chen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/mi.chen/"
+         },
+         {
+          "name": "Ryan Cooper",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/r.a.cooper/"
+         },
+         {
+          "name": "Anna Esselink",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/a.f.esselink/"
+         },
+         {
+          "name": "Giacomo Gallina",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/g.gallina/"
+         },
+         {
+          "name": "Esan Mouli Ghosh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/e.m.ghosh/"
+         },
+         {
+          "name": "Sonia Ghosh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/sonia.ghosh/"
+         },
+         {
+          "name": "Nadine Hank",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/n.a.n.hank/"
+         },
+         {
+          "name": "Linn He",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/linn.he/"
+         },
+         {
+          "name": "Celestin Herbe-George",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/c.herbe-george/"
+         },
+         {
+          "name": "Eduárd Illés",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/e.illes/"
+         },
+         {
+          "name": "Sri Aravind Jaganathan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/S.A.%20Jaganathan/"
+         },
+         {
+          "name": "Pei Jin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/p.jin/"
+         },
+         {
+          "name": "Soumil Kelkar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/s.m.kelkar/"
+         },
+         {
+          "name": "Imre Kisvárdai",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/i.g.kisvardai/"
+         },
+         {
+          "name": "David Konijn",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/d.c.konijn/"
+         },
+         {
+          "name": "Dennis Koopmans",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/d.m.koopmans/"
+         },
+         {
+          "name": "Yusen Li",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/yusen.li/"
+         },
+         {
+          "name": "Marten Lourens",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/m.a.a.lourens/"
+         },
+         {
+          "name": "Drishika Nadella",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/d.nadella/"
+         },
+         {
+          "name": "Rafael Navarro",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/r.navarro.carrera/"
+         },
+         {
+          "name": "Sowmya Parthasarathy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/s.parthasarathy/"
+         },
+         {
+          "name": "Emma Postolec",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/e.n.postolec/"
+         },
+         {
+          "name": "Archana Purushothaman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/a.purushothaman/"
+         },
+         {
+          "name": "Margherita Revellino",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/m.m.revellino/"
+         },
+         {
+          "name": "Samuel Rusterucci",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/s.rusterucci/"
+         },
+         {
+          "name": "Martin Schmidt Montelius",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/m.b.schmidt.montelius/"
+         },
+         {
+          "name": "Robbert Scholtens",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/r.w.scholtens/"
+         },
+         {
+          "name": "Sten Sipma",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/s.k.sipma/"
+         },
+         {
+          "name": "Abigail Tumborang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/a.a.tumborang/"
+         },
+         {
+          "name": "Paulína Tureková",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/p.turekova/"
+         },
+         {
+          "name": "Juniper Tutterow",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/j.t.tutterow/"
+         },
+         {
+          "name": "Francisco Urbina Jiménez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/f.j.urbina.jimenez/"
+         },
+         {
+          "name": "Mariana Villamil Sastre",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/m.c.villamil.sastre/"
+         },
+         {
+          "name": "Nynke Visser",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/nynke.visser/"
+         },
+         {
+          "name": "Hanneke Woudenberg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/h.c.woudenberg/"
+         },
+         {
+          "name": "Pengcheng Yang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/staff/p.yang/"
+         },
+         {
+          "name": "Sanne Bloot",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Cristina Cordun",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Emeline Decocq",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Haoran Dou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Shichao Han",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Minh Ngoc Le",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Freja Nørby",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Lucile Rosoli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Taejas Venkataraman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Kaihao Wang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Yifan Wang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Qirui Yang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Peiwen Zai",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         },
+         {
+          "name": "Chi Zheng",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "leiden",
+   "city": "Leiden",
+   "coordinates": [
+    4.49,
+    52.16
+   ],
+   "institutions": [
+    {
+     "name": "Universiteit Leiden — Sterrewacht Leiden (Leiden Observatory)",
+     "type": "university",
+     "research": "Viện thiên văn lớn nhất Hà Lan: hình thành thiên hà và vũ trụ học (thấu kính hấp dẫn yếu, mô phỏng EAGLE/FLAMINGO, LOFAR), sao và hành tinh đang hình thành, hoá học thiên văn và thiên văn phòng thí nghiệm, ngoại hành tinh và thiết bị (METIS cho ELT, quang học thích ứng).",
+     "url": "https://www.universiteitleiden.nl/en/science/astronomy",
+     "coverage": "full",
+     "structure": "Hai chủ đề nghiên cứu lớn (Thiên hà và cấu trúc vũ trụ; Ngoại hành tinh, hình thành sao và hành tinh) cùng nhóm Lịch sử khoa học; giám đốc khoa học Ignas Snellen. Là thành viên trường nghiên cứu NOVA.",
+     "structureUrl": "https://www.universiteitleiden.nl/en/science/astronomy/research",
+     "scopeNote": "Đủ danh sách theo trang Staff (11/2026), mỗi người có trang cá nhân. Giảng viên được xếp theo hai trang chủ đề của viện; người mới chưa có trên trang chủ đề được xếp theo lĩnh vực ghi trong hồ sơ. Bỏ nhân viên hành chính và quản lý.",
+     "units": [
+      {
+       "name": "Thiên hà và các cấu trúc chứa chúng",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sterrewacht Leiden",
+       "topics": "Hình thành và tiến hóa thiên hà, vũ trụ học quan sát (thấu kính yếu KiDS, Euclid), mô phỏng vũ trụ, thiên hà xa (JWST, ALMA), thiên văn vô tuyến tần số thấp (LOFAR), động lực học sao, sự kiện xé sao.",
+       "url": "https://www.universiteitleiden.nl/en/science/astronomy/galaxies-and-the-structures-in-which-they-are-embedded",
+       "researchers": {
+        "people": [
+         {
+          "name": "Rychard Bouwens",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/rychard-bouwens"
+         },
+         {
+          "name": "Anthony Brown",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/anthony-brown"
+         },
+         {
+          "name": "Marcel van Daalen",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/marcel-van-daalen"
+         },
+         {
+          "name": "Marijn Franx",
+          "role": "GS danh dự",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/marijn-franx"
+         },
+         {
+          "name": "Michael Garrett",
+          "role": "Giáo sư — Radio techniques in astronomy",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/michael-garrett"
+         },
+         {
+          "name": "Joe Hennawi",
+          "role": "Giáo sư — Cosmology",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/joe-hennawi"
+         },
+         {
+          "name": "Jacqueline Hodge",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jacqueline-hodge"
+         },
+         {
+          "name": "Henk Hoekstra",
+          "role": "Giáo sư — Observational cosmology",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/henk-hoekstra"
+         },
+         {
+          "name": "Vincent Icke",
+          "role": "GS danh dự",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/vincent-icke"
+         },
+         {
+          "name": "Walter Jaffe",
+          "role": "GS thỉnh giảng",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/walter-jaffe"
+         },
+         {
+          "name": "Jelle Kaastra",
+          "role": "GS danh dự High Energy Astrophysics",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jelle-kaastra"
+         },
+         {
+          "name": "Mariska Kriek",
+          "role": "Giáo sư — Astronomy / Associate Director PhD and Postdoc Affairs",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/mariska-kriek"
+         },
+         {
+          "name": "Koen Kuijken",
+          "role": "Giáo sư — Galactic astronomy",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/koen-kuijken"
+         },
+         {
+          "name": "George Miley",
+          "role": "GS danh dự",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/george-miley"
+         },
+         {
+          "name": "Ana Monreal Ibero",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ana-monreal-ibero"
+         },
+         {
+          "name": "Simon Portegies Zwart",
+          "role": "Giáo sư — Numerical star dynamics",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/simon-portegies-zwart"
+         },
+         {
+          "name": "Elena Rossi",
+          "role": "Giáo sư — Theoretical astrophysics",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/elena-rossi"
+         },
+         {
+          "name": "Huub Rottgering",
+          "role": "Giáo sư — Observational cosmology",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/huub-rottgering"
+         },
+         {
+          "name": "Matthieu Schaller",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/matthieu-schaller"
+         },
+         {
+          "name": "Joop Schaye",
+          "role": "Giáo sư — The formation of galaxies",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/joop-schaye"
+         },
+         {
+          "name": "Elena Sellentin",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/elena-sellentin"
+         },
+         {
+          "name": "Sjoert van Velzen",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/sjoert-van-velzen"
+         },
+         {
+          "name": "Reinout van Weeren",
+          "role": "PGS; giám đốc chương trình thạc sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/reinout-van-weeren"
+         },
+         {
+          "name": "Paul van der Werf",
+          "role": "Giáo sư — Extragalactic astrophysics",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/paul-van-der-werf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.universiteitleiden.nl/en/science/astronomy/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Ngoại hành tinh, hình thành sao và hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sterrewacht Leiden",
+       "topics": "Đĩa tiền hành tinh, hoá học thiên văn và băng vũ trụ (JWST), thiên văn phòng thí nghiệm, khí quyển ngoại hành tinh, chụp ảnh trực tiếp và quang học thích ứng, thiết bị METIS/ELT, sinh học vũ trụ.",
+       "url": "https://www.universiteitleiden.nl/en/science/astronomy/exo-planets-star-and-planet-formation",
+       "researchers": {
+        "people": [
+         {
+          "name": "Bernhard Brandl",
+          "role": "Giáo sư — Infrared astronomy",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/bernhard-brandl"
+         },
+         {
+          "name": "Leonard Burtscher",
+          "role": "Nhà nghiên cứu khách mời",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/leonard-burtscher"
+         },
+         {
+          "name": "Ko-Ju Chuang",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ko-ju-chuang"
+         },
+         {
+          "name": "Ewine van Dishoeck",
+          "role": "GS danh dự",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ewine-van-dishoeck"
+         },
+         {
+          "name": "Pascale Ehrenfreund",
+          "role": "Giáo sư — Astrobiology",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/pascale-ehrenfreund"
+         },
+         {
+          "name": "Harm Habing",
+          "role": "GS danh dự",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/harm-habing"
+         },
+         {
+          "name": "Sebastiaan Haffert",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/sebastiaan-haffert"
+         },
+         {
+          "name": "Michiel Hogerheijde",
+          "role": "PGS; giám đốc đào tạo",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/michiel-hogerheijde"
+         },
+         {
+          "name": "Christoph Keller",
+          "role": "GS thỉnh giảng",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/christoph-keller"
+         },
+         {
+          "name": "Matthew Kenworthy",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/matthew-kenworthy"
+         },
+         {
+          "name": "Thanja Lamberts",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/thanja-lamberts"
+         },
+         {
+          "name": "Huib van Langevelde",
+          "role": "Giáo sư — Galactic Radio Astronomy",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/huib-van-langevelde"
+         },
+         {
+          "name": "Nienke van der Marel",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/nienke-van-der-marel"
+         },
+         {
+          "name": "Melissa McClure",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/melissa-mcclure"
+         },
+         {
+          "name": "Yamila Miguel",
+          "role": "Phó giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yamila-miguel"
+         },
+         {
+          "name": "Ignas Snellen",
+          "role": "Giáo sư; giám đốc khoa học",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ignas-snellen"
+         },
+         {
+          "name": "Frans Snik",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/frans-snik"
+         },
+         {
+          "name": "Tomas Stolker",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/tomas-stolker"
+         },
+         {
+          "name": "Remko Stuik",
+          "role": "Nhà nghiên cứu — thiết bị thiên văn",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/remko-stuik"
+         },
+         {
+          "name": "Aline Vidotto",
+          "role": "Giáo sư — Astronomy",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/aline-vidotto"
+         },
+         {
+          "name": "Serena Viti",
+          "role": "GS thỉnh giảng",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/serena-viti"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.universiteitleiden.nl/en/science/astronomy/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Lịch sử khoa học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sterrewacht Leiden",
+       "topics": "Di sản vật chất và lịch sử khoa học tự nhiên.",
+       "url": "https://www.universiteitleiden.nl/en/science/astronomy/research/history-of-science",
+       "researchers": {
+        "people": [
+         {
+          "name": "Dirk van Delft",
+          "role": "GS danh dự Material heritage of the natural sciences",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/dirk-van-delft"
+         },
+         {
+          "name": "Frans van Lunteren",
+          "role": "GS danh dự History of the natural sciences",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/frans-van-lunteren"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.universiteitleiden.nl/en/science/astronomy/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu sau tiến sĩ, khách mời và nhân sự khoa học-kỹ thuật",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sterrewacht Leiden",
+       "topics": "Postdoc (gồm Oort fellows), nhà nghiên cứu khách mời, kỹ sư phần mềm nghiên cứu, nhóm thiết bị NOVA/METIS.",
+       "url": "https://www.universiteitleiden.nl/en/science/astronomy/staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Joshua Albert",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/joshua-albert"
+         },
+         {
+          "name": "Leindert Boogaard",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/leindert-boogaard"
+         },
+         {
+          "name": "Guadalupe Cañas Herrera",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/guadalupe-canas-herrera"
+         },
+         {
+          "name": "Lotfi Chaouach",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/lotfi-chaouach"
+         },
+         {
+          "name": "Louis Desdoigts",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/louis-desdoigts"
+         },
+         {
+          "name": "Katarzyna Dutkowska",
+          "role": "Nhà nghiên cứu khách mời",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/katarzyna-dutkowska"
+         },
+         {
+          "name": "Elham Eftekhariardakani",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/elham-eftekhariardakani"
+         },
+         {
+          "name": "Filip Elekes",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/filip-elekes"
+         },
+         {
+          "name": "Albert Elias López",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/albert-elias-lopez"
+         },
+         {
+          "name": "Jules Fowler",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jules-fowler"
+         },
+         {
+          "name": "Yuming Fu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yuming-fu"
+         },
+         {
+          "name": "Filip Husko",
+          "role": "Kỹ sư phần mềm nghiên cứu",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/filip-husko"
+         },
+         {
+          "name": "Ryota Ikeda",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ryota-ikeda"
+         },
+         {
+          "name": "Jurjen de Jong",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jurjen-de-jong"
+         },
+         {
+          "name": "Pascal Keller",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/pascal-keller"
+         },
+         {
+          "name": "Megan Lewis",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/megan-lewis"
+         },
+         {
+          "name": "Qing Liu",
+          "role": "PD (Oort fellow)",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/qing-liu"
+         },
+         {
+          "name": "Xunchuan Liu",
+          "role": "Nhà nghiên cứu khách mời",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/xunchuan-liu"
+         },
+         {
+          "name": "Joshiwa van Marrewijk",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/joshiwa-van-marrewijk"
+         },
+         {
+          "name": "Matthijs Mars",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/matthijs-mars"
+         },
+         {
+          "name": "Rob McGibbon",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/rob-mcgibbon"
+         },
+         {
+          "name": "Konstantinos Migkas",
+          "role": "PD (Oort fellow, X-ray)",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/konstantinos-migkas"
+         },
+         {
+          "name": "David Navarro Gironés",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/david-navarro-girones"
+         },
+         {
+          "name": "Jannis Necker",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jannis-necker"
+         },
+         {
+          "name": "Thanh Nguyen",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/thanh-nguyen"
+         },
+         {
+          "name": "Samuel Pearson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/samuel-pearson"
+         },
+         {
+          "name": "Divya Rana",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/divya-rana"
+         },
+         {
+          "name": "Emily Sandford",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/emily-sandford"
+         },
+         {
+          "name": "Iason Skretas",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/iason-skretas"
+         },
+         {
+          "name": "Daniel Smith",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/daniel-smith"
+         },
+         {
+          "name": "Zak Smith",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/zak-smith"
+         },
+         {
+          "name": "Lukasz Tychoniec",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/lukasz-tychoniec"
+         },
+         {
+          "name": "Solène Chloé Ulmer-Moll",
+          "role": "PD (Oort fellow)",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/solene-chloe-ulmer-moll"
+         },
+         {
+          "name": "Thomas Otto Winterhalder",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/thomas-otto-winterhalder"
+         },
+         {
+          "name": "Yeyuan Xin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yeyuan-xin"
+         },
+         {
+          "name": "Yun-Hao Zhang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yun-hao-zhang"
+         },
+         {
+          "name": "Liyi Gu",
+          "role": "Nhà nghiên cứu khách mời",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/liyi-gu"
+         },
+         {
+          "name": "Violette Impellizzeri",
+          "role": "Nhà nghiên cứu khách mời",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/violette-impellizzeri"
+         },
+         {
+          "name": "Dima Titov",
+          "role": "Nhà khoa học khách mời",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/dima-titov"
+         },
+         {
+          "name": "Felix Bettonvil",
+          "role": "Quản lý dự án thiết bị",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/felix-bettonvil"
+         },
+         {
+          "name": "Ioannis Politopoulos",
+          "role": "Trưởng cơ sở tích hợp METIS",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ioannis-politopoulos"
+         },
+         {
+          "name": "Thomas Wijnen",
+          "role": "Điều phối thiết bị NOVA",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/thomas-wijnen"
+         },
+         {
+          "name": "Huib Intema",
+          "role": "Phát triển CNTT nghiên cứu & giảng dạy",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/huib-intema"
+         },
+         {
+          "name": "David Jansen",
+          "role": "Lập trình viên khoa học",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/david-jansen"
+         },
+         {
+          "name": "Zuzanna Kostrzewa-Rutkowska",
+          "role": "Kỹ sư phần mềm nghiên cứu",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/zuzanna-kostrzewa-rutkowska"
+         },
+         {
+          "name": "Bram Venemans",
+          "role": "Trưởng nhóm CNTT",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/bram-venemans"
+         },
+         {
+          "name": "Michiel Rodenhuis",
+          "role": "Giám đốc điều hành NOVA",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/michiel-rodenhuis"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.universiteitleiden.nl/en/science/astronomy/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nghiên cứu sinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sterrewacht Leiden",
+       "topics": "Nghiên cứu sinh (gồm NCS khách mời và NCS ngoài).",
+       "url": "https://www.universiteitleiden.nl/en/science/astronomy/staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Lars Abbo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/lars-abbo"
+         },
+         {
+          "name": "Marco Agolzer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/marco-agolzer"
+         },
+         {
+          "name": "Zeynab Ashurikisomi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/zeynab-ashurikisomi"
+         },
+         {
+          "name": "Femke Ballieux",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/femke-ballieux"
+         },
+         {
+          "name": "Ilham Bouisaghouane",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ilham-bouisaghouane"
+         },
+         {
+          "name": "Paul Boven",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/paul-boven"
+         },
+         {
+          "name": "Jeger Broxterman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jeger-broxterman"
+         },
+         {
+          "name": "Nashanty Brunken",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/nashanty-brunken"
+         },
+         {
+          "name": "Victorine Buiten",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/victorine-buiten"
+         },
+         {
+          "name": "Richelle van Capelleveen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/richelle-van-capelleveen"
+         },
+         {
+          "name": "Manuel Cavieres Carrera",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/manuel-cavieres-carrera"
+         },
+         {
+          "name": "Karin Cescon",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/karin-cescon"
+         },
+         {
+          "name": "Dirk van Dam",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/dirk-van-dam"
+         },
+         {
+          "name": "Michiel Darcis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/michiel-darcis"
+         },
+         {
+          "name": "Esther van Dijk",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/esther-van-dijk"
+         },
+         {
+          "name": "Tobias Dijkhuis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/tobias-dijkhuis"
+         },
+         {
+          "name": "Maarten Elion",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/maarten-elion"
+         },
+         {
+          "name": "Omar Espíndola Camacho",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/omar-espindola-camacho"
+         },
+         {
+          "name": "Anselmo Falorca",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/anselmo-falorca"
+         },
+         {
+          "name": "Sonal Garg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/sonal-garg"
+         },
+         {
+          "name": "Wout Goesaert",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/wout-goesaert"
+         },
+         {
+          "name": "Darío González Picos",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/dario-gonzalez-picos"
+         },
+         {
+          "name": "Natalie Grasser",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/natalie-grasser"
+         },
+         {
+          "name": "Luna van Haastere",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/luna-van-haastere"
+         },
+         {
+          "name": "Yujie He",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yujie-he"
+         },
+         {
+          "name": "Stephanie Heikamp",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/stephanie-heikamp"
+         },
+         {
+          "name": "Milan Heinsohn Huala",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/milan-heinsohn-huala"
+         },
+         {
+          "name": "Thomas Herard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/thomas-herard"
+         },
+         {
+          "name": "Aniruddh Herle",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/aniruddh-herle"
+         },
+         {
+          "name": "Emily van Hese",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/emily-van-hese"
+         },
+         {
+          "name": "Erwan Hochart",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/erwan-hochart"
+         },
+         {
+          "name": "Cecilie Holmen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/cecilie-holmen"
+         },
+         {
+          "name": "Hylke Hoogland",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/hylke-hoogland"
+         },
+         {
+          "name": "Leoni Janssen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/leoni-janssen"
+         },
+         {
+          "name": "Bin Jia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/bin-jia"
+         },
+         {
+          "name": "Kaltrina Kajtazi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/kaltrina-kajtazi"
+         },
+         {
+          "name": "Vasileios Kalaitzidis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/vasileios-kalaitzidis"
+         },
+         {
+          "name": "Orestis Karapiperis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/orestis-karapiperis"
+         },
+         {
+          "name": "Lars Klijn",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/lars-klijn"
+         },
+         {
+          "name": "Chen Li",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/1/chen-li"
+         },
+         {
+          "name": "Yifan Li",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yifan-li"
+         },
+         {
+          "name": "Cheng-Lin Liao",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/cheng-lin-liao"
+         },
+         {
+          "name": "Jinyi Liu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jinyi-liu"
+         },
+         {
+          "name": "Anjali Madangarli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/anjali-madangarli"
+         },
+         {
+          "name": "Mulan Madden",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/mulan-madden"
+         },
+         {
+          "name": "Mariia Marinichenko",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/mariia-marinichenko"
+         },
+         {
+          "name": "Floris Martens",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/floris-martens"
+         },
+         {
+          "name": "Jessica Martin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/jessica-martin"
+         },
+         {
+          "name": "Paola Martire",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/paola-martire"
+         },
+         {
+          "name": "Gimena Martín Girardi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/gimena-martin-girardi"
+         },
+         {
+          "name": "Morgan McCabe",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/morgan-mccabe"
+         },
+         {
+          "name": "Will McDonald",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/will-mcdonald"
+         },
+         {
+          "name": "Kutay Nazli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/kutay-nazli"
+         },
+         {
+          "name": "Dennis Neumann",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/dennis-neumann"
+         },
+         {
+          "name": "Tong Pan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/tong-pan"
+         },
+         {
+          "name": "Dhwanil Patel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/dhwanil-patel"
+         },
+         {
+          "name": "Lucas Pouw",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/lucas-pouw"
+         },
+         {
+          "name": "Andrés Presa Villa",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/andres-presa-villa"
+         },
+         {
+          "name": "Brigitte Pruijt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/brigitte-pruijt"
+         },
+         {
+          "name": "Vysakh Puthusseril Anilkumar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/vysakh-puthusseril-anilkumar"
+         },
+         {
+          "name": "Vikram Radhakrishnan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/vikram-radhakrishnan"
+         },
+         {
+          "name": "Axelle Raffin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/axelle-raffin"
+         },
+         {
+          "name": "Vanesa Ramirez Gomez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/vanesa-ramirez-gomez"
+         },
+         {
+          "name": "Sam de Regt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/sam-de-regt"
+         },
+         {
+          "name": "Sander Schouws",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/sander-schouws"
+         },
+         {
+          "name": "Juliana Schujman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/juliana-schujman"
+         },
+         {
+          "name": "Bianca Sersante",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/bianca-sersante"
+         },
+         {
+          "name": "Nikyta Shchutskyi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/nikyta-shchutskyi"
+         },
+         {
+          "name": "Louis Siebenaler",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/louis-siebenaler"
+         },
+         {
+          "name": "Martje Slob",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/martje-slob"
+         },
+         {
+          "name": "Laura Stroud",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/laura-stroud"
+         },
+         {
+          "name": "Adam Taras",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/adam-taras"
+         },
+         {
+          "name": "Elena Tonucci",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/elena-tonucci"
+         },
+         {
+          "name": "Casper Vedder",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/casper-vedder"
+         },
+         {
+          "name": "Gijs Vermariën",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/gijs-vermarien"
+         },
+         {
+          "name": "Scott Visser",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/scott-visser"
+         },
+         {
+          "name": "Marissa Vlasblom",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/marissa-vlasblom"
+         },
+         {
+          "name": "Luc Voorend",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/luc-voorend"
+         },
+         {
+          "name": "Ben Wang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/ben-wang"
+         },
+         {
+          "name": "Shuyu Wang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/shuyu-wang"
+         },
+         {
+          "name": "Lukas Welzel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/lukas-welzel"
+         },
+         {
+          "name": "Beth Westoby",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/beth-westoby"
+         },
+         {
+          "name": "Maite Wilhelm",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/maite-wilhelm"
+         },
+         {
+          "name": "Daming Yang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/daming-yang"
+         },
+         {
+          "name": "Sai Zhai",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/sai-zhai"
+         },
+         {
+          "name": "Yuze Zhang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/yuze-zhang"
+         },
+         {
+          "name": "Keqin Zhao",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/keqin-zhao"
+         },
+         {
+          "name": "Bas Zoutendijk",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/bas-zoutendijk"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.universiteitleiden.nl/en/science/astronomy/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "SRON — Space Research Organisation Netherlands",
+     "type": "institute",
+     "research": "Viện quốc gia về nghiên cứu không gian (NWO-I), trụ sở Leiden và cơ sở Groningen: vật lý thiên văn năng lượng cao (XRISM/Resolve, Athena X-IFU), vật lý thiên văn năng lượng thấp và hồng ngoại xa, ngoại hành tinh (Ariel, LIFE), LISA; phát triển detector siêu dẫn (TES, KID). Ngoài ra có chương trình quan sát Trái Đất.",
+     "url": "https://www.sron.nl/",
+     "coverage": "partial",
+     "structure": "Các chương trình Astrophysics, Exoplanets, Earth Observation và Technology cùng nhóm kỹ thuật; giám đốc Michael Wise.",
+     "structureUrl": "https://www.sron.nl/en/pillars/our-people/",
+     "scopeNote": "Theo trang Our experts (11/2026), chỉ lấy người thuộc mảng vật lý thiên văn, ngoại hành tinh và khoa học thiết bị cho thiên văn; bỏ chương trình quan sát Trái Đất, kỹ thuật thuần tuý và hành chính. Trang chỉ có khoảng 150 trên hơn 250 nhân viên nên danh sách chưa đầy đủ.",
+     "units": [
+      {
+       "name": "Ban lãnh đạo khoa học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SRON",
+       "topics": "Định hướng chương trình vật lý thiên văn và khoa học thiết bị.",
+       "url": "https://www.sron.nl/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Michael Wise",
+          "role": "Giám đốc SRON",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Terri Brandt",
+          "role": "Trưởng chương trình Vật lý thiên văn",
+          "url": "https://www.sron.nl/en/pillars/our-people/terri-brandt"
+         },
+         {
+          "name": "Elisa Costantini",
+          "role": "Nhà khoa học cấp cao; trưởng nhóm năng lượng cao",
+          "url": "https://www.sron.nl/en/pillars/our-people/elisa-costantini"
+         },
+         {
+          "name": "Peter Roelfsema",
+          "role": "Nhà khoa học cấp cao; phụ trách vật lý thiên văn năng lượng thấp",
+          "url": "https://www.sron.nl/en/pillars/our-people/peter-roelfsema"
+         },
+         {
+          "name": "Jan Geralt Bij de Vaate",
+          "role": "Trưởng khoa học thiết bị; quản lý SRON Groningen",
+          "url": "https://www.sron.nl/en/pillars/our-people/jan-geralt-bij-de-vaate"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sron.nl/en/pillars/our-people/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Chương trình Vật lý thiên văn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SRON",
+       "topics": "Plasma cụm thiên hà, sao neutron và lỗ đen (X-quang), môi trường liên sao, tiến hóa thiên hà, sóng hấp dẫn (LISA), phần mềm phổ SPEX.",
+       "url": "https://www.sron.nl/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Aurora Simionescu",
+          "role": "Nhà khoa học cấp cao — plasma trong cụm thiên hà",
+          "url": "https://www.sron.nl/en/pillars/our-people/aurora-simionescu"
+         },
+         {
+          "name": "Floris van der Tak",
+          "role": "Nhà khoa học cấp cao; GS ĐH Groningen",
+          "url": "https://www.sron.nl/en/pillars/our-people/floris-van-der-tak"
+         },
+         {
+          "name": "Jean in ‘t Zand",
+          "role": "Nhà vật lý thiên văn và khoa học thiết bị (năng lượng cao)",
+          "url": "https://www.sron.nl/en/pillars/our-people/jean-in-t-zand"
+         },
+         {
+          "name": "Lucien Kuiper",
+          "role": "Nhà khoa học cấp cao — X-quang/gamma",
+          "url": "https://www.sron.nl/en/pillars/our-people/lucien-kuiper"
+         },
+         {
+          "name": "Liyi Gu",
+          "role": "Nhà khoa học — năng lượng cao",
+          "url": "https://www.sron.nl/en/pillars/our-people/liyi-gu"
+         },
+         {
+          "name": "Lingyu Wang",
+          "role": "Nhà khoa học cấp cao — tiến hóa thiên hà; PGS liên kết ĐH Groningen",
+          "url": "https://www.sron.nl/en/pillars/our-people/lingyu-wang"
+         },
+         {
+          "name": "Valeriya Korol",
+          "role": "Nhà khoa học LISA",
+          "url": "https://www.sron.nl/en/pillars/our-people/valeriya-korol"
+         },
+         {
+          "name": "Jelle de Plaa",
+          "role": "Kỹ sư phần mềm nghiên cứu (SPEX)",
+          "url": "https://www.sron.nl/en/pillars/our-people/jelle-de-plaa"
+         },
+         {
+          "name": "Benjamin Ricketts",
+          "role": "NCS — nhóm vật lý thiên văn",
+          "url": "https://www.sron.nl/en/pillars/our-people/benjamin-ricketts-2"
+         },
+         {
+          "name": "Jan-Willem den Herder",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Billy Edwards",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Russell Shipman",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sron.nl/en/pillars/our-people/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Chương trình Ngoại hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SRON",
+       "topics": "Khí quyển ngoại hành tinh, quang học cho chụp ảnh trực tiếp, sứ mệnh Ariel và LIFE.",
+       "url": "https://www.sron.nl/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Michiel Min",
+          "role": "Nhà khoa học cấp cao — khí quyển ngoại hành tinh",
+          "url": "https://www.sron.nl/en/pillars/our-people/michiel-min"
+         },
+         {
+          "name": "David Doelman-Oldenburger",
+          "role": "Nhà khoa học — quang học tinh thể lỏng cho ngoại hành tinh",
+          "url": "https://www.sron.nl/en/pillars/our-people/david-doelman"
+         },
+         {
+          "name": "Tim A. van Kempen",
+          "role": "Nhà khoa học thiết bị; quản lý dự án sứ mệnh ngoại hành tinh",
+          "url": "https://www.sron.nl/en/pillars/our-people/tim-van-kempen"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sron.nl/en/pillars/our-people/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Khoa học thiết bị (Instrument Science)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SRON",
+       "topics": "Detector siêu dẫn TES và KID, thiết bị X-quang X-IFU, thiết bị dưới mm/hồng ngoại xa.",
+       "url": "https://www.sron.nl/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jochem Baselmans",
+          "role": "Nhà khoa học thiết bị cấp cao; GS TU Delft — detector KID",
+          "url": "https://www.sron.nl/en/pillars/our-people/jochem-baselmans"
+         },
+         {
+          "name": "Kenichi Karatsu",
+          "role": "Nhà khoa học thiết bị — detector KID",
+          "url": "https://www.sron.nl/en/pillars/our-people/kenichi-karatsu"
+         },
+         {
+          "name": "Damian Audley",
+          "role": "Nhà khoa học thiết bị — detector siêu dẫn",
+          "url": "https://www.sron.nl/en/pillars/our-people/damian-audley"
+         },
+         {
+          "name": "Davide Vaccaro",
+          "role": "Nhà khoa học thiết bị — TES/X-IFU",
+          "url": "https://www.sron.nl/en/pillars/our-people/davide-vaccaro"
+         },
+         {
+          "name": "Luciano Gottardi",
+          "role": "Nhà khoa học thiết bị — detector nhiệt độ thấp",
+          "url": "https://www.sron.nl/en/pillars/our-people/luciano-gottardi"
+         },
+         {
+          "name": "Martin de Wit",
+          "role": "Nhà khoa học thiết bị — detector siêu dẫn",
+          "url": "https://www.sron.nl/en/pillars/our-people/martin-de-wit"
+         },
+         {
+          "name": "Roland den Hartog",
+          "role": "Nhà khoa học thiết bị cấp cao — X-IFU",
+          "url": "https://www.sron.nl/en/pillars/our-people/roland-den-hartog"
+         },
+         {
+          "name": "Tobias Vos",
+          "role": "Kỹ sư phần mềm — X-IFU",
+          "url": "https://www.sron.nl/en/pillars/our-people/tobias-vos"
+         },
+         {
+          "name": "Daan Roos",
+          "role": "NCS — nhóm khoa học công nghệ",
+          "url": "https://www.sron.nl/en/pillars/our-people/daan-roos"
+         },
+         {
+          "name": "Wilbert Ras-Vinke",
+          "role": "NCS — detector đơn photon cho ngoại hành tinh",
+          "url": "https://www.sron.nl/en/pillars/our-people/wilbert-ras-vinke"
+         },
+         {
+          "name": "Pourya Khosropanah",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Jian-Rong Gao",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Willem Jellema",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Pieter de Visser",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Stephen Yates",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Jan van der Kuur",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Henk Hoevers",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Kenichiro Nagayoshi",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         },
+         {
+          "name": "Emanuele Taralli",
+          "role": "Nhà khoa học",
+          "url": "https://www.sron.nl/en/pillars/our-people/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sron.nl/en/pillars/our-people/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "nijmegen",
+   "city": "Nijmegen",
+   "coordinates": [
+    5.86,
+    51.84
+   ],
+   "institutions": [
+    {
+     "name": "Radboud Universiteit — Department of Astrophysics (IMAPP)",
+     "type": "university",
+     "research": "Lỗ đen và Kính Thiên văn Chân trời Sự kiện (EHT), vật lý hạt thiên văn (tia vũ trụ vô tuyến, LOFAR, Pierre Auger), sự kiện thoáng qua và chớp gamma, sóng hấp dẫn (LISA, sao đôi trắng), sao đôi và tiến hóa sao, từ trường vũ trụ, kính BlackGEM/MeerLICHT, thiên văn vô tuyến từ Mặt Trăng.",
+     "url": "https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics",
+     "coverage": "partial",
+     "structure": "Khoa Vật lý thiên văn thuộc Viện Toán, Vật lý thiên văn và Vật lý hạt (IMAPP), Khoa Khoa học; thành viên NOVA.",
+     "structureUrl": "https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics",
+     "scopeNote": "Theo danh bạ nhân viên của trường cho đơn vị Astrophysics (50 người, 11/2026), bỏ trợ lý hành chính và điều phối truyền thông. Danh bạ này thiếu nhiều postdoc và nghiên cứu sinh được trả lương qua dự án nên danh sách chưa đầy đủ.",
+     "units": [
+      {
+       "name": "Giảng viên",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Department of Astrophysics, Radboud",
+       "topics": "Lỗ đen siêu nặng (EHT), tia vũ trụ, sự kiện thoáng qua, sóng hấp dẫn, sao đôi, từ trường thiên hà, địa chấn học sao.",
+       "url": "https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research",
+       "researchers": {
+        "people": [
+         {
+          "name": "Conny Aerts",
+          "role": "Giáo sư (ghế được tài trợ) — địa chấn học sao",
+          "url": "https://www.ru.nl/en/people/aerts-c"
+         },
+         {
+          "name": "Heino Falcke",
+          "role": "Giáo sư — vật lý hạt thiên văn và thiên văn vô tuyến",
+          "url": "https://www.ru.nl/en/people/falcke-h"
+         },
+         {
+          "name": "Paul Groot",
+          "role": "Giáo sư — thiên văn học",
+          "url": "https://www.ru.nl/en/people/groot-p"
+         },
+         {
+          "name": "Marijke Haverkorn van Rijsewijk",
+          "role": "Giáo sư — từ trường vũ trụ",
+          "url": "https://www.ru.nl/en/people/haverkorn-van-rijsewijk-m"
+         },
+         {
+          "name": "Jörg Hörandel",
+          "role": "Giáo sư — vật lý hạt thiên văn quan sát",
+          "url": "https://www.ru.nl/en/people/horandel-j"
+         },
+         {
+          "name": "Gemma Janssen",
+          "role": "Trợ lý giáo sư liên kết",
+          "url": "https://www.ru.nl/en/people/janssen-g-h-gemma"
+         },
+         {
+          "name": "Michael Janssen",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.ru.nl/en/people/janssen-m-michael"
+         },
+         {
+          "name": "Peter Jonker",
+          "role": "Giáo sư — vật lý thiên văn năng lượng cao quan sát",
+          "url": "https://www.ru.nl/en/people/jonker-p"
+         },
+         {
+          "name": "Marc Klein Wolt",
+          "role": "Trợ lý giáo sư; giám đốc Radboud Radio Lab",
+          "url": "https://www.ru.nl/en/people/klein-wolt-m"
+         },
+         {
+          "name": "Elmar Körding",
+          "role": "Phó giáo sư",
+          "url": "https://www.ru.nl/en/people/kording-e"
+         },
+         {
+          "name": "Søren Larsen",
+          "role": "Phó giáo sư",
+          "url": "https://www.ru.nl/en/people/larsen-s"
+         },
+         {
+          "name": "Andrew Levan",
+          "role": "Giáo sư — sự kiện thoáng qua",
+          "url": "https://www.ru.nl/en/people/levan-a"
+         },
+         {
+          "name": "Monika Mościbrodzka",
+          "role": "Phó giáo sư",
+          "url": "https://www.ru.nl/en/people/moscibrodzka-m"
+         },
+         {
+          "name": "Katharine Mulrey",
+          "role": "Phó giáo sư",
+          "url": "https://www.ru.nl/en/people/mulrey-k"
+         },
+         {
+          "name": "Gijs Nelemans",
+          "role": "Giáo sư — vật lý thiên văn sóng hấp dẫn",
+          "url": "https://www.ru.nl/en/people/nelemans-g"
+         },
+         {
+          "name": "Onno Pols",
+          "role": "Phó giáo sư",
+          "url": "https://www.ru.nl/en/people/pols-o"
+         },
+         {
+          "name": "Lieke van Son",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.ru.nl/en/people/son-a-van"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ru.nl/en/search/scope/staff/staff-department/870"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nhà nghiên cứu, postdoc và nghiên cứu sinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Department of Astrophysics, Radboud",
+       "topics": "—",
+       "url": "https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research",
+       "researchers": {
+        "people": [
+         {
+          "name": "Utkarsh Basu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/basu-u"
+         },
+         {
+          "name": "Bram van den Berg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/berg-b-van-den-bram"
+         },
+         {
+          "name": "Zheng Cao",
+          "role": "NCS (cùng SRON)",
+          "url": "https://www.ru.nl/en/people/cao-z"
+         },
+         {
+          "name": "Joyce van Dalen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/dalen-j-van"
+         },
+         {
+          "name": "Raquel Fraga Encinas",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/fraga-encinas-r"
+         },
+         {
+          "name": "Krishna Gopinath",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/gopinath-k"
+         },
+         {
+          "name": "Agnes van Hoof",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/hoof-a-van"
+         },
+         {
+          "name": "Leon Houben",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/houben-l"
+         },
+         {
+          "name": "Joris Kersten",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/kersten-j"
+         },
+         {
+          "name": "Joost de Kleuver",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/kleuver-j-de"
+         },
+         {
+          "name": "Noemi La Bella",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/la-bella-n"
+         },
+         {
+          "name": "Mariya Nizovkina",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/nizovkina-m"
+         },
+         {
+          "name": "Katerina Pesini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/pesini-k"
+         },
+         {
+          "name": "Maaike Pierik",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ru.nl/en/people/pierik-a"
+         },
+         {
+          "name": "Daniëlle Pieterse",
+          "role": "Nhân viên nghiên cứu",
+          "url": "https://www.ru.nl/en/people/pieterse-d"
+         },
+         {
+          "name": "Jonathan Quirola Vasquez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ru.nl/en/people/quirola-vasquez-j"
+         },
+         {
+          "name": "Freek Roelofs",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ru.nl/en/people/roelofs-f-j"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ru.nl/en/search/scope/staff/staff-department/870"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Nhân sự kỹ thuật-khoa học (Radboud Radio Lab, BlackGEM)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Department of Astrophysics, Radboud",
+       "topics": "Thiết bị vô tuyến, kính BlackGEM/MeerLICHT, phần mềm.",
+       "url": "https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research",
+       "researchers": {
+        "people": [
+         {
+          "name": "Annelies Ampe",
+          "role": "Kỹ sư hệ thống AMT",
+          "url": "https://www.ru.nl/en/people/ampe-a"
+         },
+         {
+          "name": "Harry Balster",
+          "role": "Kỹ thuật viên",
+          "url": "https://www.ru.nl/en/people/balster-h"
+         },
+         {
+          "name": "Steven Bloemen",
+          "role": "Quản lý dự án (BlackGEM/MeerLICHT)",
+          "url": "https://www.ru.nl/en/people/bloemen-s"
+         },
+         {
+          "name": "Christiaan Brinkerink",
+          "role": "Kỹ sư khoa học (Radboud Radio Lab)",
+          "url": "https://www.ru.nl/en/people/brinkerink-c"
+         },
+         {
+          "name": "Roel Jordans",
+          "role": "Nhân viên nghiên cứu (Radboud Radio Lab)",
+          "url": "https://www.ru.nl/en/people/jordans-r"
+         },
+         {
+          "name": "Daan van Rossum",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.ru.nl/en/people/rossum-d-van"
+         },
+         {
+          "name": "Sjoerd Timmer",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.ru.nl/en/people/timmer-s"
+         },
+         {
+          "name": "Antonio Vecchio",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.ru.nl/en/people/vecchio-a"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ru.nl/en/search/scope/staff/staff-department/870"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Giáo sư danh dự",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Department of Astrophysics, Radboud",
+       "topics": "—",
+       "url": "https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research",
+       "researchers": {
+        "people": [
+         {
+          "name": "Bram Achterberg",
+          "role": "GS danh dự",
+          "url": "https://www.ru.nl/en/people/achterberg-a"
+         },
+         {
+          "name": "Jan Kuijpers",
+          "role": "GS danh dự — vật lý thiên văn lý thuyết",
+          "url": "https://www.ru.nl/en/people/kuijpers-j"
+         },
+         {
+          "name": "Frank Verbunt",
+          "role": "GS danh dự — vật lý thiên văn năng lượng cao",
+          "url": "https://www.ru.nl/en/people/verbunt-f"
+         },
+         {
+          "name": "Rens Waters",
+          "role": "GS danh dự",
+          "url": "https://www.ru.nl/en/people/waters-l"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ru.nl/en/search/scope/staff/staff-department/870"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "utrecht",
+   "city": "Utrecht",
+   "coordinates": [
+    5.12,
+    52.09
+   ],
+   "institutions": [
+    {
+     "name": "Universiteit Utrecht — Institute for Gravitational and Subatomic Physics (GRASP)",
+     "type": "university",
+     "research": "Sóng hấp dẫn (phân tích dữ liệu Virgo/LIGO, Einstein Telescope, LISA; sao neutron và lỗ đen đôi như phép thử vật lý cơ bản) bên cạnh vật lý ion nặng (ALICE). Utrecht không còn khoa thiên văn riêng.",
+     "url": "https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics",
+     "coverage": "limited",
+     "structure": "Viện thuộc Khoa Vật lý, ĐH Utrecht; đối tác của Nikhef; giám đốc học thuật Chris Van Den Broeck.",
+     "structureUrl": "https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics/about-us/our-people",
+     "scopeNote": "Trang Our people (11/2026) gộp chung nhóm sóng hấp dẫn và nhóm ALICE mà không ghi nhóm cho từng nghiên cứu viên trẻ; chỉ ghi giảng viên thuộc nhóm sóng hấp dẫn.",
+     "units": [
+      {
+       "name": "Gravitational Waves",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "GRASP, ĐH Utrecht",
+       "topics": "Tìm và phân tích tín hiệu sóng hấp dẫn từ sao neutron và lỗ đen đôi, phép thử thuyết tương đối rộng, Einstein Telescope và LISA.",
+       "url": "https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics/research",
+       "researchers": {
+        "people": [
+         {
+          "name": "Chris van den Broeck",
+          "role": "Giáo sư; giám đốc học thuật GRASP",
+          "url": "https://www.uu.nl/staff/CFFvandenBroeck1"
+         },
+         {
+          "name": "Anuradha Samajdar",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.uu.nl/staff/ASamajdar"
+         },
+         {
+          "name": "Marc van der Sluijs",
+          "role": "Trợ lý giáo sư; tiến hóa sao (cùng Nikhef)",
+          "url": "https://www.uu.nl/staff/MVvanderSluijs"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics/about-us/our-people"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "NLD",
+ "checked": "2026-11-22",
+ "pin": 5,
+ "coordinateNote": "Toạ độ thành phố là trung tâm đô thị; ASTRON và JIVE đặt ở Dwingeloo.",
+ "listSource": "https://www.nova-astronomy.nl/"
+}

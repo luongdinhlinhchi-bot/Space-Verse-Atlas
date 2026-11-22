@@ -1,0 +1,5 @@
+@country NLD
+checked: 2026-11-22
+pin: 5
+coordinateNote: Toạ độ thành phố là trung tâm đô thị; ASTRON và JIVE đặt ở Dwingeloo.
+listSource: https://www.nova-astronomy.nl/

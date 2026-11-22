@@ -1,0 +1,112 @@
+@city amsterdam | Amsterdam | 4.90, 52.37
+
+@inst Universiteit van Amsterdam — Anton Pannekoek Institute for Astronomy (API)
+city: amsterdam
+type: university
+url: https://api.uva.nl/
+research: Hai chủ đề: Vật lý thiên văn năng lượng cao (bồi tụ và phụt, vật chất đặc trong sao neutron, sự kiện thoáng qua như chớp vô tuyến nhanh, sao nổ, hạt năng lượng cao) và Nguồn gốc (ngoại hành tinh và hình thành hành tinh, sao khối lượng lớn và quần thể sao).
+coverage: full
+structure: Viện thuộc Khoa Khoa học, UvA; hai chủ đề nghiên cứu High Energy Astrophysics và Origins. Là thành viên NOVA và GRAPPA.
+structureUrl: https://api.uva.nl/contact/people
+scope: Đủ danh sách theo các trang People (Scientific staff, Research Associates, PhD Candidates, Other Academic Staff, Emeriti; 11/2026); mỗi người có hồ sơ UvA. Giảng viên chia theo hai chủ đề dựa trên mô tả nhóm; bỏ nhân viên hỗ trợ và học viên thạc sĩ.
+
+#unit High Energy Astrophysics
+parent: Anton Pannekoek Institute
+topics: Bồi tụ và dòng phụt quanh lỗ đen và sao neutron, vật chất đặc, chớp vô tuyến nhanh và pulsar (LOFAR, CHIME), sự kiện thoáng qua, tàn dư siêu tân tinh, mô phỏng MHD tương đối tính, X-quang (XRISM, Athena).
+url: https://api.uva.nl/research/research-themes/hea
+src: https://api.uva.nl/contact/people/scientific-staff
+p: Nathalie Degenaar | Giáo sư | https://www.uva.nl/en/profile/n.d.degenaar
+p: Jason Hessels | Giáo sư | https://www.uva.nl/en/profile/j.w.t.hessels
+p: Daniela Huppenkothen | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/d.huppenkothen
+p: Sera Markoff | Giáo sư | https://www.uva.nl/en/profile/s.b.markoff
+p: Philipp Moesta | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/p.moesta
+p: Ziggy Pleunis | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/z.pleunis
+p: Oliver Porth | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/o.j.g.porth
+p: Antonia Rowlinson | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/b.a.rowlinson
+p: Phil Uttley | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/p.uttley
+p: Jacco Vink | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/j.vink
+p: Anna Watts | Giáo sư | https://www.uva.nl/en/profile/a.l.watts
+p: Rudy Wijnands | Giáo sư | https://www.uva.nl/en/profile/r.a.d.wijnands
+
+#unit Origins
+parent: Anton Pannekoek Institute
+topics: Ngoại hành tinh và khí quyển, đĩa tiền hành tinh và hình thành hành tinh, hoá học thiên văn (PAH), sao khối lượng lớn, sao đôi và quần thể sao, phát xạ vô tuyến từ sao.
+url: https://api.uva.nl/research/research-themes/ori
+src: https://api.uva.nl/contact/people/scientific-staff
+p: Julia Bodensteiner | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/j.bodensteiner
+p: Joe Callingham | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/j.r.callingham
+p: Alessandra Candian | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/a.candian2
+p: Carsten Dominik | Giáo sư | https://www.uva.nl/en/profile/c.dominik
+p: Lex Kaper | Giáo sư | https://www.uva.nl/en/profile/l.kaper
+p: Alex de Koter | Giáo sư | https://www.uva.nl/en/profile/a.dekoter
+p: Antonija Oklopčić | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/a.oklopcic
+p: Silvia Toonen | Giảng viên (tenure/tenure track) | https://www.uva.nl/en/profile/s.g.m.toonen
+
+#unit Nghiên cứu viên (Research Associates)
+parent: Anton Pannekoek Institute
+topics: —
+url: https://api.uva.nl/contact/people/research-associates
+src: https://api.uva.nl/contact/people/research-associates
+p: Robin Baeyens | PD | https://www.uva.nl/en/profile/r.l.l.baeyens
+p: Tjarda Boekholt | PD | https://www.uva.nl/en/profile/t.c.n.boekholt
+p: Clara Dehman | PD | https://www.uva.nl/en/profile/c.dehman
+p: Jakob van den Eijnden | PD | https://www.uva.nl/en/profile/a.j.vandeneijnden
+p: Elle Hanson | PD | https://www.uva.nl/en/profile/l.e.hanson
+p: Marc Klinger-Plaisier | PD | https://www.uva.nl/en/profile/m.klinger
+p: Aylecia Lattimer | PD | https://www.uva.nl/en/profile/a.lattimer
+p: Matteo Lucchini | PD | https://www.uva.nl/en/profile/m.lucchini
+p: Laura Olivera Nieto | PD | https://www.uva.nl/en/profile/l.oliveranieto
+p: Eli Pattie | PD | https://www.uva.nl/en/profile/e.c.pattie
+p: Julia Speicher | PD | https://www.uva.nl/en/profile/j.i.speicher
+p: Vadym Voitsekhovskyi | PD | https://www.uva.nl/en/profile/v.voitsekhovskyi
+p: Michael Wondrak | PD | https://www.uva.nl/en/profile/m.f.wondrak
+
+#unit Nhân sự học thuật khác (kiêm nhiệm, bán thời gian)
+parent: Anton Pannekoek Institute
+topics: —
+url: https://api.uva.nl/contact/people/other-academic-staff-lijst
+src: https://api.uva.nl/contact/people/other-academic-staff-lijst
+p: Elisa Costantini | Nhà nghiên cứu | https://www.uva.nl/en/profile/e.costantini
+p: Michiel Hogerheijde | Giáo sư (kiêm nhiệm) | https://www.uva.nl/en/profile/m.r.hogerheijde
+p: Inge Loes ten Kate | Giáo sư (kiêm nhiệm) | https://www.uva.nl/en/profile/i.l.tenkate
+p: Andrew King | Giáo sư (kiêm nhiệm) | https://www.uva.nl/en/profile/a.r.king
+p: Vanna Pugliese | Nhà nghiên cứu | https://www.uva.nl/en/profile/g.pugliese
+p: Rasjied Sloot | Nhà nghiên cứu | https://www.uva.nl/en/profile/m.r.sloot
+p: Michael Wise | Giáo sư (kiêm nhiệm) | https://www.uva.nl/en/profile/m.wise
+
+#unit Nghiên cứu sinh
+parent: Anton Pannekoek Institute
+topics: —
+url: https://api.uva.nl/contact/people/phd-list
+src: https://api.uva.nl/contact/people/phd-list
+p: Manan Agarwal | NCS | https://www.uva.nl/en/profile/m.agarwal
+p: Sara Azizi | NCS | https://www.uva.nl/en/profile/s.azizi
+p: Eleonora Caruso | NCS | https://www.uva.nl/en/profile/e.caruso
+p: Ruby Duncan | NCS | https://www.uva.nl/en/profile/r.a.duncan
+p: Mariska Hoogkamer | NCS | https://www.uva.nl/en/profile/m.m.hoogkamer
+p: Elise Koo | NCS | https://www.uva.nl/en/profile/e.j.m.koo
+p: Dirk Kuiper | NCS | https://www.uva.nl/en/profile/d.kuiper
+p: Alexandra Moroianu | NCS | https://www.uva.nl/en/profile/a.m.moroianu
+p: Omar Ould Boukattine | NCS | https://www.uva.nl/en/profile/o.s.ouldboukattine
+p: Valerio Pandolfi | NCS | https://www.uva.nl/en/profile/v.pandolfi
+p: Adam Parkosidis | NCS | https://www.uva.nl/en/profile/a.parkosidis
+p: Subhrat Praharaj | NCS | https://www.uva.nl/en/profile/s.praharaj
+p: Sylvain Ranguin | NCS | https://www.uva.nl/en/profile/s.l.ranguin
+p: Lars Reems | NCS | https://www.uva.nl/en/profile/l.s.a.reems
+p: Rittick Roy | NCS | https://www.uva.nl/en/profile/r.roy
+p: Anja Schmit | NCS | https://www.uva.nl/en/profile/a.schmit
+p: Hinna Shivkumar | NCS | https://www.uva.nl/en/profile/h.shivkumar
+p: Katelyn Smith | NCS | https://www.uva.nl/en/profile/k.g.smith
+p: Philipp Stöcker | NCS | https://www.uva.nl/en/profile/p.o.stoecker
+p: Sebastián Vilaza Dallago | NCS | https://www.uva.nl/en/profile/s.j.vilazadallago
+
+#unit Giáo sư danh dự
+parent: Anton Pannekoek Institute
+topics: —
+url: https://api.uva.nl/contact/people/emeriti-lijst
+src: https://api.uva.nl/contact/people/emeriti-lijst
+p: Hubertus Henrichs | GS danh dự | https://www.uva.nl/en/profile/h.f.henrichs
+p: Edward van den Heuvel | GS danh dự | https://www.uva.nl/en/profile/e.p.j.vandenheuvel
+p: Teije de Jong | GS danh dự | https://www.uva.nl/en/profile/t.dejong
+p: Henny Lamers | GS danh dự | https://www.uva.nl/en/profile/h.j.g.l.m.lamers
+p: Evert Meurs | GS danh dự | https://www.uva.nl/en/profile/e.j.a.meurs

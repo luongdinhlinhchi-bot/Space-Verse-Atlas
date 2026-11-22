@@ -1,0 +1,141 @@
+@city groningen | Groningen | 6.57, 53.22
+
+@inst Rijksuniversiteit Groningen — Kapteyn Astronomical Institute
+city: groningen
+type: university
+url: https://www.rug.nl/research/kapteyn/
+research: Thiên hà và khảo cổ thiên hà (Gaia, Ngân Hà), vũ trụ học và kỷ nguyên tái ion hoá (LOFAR-EoR), thấu kính hấp dẫn mạnh, khí trong thiên hà (vô tuyến HI), hình thành hành tinh và đĩa tiền hành tinh, vật lý thiên văn năng lượng cao, thiết bị hồng ngoại xa và dưới milimét (cùng SRON và ASTRON).
+coverage: full
+structure: Viện thuộc Khoa Khoa học & Kỹ thuật, ĐH Groningen; giám đốc Inga Kamp. Là thành viên trường nghiên cứu NOVA; nhiều nhà khoa học kiêm nhiệm tại ASTRON và SRON.
+structureUrl: https://www.rug.nl/research/kapteyn/institute/management/management-team
+scope: Đủ danh sách theo các trang Information about staff (Academic Staff, Emeriti, Scientific Support, Computer Group, Postdocs, PhD Students; 11/2026). Link là trang hồ sơ của ĐH Groningen; người chưa có hồ sơ ghi theo nguồn. Bỏ nhân viên hành chính.
+
+#unit Giảng viên (Academic Staff)
+parent: Kapteyn Astronomical Institute
+topics: Khảo cổ thiên hà, thiên hà lùn, động lực học khí, vũ trụ học 21-cm, thấu kính mạnh, đĩa tiền hành tinh và khí quyển ngoại hành tinh, sao neutron và lỗ đen (X-quang), thiết bị dưới mm.
+url: https://www.rug.nl/research/kapteyn/
+src: https://www.rug.nl/research/kapteyn/institute/people/vastwp?lang=en
+p: Andrey Baryshev | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/a.barychev/
+p: Karina Caputi | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/k.i.caputi/
+p: Quentin Changeat | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/q.changeat/
+p: Sunny Cheng | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/t.cheng/
+p: Filippo Fraternali | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/f.fraternali/
+p: Amina Helmi | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/a.helmi/
+p: Inga Kamp | Giáo sư; giám đốc viện | https://www.rug.nl/staff/i.e.e.kamp/
+p: Léon Koopmans | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/l.v.e.koopmans/
+p: Tim Lichtenberg | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/tim.lichtenberg/
+p: John McKean | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/j.p.mckean/
+p: Mariano Méndez | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/r.m.mendez/
+p: Reynier Peletier | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/r.f.peletier/
+p: Francesca Rizzo | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/f.rizzo/
+p: Else Starkenburg | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/e.starkenburg/
+p: Eline Tolstoy | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/e.tolstoy/
+p: Scott Trager | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/s.c.trager/
+p: Manuela Vecchi | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/m.vecchi/
+p: Marc Verheijen | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/m.a.w.verheijen/
+p: Rien van de Weijgaert | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/m.a.m.van.de.weygaert/
+p: Saleem Zaroubi | Giảng viên (GS/PGS/tenure track) | https://www.rug.nl/staff/s.zaroubi/
+
+#unit Giáo sư danh dự
+parent: Kapteyn Astronomical Institute
+topics: —
+url: https://www.rug.nl/research/kapteyn/
+src: https://www.rug.nl/research/kapteyn/institute/people/emeritus?lang=en
+p: Tjeerd van Albada | GS danh dự | https://www.rug.nl/staff/t.s.van.albada/
+p: Peter Barthel | GS danh dự | https://www.rug.nl/staff/p.d.barthel/
+p: Wim Brouw | GS danh dự | https://www.rug.nl/staff/w.n.brouw/
+p: Bernard Jones | GS danh dự | https://www.rug.nl/staff/b.j.t.jones/
+p: Jan Willem Pel | GS danh dự | https://www.rug.nl/staff/j.w.pel/
+p: Renzo Sancisi | GS danh dự | https://www.rug.nl/staff/r.sancisi/
+p: Bob Sanders | GS danh dự | https://www.rug.nl/staff/r.h.sanders/
+p: Olaf Scholten | GS danh dự | https://www.rug.nl/staff/o.scholten/
+p: Edwin Valentijn | GS danh dự | https://www.rug.nl/staff/e.a.valentijn/
+pp: GS danh dự | Thijs van der Hulst; Piet van der Kruit
+
+#unit Nhân sự hỗ trợ khoa học và nhóm máy tính
+parent: Kapteyn Astronomical Institute
+topics: Kỹ thuật thiết bị, phòng thí nghiệm, dữ liệu (OmegaCEN, Euclid, LOFAR) và hạ tầng tính toán.
+url: https://www.rug.nl/research/kapteyn/
+src: https://www.rug.nl/research/kapteyn/institute/people/wetobp?lang=en
+p: Jan Barkhof | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/j.barkhof/
+p: Marielle Bekema | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/m.e.bekema/
+p: Danny Boxhoorn | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/d.r.boxhoorn/
+p: Ronald Hesper | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/r.hesper/
+p: Albert Koops | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/a.koops/
+p: Michiel Kregel | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/m.kregel/
+p: Gijs Verdoes Kleijn | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/g.a.verdoes.kleijn/
+p: Willem Jan Vriend | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/w.vriend/
+p: Jelte de Jong | Nhân sự khoa học-kỹ thuật | https://www.rug.nl/staff/j.t.a.de.jong/
+pp: Nhân sự khoa học-kỹ thuật | Tom Criens; Dirk van der Geest; Martin Vogelaar
+
+#unit Nghiên cứu sau tiến sĩ
+parent: Kapteyn Astronomical Institute
+topics: —
+url: https://www.rug.nl/research/kapteyn/
+src: https://www.rug.nl/research/kapteyn/institute/people/postdoc?lang=en
+p: Hugo Buddelmeijer | PD | https://www.rug.nl/staff/h.buddelmeijer/
+p: Edoardo Ceccarelli | PD | https://www.rug.nl/staff/e.ceccarelli/
+p: Atrideb Chatterjee | PD | https://www.rug.nl/staff/a.chatterjee/
+p: Kariuki Chege | PD | https://www.rug.nl/staff/j.k.chege/
+p: Pablo Corcho Caballero | PD | https://www.rug.nl/staff/p.corcho.caballero/
+p: Guillaume Desprez | PD | https://www.rug.nl/staff/g.p.a.desprez/
+p: Luca Di Mascolo | PD | https://www.rug.nl/staff/l.di.mascolo/
+p: Connor Duffy | PD | https://www.rug.nl/staff/c.a.duffy/
+p: Jennifer Friske | PD | https://www.rug.nl/staff/j.k.s.friske/
+p: Qiuhan He | PD | https://www.rug.nl/staff/qiuhan.he/
+p: Gaoxiang Jin | PD | https://www.rug.nl/staff/g.jin/
+p: Vishambhar Pandey | PD | https://www.rug.nl/staff/v.n.pandey/
+p: Adam Watson | PD | https://www.rug.nl/staff/a.j.watson/
+pp: PD | Gustavo Medina Toledo; Nick Storm; Marissa Vlasblom
+
+#unit Nghiên cứu sinh
+parent: Kapteyn Astronomical Institute
+topics: —
+url: https://www.rug.nl/research/kapteyn/
+src: https://www.rug.nl/research/kapteyn/institute/people/promovendus?lang=en
+p: Bram Alferink | NCS | https://www.rug.nl/staff/b.d.alferink/
+p: Manuel Bayer | NCS | https://www.rug.nl/staff/m.bayer/
+p: Candela Bellavita | NCS | https://www.rug.nl/staff/c.a.bellavita/
+p: Ernesto Benitez Walz | NCS | https://www.rug.nl/staff/e.benitez.walz/
+p: Jelke Bethlehem | NCS | https://www.rug.nl/staff/j.bethlehem/
+p: Daniel Boyea | NCS | https://www.rug.nl/staff/d.a.boyea/
+p: Jelena Bošković Pantović | NCS | https://www.rug.nl/staff/j.boskovic/
+p: Saphira Brandenberger | NCS | https://www.rug.nl/staff/s.n.brandenberger/
+p: Marco Canossa Gosteinski | NCS | https://www.rug.nl/staff/m.a.canossa.gosteinski/
+p: Mi Chen | NCS | https://www.rug.nl/staff/mi.chen/
+p: Ryan Cooper | NCS | https://www.rug.nl/staff/r.a.cooper/
+p: Anna Esselink | NCS | https://www.rug.nl/staff/a.f.esselink/
+p: Giacomo Gallina | NCS | https://www.rug.nl/staff/g.gallina/
+p: Esan Mouli Ghosh | NCS | https://www.rug.nl/staff/e.m.ghosh/
+p: Sonia Ghosh | NCS | https://www.rug.nl/staff/sonia.ghosh/
+p: Nadine Hank | NCS | https://www.rug.nl/staff/n.a.n.hank/
+p: Linn He | NCS | https://www.rug.nl/staff/linn.he/
+p: Celestin Herbe-George | NCS | https://www.rug.nl/staff/c.herbe-george/
+p: Eduárd Illés | NCS | https://www.rug.nl/staff/e.illes/
+p: Sri Aravind Jaganathan | NCS | https://www.rug.nl/staff/S.A.%20Jaganathan/
+p: Pei Jin | NCS | https://www.rug.nl/staff/p.jin/
+p: Soumil Kelkar | NCS | https://www.rug.nl/staff/s.m.kelkar/
+p: Imre Kisvárdai | NCS | https://www.rug.nl/staff/i.g.kisvardai/
+p: David Konijn | NCS | https://www.rug.nl/staff/d.c.konijn/
+p: Dennis Koopmans | NCS | https://www.rug.nl/staff/d.m.koopmans/
+p: Yusen Li | NCS | https://www.rug.nl/staff/yusen.li/
+p: Marten Lourens | NCS | https://www.rug.nl/staff/m.a.a.lourens/
+p: Drishika Nadella | NCS | https://www.rug.nl/staff/d.nadella/
+p: Rafael Navarro | NCS | https://www.rug.nl/staff/r.navarro.carrera/
+p: Sowmya Parthasarathy | NCS | https://www.rug.nl/staff/s.parthasarathy/
+p: Emma Postolec | NCS | https://www.rug.nl/staff/e.n.postolec/
+p: Archana Purushothaman | NCS | https://www.rug.nl/staff/a.purushothaman/
+p: Margherita Revellino | NCS | https://www.rug.nl/staff/m.m.revellino/
+p: Samuel Rusterucci | NCS | https://www.rug.nl/staff/s.rusterucci/
+p: Martin Schmidt Montelius | NCS | https://www.rug.nl/staff/m.b.schmidt.montelius/
+p: Robbert Scholtens | NCS | https://www.rug.nl/staff/r.w.scholtens/
+p: Sten Sipma | NCS | https://www.rug.nl/staff/s.k.sipma/
+p: Abigail Tumborang | NCS | https://www.rug.nl/staff/a.a.tumborang/
+p: Paulína Tureková | NCS | https://www.rug.nl/staff/p.turekova/
+p: Juniper Tutterow | NCS | https://www.rug.nl/staff/j.t.tutterow/
+p: Francisco Urbina Jiménez | NCS | https://www.rug.nl/staff/f.j.urbina.jimenez/
+p: Mariana Villamil Sastre | NCS | https://www.rug.nl/staff/m.c.villamil.sastre/
+p: Nynke Visser | NCS | https://www.rug.nl/staff/nynke.visser/
+p: Hanneke Woudenberg | NCS | https://www.rug.nl/staff/h.c.woudenberg/
+p: Pengcheng Yang | NCS | https://www.rug.nl/staff/p.yang/
+pp: NCS | Sanne Bloot; Cristina Cordun; Emeline Decocq; Haoran Dou; Shichao Han; Minh Ngoc Le; Freja Nørby; Lucile Rosoli; Taejas Venkataraman; Kaihao Wang; Yifan Wang; Qirui Yang; Peiwen Zai; Chi Zheng

@@ -1,0 +1,72 @@
+@city dwingeloo | Dwingeloo | 6.40, 52.81
+
+@inst ASTRON — Netherlands Institute for Radio Astronomy
+city: dwingeloo
+type: institute
+url: https://www.astron.nl/
+research: Viện quốc gia về thiên văn vô tuyến (NWO-I): vận hành LOFAR và WSRT-Apertif, tham gia SKA. Nghiên cứu chớp vô tuyến nhanh và pulsar, kỷ nguyên tái ion hoá, khảo sát tần số thấp, khí HI và thiên hà lân cận, AGN, sự kiện thoáng qua, sao phát vô tuyến và ngoại hành tinh, thời tiết không gian.
+coverage: full
+structure: Bốn bộ phận: Astronomy & Operations (A&O), Research & Development, Innovation & Systems và Business Support; giám đốc Jessica Dempsey (Geoffrey Bower từ 1/9/2026).
+structureUrl: https://www.astron.nl/about/organisation/management/
+scope: Bộ phận Astronomy & Operations đủ danh sách theo trang People của ASTRON Science (11/2026), mỗi người có trang riêng. Kỹ sư R&D không đưa vào vì không có danh sách công khai.
+
+#unit Astronomy & Operations (A&O) — nhà khoa học
+parent: ASTRON
+topics: Chớp vô tuyến nhanh, pulsar, tái ion hoá (LOFAR-EoR), khảo sát LoTSS, HI và thiên hà lân cận, AGN, sự kiện thoáng qua, sao vô tuyến, thời tiết không gian, hiệu chuẩn và thiết bị vô tuyến.
+url: https://www.astron.nl/about/organisation/astronomy-operations/
+src: https://science.astron.nl/people/
+p: Betsey Adams | Nhà khoa học biên chế | https://science.astron.nl/people/dr-e-a-k-betsey-adams/
+p: Aida Ahmadi | Nhà khoa học biên chế | https://science.astron.nl/people/dr-aida-ahmadi/
+p: Pikky Atri | Nhà khoa học biên chế | https://science.astron.nl/people/dr-p-pikky-atri/
+p: Cees Bassa | Nhà khoa học biên chế | https://science.astron.nl/people/dr-c-g-cees-bassa/
+p: Erwin de Blok | Nhà khoa học biên chế | https://science.astron.nl/people/prof-dr-w-j-g-erwin-de-blok/
+p: Michiel Brentjens | Nhà khoa học biên chế | https://science.astron.nl/people/dr-m-a-michiel-brentjens/
+p: Joe Callingham | Nhà khoa học biên chế | https://science.astron.nl/people/dr-j-r-joe-callingham/
+p: Brian Hare | Nhà khoa học biên chế | https://science.astron.nl/people/dr-b-brian-hare/
+p: Jason Hessels | Nhà khoa học biên chế | https://science.astron.nl/people/prof-dr-j-w-t-jason-hessels/
+p: Marco Iacobelli | Nhà khoa học biên chế | https://science.astron.nl/people/dr-m-marco-iacobelli/
+p: Violette Impellizzeri | Trưởng bộ phận Astronomy & Operations | https://science.astron.nl/people/dr-v-violette-impellizzeri-head-of-astronomy-operations/
+p: Gemma Janssen | Nhà khoa học biên chế | https://science.astron.nl/people/dr-g-h-gemma-janssen/
+p: Vlad Kondratiev | Nhà khoa học biên chế | https://science.astron.nl/people/dr-v-vlad-kondratiev/
+p: Alexander Kutkin | Nhà khoa học biên chế | https://science.astron.nl/people/dr-a-alexander-kutkin/
+p: Joeri van Leeuwen | Nhà khoa học biên chế | https://science.astron.nl/people/dr-a-g-j-joeri-van-leeuwen/
+p: Maaijke Mevius | Nhà khoa học biên chế | https://science.astron.nl/people/dr-m-maaijke-mevius/
+p: Andre Offringa | Nhà khoa học biên chế | https://science.astron.nl/people/ddr-a-r-andre-offringa/
+p: Emanuela Orrù | Nhà khoa học biên chế | https://science.astron.nl/people/emanuela-orru/
+p: Aditya Parthasarathy | Nhà khoa học biên chế | https://science.astron.nl/people/aditya-parthasarathy/
+p: Roberto Pizzo | Nhà khoa học biên chế | https://science.astron.nl/people/dr-r-f-roberto-pizzo/
+p: Antonia Rowlinson | Nhà khoa học biên chế | https://science.astron.nl/people/dr-b-a-antonia-rowlinson/
+p: Tim Shimwell | Nhà khoa học biên chế | https://science.astron.nl/people/dr-t-w-tim-shimwell/
+p: Aleksandar Shulevski | Nhà khoa học biên chế | https://science.astron.nl/people/dr-a-aleksandar-shulevski/
+p: Harish Vedantham | Nhà khoa học biên chế | https://science.astron.nl/people/harish-vedantham/
+p: Sander ter Veen | Nhà khoa học biên chế | https://science.astron.nl/people/dr-s-sander-ter-veen/
+p: Emma van der Wateren | Nhà khoa học biên chế | https://science.astron.nl/people/e-emma-van-der-wateren/
+p: Pietro Zucca | Nhà khoa học biên chế | https://science.astron.nl/people/dr-p-pietro-zucca/
+
+#unit Astronomy & Operations — postdoc và nghiên cứu sinh
+parent: ASTRON
+topics: Chớp vô tuyến nhanh, pulsar, tái ion hoá (LOFAR-EoR), khảo sát LoTSS, HI và thiên hà lân cận, AGN, sự kiện thoáng qua, sao vô tuyến, thời tiết không gian, hiệu chuẩn và thiết bị vô tuyến.
+url: https://www.astron.nl/about/organisation/astronomy-operations/
+src: https://science.astron.nl/people/
+p: Apurba Bera | PD | https://science.astron.nl/people/apurba-bera/
+p: Pragya Chawla | PD | https://science.astron.nl/people/pragya-chawla/
+p: Abigail Colclasure | NCS | https://science.astron.nl/people/abigail-colclasure/
+p: Cristina Cordun | NCS | https://science.astron.nl/people/cristina-cordun/
+p: Ivey Davis | PD | https://science.astron.nl/people/dr-ivey-davis/
+p: Henrik Edler | PD | https://science.astron.nl/people/henrik-edler/
+p: Nina Gusinskaia | PD | https://science.astron.nl/people/nina-gusinskaia/
+p: David Konijn | NCS | https://science.astron.nl/people/david-konijn/
+p: Marten Lourens | NCS | https://science.astron.nl/people/marten-lourens/
+p: David McKenna | PD | https://science.astron.nl/people/david-mckenna/
+p: Selah Melfor | NCS | https://science.astron.nl/people/selah-melfor/
+p: Tia Nolan | NCS | https://science.astron.nl/people/tia-nolan/
+p: Inés Pastor-Marazuela | PD | https://science.astron.nl/people/ines-pastor-marazuela/
+p: Lieuwe de Regt | NCS | https://science.astron.nl/people/lieuwe-de-regt/
+p: Michele Ronchi | PD | https://science.astron.nl/people/dr-michele-ronchi/
+p: Katelyn Smith | NCS | https://science.astron.nl/people/katelyn-smith/
+p: Sofia Sosa Fiscella | PD | https://science.astron.nl/people/dr-sofia-sosa-fiscella/
+p: Christopher Sterpka | PD | https://science.astron.nl/people/christopher-sterpka/
+p: Reshma Anna Thomas | PD | https://science.astron.nl/people/reshma-anna-thomas/
+p: Paulina Turekova | NCS | https://science.astron.nl/people/paulina-turekova/
+p: Ruggero Valdata | NCS | https://science.astron.nl/people/r-ruggero-valdata/
+p: Dany Vohl | PD | https://science.astron.nl/people/dr-dany-vohl/

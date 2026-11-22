@@ -1,0 +1,24 @@
+@inst Nikhef — Nationaal instituut voor subatomaire fysica
+city: amsterdam
+type: institute
+url: https://www.nikhef.nl/
+research: Viện quốc gia (NWO-I) về vật lý hạt; các chương trình gần với thiên văn: sóng hấp dẫn (Virgo, LIGO, KAGRA, Einstein Telescope), thiên văn neutrino (KM3NeT), tia vũ trụ (Pierre Auger) và vật chất tối (XENON).
+coverage: limited
+structure: Viện hợp tác giữa NWO-I và các đại học (UvA, VU, Utrecht, Radboud, Groningen, Maastricht, Twente); mỗi chương trình nghiên cứu có trưởng chương trình riêng.
+structureUrl: https://www.nikhef.nl/en/research/research-themes-nikhef/
+scope: Nikhef không công bố danh sách thành viên theo chương trình; chỉ ghi trưởng chương trình được nêu trên trang chủ đề (11/2026). Không đưa các chương trình máy gia tốc (ATLAS, LHCb, ALICE).
+
+#unit Sóng hấp dẫn
+parent: Nikhef
+topics: Phân tích tín hiệu va chạm lỗ đen và sao neutron (Virgo, LIGO, KAGRA), phát triển Einstein Telescope.
+url: https://www.nikhef.nl/en/research/research-themes/learning-from-gravitational-waves/
+src: https://www.nikhef.nl/en/research/research-themes/learning-from-gravitational-waves/
+p: Andreas Freise | Trưởng chương trình (liên hệ) | https://www.nikhef.nl/personnel/andreas-freise/
+p: Chris Van Den Broeck | Trưởng chương trình (liên hệ); GS ĐH Utrecht | https://www.nikhef.nl/personnel/chris-van-den-broeck/
+
+#unit KM3NeT — Neutrino và nguồn của chúng
+parent: Nikhef
+topics: Kính thiên văn neutrino dưới đáy Địa Trung Hải (ARCA, ORCA): nguồn neutrino vũ trụ và tính chất neutrino.
+url: https://www.nikhef.nl/en/research/research-themes/km3net-neutrinos-and-their-sources/
+src: https://www.nikhef.nl/en/research/research-themes/km3net-neutrinos-and-their-sources/
+p: Aart Heijboer | Trưởng chương trình (liên hệ) | https://www.nikhef.nl/personnel/aart-heijboer/

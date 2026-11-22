@@ -1,0 +1,40 @@
+@inst JIVE — Joint Institute for VLBI ERIC
+city: dwingeloo
+type: institute
+url: https://jive.eu/
+research: Tổ chức quốc tế (ERIC) vận hành bộ tương quan của Mạng VLBI châu Âu (EVN), hỗ trợ người dùng và nghiên cứu bằng giao thoa vô tuyến đường đáy rất dài: chớp vô tuyến nhanh, AGN, sao đôi X-quang, maser, trắc địa không gian.
+coverage: full
+structure: Tổ chức nghiên cứu hạ tầng châu Âu (JIV-ERIC) đặt tại ASTRON, Dwingeloo.
+structureUrl: https://jive.eu/organisation.html
+scope: Đủ danh sách theo trang Staff (11/2026); trang không ghi chức danh nên mọi người được ghi chung là nhân sự JIVE (gồm nhà khoa học, kỹ sư phần mềm/tương quan và hỗ trợ).
+
+#unit JIVE (toàn tổ chức)
+parent: JIV-ERIC
+topics: Bộ tương quan EVN (SFXC), hỗ trợ người dùng VLBI, lưu trữ dữ liệu EVN, nghiên cứu bằng VLBI.
+url: https://jive.eu/
+src: https://jive.eu/staff.html
+p: Mislav Balokovic | Nhân sự JIVE | https://jive.eu/balokovic.html
+p: Paul Boven | Nhân sự JIVE | https://jive.eu/boven.html
+p: Wybren Buijs | Nhân sự JIVE | https://jive.eu/buijs.html
+p: Bob Campbell | Nhân sự JIVE | https://jive.eu/campbell.html
+p: Giuseppe Cimò | Nhân sự JIVE | https://jive.eu/cimo.html
+p: Bob Eldering | Nhân sự JIVE | https://jive.eu/eldering.html
+p: Florian Eppel | Nhân sự JIVE | https://jive.eu/eppel.html
+p: Bert Harms | Nhân sự JIVE | https://jive.eu/harms.html
+p: Ioanna Kazakou | Nhân sự JIVE | https://jive.eu/kazakou.html
+p: Aard Keimpema | Nhân sự JIVE | https://jive.eu/keimpema.html
+p: Mark Kettenis | Nhân sự JIVE | https://jive.eu/kettenis.html
+p: Yvonne Kool | Nhân sự JIVE | https://jive.eu/kool.html
+p: Martin Leeuwinga | Nhân sự JIVE | https://jive.eu/leeuwinga.html
+p: Waleed Madkour | Nhân sự JIVE | https://jive.eu/madkour.html
+p: Benito Marcote | Nhân sự JIVE | https://jive.eu/marcote.html
+p: Miriam Nyamai | Nhân sự JIVE | https://jive.eu/nyamai.html
+p: Junghwan Oh | Nhân sự JIVE | https://jive.eu/oh.html
+p: Zsolt Paragi | Nhân sự JIVE | https://jive.eu/paragi.html
+p: Mas Said | Nhân sự JIVE | https://jive.eu/said.html
+p: Agnieszka Slowikowska | Nhân sự JIVE | https://jive.eu/slowikowska.html
+p: Des Small | Nhân sự JIVE | https://jive.eu/small.html
+p: Ilse van Bemmel | Nhân sự JIVE | https://jive.eu/van-bemmel.html
+p: Aukelien van den Poll | Nhân sự JIVE | https://jive.eu/van-den-poll.html
+p: Huib van Langevelde | Nhân sự JIVE | https://jive.eu/van-langevelde.html
+p: Marjolein Verkouter | Nhân sự JIVE | https://jive.eu/verkouter.html

@@ -1,0 +1,223 @@
+@city leiden | Leiden | 4.49, 52.16
+
+@inst Universiteit Leiden — Sterrewacht Leiden (Leiden Observatory)
+city: leiden
+type: university
+url: https://www.universiteitleiden.nl/en/science/astronomy
+research: Viện thiên văn lớn nhất Hà Lan: hình thành thiên hà và vũ trụ học (thấu kính hấp dẫn yếu, mô phỏng EAGLE/FLAMINGO, LOFAR), sao và hành tinh đang hình thành, hoá học thiên văn và thiên văn phòng thí nghiệm, ngoại hành tinh và thiết bị (METIS cho ELT, quang học thích ứng).
+coverage: full
+structure: Hai chủ đề nghiên cứu lớn (Thiên hà và cấu trúc vũ trụ; Ngoại hành tinh, hình thành sao và hành tinh) cùng nhóm Lịch sử khoa học; giám đốc khoa học Ignas Snellen. Là thành viên trường nghiên cứu NOVA.
+structureUrl: https://www.universiteitleiden.nl/en/science/astronomy/research
+scope: Đủ danh sách theo trang Staff (11/2026), mỗi người có trang cá nhân. Giảng viên được xếp theo hai trang chủ đề của viện; người mới chưa có trên trang chủ đề được xếp theo lĩnh vực ghi trong hồ sơ. Bỏ nhân viên hành chính và quản lý.
+
+#unit Thiên hà và các cấu trúc chứa chúng
+parent: Sterrewacht Leiden
+topics: Hình thành và tiến hóa thiên hà, vũ trụ học quan sát (thấu kính yếu KiDS, Euclid), mô phỏng vũ trụ, thiên hà xa (JWST, ALMA), thiên văn vô tuyến tần số thấp (LOFAR), động lực học sao, sự kiện xé sao.
+url: https://www.universiteitleiden.nl/en/science/astronomy/galaxies-and-the-structures-in-which-they-are-embedded
+src: https://www.universiteitleiden.nl/en/science/astronomy/staff
+p: Rychard Bouwens | PGS | https://www.universiteitleiden.nl/en/staffmembers/rychard-bouwens
+p: Anthony Brown | PGS | https://www.universiteitleiden.nl/en/staffmembers/anthony-brown
+p: Marcel van Daalen | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/marcel-van-daalen
+p: Marijn Franx | GS danh dự | https://www.universiteitleiden.nl/en/staffmembers/marijn-franx
+p: Michael Garrett | Giáo sư — Radio techniques in astronomy | https://www.universiteitleiden.nl/en/staffmembers/michael-garrett
+p: Joe Hennawi | Giáo sư — Cosmology | https://www.universiteitleiden.nl/en/staffmembers/joe-hennawi
+p: Jacqueline Hodge | PGS | https://www.universiteitleiden.nl/en/staffmembers/jacqueline-hodge
+p: Henk Hoekstra | Giáo sư — Observational cosmology | https://www.universiteitleiden.nl/en/staffmembers/henk-hoekstra
+p: Vincent Icke | GS danh dự | https://www.universiteitleiden.nl/en/staffmembers/vincent-icke
+p: Walter Jaffe | GS thỉnh giảng | https://www.universiteitleiden.nl/en/staffmembers/walter-jaffe
+p: Jelle Kaastra | GS danh dự High Energy Astrophysics | https://www.universiteitleiden.nl/en/staffmembers/jelle-kaastra
+p: Mariska Kriek | Giáo sư — Astronomy / Associate Director PhD and Postdoc Affairs | https://www.universiteitleiden.nl/en/staffmembers/mariska-kriek
+p: Koen Kuijken | Giáo sư — Galactic astronomy | https://www.universiteitleiden.nl/en/staffmembers/koen-kuijken
+p: George Miley | GS danh dự | https://www.universiteitleiden.nl/en/staffmembers/george-miley
+p: Ana Monreal Ibero | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/ana-monreal-ibero
+p: Simon Portegies Zwart | Giáo sư — Numerical star dynamics | https://www.universiteitleiden.nl/en/staffmembers/simon-portegies-zwart
+p: Elena Rossi | Giáo sư — Theoretical astrophysics | https://www.universiteitleiden.nl/en/staffmembers/elena-rossi
+p: Huub Rottgering | Giáo sư — Observational cosmology | https://www.universiteitleiden.nl/en/staffmembers/huub-rottgering
+p: Matthieu Schaller | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/matthieu-schaller
+p: Joop Schaye | Giáo sư — The formation of galaxies | https://www.universiteitleiden.nl/en/staffmembers/joop-schaye
+p: Elena Sellentin | PGS | https://www.universiteitleiden.nl/en/staffmembers/elena-sellentin
+p: Sjoert van Velzen | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/sjoert-van-velzen
+p: Reinout van Weeren | PGS; giám đốc chương trình thạc sĩ | https://www.universiteitleiden.nl/en/staffmembers/reinout-van-weeren
+p: Paul van der Werf | Giáo sư — Extragalactic astrophysics | https://www.universiteitleiden.nl/en/staffmembers/paul-van-der-werf
+
+#unit Ngoại hành tinh, hình thành sao và hành tinh
+parent: Sterrewacht Leiden
+topics: Đĩa tiền hành tinh, hoá học thiên văn và băng vũ trụ (JWST), thiên văn phòng thí nghiệm, khí quyển ngoại hành tinh, chụp ảnh trực tiếp và quang học thích ứng, thiết bị METIS/ELT, sinh học vũ trụ.
+url: https://www.universiteitleiden.nl/en/science/astronomy/exo-planets-star-and-planet-formation
+src: https://www.universiteitleiden.nl/en/science/astronomy/staff
+p: Bernhard Brandl | Giáo sư — Infrared astronomy | https://www.universiteitleiden.nl/en/staffmembers/bernhard-brandl
+p: Leonard Burtscher | Nhà nghiên cứu khách mời | https://www.universiteitleiden.nl/en/staffmembers/leonard-burtscher
+p: Ko-Ju Chuang | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/ko-ju-chuang
+p: Ewine van Dishoeck | GS danh dự | https://www.universiteitleiden.nl/en/staffmembers/ewine-van-dishoeck
+p: Pascale Ehrenfreund | Giáo sư — Astrobiology | https://www.universiteitleiden.nl/en/staffmembers/pascale-ehrenfreund
+p: Harm Habing | GS danh dự | https://www.universiteitleiden.nl/en/staffmembers/harm-habing
+p: Sebastiaan Haffert | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/sebastiaan-haffert
+p: Michiel Hogerheijde | PGS; giám đốc đào tạo | https://www.universiteitleiden.nl/en/staffmembers/michiel-hogerheijde
+p: Christoph Keller | GS thỉnh giảng | https://www.universiteitleiden.nl/en/staffmembers/christoph-keller
+p: Matthew Kenworthy | PGS | https://www.universiteitleiden.nl/en/staffmembers/matthew-kenworthy
+p: Thanja Lamberts | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/thanja-lamberts
+p: Huib van Langevelde | Giáo sư — Galactic Radio Astronomy | https://www.universiteitleiden.nl/en/staffmembers/huib-van-langevelde
+p: Nienke van der Marel | PGS | https://www.universiteitleiden.nl/en/staffmembers/nienke-van-der-marel
+p: Melissa McClure | PGS | https://www.universiteitleiden.nl/en/staffmembers/melissa-mcclure
+p: Yamila Miguel | PGS | https://www.universiteitleiden.nl/en/staffmembers/yamila-miguel
+p: Ignas Snellen | Giáo sư; giám đốc khoa học | https://www.universiteitleiden.nl/en/staffmembers/ignas-snellen
+p: Frans Snik | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/frans-snik
+p: Tomas Stolker | Trợ lý giáo sư | https://www.universiteitleiden.nl/en/staffmembers/tomas-stolker
+p: Remko Stuik | Nhà nghiên cứu — thiết bị thiên văn | https://www.universiteitleiden.nl/en/staffmembers/remko-stuik
+p: Aline Vidotto | Giáo sư — Astronomy | https://www.universiteitleiden.nl/en/staffmembers/aline-vidotto
+p: Serena Viti | GS thỉnh giảng | https://www.universiteitleiden.nl/en/staffmembers/serena-viti
+
+#unit Lịch sử khoa học
+parent: Sterrewacht Leiden
+topics: Di sản vật chất và lịch sử khoa học tự nhiên.
+url: https://www.universiteitleiden.nl/en/science/astronomy/research/history-of-science
+src: https://www.universiteitleiden.nl/en/science/astronomy/staff
+p: Dirk van Delft | GS danh dự Material heritage of the natural sciences | https://www.universiteitleiden.nl/en/staffmembers/dirk-van-delft
+p: Frans van Lunteren | GS danh dự History of the natural sciences | https://www.universiteitleiden.nl/en/staffmembers/frans-van-lunteren
+
+#unit Nghiên cứu sau tiến sĩ, khách mời và nhân sự khoa học-kỹ thuật
+parent: Sterrewacht Leiden
+topics: Postdoc (gồm Oort fellows), nhà nghiên cứu khách mời, kỹ sư phần mềm nghiên cứu, nhóm thiết bị NOVA/METIS.
+url: https://www.universiteitleiden.nl/en/science/astronomy/staff
+src: https://www.universiteitleiden.nl/en/science/astronomy/staff
+p: Joshua Albert | PD | https://www.universiteitleiden.nl/en/staffmembers/joshua-albert
+p: Leindert Boogaard | PD | https://www.universiteitleiden.nl/en/staffmembers/leindert-boogaard
+p: Guadalupe Cañas Herrera | PD | https://www.universiteitleiden.nl/en/staffmembers/guadalupe-canas-herrera
+p: Lotfi Chaouach | PD | https://www.universiteitleiden.nl/en/staffmembers/lotfi-chaouach
+p: Louis Desdoigts | PD | https://www.universiteitleiden.nl/en/staffmembers/louis-desdoigts
+p: Katarzyna Dutkowska | Nhà nghiên cứu khách mời | https://www.universiteitleiden.nl/en/staffmembers/katarzyna-dutkowska
+p: Elham Eftekhariardakani | PD | https://www.universiteitleiden.nl/en/staffmembers/elham-eftekhariardakani
+p: Filip Elekes | PD | https://www.universiteitleiden.nl/en/staffmembers/filip-elekes
+p: Albert Elias López | PD | https://www.universiteitleiden.nl/en/staffmembers/albert-elias-lopez
+p: Jules Fowler | PD | https://www.universiteitleiden.nl/en/staffmembers/jules-fowler
+p: Yuming Fu | PD | https://www.universiteitleiden.nl/en/staffmembers/yuming-fu
+p: Filip Husko | Kỹ sư phần mềm nghiên cứu | https://www.universiteitleiden.nl/en/staffmembers/filip-husko
+p: Ryota Ikeda | PD | https://www.universiteitleiden.nl/en/staffmembers/ryota-ikeda
+p: Jurjen de Jong | PD | https://www.universiteitleiden.nl/en/staffmembers/jurjen-de-jong
+p: Pascal Keller | PD | https://www.universiteitleiden.nl/en/staffmembers/pascal-keller
+p: Megan Lewis | PD | https://www.universiteitleiden.nl/en/staffmembers/megan-lewis
+p: Qing Liu | PD (Oort fellow) | https://www.universiteitleiden.nl/en/staffmembers/qing-liu
+p: Xunchuan Liu | Nhà nghiên cứu khách mời | https://www.universiteitleiden.nl/en/staffmembers/xunchuan-liu
+p: Joshiwa van Marrewijk | PD | https://www.universiteitleiden.nl/en/staffmembers/joshiwa-van-marrewijk
+p: Matthijs Mars | PD | https://www.universiteitleiden.nl/en/staffmembers/matthijs-mars
+p: Rob McGibbon | PD | https://www.universiteitleiden.nl/en/staffmembers/rob-mcgibbon
+p: Konstantinos Migkas | PD (Oort fellow, X-ray) | https://www.universiteitleiden.nl/en/staffmembers/konstantinos-migkas
+p: David Navarro Gironés | PD | https://www.universiteitleiden.nl/en/staffmembers/david-navarro-girones
+p: Jannis Necker | PD | https://www.universiteitleiden.nl/en/staffmembers/jannis-necker
+p: Thanh Nguyen | Nghiên cứu viên | https://www.universiteitleiden.nl/en/staffmembers/thanh-nguyen
+p: Samuel Pearson | PD | https://www.universiteitleiden.nl/en/staffmembers/samuel-pearson
+p: Divya Rana | PD | https://www.universiteitleiden.nl/en/staffmembers/divya-rana
+p: Emily Sandford | PD | https://www.universiteitleiden.nl/en/staffmembers/emily-sandford
+p: Iason Skretas | PD | https://www.universiteitleiden.nl/en/staffmembers/iason-skretas
+p: Daniel Smith | PD | https://www.universiteitleiden.nl/en/staffmembers/daniel-smith
+p: Zak Smith | PD | https://www.universiteitleiden.nl/en/staffmembers/zak-smith
+p: Lukasz Tychoniec | Nghiên cứu viên | https://www.universiteitleiden.nl/en/staffmembers/lukasz-tychoniec
+p: Solène Chloé Ulmer-Moll | PD (Oort fellow) | https://www.universiteitleiden.nl/en/staffmembers/solene-chloe-ulmer-moll
+p: Thomas Otto Winterhalder | PD | https://www.universiteitleiden.nl/en/staffmembers/thomas-otto-winterhalder
+p: Yeyuan Xin | PD | https://www.universiteitleiden.nl/en/staffmembers/yeyuan-xin
+p: Yun-Hao Zhang | PD | https://www.universiteitleiden.nl/en/staffmembers/yun-hao-zhang
+p: Liyi Gu | Nhà nghiên cứu khách mời | https://www.universiteitleiden.nl/en/staffmembers/liyi-gu
+p: Violette Impellizzeri | Nhà nghiên cứu khách mời | https://www.universiteitleiden.nl/en/staffmembers/violette-impellizzeri
+p: Dima Titov | Nhà khoa học khách mời | https://www.universiteitleiden.nl/en/staffmembers/dima-titov
+p: Felix Bettonvil | Quản lý dự án thiết bị | https://www.universiteitleiden.nl/en/staffmembers/felix-bettonvil
+p: Ioannis Politopoulos | Trưởng cơ sở tích hợp METIS | https://www.universiteitleiden.nl/en/staffmembers/ioannis-politopoulos
+p: Thomas Wijnen | Điều phối thiết bị NOVA | https://www.universiteitleiden.nl/en/staffmembers/thomas-wijnen
+p: Huib Intema | Phát triển CNTT nghiên cứu & giảng dạy | https://www.universiteitleiden.nl/en/staffmembers/huib-intema
+p: David Jansen | Lập trình viên khoa học | https://www.universiteitleiden.nl/en/staffmembers/david-jansen
+p: Zuzanna Kostrzewa-Rutkowska | Kỹ sư phần mềm nghiên cứu | https://www.universiteitleiden.nl/en/staffmembers/zuzanna-kostrzewa-rutkowska
+p: Bram Venemans | Trưởng nhóm CNTT | https://www.universiteitleiden.nl/en/staffmembers/bram-venemans
+p: Michiel Rodenhuis | Giám đốc điều hành NOVA | https://www.universiteitleiden.nl/en/staffmembers/michiel-rodenhuis
+
+#unit Nghiên cứu sinh
+parent: Sterrewacht Leiden
+topics: Nghiên cứu sinh (gồm NCS khách mời và NCS ngoài).
+url: https://www.universiteitleiden.nl/en/science/astronomy/staff
+src: https://www.universiteitleiden.nl/en/science/astronomy/staff
+p: Lars Abbo | NCS | https://www.universiteitleiden.nl/en/staffmembers/lars-abbo
+p: Marco Agolzer | NCS | https://www.universiteitleiden.nl/en/staffmembers/marco-agolzer
+p: Zeynab Ashurikisomi | NCS | https://www.universiteitleiden.nl/en/staffmembers/zeynab-ashurikisomi
+p: Femke Ballieux | NCS | https://www.universiteitleiden.nl/en/staffmembers/femke-ballieux
+p: Ilham Bouisaghouane | NCS | https://www.universiteitleiden.nl/en/staffmembers/ilham-bouisaghouane
+p: Paul Boven | NCS | https://www.universiteitleiden.nl/en/staffmembers/paul-boven
+p: Jeger Broxterman | NCS | https://www.universiteitleiden.nl/en/staffmembers/jeger-broxterman
+p: Nashanty Brunken | NCS | https://www.universiteitleiden.nl/en/staffmembers/nashanty-brunken
+p: Victorine Buiten | NCS | https://www.universiteitleiden.nl/en/staffmembers/victorine-buiten
+p: Richelle van Capelleveen | NCS | https://www.universiteitleiden.nl/en/staffmembers/richelle-van-capelleveen
+p: Manuel Cavieres Carrera | NCS | https://www.universiteitleiden.nl/en/staffmembers/manuel-cavieres-carrera
+p: Karin Cescon | NCS | https://www.universiteitleiden.nl/en/staffmembers/karin-cescon
+p: Dirk van Dam | NCS | https://www.universiteitleiden.nl/en/staffmembers/dirk-van-dam
+p: Michiel Darcis | NCS | https://www.universiteitleiden.nl/en/staffmembers/michiel-darcis
+p: Esther van Dijk | NCS | https://www.universiteitleiden.nl/en/staffmembers/esther-van-dijk
+p: Tobias Dijkhuis | NCS | https://www.universiteitleiden.nl/en/staffmembers/tobias-dijkhuis
+p: Maarten Elion | NCS | https://www.universiteitleiden.nl/en/staffmembers/maarten-elion
+p: Omar Espíndola Camacho | NCS | https://www.universiteitleiden.nl/en/staffmembers/omar-espindola-camacho
+p: Anselmo Falorca | NCS | https://www.universiteitleiden.nl/en/staffmembers/anselmo-falorca
+p: Sonal Garg | NCS | https://www.universiteitleiden.nl/en/staffmembers/sonal-garg
+p: Wout Goesaert | NCS | https://www.universiteitleiden.nl/en/staffmembers/wout-goesaert
+p: Darío González Picos | NCS | https://www.universiteitleiden.nl/en/staffmembers/dario-gonzalez-picos
+p: Natalie Grasser | NCS | https://www.universiteitleiden.nl/en/staffmembers/natalie-grasser
+p: Luna van Haastere | NCS | https://www.universiteitleiden.nl/en/staffmembers/luna-van-haastere
+p: Yujie He | NCS | https://www.universiteitleiden.nl/en/staffmembers/yujie-he
+p: Stephanie Heikamp | NCS | https://www.universiteitleiden.nl/en/staffmembers/stephanie-heikamp
+p: Milan Heinsohn Huala | NCS | https://www.universiteitleiden.nl/en/staffmembers/milan-heinsohn-huala
+p: Thomas Herard | NCS | https://www.universiteitleiden.nl/en/staffmembers/thomas-herard
+p: Aniruddh Herle | NCS | https://www.universiteitleiden.nl/en/staffmembers/aniruddh-herle
+p: Emily van Hese | NCS | https://www.universiteitleiden.nl/en/staffmembers/emily-van-hese
+p: Erwan Hochart | NCS | https://www.universiteitleiden.nl/en/staffmembers/erwan-hochart
+p: Cecilie Holmen | NCS | https://www.universiteitleiden.nl/en/staffmembers/cecilie-holmen
+p: Hylke Hoogland | NCS | https://www.universiteitleiden.nl/en/staffmembers/hylke-hoogland
+p: Leoni Janssen | NCS | https://www.universiteitleiden.nl/en/staffmembers/leoni-janssen
+p: Bin Jia | NCS | https://www.universiteitleiden.nl/en/staffmembers/bin-jia
+p: Kaltrina Kajtazi | NCS | https://www.universiteitleiden.nl/en/staffmembers/kaltrina-kajtazi
+p: Vasileios Kalaitzidis | NCS | https://www.universiteitleiden.nl/en/staffmembers/vasileios-kalaitzidis
+p: Orestis Karapiperis | NCS | https://www.universiteitleiden.nl/en/staffmembers/orestis-karapiperis
+p: Lars Klijn | NCS | https://www.universiteitleiden.nl/en/staffmembers/lars-klijn
+p: Chen Li | NCS | https://www.universiteitleiden.nl/en/staffmembers/1/chen-li
+p: Yifan Li | NCS | https://www.universiteitleiden.nl/en/staffmembers/yifan-li
+p: Cheng-Lin Liao | NCS | https://www.universiteitleiden.nl/en/staffmembers/cheng-lin-liao
+p: Jinyi Liu | NCS | https://www.universiteitleiden.nl/en/staffmembers/jinyi-liu
+p: Anjali Madangarli | NCS | https://www.universiteitleiden.nl/en/staffmembers/anjali-madangarli
+p: Mulan Madden | NCS | https://www.universiteitleiden.nl/en/staffmembers/mulan-madden
+p: Mariia Marinichenko | NCS | https://www.universiteitleiden.nl/en/staffmembers/mariia-marinichenko
+p: Floris Martens | NCS | https://www.universiteitleiden.nl/en/staffmembers/floris-martens
+p: Jessica Martin | NCS | https://www.universiteitleiden.nl/en/staffmembers/jessica-martin
+p: Paola Martire | NCS | https://www.universiteitleiden.nl/en/staffmembers/paola-martire
+p: Gimena Martín Girardi | NCS | https://www.universiteitleiden.nl/en/staffmembers/gimena-martin-girardi
+p: Morgan McCabe | NCS | https://www.universiteitleiden.nl/en/staffmembers/morgan-mccabe
+p: Will McDonald | NCS | https://www.universiteitleiden.nl/en/staffmembers/will-mcdonald
+p: Kutay Nazli | NCS | https://www.universiteitleiden.nl/en/staffmembers/kutay-nazli
+p: Dennis Neumann | NCS | https://www.universiteitleiden.nl/en/staffmembers/dennis-neumann
+p: Tong Pan | NCS | https://www.universiteitleiden.nl/en/staffmembers/tong-pan
+p: Dhwanil Patel | NCS | https://www.universiteitleiden.nl/en/staffmembers/dhwanil-patel
+p: Lucas Pouw | NCS | https://www.universiteitleiden.nl/en/staffmembers/lucas-pouw
+p: Andrés Presa Villa | NCS | https://www.universiteitleiden.nl/en/staffmembers/andres-presa-villa
+p: Brigitte Pruijt | NCS | https://www.universiteitleiden.nl/en/staffmembers/brigitte-pruijt
+p: Vysakh Puthusseril Anilkumar | NCS | https://www.universiteitleiden.nl/en/staffmembers/vysakh-puthusseril-anilkumar
+p: Vikram Radhakrishnan | NCS | https://www.universiteitleiden.nl/en/staffmembers/vikram-radhakrishnan
+p: Axelle Raffin | NCS | https://www.universiteitleiden.nl/en/staffmembers/axelle-raffin
+p: Vanesa Ramirez Gomez | NCS | https://www.universiteitleiden.nl/en/staffmembers/vanesa-ramirez-gomez
+p: Sam de Regt | NCS | https://www.universiteitleiden.nl/en/staffmembers/sam-de-regt
+p: Sander Schouws | NCS | https://www.universiteitleiden.nl/en/staffmembers/sander-schouws
+p: Juliana Schujman | NCS | https://www.universiteitleiden.nl/en/staffmembers/juliana-schujman
+p: Bianca Sersante | NCS | https://www.universiteitleiden.nl/en/staffmembers/bianca-sersante
+p: Nikyta Shchutskyi | NCS | https://www.universiteitleiden.nl/en/staffmembers/nikyta-shchutskyi
+p: Louis Siebenaler | NCS | https://www.universiteitleiden.nl/en/staffmembers/louis-siebenaler
+p: Martje Slob | NCS | https://www.universiteitleiden.nl/en/staffmembers/martje-slob
+p: Laura Stroud | NCS | https://www.universiteitleiden.nl/en/staffmembers/laura-stroud
+p: Adam Taras | NCS | https://www.universiteitleiden.nl/en/staffmembers/adam-taras
+p: Elena Tonucci | NCS | https://www.universiteitleiden.nl/en/staffmembers/elena-tonucci
+p: Casper Vedder | NCS | https://www.universiteitleiden.nl/en/staffmembers/casper-vedder
+p: Gijs Vermariën | NCS | https://www.universiteitleiden.nl/en/staffmembers/gijs-vermarien
+p: Scott Visser | NCS | https://www.universiteitleiden.nl/en/staffmembers/scott-visser
+p: Marissa Vlasblom | NCS | https://www.universiteitleiden.nl/en/staffmembers/marissa-vlasblom
+p: Luc Voorend | NCS | https://www.universiteitleiden.nl/en/staffmembers/luc-voorend
+p: Ben Wang | NCS | https://www.universiteitleiden.nl/en/staffmembers/ben-wang
+p: Shuyu Wang | NCS | https://www.universiteitleiden.nl/en/staffmembers/shuyu-wang
+p: Lukas Welzel | NCS | https://www.universiteitleiden.nl/en/staffmembers/lukas-welzel
+p: Beth Westoby | NCS | https://www.universiteitleiden.nl/en/staffmembers/beth-westoby
+p: Maite Wilhelm | NCS | https://www.universiteitleiden.nl/en/staffmembers/maite-wilhelm
+p: Daming Yang | NCS | https://www.universiteitleiden.nl/en/staffmembers/daming-yang
+p: Sai Zhai | NCS | https://www.universiteitleiden.nl/en/staffmembers/sai-zhai
+p: Yuze Zhang | NCS | https://www.universiteitleiden.nl/en/staffmembers/yuze-zhang
+p: Keqin Zhao | NCS | https://www.universiteitleiden.nl/en/staffmembers/keqin-zhao
+p: Bas Zoutendijk | NCS | https://www.universiteitleiden.nl/en/staffmembers/bas-zoutendijk

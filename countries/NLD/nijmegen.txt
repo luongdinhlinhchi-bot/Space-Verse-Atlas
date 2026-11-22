@@ -1,0 +1,81 @@
+@city nijmegen | Nijmegen | 5.86, 51.84
+
+@inst Radboud Universiteit — Department of Astrophysics (IMAPP)
+city: nijmegen
+type: university
+url: https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics
+research: Lỗ đen và Kính Thiên văn Chân trời Sự kiện (EHT), vật lý hạt thiên văn (tia vũ trụ vô tuyến, LOFAR, Pierre Auger), sự kiện thoáng qua và chớp gamma, sóng hấp dẫn (LISA, sao đôi trắng), sao đôi và tiến hóa sao, từ trường vũ trụ, kính BlackGEM/MeerLICHT, thiên văn vô tuyến từ Mặt Trăng.
+coverage: partial
+structure: Khoa Vật lý thiên văn thuộc Viện Toán, Vật lý thiên văn và Vật lý hạt (IMAPP), Khoa Khoa học; thành viên NOVA.
+structureUrl: https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics
+scope: Theo danh bạ nhân viên của trường cho đơn vị Astrophysics (50 người, 11/2026), bỏ trợ lý hành chính và điều phối truyền thông. Danh bạ này thiếu nhiều postdoc và nghiên cứu sinh được trả lương qua dự án nên danh sách chưa đầy đủ.
+
+#unit Giảng viên
+parent: Department of Astrophysics, Radboud
+topics: Lỗ đen siêu nặng (EHT), tia vũ trụ, sự kiện thoáng qua, sóng hấp dẫn, sao đôi, từ trường thiên hà, địa chấn học sao.
+url: https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research
+src: https://www.ru.nl/en/search/scope/staff/staff-department/870
+p: Conny Aerts | Giáo sư (ghế được tài trợ) — địa chấn học sao | https://www.ru.nl/en/people/aerts-c
+p: Heino Falcke | Giáo sư — vật lý hạt thiên văn và thiên văn vô tuyến | https://www.ru.nl/en/people/falcke-h
+p: Paul Groot | Giáo sư — thiên văn học | https://www.ru.nl/en/people/groot-p
+p: Marijke Haverkorn van Rijsewijk | Giáo sư — từ trường vũ trụ | https://www.ru.nl/en/people/haverkorn-van-rijsewijk-m
+p: Jörg Hörandel | Giáo sư — vật lý hạt thiên văn quan sát | https://www.ru.nl/en/people/horandel-j
+p: Gemma Janssen | Trợ lý giáo sư liên kết | https://www.ru.nl/en/people/janssen-g-h-gemma
+p: Michael Janssen | Trợ lý giáo sư | https://www.ru.nl/en/people/janssen-m-michael
+p: Peter Jonker | Giáo sư — vật lý thiên văn năng lượng cao quan sát | https://www.ru.nl/en/people/jonker-p
+p: Marc Klein Wolt | Trợ lý giáo sư; giám đốc Radboud Radio Lab | https://www.ru.nl/en/people/klein-wolt-m
+p: Elmar Körding | PGS | https://www.ru.nl/en/people/kording-e
+p: Søren Larsen | PGS | https://www.ru.nl/en/people/larsen-s
+p: Andrew Levan | Giáo sư — sự kiện thoáng qua | https://www.ru.nl/en/people/levan-a
+p: Monika Mościbrodzka | PGS | https://www.ru.nl/en/people/moscibrodzka-m
+p: Katharine Mulrey | PGS | https://www.ru.nl/en/people/mulrey-k
+p: Gijs Nelemans | Giáo sư — vật lý thiên văn sóng hấp dẫn | https://www.ru.nl/en/people/nelemans-g
+p: Onno Pols | PGS | https://www.ru.nl/en/people/pols-o
+p: Lieke van Son | Trợ lý giáo sư | https://www.ru.nl/en/people/son-a-van
+
+#unit Nhà nghiên cứu, postdoc và nghiên cứu sinh
+parent: Department of Astrophysics, Radboud
+topics: —
+url: https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research
+src: https://www.ru.nl/en/search/scope/staff/staff-department/870
+p: Utkarsh Basu | NCS | https://www.ru.nl/en/people/basu-u
+p: Bram van den Berg | NCS | https://www.ru.nl/en/people/berg-b-van-den-bram
+p: Zheng Cao | NCS (cùng SRON) | https://www.ru.nl/en/people/cao-z
+p: Joyce van Dalen | NCS | https://www.ru.nl/en/people/dalen-j-van
+p: Raquel Fraga Encinas | Nhân viên nghiên cứu | https://www.ru.nl/en/people/fraga-encinas-r
+p: Krishna Gopinath | Nhân viên nghiên cứu | https://www.ru.nl/en/people/gopinath-k
+p: Agnes van Hoof | NCS | https://www.ru.nl/en/people/hoof-a-van
+p: Leon Houben | Nhân viên nghiên cứu | https://www.ru.nl/en/people/houben-l
+p: Joris Kersten | Nhân viên nghiên cứu | https://www.ru.nl/en/people/kersten-j
+p: Joost de Kleuver | NCS | https://www.ru.nl/en/people/kleuver-j-de
+p: Noemi La Bella | Nhân viên nghiên cứu | https://www.ru.nl/en/people/la-bella-n
+p: Mariya Nizovkina | Nhân viên nghiên cứu | https://www.ru.nl/en/people/nizovkina-m
+p: Katerina Pesini | NCS | https://www.ru.nl/en/people/pesini-k
+p: Maaike Pierik | NCS | https://www.ru.nl/en/people/pierik-a
+p: Daniëlle Pieterse | Nhân viên nghiên cứu | https://www.ru.nl/en/people/pieterse-d
+p: Jonathan Quirola Vasquez | PD | https://www.ru.nl/en/people/quirola-vasquez-j
+p: Freek Roelofs | PD | https://www.ru.nl/en/people/roelofs-f-j
+
+#unit Nhân sự kỹ thuật-khoa học (Radboud Radio Lab, BlackGEM)
+parent: Department of Astrophysics, Radboud
+topics: Thiết bị vô tuyến, kính BlackGEM/MeerLICHT, phần mềm.
+url: https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research
+src: https://www.ru.nl/en/search/scope/staff/staff-department/870
+p: Annelies Ampe | Kỹ sư hệ thống AMT | https://www.ru.nl/en/people/ampe-a
+p: Harry Balster | Kỹ thuật viên | https://www.ru.nl/en/people/balster-h
+p: Steven Bloemen | Quản lý dự án (BlackGEM/MeerLICHT) | https://www.ru.nl/en/people/bloemen-s
+p: Christiaan Brinkerink | Kỹ sư khoa học (Radboud Radio Lab) | https://www.ru.nl/en/people/brinkerink-c
+p: Roel Jordans | Nhân viên nghiên cứu (Radboud Radio Lab) | https://www.ru.nl/en/people/jordans-r
+p: Daan van Rossum | Nhà nghiên cứu | https://www.ru.nl/en/people/rossum-d-van
+p: Sjoerd Timmer | Nhà nghiên cứu | https://www.ru.nl/en/people/timmer-s
+p: Antonio Vecchio | Nhà nghiên cứu | https://www.ru.nl/en/people/vecchio-a
+
+#unit Giáo sư danh dự
+parent: Department of Astrophysics, Radboud
+topics: —
+url: https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/astrophysics#research
+src: https://www.ru.nl/en/search/scope/staff/staff-department/870
+p: Bram Achterberg | GS danh dự | https://www.ru.nl/en/people/achterberg-a
+p: Jan Kuijpers | GS danh dự — vật lý thiên văn lý thuyết | https://www.ru.nl/en/people/kuijpers-j
+p: Frank Verbunt | GS danh dự — vật lý thiên văn năng lượng cao | https://www.ru.nl/en/people/verbunt-f
+p: Rens Waters | GS danh dự | https://www.ru.nl/en/people/waters-l

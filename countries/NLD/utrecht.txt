@@ -1,0 +1,20 @@
+@city utrecht | Utrecht | 5.12, 52.09
+
+@inst Universiteit Utrecht — Institute for Gravitational and Subatomic Physics (GRASP)
+city: utrecht
+type: university
+url: https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics
+research: Sóng hấp dẫn (phân tích dữ liệu Virgo/LIGO, Einstein Telescope, LISA; sao neutron và lỗ đen đôi như phép thử vật lý cơ bản) bên cạnh vật lý ion nặng (ALICE). Utrecht không còn khoa thiên văn riêng.
+coverage: limited
+structure: Viện thuộc Khoa Vật lý, ĐH Utrecht; đối tác của Nikhef; giám đốc học thuật Chris Van Den Broeck.
+structureUrl: https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics/about-us/our-people
+scope: Trang Our people (11/2026) gộp chung nhóm sóng hấp dẫn và nhóm ALICE mà không ghi nhóm cho từng nghiên cứu viên trẻ; chỉ ghi giảng viên thuộc nhóm sóng hấp dẫn.
+
+#unit Gravitational Waves
+parent: GRASP, ĐH Utrecht
+topics: Tìm và phân tích tín hiệu sóng hấp dẫn từ sao neutron và lỗ đen đôi, phép thử thuyết tương đối rộng, Einstein Telescope và LISA.
+url: https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics/research
+src: https://www.uu.nl/en/research/institute-for-gravitational-and-subatomic-physics/about-us/our-people
+p: Chris van den Broeck | Giáo sư; giám đốc học thuật GRASP | https://www.uu.nl/staff/CFFvandenBroeck1
+p: Anuradha Samajdar | Trợ lý giáo sư | https://www.uu.nl/staff/ASamajdar
+p: Marc van der Sluijs | Trợ lý giáo sư; tiến hóa sao (cùng Nikhef) | https://www.uu.nl/staff/MVvanderSluijs

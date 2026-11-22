@@ -1,0 +1,62 @@
+@inst SRON — Space Research Organisation Netherlands
+city: leiden
+type: institute
+url: https://www.sron.nl/
+research: Viện quốc gia về nghiên cứu không gian (NWO-I), trụ sở Leiden và cơ sở Groningen: vật lý thiên văn năng lượng cao (XRISM/Resolve, Athena X-IFU), vật lý thiên văn năng lượng thấp và hồng ngoại xa, ngoại hành tinh (Ariel, LIFE), LISA; phát triển detector siêu dẫn (TES, KID). Ngoài ra có chương trình quan sát Trái Đất.
+coverage: partial
+structure: Các chương trình Astrophysics, Exoplanets, Earth Observation và Technology cùng nhóm kỹ thuật; giám đốc Michael Wise.
+structureUrl: https://www.sron.nl/en/pillars/our-people/
+scope: Theo trang Our experts (11/2026), chỉ lấy người thuộc mảng vật lý thiên văn, ngoại hành tinh và khoa học thiết bị cho thiên văn; bỏ chương trình quan sát Trái Đất, kỹ thuật thuần tuý và hành chính. Trang chỉ có khoảng 150 trên hơn 250 nhân viên nên danh sách chưa đầy đủ.
+
+#unit Ban lãnh đạo khoa học
+parent: SRON
+topics: Định hướng chương trình vật lý thiên văn và khoa học thiết bị.
+url: https://www.sron.nl/
+src: https://www.sron.nl/en/pillars/our-people/
+p: Michael Wise | Giám đốc SRON | https://www.sron.nl/en/pillars/our-people/
+p: Terri Brandt | Trưởng chương trình Vật lý thiên văn | https://www.sron.nl/en/pillars/our-people/terri-brandt
+p: Elisa Costantini | Nhà khoa học cấp cao; trưởng nhóm năng lượng cao | https://www.sron.nl/en/pillars/our-people/elisa-costantini
+p: Peter Roelfsema | Nhà khoa học cấp cao; phụ trách vật lý thiên văn năng lượng thấp | https://www.sron.nl/en/pillars/our-people/peter-roelfsema
+p: Jan Geralt Bij de Vaate | Trưởng khoa học thiết bị; quản lý SRON Groningen | https://www.sron.nl/en/pillars/our-people/jan-geralt-bij-de-vaate
+
+#unit Chương trình Vật lý thiên văn
+parent: SRON
+topics: Plasma cụm thiên hà, sao neutron và lỗ đen (X-quang), môi trường liên sao, tiến hóa thiên hà, sóng hấp dẫn (LISA), phần mềm phổ SPEX.
+url: https://www.sron.nl/
+src: https://www.sron.nl/en/pillars/our-people/
+p: Aurora Simionescu | Nhà khoa học cấp cao — plasma trong cụm thiên hà | https://www.sron.nl/en/pillars/our-people/aurora-simionescu
+p: Floris van der Tak | Nhà khoa học cấp cao; GS ĐH Groningen | https://www.sron.nl/en/pillars/our-people/floris-van-der-tak
+p: Jean in ‘t Zand | Nhà vật lý thiên văn và khoa học thiết bị (năng lượng cao) | https://www.sron.nl/en/pillars/our-people/jean-in-t-zand
+p: Lucien Kuiper | Nhà khoa học cấp cao — X-quang/gamma | https://www.sron.nl/en/pillars/our-people/lucien-kuiper
+p: Liyi Gu | Nhà khoa học — năng lượng cao | https://www.sron.nl/en/pillars/our-people/liyi-gu
+p: Lingyu Wang | Nhà khoa học cấp cao — tiến hóa thiên hà; PGS liên kết ĐH Groningen | https://www.sron.nl/en/pillars/our-people/lingyu-wang
+p: Valeriya Korol | Nhà khoa học LISA | https://www.sron.nl/en/pillars/our-people/valeriya-korol
+p: Jelle de Plaa | Kỹ sư phần mềm nghiên cứu (SPEX) | https://www.sron.nl/en/pillars/our-people/jelle-de-plaa
+p: Benjamin Ricketts | NCS — nhóm vật lý thiên văn | https://www.sron.nl/en/pillars/our-people/benjamin-ricketts-2
+pp: Nhà khoa học | Jan-Willem den Herder; Billy Edwards; Russell Shipman
+
+#unit Chương trình Ngoại hành tinh
+parent: SRON
+topics: Khí quyển ngoại hành tinh, quang học cho chụp ảnh trực tiếp, sứ mệnh Ariel và LIFE.
+url: https://www.sron.nl/
+src: https://www.sron.nl/en/pillars/our-people/
+p: Michiel Min | Nhà khoa học cấp cao — khí quyển ngoại hành tinh | https://www.sron.nl/en/pillars/our-people/michiel-min
+p: David Doelman-Oldenburger | Nhà khoa học — quang học tinh thể lỏng cho ngoại hành tinh | https://www.sron.nl/en/pillars/our-people/david-doelman
+p: Tim A. van Kempen | Nhà khoa học thiết bị; quản lý dự án sứ mệnh ngoại hành tinh | https://www.sron.nl/en/pillars/our-people/tim-van-kempen
+
+#unit Khoa học thiết bị (Instrument Science)
+parent: SRON
+topics: Detector siêu dẫn TES và KID, thiết bị X-quang X-IFU, thiết bị dưới mm/hồng ngoại xa.
+url: https://www.sron.nl/
+src: https://www.sron.nl/en/pillars/our-people/
+p: Jochem Baselmans | Nhà khoa học thiết bị cấp cao; GS TU Delft — detector KID | https://www.sron.nl/en/pillars/our-people/jochem-baselmans
+p: Kenichi Karatsu | Nhà khoa học thiết bị — detector KID | https://www.sron.nl/en/pillars/our-people/kenichi-karatsu
+p: Damian Audley | Nhà khoa học thiết bị — detector siêu dẫn | https://www.sron.nl/en/pillars/our-people/damian-audley
+p: Davide Vaccaro | Nhà khoa học thiết bị — TES/X-IFU | https://www.sron.nl/en/pillars/our-people/davide-vaccaro
+p: Luciano Gottardi | Nhà khoa học thiết bị — detector nhiệt độ thấp | https://www.sron.nl/en/pillars/our-people/luciano-gottardi
+p: Martin de Wit | Nhà khoa học thiết bị — detector siêu dẫn | https://www.sron.nl/en/pillars/our-people/martin-de-wit
+p: Roland den Hartog | Nhà khoa học thiết bị cấp cao — X-IFU | https://www.sron.nl/en/pillars/our-people/roland-den-hartog
+p: Tobias Vos | Kỹ sư phần mềm — X-IFU | https://www.sron.nl/en/pillars/our-people/tobias-vos
+p: Daan Roos | NCS — nhóm khoa học công nghệ | https://www.sron.nl/en/pillars/our-people/daan-roos
+p: Wilbert Ras-Vinke | NCS — detector đơn photon cho ngoại hành tinh | https://www.sron.nl/en/pillars/our-people/wilbert-ras-vinke
+pp: Nhà khoa học | Pourya Khosropanah; Jian-Rong Gao; Willem Jellema; Pieter de Visser; Stephen Yates; Jan van der Kuur; Henk Hoevers; Kenichiro Nagayoshi; Emanuele Taralli
