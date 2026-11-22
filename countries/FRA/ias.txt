@@ -3,18 +3,67 @@ city: saclay
 type: institute
 url: https://www.ias.universite-paris-saclay.fr/
 research: Vũ trụ học (Planck/HFI, nền vi sóng vũ trụ, bolometer), môi trường liên sao và bụi (Herschel, JWST), vật lý Mặt Trời và sao (Solar Orbiter, SOHO), hành tinh và thiên thể nhỏ (Mars, Mercury, sao chổi, ngoại hành tinh), hoá học thiên văn thực nghiệm; chế tạo thiết bị không gian.
-coverage: limited
+coverage: partial
 structure: Đơn vị hỗn hợp UMR 8617 (CNRS – Université Paris-Saclay) tại Orsay; năm đội khoa học (Astrochimie & Origines, AMIS, Cosmologie, Hệ Mặt Trời & hệ hành tinh, Mặt Trời & sao) cùng các nền tảng IDOC và PARADISE.
 structureUrl: https://www.ias.universite-paris-saclay.fr/sites/default/files/laboratoire/ORGANIGRAMME_janvier%202026_General.pdf
-scope: Danh bạ IAS chuyển sang máy chủ mới và không truy cập được (11/2026); chỉ ghi ban giám đốc theo báo cáo HCERES và trưởng đội được nêu trên trang từng đội.
+scope: Danh bạ IAS không truy cập được (11/2026); danh sách lấy từ trang thành viên của năm đội trên site IAS. Trang AMIS và Cosmologie là bản hiện hành, có vai trò; trang Astrochimie chỉ có tên; trang Mặt Trời – sao và Hệ Mặt Trời – hành tinh là bản cũ hơn trên tên miền ias.u-psud.fr nên có thể chưa cập nhật. Người chỉ xuất hiện trong chú thích ảnh được ghi riêng.
 
-#unit Ban giám đốc và trưởng đội
+#unit Ban giám đốc
 parent: IAS
 topics: —
-url: https://www.ias.universite-paris-saclay.fr/
-src: https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf
-pp: Ban giám đốc (theo HCERES) | Marc Ollivier; Marian Douspis
-pp: Trưởng đội Astrochimie & Origines | Zahia Djouadi
-pp: Trưởng đội Môi trường liên sao (AMIS) | Emilie Habart
-pp: Đồng trưởng đội Vũ trụ học | Laura Salvati
-pp: Trưởng đội Vật lý Mặt Trời và sao | Éric Buchlin
+url: https://www.ias.universite-paris-saclay.fr/en/the-lab/organization
+src: https://www.ias.universite-paris-saclay.fr/en/the-lab/organization
+p: Marc Ollivier | Giám đốc IAS, Astronome | https://www.ias.universite-paris-saclay.fr/en/the-lab/organization
+p: Marian Douspis | Phó giám đốc, Astronome | https://www.ias.universite-paris-saclay.fr/en/the-lab/organization
+
+#unit Astrochimie et Origines
+parent: IAS
+topics: Hóa học thiên văn thực nghiệm, băng và chất hữu cơ, thiên thạch và bụi liên hành tinh, mẫu vật thể nhỏ (Hayabusa2, OSIRIS-REx), phổ hồng ngoại của vật thể xuyên Neptune (JWST).
+url: https://www.ias.universite-paris-saclay.fr/en/content/team-members-0
+src: https://www.ias.universite-paris-saclay.fr/en/content/team-members-0
+p: Rosario Brunetto | Trưởng đội, nghiên cứu viên CNRS | https://www.ias.universite-paris-saclay.fr/en/content/team-members-0
+pp: Thành viên (trang không ghi vai trò) | Alice Aléon; Yann Arribard; Donia Baklouti; Zélia Dionnet; Zahia Djouadi; Kyllian Guernon; Elsa Henault; Léna Jossé; Cateline Lantz; Tania Le Pivert-Jolivet; Max Mahlke; Obadias Mivumbi
+
+#unit AMIS — Vật lý thiên văn môi trường giữa các sao
+parent: IAS
+topics: Khí và bụi giữa các sao, vùng quang phân ly (JWST PDRs4All), đĩa tiền hành tinh (ALMA), mô hình bụi THEMIS, hợp nhất dữ liệu ảnh và phổ.
+url: https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter
+src: https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation
+p: Emilie Habart | Trưởng đội, giảng viên | https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation
+pp: Nghiên cứu viên / giảng viên | Alain Abergel; Anthony Jones; Benoît Tabone; Laurent Verstraete
+pp: PD | Camille Bergez-Casalou; Meriem El Yajouri
+pp: NCS | Lucas Bayouri; Pacôme Esteve; Aurélien Piluso; Dan Pineau
+pp: Có trong ảnh nhóm (chưa rõ vai trò) | Dan Dicken; Marion Zannese; Nathalie Ysard; Axel Rymar; Raphaël Meshaka; Lara Pantoni
+
+#unit Cosmologie
+parent: IAS
+topics: Nền vi sóng vũ trụ (Planck/HFI, LiteBIRD), cụm thiên hà và hiệu ứng Sunyaev-Zel'dovich, Euclid, kỷ nguyên tái ion hóa và vạch 21 cm, mạng vũ trụ, thiết bị hồng ngoại xa – vô tuyến (FANTAS-IAS).
+url: https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation
+src: https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation
+pp: Đồng trưởng đội | Adélie Gorce; Laura Salvati
+pp: Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF) | Nabila Aghanim; Tony Bonnaire; Hervé Dole; Giulio Fabbian; Julien Grain; Bruno Maffei; Louise Mousset
+pp: Kỹ sư nghiên cứu | Raphaël Hembert; Loïc Maurin
+pp: PD | Elizabeth McBride; Valentin Sauvage
+pp: NCS | Pietro Albanese Guidi; Anaïs Besnard; Xavier Coulon; Lilian Crascall-Kennedy; Léa Dumilly; Tanguy Dusserre; Hugo Holland; Morgane Loquet Le Gall; Mehdi Noor; Jade Paste
+pp: Danh dự (émérite) | Jean-Loup Puget
+pp: Thành viên liên kết | Aurélien Decelle; Luca Pagano; Jenny Sorce; Samantha Stever
+pp: Có trong ảnh nhóm (chưa rõ vai trò) | Toni Tuominen; Mathieu Langer; Théo Lebeau; Gabriel Jung; Gaspard Aymerich
+
+#unit Physique Solaire et Stellaire
+parent: IAS
+topics: Vật lý vành nhật hoa và gió Mặt Trời (Solar Orbiter EUI/SPICE, SOHO), địa chấn Mặt Trời và địa chấn sao (PLATO), thời tiết không gian.
+url: https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team
+src: https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team
+p: Éric Buchlin | Trưởng đội | https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team
+pp: Thành viên (trang không ghi vai trò) | Thierry Appourchaux; Frédéric Auchère; Frédéric Baudin; Karine Bocchialini; Patrick Boumier; Lucie Degott; Jacques Dubau; Ganushan Ganesaratnam; João Marques; Slimane Mzerguat; Susanna Parenti; Charly Pinçon
+pp: Cộng tác viên thường xuyên | José Dias Do Nascimento; Miho Janvier (biệt phái ESA); John Leibacher; Barbara Perri
+
+#unit Systèmes Solaire et Planétaires
+parent: IAS
+topics: Bề mặt sao Hỏa và các hành tinh đá (OMEGA/Mars Express, MicrOmega trên MMX), sao Thủy (BepiColombo), thiên thể nhỏ, ngoại hành tinh.
+url: https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team
+src: https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team
+p: Mathieu Vincendon | Trưởng đội, MCF Paris-Saclay | https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team
+pp: Nhân sự biên chế (GS, DR, astronome, MCF) | Jean-Pierre Bibring; John Carter; Yves Langevin; Cédric Pilorget; François Poulet
+pp: PD | Yann Leseigneur; Nicolas Ligier; Damien Loizeau; Rachel Sheppard
+pp: NCS | Paolo Haffoud; Te Jiang; Apolline Leclef; Antoine Maillot; Laura Nardelli

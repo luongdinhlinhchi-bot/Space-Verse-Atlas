@@ -3,14 +3,66 @@ city: paris
 type: institute
 url: https://www.iap.fr/
 research: Vũ trụ học (CMB/Planck, Euclid, cấu trúc lớn), hình thành và tiến hóa thiên hà, hấp dẫn tương đối tính và sóng hấp dẫn, ngoại hành tinh, vật lý thiên văn năng lượng cao; mô phỏng số trên máy tính hiệu năng cao.
-coverage: limited
-structure: Đơn vị hỗn hợp UMR 7095 của CNRS và Sorbonne Université, thành lập năm 1936; năm đội nghiên cứu (trong đó có GReCO — hấp dẫn tương đối tính và vũ trụ học) cùng các "dự án chiến lược".
-structureUrl: https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf
-scope: Trang web IAP đang được thay bằng một trang tạm (19/11/2026) và không còn danh bạ nhân sự; chỉ ghi ban giám đốc theo báo cáo đánh giá HCERES 2025.
+coverage: partial
+structure: UMR 7095 (CNRS – Sorbonne Université), thành lập năm 1936; năm nhóm nghiên cứu: Hautes énergies et Univers précoce, Grandes structures et Univers profond, GReCO, Exoplanètes, Origine et évolution des galaxies; cùng các dự án chiến lược (Euclid, Planck DPC, SVOM...).
+structureUrl: https://www.iap.fr/recherche/groupes/groupes.php
+scope: Site IAP đang chuyển đổi và các trang thành viên chỉ đọc được một phần (11/2026). Nhân sự biên chế, danh dự và liên kết của năm nhóm lấy từ trang 'Membres du groupe'; danh sách postdoc/NCS/cộng tác chỉ có một phần và có chỗ chưa tách được theo loại. Giám đốc: Kumiko Kotera.
 
 #unit Ban giám đốc
 parent: IAP
 topics: —
 url: https://www.iap.fr/
-src: https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf
-pp: Ban giám đốc (theo báo cáo HCERES 2025) | François Bouchet; Kumiko Kotera
+src: https://en.wikipedia.org/wiki/Institut_d%27Astrophysique_de_Paris
+p: Kumiko Kotera | Giám đốc IAP | https://www.iap.fr/
+
+#unit Astrophysique des hautes énergies et Univers précoce
+parent: IAP
+topics: Tia gamma và chớp gamma (SVOM), lỗ đen siêu nặng, siêu tân tinh, tia vũ trụ năng lượng cực cao (GRAND), quần thể sao và thiên hà sơ khai (JWST), đường ngắm chuẩn tinh.
+url: https://www.iap.fr/recherche/groupes/groupes-1.php?nom=hautesenergies
+src: https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies
+pp: Nhân sự biên chế (CNRS, Sorbonne Université, CNAP) | Rafael Alves Batista; Stéphane Charlot; Frédéric Daigne; Luc Dessart; Yohan Dubois; Irina Dvorkin; Jean-Baptiste Fouvry; Pasquier Noterdaeme; Marion Pillas; Hélène Roussel; Marta Volonteri
+pp: Danh dự (émérite) | Jean Audouze; Patrick Boissé; Robert Mochkovitch; Alain Omont; Patrick Petitjean
+pp: Nghiên cứu viên liên kết | Pier-Stefano Corasaniti; Giulia Cusin; Marie Lecroq; Olivier Martineau; Sébastien Peirani; Simon Prunet; Joseph Silk; Susanna Vergani
+pp: PD / NCS / cộng tác (chưa tách được theo trang) | Emma Ayçoberry; Stanislav Babak; Ricarda Beckmann; Zeljka Bosnjak; Alessandro Bressan; Gustavo Bruzual; Matteo Bugli; Jacopo Chevallard; Simon Chiche; Marco Cirelli; Emma Curtis-Lake; Elisabete da Cunha; Valentin Decoene; Anna Feltre; Claire Guépin; Mimoza Hafizi; Michaela Hirschmann; Joe Lewis; Alessandro Lupi; Sylvia Manconi; Jesse Palmerio; Clément Pellouin; Adèle Plat; Francisco Rodriguez Montero; Kerwann Tep; Alba Vidal Garcia
+
+#unit Grandes structures et Univers profond
+parent: IAP
+topics: Vũ trụ học quan sát và thống kê (Planck, Euclid, LiteBIRD), bức xạ nền vũ trụ, thấu kính hấp dẫn yếu, cấu trúc lớn, suy luận Bayes và mô phỏng.
+url: https://www.iap.fr/recherche/groupes/groupes-1.php?nom=grandestruct
+src: https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct
+pp: Trưởng nhóm | Karim Benabed
+pp: Nhân sự biên chế (CNRS, Sorbonne Université, CNAP) | Christophe Alard; Jean-Francois Cardoso; Stéphane Colombi; Jean-Baptiste Fouvry; Silvia Galli; Céline Gouin; Éric Hivon; Clotilde Laigle; Guilhem Lavaux; Florent Leclercq; Henry-Joy McCracken; Yannick Mellier; Christophe Pichon; Alain Riazuelo; Jean-François Sygnet; Patrick Tisserand; Benjamin Wandelt
+pp: Danh dự (émérite) | François Bouchet; Jacques Colin
+pp: Nghiên cứu viên liên kết | Hervé Aussel; Francis Bernardeau; Roger-Maurice Bonnet; Avishaï Dekel; Raphaël Gavazzi; Sébastien Peirani; Simon Prunet; Christophe Ringeval
+pp: PD / NCS / cộng tác (một phần) | Pierre Boldrini; Corentin Cadiou; Nicolas Chartier; Cyrille Doux; Yves Elskens; James Fry; San Han; Jens Jasche; Katarina Kraljic; Shivam Pandey; Alisson Pellissier; Simon Rozier; Florian Sarron; Marko Shuntov; Emma Ayçoberry; Anirban Bairagi; Simon Ding
+
+#unit GReCO — Physique théorique : gravitation et cosmologie
+parent: IAP
+topics: Hấp dẫn tương đối tính và sóng hấp dẫn (dạng sóng hậu Newton cho LIGO/Virgo/LISA), vũ trụ học nguyên thủy và lạm phát, hố đen nguyên thủy, vật chất tối.
+url: https://www.iap.fr/recherche/groupes/groupes-1.php?nom=phystheo
+src: https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo
+pp: Nhân sự biên chế (CNRS, Sorbonne Université) | Pierre Auclair; Gilles Esposito-Farèse; Guillaume Faye; Yann Gouttenoire; Jérôme Martin; Patrick Peter; Cyril Pitrou; Sébastien Renaux-Petel; Jean-Philippe Uzan
+pp: Danh dự (émérite) | Luc Blanchet
+pp: Liên kết / biệt phái | Joël Bergé; Giulia Cusin; Clifford Will
+pp: Cộng tác viên bên ngoài | Eugeny Babichev; Angelo Caravano; Cédric Deffayet; Pierre Fleury; Julien Froustey; Quentin Henry; Christophe Ringeval; Denis Werth
+
+#unit Exoplanètes
+parent: IAP
+topics: Phát hiện ngoại hành tinh bằng vận tốc xuyên tâm (SOPHIE, SPIRou) và vi thấu kính (Euclid, Roman), khí quyển và sự bốc hơi của Jupiter nóng, sao chổi ngoài hệ, môi trường giữa các sao.
+url: https://www.iap.fr/recherche/groupes/groupes-1.php?nom=exoplanetes
+src: https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes
+pp: Nhân sự biên chế (CNRS, Sorbonne Université) | Jean-Philippe Beaulieu; Arnaud Cassan; Guillaume Hébrard; Alain Lecavelier des Etangs; Clément Ranc
+pp: Danh dự (émérite) | Pierre Drossart; Alfred Vidal-Madjar
+pp: Biệt phái | Caroline Terquem
+pp: Nghiên cứu viên liên kết | Nicole Allard; Panayotis Lavvas; Eder Martioli
+pp: Cộng tác (một phần) | Suleiman Baraka; Isabelle Boisse; Vincent Bourrier; Rodrigo Díaz; David Ehrenreich; Amélie Gressier; Cécile Gry
+
+#unit Origine et évolution des galaxies
+parent: IAP
+topics: Hình thành và tiến hóa thiên hà, thiên hà xa bằng JWST và thấu kính hấp dẫn, động lực học cụm thiên hà, tiến hóa hóa học, mô hình quần thể sao.
+url: https://www.iap.fr/recherche/groupes/groupes-1.php?nom=galaxies
+src: https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies
+pp: Nhân sự biên chế (CNRS, Sorbonne Université, CNAP) | Hakim Atek; Valérie de Lapparent; Michel Fioc; Pierre Guillard; Damien Le Borgne; Gary Mamon; Roya Mohayaee; Nikos Prantzos
+pp: Liên kết / cộng tác | Artur Hakobyan; Matthew Lehnert; Emmanuel Bertin; Aline Chu; Lukas Furtak; Louis Quilley; Trinh Xuan Thuan; Marina Trevisan; Eduardo Vitral
+pp: Danh dự (émérite) | Jacques Roland
+pp: PD | Meriam Ezziati; Jae Yeon Mun

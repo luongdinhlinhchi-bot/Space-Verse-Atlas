@@ -1,0 +1,25 @@
+@city besancon | Besançon | 6.02, 47.25
+
+@inst Institut UTINAM — Observatoire de Besançon (OSU THETA) / Université Marie et Louis Pasteur / CNRS
+city: besancon
+type: institute
+url: https://www.utinam.cnrs.fr/
+research: Vật thể nhỏ trong Hệ Mặt Trời (vật thể xuyên Neptune, sao chổi), cấu trúc và tiến hóa Ngân Hà qua quần thể sao và vật chất giữa các sao (Mô hình Ngân Hà Besançon, Gaia), hình thành và tiến hóa sao, sao lùn nâu, động lực học quay của vệ tinh.
+coverage: full
+structure: UMR 6213 (Université Marie et Louis Pasteur – CNRS), thuộc OSU THETA; nhiều nhóm liên ngành (vật lý, hóa học, khí quyển); nhóm thiên văn là Équipe Astro, cùng nhóm Physique théorique (ϕTh).
+structureUrl: https://www.utinam.cnrs.fr/en/laboratory/organizational-chart/
+scope: Đủ thành viên Équipe Astro theo trang nhóm và danh bạ UTINAM (11/2026); bỏ nhân sự hành chính và các nhóm hóa học, khí quyển, vật lý lý thuyết.
+
+#unit Équipe Astro
+parent: UTINAM
+topics: Vật thể xuyên Neptune và sao chổi (OSSOS, LSST), Mô hình Ngân Hà Besançon và Gaia, môi trường giữa các sao, sao lùn nâu và sao gần, vi thấu kính hấp dẫn, quay và nội tại vệ tinh.
+url: https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/
+src: https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/
+p: Benoît Noyelles | Trưởng nhóm, MCF | https://www.utinam.cnrs.fr/lannuaire/name/benoit-noyelles/
+p: Jean-Marc Petit | Nghiên cứu viên cao cấp (DR CNRS) | https://www.utinam.cnrs.fr/lannuaire/name/jean-marc-petit/
+pp: Giáo sư / Astronome | Philippe Rousselot; Céline Reylé
+pp: Nghiên cứu viên / Giảng viên (MCF, CPJ) | Julien Montillaud; Etienne Bachelet
+pp: Kỹ sư nghiên cứu | Anjana Mohandasan
+pp: PD | Max Mahlke
+pp: NCS | Camille Chatenet
+pp: Danh dự (émérite) | Annie Robin

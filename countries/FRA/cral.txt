@@ -1,0 +1,50 @@
+@city lyon | Lyon | 4.83, 45.76
+
+@inst Centre de Recherche Astrophysique de Lyon (CRAL) — Université Claude Bernard Lyon 1 / ENS de Lyon / CNRS
+city: lyon
+type: institute
+url: https://cral.osu-lyon.fr/
+research: Vật lý plasma đặc cho sao khối lượng nhỏ, sao lùn nâu và ngoại hành tinh; hình thành sao và hành tinh, bụi trong đĩa tiền hành tinh; vũ trụ học tương đối tính; hình thành và tiến hóa thiên hà, môi trường quanh thiên hà (MUSE, BlueMUSE); thiết bị và xử lý ảnh độ phân giải góc cao (giao thoa, quang học thích ứng, SPHERE, GRAVITY+).
+coverage: full
+structure: UMR 5574 (UCBL – ENS de Lyon – CNRS), thuộc Observatoire de Lyon (OSUL), hai địa điểm Saint-Genis-Laval và ENS (Monod); ba nhóm nghiên cứu: AstroENS, GALPAC, AIRI; cùng pôle thiết bị và các dịch vụ.
+structureUrl: https://cral.osu-lyon.fr/
+scope: Đủ thành viên ba nhóm nghiên cứu theo trang nhóm trên site mới cral.osu-lyon.fr (11/2026), phân loại theo trang; bỏ cựu thành viên và pôle thiết bị (trừ cộng tác viên ghi trên trang AIRI).
+
+#unit AstroENS — Vật lý thiên văn lý thuyết và tính toán
+parent: CRAL
+topics: Plasma đặc và cấu trúc sao lùn, sao lùn nâu, ngoại hành tinh khổng lồ; hình thành sao (mô phỏng MHD), bụi và đĩa tiền hành tinh; vũ trụ học tương đối tính; mô phỏng số hiệu năng cao.
+url: https://cral.osu-lyon.fr/recherche/astroens/
+src: https://cral.osu-lyon.fr/recherche/astroens/
+p: Guillaume Laibe | Trưởng nhóm | https://cral.osu-lyon.fr/recherche/astroens/
+p: Jean-François Gonzalez | Giám đốc CRAL | https://cral.osu-lyon.fr/recherche/astroens/
+pp: Nghiên cứu viên / giảng viên | Isabelle Baraffe (biệt phái Exeter); Thomas Buchert; Benoît Commerçon; Jérémy Fensch; Gérard Massacrier; Christophe Winisdoerffer
+pp: PD | Adnan Ali Ahmad; Hamed Barzegar; Noé Brucy; Tine Colman; Elliot Lynch; Anass Serhani; David Whitworth
+pp: NCS | Antonin Borderies; Pierre Dumond; Yona Lapeyre; Louca Romain; Nai-Chieh Daniel Lin; Léodasce Sewanou
+pp: Danh dự (émérite) | Gilles Chabrier; Rolf Walder
+pp: Nghiên cứu viên liên kết | Doris Folini (ETH Zürich); Sacha Potekhin (Viện Ioffe); Quentin Vigneron (Toruń)
+
+#unit GALPAC — Thiên hà và môi trường quanh thiên hà
+parent: CRAL
+topics: Hình thành và tiến hóa thiên hà, môi trường quanh thiên hà và tái ion hóa (mô phỏng RAMSES-RT), phổ trường tích phân (MUSE, BlueMUSE), thấu kính hấp dẫn, quần thể sao.
+url: https://cral.osu-lyon.fr/galpac/
+src: https://cral.osu-lyon.fr/galpac/
+p: Joakim Rosdahl | Trưởng nhóm | https://cral.osu-lyon.fr/galpac/
+pp: Nghiên cứu viên / giảng viên | Jérémy Blaizot; Nicolas Bouché; Adélaïde Claeyssens Beaupère; Jens-Kristian Krogager; Floriane Leclercq; Matthew Lehnert; Emmanuel Pécontal; Philippe Prugniel; Johan Richard; Isabelle Vauglin
+pp: PD | Arghyadeep Basu; Bianca Iulia Ciocan; Christina Konstantopoulou
+pp: NCS | Snigdha Bhattacharjee; Masten Bourahma; Felipe Corro; Corentin Cudennec; Laura Fuglsang; Alexandre Jeanneau; Hoelle Marchadour; Julia Shouse
+pp: Danh dự (émérite) | Roland Bacon
+pp: Biệt phái | Julien Devriendt (Oxford); Éric Emsellem (ESO)
+pp: Nghiên cứu viên liên kết | Thibault Garel (Genève); Anne Verhamme (Genève)
+
+#unit AIRI — Vật lý thiên văn và tạo ảnh độ phân giải giao thoa
+parent: CRAL
+topics: Giao thoa quang học, quang học thích ứng, tái tạo ảnh và bài toán ngược, chụp ảnh trực tiếp ngoại hành tinh, thiết bị cho VLT và ELT.
+url: https://cral.osu-lyon.fr/airi/
+src: https://cral.osu-lyon.fr/airi/
+p: Isabelle Tallon-Bosc | Trưởng nhóm | https://cral.osu-lyon.fr/airi/
+pp: Nghiên cứu viên | Olivier Flasseur; Maud Langlois; Ferréol Soulez; Michel Tallon; Éric Thiébaut
+pp: PD | Clémentine Béchet-Perez; Sophia Stasevic
+pp: NCS | Hanh Tran Thi My; Tristan Riou; Elias Nussbaumer
+pp: Kỹ sư hợp đồng | Antoine Kaszczyc; Clément Schotte; Francesca Rebasti; Romain Loustalet; Maxime Journoud
+pp: Cộng tác viên (pôle thiết bị) | Magali Loupias; Gil Moretto; Victor Mauger-Vauglin
+pp: Nghiên cứu viên liên kết | Laurence Denneulin (EPITA); Foamie K. Thetpraphi

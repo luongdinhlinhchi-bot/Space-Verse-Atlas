@@ -408,53 +408,593 @@
      "type": "institute",
      "research": "Vũ trụ học (Planck/HFI, nền vi sóng vũ trụ, bolometer), môi trường liên sao và bụi (Herschel, JWST), vật lý Mặt Trời và sao (Solar Orbiter, SOHO), hành tinh và thiên thể nhỏ (Mars, Mercury, sao chổi, ngoại hành tinh), hoá học thiên văn thực nghiệm; chế tạo thiết bị không gian.",
      "url": "https://www.ias.universite-paris-saclay.fr/",
-     "coverage": "limited",
+     "coverage": "partial",
      "structure": "Đơn vị hỗn hợp UMR 8617 (CNRS – Université Paris-Saclay) tại Orsay; năm đội khoa học (Astrochimie & Origines, AMIS, Cosmologie, Hệ Mặt Trời & hệ hành tinh, Mặt Trời & sao) cùng các nền tảng IDOC và PARADISE.",
      "structureUrl": "https://www.ias.universite-paris-saclay.fr/sites/default/files/laboratoire/ORGANIGRAMME_janvier%202026_General.pdf",
-     "scopeNote": "Danh bạ IAS chuyển sang máy chủ mới và không truy cập được (11/2026); chỉ ghi ban giám đốc theo báo cáo HCERES và trưởng đội được nêu trên trang từng đội.",
+     "scopeNote": "Danh bạ IAS không truy cập được (11/2026); danh sách lấy từ trang thành viên của năm đội trên site IAS. Trang AMIS và Cosmologie là bản hiện hành, có vai trò; trang Astrochimie chỉ có tên; trang Mặt Trời – sao và Hệ Mặt Trời – hành tinh là bản cũ hơn trên tên miền ias.u-psud.fr nên có thể chưa cập nhật. Người chỉ xuất hiện trong chú thích ảnh được ghi riêng.",
      "units": [
       {
-       "name": "Ban giám đốc và trưởng đội",
+       "name": "Ban giám đốc",
        "kind": "Nhóm nghiên cứu",
        "parent": "IAS",
        "topics": "—",
-       "url": "https://www.ias.universite-paris-saclay.fr/",
+       "url": "https://www.ias.universite-paris-saclay.fr/en/the-lab/organization",
        "researchers": {
         "people": [
          {
           "name": "Marc Ollivier",
-          "role": "Ban giám đốc (theo HCERES)",
-          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+          "role": "Giám đốc IAS, Astronome",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/the-lab/organization"
          },
          {
           "name": "Marian Douspis",
-          "role": "Ban giám đốc (theo HCERES)",
-          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
-         },
-         {
-          "name": "Zahia Djouadi",
-          "role": "Trưởng đội Astrochimie & Origines",
-          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
-         },
-         {
-          "name": "Emilie Habart",
-          "role": "Trưởng đội Môi trường liên sao (AMIS)",
-          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
-         },
-         {
-          "name": "Laura Salvati",
-          "role": "Đồng trưởng đội Vũ trụ học",
-          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
-         },
-         {
-          "name": "Éric Buchlin",
-          "role": "Trưởng đội Vật lý Mặt Trời và sao",
-          "url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+          "role": "Phó giám đốc, Astronome",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/the-lab/organization"
          }
         ],
         "external": [],
         "sources": [
-         "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DER-ER-DER-PUR260025070-ST3-IAS-RF.pdf"
+         "https://www.ias.universite-paris-saclay.fr/en/the-lab/organization"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Astrochimie et Origines",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAS",
+       "topics": "Hóa học thiên văn thực nghiệm, băng và chất hữu cơ, thiên thạch và bụi liên hành tinh, mẫu vật thể nhỏ (Hayabusa2, OSIRIS-REx), phổ hồng ngoại của vật thể xuyên Neptune (JWST).",
+       "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0",
+       "researchers": {
+        "people": [
+         {
+          "name": "Rosario Brunetto",
+          "role": "Trưởng đội, nghiên cứu viên CNRS",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Alice Aléon",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Yann Arribard",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Donia Baklouti",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Zélia Dionnet",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Zahia Djouadi",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Kyllian Guernon",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Elsa Henault",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Léna Jossé",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Cateline Lantz",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Tania Le Pivert-Jolivet",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Max Mahlke",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         },
+         {
+          "name": "Obadias Mivumbi",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ias.universite-paris-saclay.fr/en/content/team-members-0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "AMIS — Vật lý thiên văn môi trường giữa các sao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAS",
+       "topics": "Khí và bụi giữa các sao, vùng quang phân ly (JWST PDRs4All), đĩa tiền hành tinh (ALMA), mô hình bụi THEMIS, hợp nhất dữ liệu ảnh và phổ.",
+       "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter",
+       "researchers": {
+        "people": [
+         {
+          "name": "Emilie Habart",
+          "role": "Trưởng đội, giảng viên",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Alain Abergel",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Anthony Jones",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Benoît Tabone",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Laurent Verstraete",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Camille Bergez-Casalou",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Meriem El Yajouri",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Lucas Bayouri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Pacôme Esteve",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Aurélien Piluso",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Dan Pineau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Dan Dicken",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Marion Zannese",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Nathalie Ysard",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Axel Rymar",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Raphaël Meshaka",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         },
+         {
+          "name": "Lara Pantoni",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ias.universite-paris-saclay.fr/en/research-activities/astrophysics-of-interstellar-matter/presentation"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Cosmologie",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAS",
+       "topics": "Nền vi sóng vũ trụ (Planck/HFI, LiteBIRD), cụm thiên hà và hiệu ứng Sunyaev-Zel'dovich, Euclid, kỷ nguyên tái ion hóa và vạch 21 cm, mạng vũ trụ, thiết bị hồng ngoại xa – vô tuyến (FANTAS-IAS).",
+       "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation",
+       "researchers": {
+        "people": [
+         {
+          "name": "Adélie Gorce",
+          "role": "Đồng trưởng đội",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Laura Salvati",
+          "role": "Đồng trưởng đội",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Nabila Aghanim",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Tony Bonnaire",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Hervé Dole",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Giulio Fabbian",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Julien Grain",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Bruno Maffei",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Louise Mousset",
+          "role": "Nghiên cứu viên / giảng viên (DR, CR, GS, astronome, MCF)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Raphaël Hembert",
+          "role": "Kỹ sư nghiên cứu",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Loïc Maurin",
+          "role": "Kỹ sư nghiên cứu",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Elizabeth McBride",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Valentin Sauvage",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Pietro Albanese Guidi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Anaïs Besnard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Xavier Coulon",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Lilian Crascall-Kennedy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Léa Dumilly",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Tanguy Dusserre",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Hugo Holland",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Morgane Loquet Le Gall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Mehdi Noor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Jade Paste",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Jean-Loup Puget",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Aurélien Decelle",
+          "role": "Thành viên liên kết",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Luca Pagano",
+          "role": "Thành viên liên kết",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Jenny Sorce",
+          "role": "Thành viên liên kết",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Samantha Stever",
+          "role": "Thành viên liên kết",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Toni Tuominen",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Mathieu Langer",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Théo Lebeau",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Gabriel Jung",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         },
+         {
+          "name": "Gaspard Aymerich",
+          "role": "Có trong ảnh nhóm (chưa rõ vai trò)",
+          "url": "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ias.universite-paris-saclay.fr/en/research-activities/cosmology/presentation"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Physique Solaire et Stellaire",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAS",
+       "topics": "Vật lý vành nhật hoa và gió Mặt Trời (Solar Orbiter EUI/SPICE, SOHO), địa chấn Mặt Trời và địa chấn sao (PLATO), thời tiết không gian.",
+       "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Éric Buchlin",
+          "role": "Trưởng đội",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Thierry Appourchaux",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Frédéric Auchère",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Frédéric Baudin",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Karine Bocchialini",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Patrick Boumier",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Lucie Degott",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Jacques Dubau",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Ganushan Ganesaratnam",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "João Marques",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Slimane Mzerguat",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Susanna Parenti",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Charly Pinçon",
+          "role": "Thành viên (trang không ghi vai trò)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "José Dias Do Nascimento",
+          "role": "Cộng tác viên thường xuyên",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Miho Janvier (biệt phái ESA)",
+          "role": "Cộng tác viên thường xuyên",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "John Leibacher",
+          "role": "Cộng tác viên thường xuyên",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         },
+         {
+          "name": "Barbara Perri",
+          "role": "Cộng tác viên thường xuyên",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ias.u-psud.fr/en/research-activities/stellar-and-solar-physics/team"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Systèmes Solaire et Planétaires",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAS",
+       "topics": "Bề mặt sao Hỏa và các hành tinh đá (OMEGA/Mars Express, MicrOmega trên MMX), sao Thủy (BepiColombo), thiên thể nhỏ, ngoại hành tinh.",
+       "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Mathieu Vincendon",
+          "role": "Trưởng đội, MCF Paris-Saclay",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Jean-Pierre Bibring",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "John Carter",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Yves Langevin",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Cédric Pilorget",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "François Poulet",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Yann Leseigneur",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Nicolas Ligier",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Damien Loizeau",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Rachel Sheppard",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Paolo Haffoud",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Te Jiang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Apolline Leclef",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Antoine Maillot",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         },
+         {
+          "name": "Laura Nardelli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ias.u-psud.fr/en/research-activities/solar-and-planetary-systems/team"
         ],
         "note": "",
         "checked": "2026-11-22"
@@ -467,6 +1007,450 @@
    "offset": [
     14.0,
     12.0
+   ]
+  },
+  {
+   "id": "lyon",
+   "city": "Lyon",
+   "coordinates": [
+    4.83,
+    45.76
+   ],
+   "institutions": [
+    {
+     "name": "Centre de Recherche Astrophysique de Lyon (CRAL) — Université Claude Bernard Lyon 1 / ENS de Lyon / CNRS",
+     "type": "institute",
+     "research": "Vật lý plasma đặc cho sao khối lượng nhỏ, sao lùn nâu và ngoại hành tinh; hình thành sao và hành tinh, bụi trong đĩa tiền hành tinh; vũ trụ học tương đối tính; hình thành và tiến hóa thiên hà, môi trường quanh thiên hà (MUSE, BlueMUSE); thiết bị và xử lý ảnh độ phân giải góc cao (giao thoa, quang học thích ứng, SPHERE, GRAVITY+).",
+     "url": "https://cral.osu-lyon.fr/",
+     "coverage": "full",
+     "structure": "UMR 5574 (UCBL – ENS de Lyon – CNRS), thuộc Observatoire de Lyon (OSUL), hai địa điểm Saint-Genis-Laval và ENS (Monod); ba nhóm nghiên cứu: AstroENS, GALPAC, AIRI; cùng pôle thiết bị và các dịch vụ.",
+     "structureUrl": "https://cral.osu-lyon.fr/",
+     "scopeNote": "Đủ thành viên ba nhóm nghiên cứu theo trang nhóm trên site mới cral.osu-lyon.fr (11/2026), phân loại theo trang; bỏ cựu thành viên và pôle thiết bị (trừ cộng tác viên ghi trên trang AIRI).",
+     "units": [
+      {
+       "name": "AstroENS — Vật lý thiên văn lý thuyết và tính toán",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CRAL",
+       "topics": "Plasma đặc và cấu trúc sao lùn, sao lùn nâu, ngoại hành tinh khổng lồ; hình thành sao (mô phỏng MHD), bụi và đĩa tiền hành tinh; vũ trụ học tương đối tính; mô phỏng số hiệu năng cao.",
+       "url": "https://cral.osu-lyon.fr/recherche/astroens/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Guillaume Laibe",
+          "role": "Trưởng nhóm",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Jean-François Gonzalez",
+          "role": "Giám đốc CRAL",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Isabelle Baraffe (biệt phái Exeter)",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Thomas Buchert",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Benoît Commerçon",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Jérémy Fensch",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Gérard Massacrier",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Christophe Winisdoerffer",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Adnan Ali Ahmad",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Hamed Barzegar",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Noé Brucy",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Tine Colman",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Elliot Lynch",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Anass Serhani",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "David Whitworth",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Antonin Borderies",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Pierre Dumond",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Yona Lapeyre",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Louca Romain",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Nai-Chieh Daniel Lin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Léodasce Sewanou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Gilles Chabrier",
+          "role": "Danh dự (émérite)",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Rolf Walder",
+          "role": "Danh dự (émérite)",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Doris Folini (ETH Zürich)",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Sacha Potekhin (Viện Ioffe)",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         },
+         {
+          "name": "Quentin Vigneron (Toruń)",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/recherche/astroens/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://cral.osu-lyon.fr/recherche/astroens/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "GALPAC — Thiên hà và môi trường quanh thiên hà",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CRAL",
+       "topics": "Hình thành và tiến hóa thiên hà, môi trường quanh thiên hà và tái ion hóa (mô phỏng RAMSES-RT), phổ trường tích phân (MUSE, BlueMUSE), thấu kính hấp dẫn, quần thể sao.",
+       "url": "https://cral.osu-lyon.fr/galpac/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Joakim Rosdahl",
+          "role": "Trưởng nhóm",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Jérémy Blaizot",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Nicolas Bouché",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Adélaïde Claeyssens Beaupère",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Jens-Kristian Krogager",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Floriane Leclercq",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Matthew Lehnert",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Emmanuel Pécontal",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Philippe Prugniel",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Johan Richard",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Isabelle Vauglin",
+          "role": "Nghiên cứu viên / giảng viên",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Arghyadeep Basu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Bianca Iulia Ciocan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Christina Konstantopoulou",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Snigdha Bhattacharjee",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Masten Bourahma",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Felipe Corro",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Corentin Cudennec",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Laura Fuglsang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Alexandre Jeanneau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Hoelle Marchadour",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Julia Shouse",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Roland Bacon",
+          "role": "Danh dự (émérite)",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Julien Devriendt (Oxford)",
+          "role": "Biệt phái",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Éric Emsellem (ESO)",
+          "role": "Biệt phái",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Thibault Garel (Genève)",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         },
+         {
+          "name": "Anne Verhamme (Genève)",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/galpac/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://cral.osu-lyon.fr/galpac/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "AIRI — Vật lý thiên văn và tạo ảnh độ phân giải giao thoa",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CRAL",
+       "topics": "Giao thoa quang học, quang học thích ứng, tái tạo ảnh và bài toán ngược, chụp ảnh trực tiếp ngoại hành tinh, thiết bị cho VLT và ELT.",
+       "url": "https://cral.osu-lyon.fr/airi/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Isabelle Tallon-Bosc",
+          "role": "Trưởng nhóm",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Olivier Flasseur",
+          "role": "Nghiên cứu viên",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Maud Langlois",
+          "role": "Nghiên cứu viên",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Ferréol Soulez",
+          "role": "Nghiên cứu viên",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Michel Tallon",
+          "role": "Nghiên cứu viên",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Éric Thiébaut",
+          "role": "Nghiên cứu viên",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Clémentine Béchet-Perez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Sophia Stasevic",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Hanh Tran Thi My",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Tristan Riou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Elias Nussbaumer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Antoine Kaszczyc",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Clément Schotte",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Francesca Rebasti",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Romain Loustalet",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Maxime Journoud",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Magali Loupias",
+          "role": "Cộng tác viên (pôle thiết bị)",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Gil Moretto",
+          "role": "Cộng tác viên (pôle thiết bị)",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Victor Mauger-Vauglin",
+          "role": "Cộng tác viên (pôle thiết bị)",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Laurence Denneulin (EPITA)",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         },
+         {
+          "name": "Foamie K. Thetpraphi",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://cral.osu-lyon.fr/airi/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://cral.osu-lyon.fr/airi/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
    ]
   },
   {
@@ -6098,10 +7082,10 @@
      "type": "institute",
      "research": "Vũ trụ học (CMB/Planck, Euclid, cấu trúc lớn), hình thành và tiến hóa thiên hà, hấp dẫn tương đối tính và sóng hấp dẫn, ngoại hành tinh, vật lý thiên văn năng lượng cao; mô phỏng số trên máy tính hiệu năng cao.",
      "url": "https://www.iap.fr/",
-     "coverage": "limited",
-     "structure": "Đơn vị hỗn hợp UMR 7095 của CNRS và Sorbonne Université, thành lập năm 1936; năm đội nghiên cứu (trong đó có GReCO — hấp dẫn tương đối tính và vũ trụ học) cùng các \"dự án chiến lược\".",
-     "structureUrl": "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf",
-     "scopeNote": "Trang web IAP đang được thay bằng một trang tạm (19/11/2026) và không còn danh bạ nhân sự; chỉ ghi ban giám đốc theo báo cáo đánh giá HCERES 2025.",
+     "coverage": "partial",
+     "structure": "UMR 7095 (CNRS – Sorbonne Université), thành lập năm 1936; năm nhóm nghiên cứu: Hautes énergies et Univers précoce, Grandes structures et Univers profond, GReCO, Exoplanètes, Origine et évolution des galaxies; cùng các dự án chiến lược (Euclid, Planck DPC, SVOM...).",
+     "structureUrl": "https://www.iap.fr/recherche/groupes/groupes.php",
+     "scopeNote": "Site IAP đang chuyển đổi và các trang thành viên chỉ đọc được một phần (11/2026). Nhân sự biên chế, danh dự và liên kết của năm nhóm lấy từ trang 'Membres du groupe'; danh sách postdoc/NCS/cộng tác chỉ có một phần và có chỗ chưa tách được theo loại. Giám đốc: Kumiko Kotera.",
      "units": [
       {
        "name": "Ban giám đốc",
@@ -6112,19 +7096,869 @@
        "researchers": {
         "people": [
          {
-          "name": "François Bouchet",
-          "role": "Ban giám đốc (theo báo cáo HCERES 2025)",
-          "url": "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf"
-         },
-         {
           "name": "Kumiko Kotera",
-          "role": "Ban giám đốc (theo báo cáo HCERES 2025)",
-          "url": "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf"
+          "role": "Giám đốc IAP",
+          "url": "https://www.iap.fr/"
          }
         ],
         "external": [],
         "sources": [
-         "https://hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DER-ER-DER-PUR250024457-ST3-IAP-RF.pdf"
+         "https://en.wikipedia.org/wiki/Institut_d%27Astrophysique_de_Paris"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Astrophysique des hautes énergies et Univers précoce",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAP",
+       "topics": "Tia gamma và chớp gamma (SVOM), lỗ đen siêu nặng, siêu tân tinh, tia vũ trụ năng lượng cực cao (GRAND), quần thể sao và thiên hà sơ khai (JWST), đường ngắm chuẩn tinh.",
+       "url": "https://www.iap.fr/recherche/groupes/groupes-1.php?nom=hautesenergies",
+       "researchers": {
+        "people": [
+         {
+          "name": "Rafael Alves Batista",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Stéphane Charlot",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Frédéric Daigne",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Luc Dessart",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Yohan Dubois",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Irina Dvorkin",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Jean-Baptiste Fouvry",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Pasquier Noterdaeme",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Marion Pillas",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Hélène Roussel",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Marta Volonteri",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Jean Audouze",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Patrick Boissé",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Robert Mochkovitch",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Alain Omont",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Patrick Petitjean",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Pier-Stefano Corasaniti",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Giulia Cusin",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Marie Lecroq",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Olivier Martineau",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Sébastien Peirani",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Simon Prunet",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Joseph Silk",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Susanna Vergani",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Emma Ayçoberry",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Stanislav Babak",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Ricarda Beckmann",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Zeljka Bosnjak",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Alessandro Bressan",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Gustavo Bruzual",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Matteo Bugli",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Jacopo Chevallard",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Simon Chiche",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Marco Cirelli",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Emma Curtis-Lake",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Elisabete da Cunha",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Valentin Decoene",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Anna Feltre",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Claire Guépin",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Mimoza Hafizi",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Michaela Hirschmann",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Joe Lewis",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Alessandro Lupi",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Sylvia Manconi",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Jesse Palmerio",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Clément Pellouin",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Adèle Plat",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Francisco Rodriguez Montero",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Kerwann Tep",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         },
+         {
+          "name": "Alba Vidal Garcia",
+          "role": "PD / NCS / cộng tác (chưa tách được theo trang)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=hautesenergies"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Grandes structures et Univers profond",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAP",
+       "topics": "Vũ trụ học quan sát và thống kê (Planck, Euclid, LiteBIRD), bức xạ nền vũ trụ, thấu kính hấp dẫn yếu, cấu trúc lớn, suy luận Bayes và mô phỏng.",
+       "url": "https://www.iap.fr/recherche/groupes/groupes-1.php?nom=grandestruct",
+       "researchers": {
+        "people": [
+         {
+          "name": "Karim Benabed",
+          "role": "Trưởng nhóm",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Christophe Alard",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Jean-Francois Cardoso",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Stéphane Colombi",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Jean-Baptiste Fouvry",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Silvia Galli",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Céline Gouin",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Éric Hivon",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Clotilde Laigle",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Guilhem Lavaux",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Florent Leclercq",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Henry-Joy McCracken",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Yannick Mellier",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Christophe Pichon",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Alain Riazuelo",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Jean-François Sygnet",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Patrick Tisserand",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Benjamin Wandelt",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "François Bouchet",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Jacques Colin",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Hervé Aussel",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Francis Bernardeau",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Roger-Maurice Bonnet",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Avishaï Dekel",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Raphaël Gavazzi",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Sébastien Peirani",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Simon Prunet",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Christophe Ringeval",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Pierre Boldrini",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Corentin Cadiou",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Nicolas Chartier",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Cyrille Doux",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Yves Elskens",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "James Fry",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "San Han",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Jens Jasche",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Katarina Kraljic",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Shivam Pandey",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Alisson Pellissier",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Simon Rozier",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Florian Sarron",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Marko Shuntov",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Emma Ayçoberry",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Anirban Bairagi",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         },
+         {
+          "name": "Simon Ding",
+          "role": "PD / NCS / cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=grandestruct"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "GReCO — Physique théorique : gravitation et cosmologie",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAP",
+       "topics": "Hấp dẫn tương đối tính và sóng hấp dẫn (dạng sóng hậu Newton cho LIGO/Virgo/LISA), vũ trụ học nguyên thủy và lạm phát, hố đen nguyên thủy, vật chất tối.",
+       "url": "https://www.iap.fr/recherche/groupes/groupes-1.php?nom=phystheo",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pierre Auclair",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Gilles Esposito-Farèse",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Guillaume Faye",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Yann Gouttenoire",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Jérôme Martin",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Patrick Peter",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Cyril Pitrou",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Sébastien Renaux-Petel",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Jean-Philippe Uzan",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Luc Blanchet",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Joël Bergé",
+          "role": "Liên kết / biệt phái",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Giulia Cusin",
+          "role": "Liên kết / biệt phái",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Clifford Will",
+          "role": "Liên kết / biệt phái",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Eugeny Babichev",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Angelo Caravano",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Cédric Deffayet",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Pierre Fleury",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Julien Froustey",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Quentin Henry",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Christophe Ringeval",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         },
+         {
+          "name": "Denis Werth",
+          "role": "Cộng tác viên bên ngoài",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=phystheo"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Exoplanètes",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAP",
+       "topics": "Phát hiện ngoại hành tinh bằng vận tốc xuyên tâm (SOPHIE, SPIRou) và vi thấu kính (Euclid, Roman), khí quyển và sự bốc hơi của Jupiter nóng, sao chổi ngoài hệ, môi trường giữa các sao.",
+       "url": "https://www.iap.fr/recherche/groupes/groupes-1.php?nom=exoplanetes",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jean-Philippe Beaulieu",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Arnaud Cassan",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Guillaume Hébrard",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Alain Lecavelier des Etangs",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Clément Ranc",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Pierre Drossart",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Alfred Vidal-Madjar",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Caroline Terquem",
+          "role": "Biệt phái",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Nicole Allard",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Panayotis Lavvas",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Eder Martioli",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Suleiman Baraka",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Isabelle Boisse",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Vincent Bourrier",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Rodrigo Díaz",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "David Ehrenreich",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Amélie Gressier",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         },
+         {
+          "name": "Cécile Gry",
+          "role": "Cộng tác (một phần)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=exoplanetes"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Origine et évolution des galaxies",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAP",
+       "topics": "Hình thành và tiến hóa thiên hà, thiên hà xa bằng JWST và thấu kính hấp dẫn, động lực học cụm thiên hà, tiến hóa hóa học, mô hình quần thể sao.",
+       "url": "https://www.iap.fr/recherche/groupes/groupes-1.php?nom=galaxies",
+       "researchers": {
+        "people": [
+         {
+          "name": "Hakim Atek",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Valérie de Lapparent",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Michel Fioc",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Pierre Guillard",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Damien Le Borgne",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Gary Mamon",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Roya Mohayaee",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Nikos Prantzos",
+          "role": "Nhân sự biên chế (CNRS, Sorbonne Université, CNAP)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Artur Hakobyan",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Matthew Lehnert",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Emmanuel Bertin",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Aline Chu",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Lukas Furtak",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Louis Quilley",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Trinh Xuan Thuan",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Marina Trevisan",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Eduardo Vitral",
+          "role": "Liên kết / cộng tác",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Jacques Roland",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Meriam Ezziati",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         },
+         {
+          "name": "Jae Yeon Mun",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iap.fr/recherche/groupes/groupes-3.php?nom=galaxies"
         ],
         "note": "",
         "checked": "2026-11-22"
@@ -6141,7 +7975,7 @@
      "coverage": "partial",
      "structure": "Khoa học bộ thứ ba của Observatoire de Paris-PSL, lập 1/1/2025 từ việc hợp nhất SYRTE và IMCCE; chín đội nghiên cứu.",
      "structureUrl": "https://lte.observatoiredeparis.psl.eu/-Equipes-de-recherche-",
-     "scopeNote": "Chỉ lấy ba đội thiên văn thuộc IMCCE cũ (ASD, PEGASE, ACME) theo trang thành viên của từng đội; các đội đo lường thời gian, nguyên tử và hệ quy chiếu của SYRTE cũ chưa đưa vào. Danh bạ LTE cần đăng nhập.",
+     "scopeNote": "Ba đội thiên văn thuộc IMCCE cũ (ASD, PEGASE, ACME) và đội Théorie et Métrologie của SYRTE cũ lấy đủ theo trang thành viên từng đội; đội hệ quy chiếu thiên văn – trắc địa (REFAG) chỉ có người phụ trách dịch vụ. Các đội đồng hồ nguyên tử, thang thời gian và cảm biến lượng tử không đưa vào vì thuộc vật lý đo lường. Danh bạ LTE cần đăng nhập.",
      "units": [
       {
        "name": "ASD — Thiên văn và hệ động lực",
@@ -6459,6 +8293,135 @@
         "external": [],
         "sources": [
          "https://www.imcce.fr/recherche/equipes/acme/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Théorie et Métrologie (SYRTE cũ)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LTE",
+       "topics": "Thuyết tương đối và hệ quy chiếu tương đối tính, kiểm chứng các định luật vật lý cơ bản (MICROSCOPE, ACES), tìm vật chất tối bằng đồng hồ nguyên tử, trắc địa thời gian, sóng hấp dẫn và LISA.",
+       "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pacôme Delva",
+          "role": "Trưởng nhóm Théorie et Métrologie",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Marie-Christine Angonin",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Adrien Bourgoin",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Christine Guerlin",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Aurélien Hees",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Marc Lilley",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Christophe Le Poncin-Lafitte",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Peter Wolf",
+          "role": "Nhân sự biên chế",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Miltiadis Chatzinikos",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Robin Corgier",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Olaf Hartwig",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Nils Albin Nilsson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Samy Aoulad Lafkih",
+          "role": "Nghiên cứu sinh",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Christopher Aykroyd",
+          "role": "Nghiên cứu sinh",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Sébastien Fernandez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Jordan Gué",
+          "role": "Nghiên cứu sinh",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         },
+         {
+          "name": "Nicolas Maron",
+          "role": "Nghiên cứu sinh",
+          "url": "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://syrte.observatoiredeparis.psl.eu/spip/science/theorie/equipe/?lang=fr"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "REFAG — Hệ quy chiếu thiên văn – trắc địa (SYRTE cũ)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LTE",
+       "topics": "Hệ quy chiếu thiên văn bằng VLBI (ICRF), quay Trái Đất, liên kết với Gaia, thiên văn đo vị trí của AGN; Trung tâm Quy ước IERS.",
+       "url": "https://syrte.obspm.fr/spip/en/science/referentiels-astrogeodesiques/index.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Christian Bizouard",
+          "role": "Phụ trách Trung tâm Quy ước IERS",
+          "url": "https://syrte.obspm.fr/spip/fr/services/centre-de-conventions-de-l-iers/"
+         },
+         {
+          "name": "Sébastien Lambert",
+          "role": "Phụ trách Trung tâm Quy ước IERS",
+          "url": "https://syrte.obspm.fr/spip/fr/services/centre-de-conventions-de-l-iers/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://syrte.obspm.fr/spip/fr/services/centre-de-conventions-de-l-iers/"
         ],
         "note": "",
         "checked": "2026-11-22"
@@ -7715,53 +9678,745 @@
      "type": "institute",
      "research": "Ngoại hành tinh và hình thành hành tinh, tiểu hành tinh (Gaia, Hera), vật lý sao và Mặt Trời, thiên hà và vũ trụ học, giao thoa kế quang học (VLTI, CHARA), xử lý tín hiệu/ảnh, rối loạn chất lưu và plasma, sóng hấp dẫn.",
      "url": "https://lagrange.oca.eu/fr/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "UMR 7293 (OCA – UCA – CNRS); sáu nhóm: Galaxies et Cosmologie, Méthodes Physiques pour l'Observation (MPO), Physique Stellaire et Solaire, Signal & Image, Théorie et Observations en Planétologie (TOP), Turbulence Fluide et Plasma.",
      "structureUrl": "https://lagrange.oca.eu/fr/rech-lagrange/equipes",
-     "scopeNote": "Chỉ gồm thành viên có trang cá nhân trên site Lagrange (11/2026), không ghi vai trò và không chia theo nhóm vì trang không cho biết; danh bạ đầy đủ của OCA cần đăng nhập. Không gồm phòng thí nghiệm Géoazur và ARTEMIS của OCA.",
+     "scopeNote": "Bốn nhóm Galaxies et Cosmologie, MPO, ESOM và TOP lấy đủ theo trang thành viên từng nhóm (2025–2026), có chức danh. Nhóm Turbulence Fluide et Plasma và Signal & Image chỉ có trang thành viên cũ, nên chỉ ghi người còn trang cá nhân năm 2026 và người liên hệ. Người có trang cá nhân nhưng không thấy trong danh sách nhóm được gom vào mục riêng. Không gồm Géoazur và ARTEMIS.",
      "units": [
       {
-       "name": "Thành viên có trang cá nhân",
+       "name": "Galaxies et Cosmologie",
        "kind": "Nhóm nghiên cứu",
        "parent": "Lagrange",
-       "topics": "Mọi nhóm của phòng thí nghiệm Lagrange.",
-       "url": "https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange",
+       "topics": "Khảo cổ học Ngân Hà (Gaia, WEAVE, 4MOST), cụm thiên hà và Euclid, vũ trụ học số, vô tuyến (LOFAR, SKA).",
+       "url": "https://lagrange.oca.eu/fr/presentation-galaxies-cosmologie",
        "researchers": {
         "people": [
          {
+          "name": "Mathias Schultheis",
+          "role": "Trưởng nhóm",
+          "url": "https://lagrange.oca.eu/fr/mathias-schultheis"
+         },
+         {
+          "name": "Oliver Hahn",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/olivier-hahn"
+         },
+         {
+          "name": "Georges Kordopatis",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/georges-kordopatis"
+         },
+         {
+          "name": "Sophie Maurogordato",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/sophie-maurogordato"
+         },
+         {
+          "name": "Nicole Nesvadba",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/nicole-nesvadba"
+         },
+         {
+          "name": "Alejandra Recio-Blanco",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/alejandra-recio-blanco"
+         },
+         {
+          "name": "Christophe Benoist",
+          "role": "Nhân sự biên chế (nghiên cứu viên, astronome, GS)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Bertrand Chauvineau",
+          "role": "Nhân sự biên chế (nghiên cứu viên, astronome, GS)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Patrick de Laverny",
+          "role": "Nhân sự biên chế (nghiên cứu viên, astronome, GS)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Chiara Ferrari",
+          "role": "Nhân sự biên chế (nghiên cứu viên, astronome, GS)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Vanessa Hill",
+          "role": "Nhân sự biên chế (nghiên cứu viên, astronome, GS)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Eric Slezak",
+          "role": "Nhân sự biên chế (nghiên cứu viên, astronome, GS)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Rémi Adam",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Edouard Bernard",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Michael Hayden",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Go Ogiya",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Michael Buehlmann",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Gerardo Martinez-Aviles",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Govind Nandakumar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Marina Ricci",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Srivatsan Sridhar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Anastasia Titarenko",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Albert Bijaoui",
+          "role": "Danh dự (émérite)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "José de Freitas Pacheco",
+          "role": "Danh dự (émérite)",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         },
+         {
+          "name": "Alberto Cappi",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "MPO — Méthodes Physiques pour l'Observation",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Lagrange",
+       "topics": "Giao thoa quang học (VLTI, MATISSE), chụp ảnh độ tương phản cao và kernel-phase, quang học thích ứng, quang học khí quyển, thiết bị không gian.",
+       "url": "https://lagrange.oca.eu/fr/lag-mpo-accueil",
+       "researchers": {
+        "people": [
+         {
+          "name": "Frantz Martinache",
+          "role": "Trưởng nhóm, GS",
+          "url": "https://lagrange.oca.eu/fr/frantz-martinache"
+         },
+         {
           "name": "Lyu Abe",
-          "role": "Thành viên",
+          "role": "Nhân sự biên chế",
           "url": "https://lagrange.oca.eu/fr/lyu-abe"
          },
          {
           "name": "Eric Aristidi",
-          "role": "Thành viên",
+          "role": "Nhân sự biên chế",
           "url": "https://lagrange.oca.eu/fr/eric-aristidi"
          },
+         {
+          "name": "Marcel Carbillet",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/marcel-carbillet"
+         },
+         {
+          "name": "Pierre Cruzalèbes",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/cruzalebes-pierre"
+         },
+         {
+          "name": "Patrice Martinez",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/patrice-martinez"
+         },
+         {
+          "name": "Jean-Pierre Folcher",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Iva Laginja",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Olivier Lai",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "David Mary",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Mamadou N'Diaye",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Sylvie Robbe-Dubois",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Aziz Ziad",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Farin Drewes",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Marc-Antoine Martinod",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Jeronimo Calderon Gomez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Vincent Foriel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Anna Rahim",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Charles Sallard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Romain Petrov",
+          "role": "Danh dự / liên kết",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Julien Borgnino",
+          "role": "Danh dự / liên kết",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         },
+         {
+          "name": "Yves Rabbia",
+          "role": "Danh dự / liên kết",
+          "url": "https://lagrange.oca.eu/fr/lag-mpo-membres"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lagrange.oca.eu/fr/lag-mpo-membres"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "ESOM — Physique Stellaire et Solaire",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Lagrange",
+       "topics": "Giao thoa sao (CHARA/SPICA, VLTI), sao biến quang Cepheid và thang khoảng cách, sao khối lượng lớn và sao tiến hóa, địa chấn sao (PLATO), tiền thân sóng hấp dẫn và LISA, vật lý Mặt Trời.",
+       "url": "https://lagrange.oca.eu/fr/lag-esom-presentation",
+       "researchers": {
+        "people": [
+         {
+          "name": "Nicolas Nardetto",
+          "role": "Trưởng nhóm, DR CNRS",
+          "url": "https://lagrange.oca.eu/fr/nicolas-nardetto"
+         },
+         {
+          "name": "Lionel Bigot",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/lionel-bigot"
+         },
+         {
+          "name": "Andrea Chiavassa",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/andrea-chiavassa"
+         },
+         {
+          "name": "Thierry Corbard",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/thierry-corbard"
+         },
+         {
+          "name": "Orlagh Creevey",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/orlagh-creevey"
+         },
+         {
+          "name": "Philippe Stee",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/philippe-stee"
+         },
+         {
+          "name": "Philippe Bendjoya",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Malik Chami",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Armando Domiciano de Souza",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Eric Lagadec",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Astrid Lamberts",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Anthony Meilland",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Denis Mourard",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Gilles Niccolini",
+          "role": "Nhân sự biên chế (GS, DR, CR, MCF, astronome)",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Shanika Galaudage",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Romina Ibanez-Bustos",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Jeremy Perdigon",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Mathieu Vrard",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Hugo Nowacki",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Fabien Patru",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Nina Kunert",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Rajeev Singh Rathour",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Juraj Jonak",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Nayeem Ebrahimkutty",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Manon Bailleul",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Gabriel Tomassini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Solano Felicio Sousa",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Alice Perego",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Romain Amestoy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Kamakshi Kaushik",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         },
+         {
+          "name": "Brankica Apostolova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lagrange.oca.eu/en/esom-staff"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lagrange.oca.eu/en/esom-staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "TOP — Théorie et Observations en Planétologie",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Lagrange",
+       "topics": "Hình thành hệ hành tinh, tiểu hành tinh và phòng thủ hành tinh (Hera, DART), sứ mệnh MMX tới Phobos, Gaia, khí quyển ngoại hành tinh, cấu trúc trong hành tinh, giao thoa MATISSE.",
+       "url": "https://lagrange.oca.eu/fr/theorie-et-observations-en-planetologie-top",
+       "researchers": {
+        "people": [
+         {
+          "name": "Benoît Carry",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/benoit-carry"
+         },
+         {
+          "name": "Aurélien Crida",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/aurelien-crida"
+         },
+         {
+          "name": "Marco Delbo",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/marco-delbo"
+         },
+         {
+          "name": "Tristan Guillot",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/tristan-guillot"
+         },
+         {
+          "name": "Elena Lega",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/elena-lega"
+         },
+         {
+          "name": "Guy Libourel",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/guy-libourel"
+         },
+         {
+          "name": "Bruno Lopez",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/bruno-lopez"
+         },
+         {
+          "name": "Alexis Matter",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/alexis-matter"
+         },
+         {
+          "name": "Héloise Méheut",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/heloise-meheut"
+         },
+         {
+          "name": "Patrick Michel",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/patrick-michel"
+         },
+         {
+          "name": "Florentin Millour",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/florentin-millour"
+         },
+         {
+          "name": "Alessandro Morbidelli",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/alessandro-morbidelli"
+         },
+         {
+          "name": "Fathi Namouni",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/fathi-namouni"
+         },
+         {
+          "name": "Vivien Parmentier",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/vivien-parmentier"
+         },
+         {
+          "name": "Antoine Camille Petit",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/antoine-petit"
+         },
+         {
+          "name": "Jean-Pierre Rivet",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/jean-pierre-rivet"
+         },
+         {
+          "name": "François-Xavier Schmider",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/francois-xavier-schmider"
+         },
+         {
+          "name": "Paolo Tanga",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/paolo-tanga"
+         },
+         {
+          "name": "Harrison Agrusa",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Jin Beniyama",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Max Goldberg",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Masanori Kanamaru",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "James Leftley",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Luana Liberato",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Steve Markham",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Nathan Magnan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Julia Seidel",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Alexey Sergeyev",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Fernando Ruano Tinaut",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Roberto Balossi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Valentin Fleury",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Maya Guy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Amelie Lam",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Gregorio Ricerchi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Diego Uribe",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Ragnar Van den Broeck",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "François Mignard",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         },
+         {
+          "name": "Farrokh Vakili",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Turbulence Fluide et Plasma",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Lagrange",
+       "topics": "Rối loạn chất lưu và plasma, MHD và dynamo, gió Mặt Trời, vận chuyển hạt trong dòng rối, rối loạn lượng tử.",
+       "url": "https://fluid.oca.eu/en/fluid-home",
+       "researchers": {
+        "people": [
+         {
+          "name": "Yannick Ponty",
+          "role": "Trưởng nhóm (theo trang nhóm cập nhật 2018), DR CNRS",
+          "url": "https://lagrange.oca.eu/fr/yannick-ponty"
+         },
+         {
+          "name": "Nicolas Besse",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/nicolas-besse"
+         },
+         {
+          "name": "Silvio Cerri",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/silvio-cerri"
+         },
+         {
+          "name": "Holger Homann",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/holger-homann"
+         },
+         {
+          "name": "Giorgio Krstulovic",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/giorgio-krstulovic"
+         },
+         {
+          "name": "Thierry Passot",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/thierry-passot"
+         },
+         {
+          "name": "Emanuele Tassi",
+          "role": "Nhân sự biên chế",
+          "url": "https://lagrange.oca.eu/fr/emanuele-tassi"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://fluid.oca.eu/en/staff-fluid-plasma-turbulence-en"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Signal & Image",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Lagrange",
+       "topics": "Xử lý tín hiệu và ảnh, học máy thống kê, bài toán ngược, ứng dụng cho SPHERE, MUSE, VLTI và vô tuyến.",
+       "url": "https://lagrange.oca.eu/fr/rech-lagrange/equipes/485-lag-signal",
+       "researchers": {
+        "people": [
+         {
+          "name": "André Ferrari",
+          "role": "Người liên hệ của nhóm, GS",
+          "url": "https://lagrange.oca.eu/fr/andre-ferrari"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oca.eu/fr/rech-lagrange/equipes/485-lag-signal"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Thành viên khác có trang cá nhân",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Lagrange",
+       "topics": "Thành viên có trang cá nhân trên site Lagrange nhưng chưa thấy trong danh sách nhóm công khai.",
+       "url": "https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange",
+       "researchers": {
+        "people": [
          {
           "name": "Chrysa Avdellidou",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/chrysa-avdellidou"
-         },
-         {
-          "name": "Edouard Bernard",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/edouard-bernard"
-         },
-         {
-          "name": "Nicolas Besse",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/nicolas-besse"
-         },
-         {
-          "name": "Lionel Bigot",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/lionel-bigot"
-         },
-         {
-          "name": "Albert Bijaoui",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/albert-bijaoui"
          },
          {
           "name": "Eric Bois",
@@ -7774,54 +10429,9 @@
           "url": "https://lagrange.oca.eu/fr/adrien-broquet"
          },
          {
-          "name": "Marcel Carbillet",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/marcel-carbillet"
-         },
-         {
-          "name": "Benoît Carry",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/benoit-carry"
-         },
-         {
-          "name": "Silvio Cerri",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/silvio-cerri"
-         },
-         {
-          "name": "Andrea Chiavassa",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/andrea-chiavassa"
-         },
-         {
           "name": "Gaël Chauvin",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/gael-chauvin"
-         },
-         {
-          "name": "Thierry Corbard",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/thierry-corbard"
-         },
-         {
-          "name": "Orlagh Creevey",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/orlagh-creevey"
-         },
-         {
-          "name": "Aurélien Crida",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/aurelien-crida"
-         },
-         {
-          "name": "Pierre Cruzalebes",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/cruzalebes-pierre"
-         },
-         {
-          "name": "Marco Delbo",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/marco-delbo"
          },
          {
           "name": "Jun Du",
@@ -7834,11 +10444,6 @@
           "url": "https://lagrange.oca.eu/fr/caujolle"
          },
          {
-          "name": "André Ferrari",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/andre-ferrari"
-         },
-         {
           "name": "Camille Granier",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/camille-granier"
@@ -7849,59 +10454,14 @@
           "url": "https://lagrange.oca.eu/fr/philippine-griveaud"
          },
          {
-          "name": "Tristan Guillot",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/tristan-guillot"
-         },
-         {
-          "name": "Oliver Hahn",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/olivier-hahn"
-         },
-         {
-          "name": "Michael Hayden",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/michael-hayden"
-         },
-         {
           "name": "Vincent Hocdé",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/vincent-hocde"
          },
          {
-          "name": "Holger Homann",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/holger-homann"
-         },
-         {
           "name": "Saburo Howard",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/saburo-howard"
-         },
-         {
-          "name": "Georges Kordopatis",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/georges-kordopatis"
-         },
-         {
-          "name": "Giorgio Krstulovic",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/giorgio-krstulovic"
-         },
-         {
-          "name": "Elena Léga",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/elena-lega"
-         },
-         {
-          "name": "Guy Libourel",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/guy-libourel"
-         },
-         {
-          "name": "Bruno Lopez",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/bruno-lopez"
          },
          {
           "name": "Max Mahlke",
@@ -7914,69 +10474,9 @@
           "url": "https://lagrange.oca.eu/fr/julia-maia"
          },
          {
-          "name": "Frantz Martinache",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/frantz-martinache"
-         },
-         {
-          "name": "Patrice Martinez",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/patrice-martinez"
-         },
-         {
-          "name": "Alexis Matter",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/alexis-matter"
-         },
-         {
-          "name": "Sophie Maurogordato",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/sophie-maurogordato"
-         },
-         {
-          "name": "Patrick Michel",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/patrick-michel"
-         },
-         {
-          "name": "Héloise Méheut",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/heloise-meheut"
-         },
-         {
-          "name": "François Mignard",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/francois-mignard"
-         },
-         {
-          "name": "Florentin Millour",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/florentin-millour"
-         },
-         {
-          "name": "Alessandro Morbidelli",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/alessandro-morbidelli"
-         },
-         {
           "name": "Nicolas Muller",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/nicolas-muller"
-         },
-         {
-          "name": "Fathi Namouni",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/fathi-namouni"
-         },
-         {
-          "name": "Nicolas Nardetto",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/nicolas-nardetto"
-         },
-         {
-          "name": "Nicole Nesvadba",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/nicole-nesvadba"
          },
          {
           "name": "Pascal Oberti",
@@ -7987,26 +10487,6 @@
           "name": "Paulina Palma-Bifani",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/paulina-palma-bifani"
-         },
-         {
-          "name": "Vivien Parmentier",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/vivien-parmentier"
-         },
-         {
-          "name": "Thierry Passot",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/thierry-passot"
-         },
-         {
-          "name": "Antoine Petit",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/antoine-petit"
-         },
-         {
-          "name": "Romain Petrov",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/romain-petrov"
          },
          {
           "name": "Gabriele Pichierri",
@@ -8024,19 +10504,9 @@
           "url": "https://lagrange.oca.eu/fr/rose-pinto"
          },
          {
-          "name": "Yannick Ponty",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/yannick-ponty"
-         },
-         {
           "name": "Olivier Preis",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/olivier-preis"
-         },
-         {
-          "name": "Alejandra Recio-Blanco",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/alejandra-recio-blanco"
          },
          {
           "name": "Catherine Renaud",
@@ -8044,24 +10514,9 @@
           "url": "https://lagrange.oca.eu/fr/catherine-renaud"
          },
          {
-          "name": "Jean-Pierre Rivet",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/jean-pierre-rivet"
-         },
-         {
           "name": "Clément Robert",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/clement-robert"
-         },
-         {
-          "name": "François-Xavier Schmider",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/francois-xavier-schmider"
-         },
-         {
-          "name": "Mathias Schultheis",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/mathias-schultheis"
          },
          {
           "name": "Marta Spinelli",
@@ -8074,29 +10529,9 @@
           "url": "https://lagrange.oca.eu/fr/jochen-stadler"
          },
          {
-          "name": "Philippe Stee",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/philippe-stee"
-         },
-         {
-          "name": "Paolo Tanga",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/paolo-tanga"
-         },
-         {
-          "name": "Emanuele Tassi",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/emanuele-tassi"
-         },
-         {
           "name": "Florian Thuillet",
           "role": "Thành viên",
           "url": "https://lagrange.oca.eu/fr/florian-thuillet"
-         },
-         {
-          "name": "Farrokh Vakili",
-          "role": "Thành viên",
-          "url": "https://lagrange.oca.eu/fr/farrokh-vakili"
          },
          {
           "name": "Mark Wieczorek",
@@ -8112,6 +10547,96 @@
         "external": [],
         "sources": [
          "https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "besancon",
+   "city": "Besançon",
+   "coordinates": [
+    6.02,
+    47.25
+   ],
+   "institutions": [
+    {
+     "name": "Institut UTINAM — Observatoire de Besançon (OSU THETA) / Université Marie et Louis Pasteur / CNRS",
+     "type": "institute",
+     "research": "Vật thể nhỏ trong Hệ Mặt Trời (vật thể xuyên Neptune, sao chổi), cấu trúc và tiến hóa Ngân Hà qua quần thể sao và vật chất giữa các sao (Mô hình Ngân Hà Besançon, Gaia), hình thành và tiến hóa sao, sao lùn nâu, động lực học quay của vệ tinh.",
+     "url": "https://www.utinam.cnrs.fr/",
+     "coverage": "full",
+     "structure": "UMR 6213 (Université Marie et Louis Pasteur – CNRS), thuộc OSU THETA; nhiều nhóm liên ngành (vật lý, hóa học, khí quyển); nhóm thiên văn là Équipe Astro, cùng nhóm Physique théorique (ϕTh).",
+     "structureUrl": "https://www.utinam.cnrs.fr/en/laboratory/organizational-chart/",
+     "scopeNote": "Đủ thành viên Équipe Astro theo trang nhóm và danh bạ UTINAM (11/2026); bỏ nhân sự hành chính và các nhóm hóa học, khí quyển, vật lý lý thuyết.",
+     "units": [
+      {
+       "name": "Équipe Astro",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "UTINAM",
+       "topics": "Vật thể xuyên Neptune và sao chổi (OSSOS, LSST), Mô hình Ngân Hà Besançon và Gaia, môi trường giữa các sao, sao lùn nâu và sao gần, vi thấu kính hấp dẫn, quay và nội tại vệ tinh.",
+       "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Benoît Noyelles",
+          "role": "Trưởng nhóm, MCF",
+          "url": "https://www.utinam.cnrs.fr/lannuaire/name/benoit-noyelles/"
+         },
+         {
+          "name": "Jean-Marc Petit",
+          "role": "Nghiên cứu viên cao cấp (DR CNRS)",
+          "url": "https://www.utinam.cnrs.fr/lannuaire/name/jean-marc-petit/"
+         },
+         {
+          "name": "Philippe Rousselot",
+          "role": "Giáo sư / Astronome",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Céline Reylé",
+          "role": "Giáo sư / Astronome",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Julien Montillaud",
+          "role": "Nghiên cứu viên / Giảng viên (MCF, CPJ)",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Etienne Bachelet",
+          "role": "Nghiên cứu viên / Giảng viên (MCF, CPJ)",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Anjana Mohandasan",
+          "role": "Kỹ sư nghiên cứu",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Max Mahlke",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Camille Chatenet",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         },
+         {
+          "name": "Annie Robin",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.utinam.cnrs.fr/la-recherche/programmes-scientifiques/equipe-astro-2/"
         ],
         "note": "",
         "checked": "2026-11-22"

@@ -5,89 +5,134 @@ city: nice
 type: institute
 url: https://lagrange.oca.eu/fr/
 research: Ngoại hành tinh và hình thành hành tinh, tiểu hành tinh (Gaia, Hera), vật lý sao và Mặt Trời, thiên hà và vũ trụ học, giao thoa kế quang học (VLTI, CHARA), xử lý tín hiệu/ảnh, rối loạn chất lưu và plasma, sóng hấp dẫn.
-coverage: partial
+coverage: full
 structure: UMR 7293 (OCA – UCA – CNRS); sáu nhóm: Galaxies et Cosmologie, Méthodes Physiques pour l'Observation (MPO), Physique Stellaire et Solaire, Signal & Image, Théorie et Observations en Planétologie (TOP), Turbulence Fluide et Plasma.
 structureUrl: https://lagrange.oca.eu/fr/rech-lagrange/equipes
-scope: Chỉ gồm thành viên có trang cá nhân trên site Lagrange (11/2026), không ghi vai trò và không chia theo nhóm vì trang không cho biết; danh bạ đầy đủ của OCA cần đăng nhập. Không gồm phòng thí nghiệm Géoazur và ARTEMIS của OCA.
+scope: Bốn nhóm Galaxies et Cosmologie, MPO, ESOM và TOP lấy đủ theo trang thành viên từng nhóm (2025–2026), có chức danh. Nhóm Turbulence Fluide et Plasma và Signal & Image chỉ có trang thành viên cũ, nên chỉ ghi người còn trang cá nhân năm 2026 và người liên hệ. Người có trang cá nhân nhưng không thấy trong danh sách nhóm được gom vào mục riêng. Không gồm Géoazur và ARTEMIS.
 
-#unit Thành viên có trang cá nhân
+#unit Galaxies et Cosmologie
 parent: Lagrange
-topics: Mọi nhóm của phòng thí nghiệm Lagrange.
+topics: Khảo cổ học Ngân Hà (Gaia, WEAVE, 4MOST), cụm thiên hà và Euclid, vũ trụ học số, vô tuyến (LOFAR, SKA).
+url: https://lagrange.oca.eu/fr/presentation-galaxies-cosmologie
+src: https://lagrange.oca.eu/en/welcome-lagrange/155-lag-team/488-lag-gc-en
+p: Mathias Schultheis | Trưởng nhóm | https://lagrange.oca.eu/fr/mathias-schultheis
+p: Oliver Hahn | Nhân sự biên chế | https://lagrange.oca.eu/fr/olivier-hahn
+p: Georges Kordopatis | Nhân sự biên chế | https://lagrange.oca.eu/fr/georges-kordopatis
+p: Sophie Maurogordato | Nhân sự biên chế | https://lagrange.oca.eu/fr/sophie-maurogordato
+p: Nicole Nesvadba | Nhân sự biên chế | https://lagrange.oca.eu/fr/nicole-nesvadba
+p: Alejandra Recio-Blanco | Nhân sự biên chế | https://lagrange.oca.eu/fr/alejandra-recio-blanco
+pp: Nhân sự biên chế (nghiên cứu viên, astronome, GS) | Christophe Benoist; Bertrand Chauvineau; Patrick de Laverny; Chiara Ferrari; Vanessa Hill; Eric Slezak
+pp: PD | Rémi Adam; Edouard Bernard; Michael Hayden; Go Ogiya
+pp: NCS | Michael Buehlmann; Gerardo Martinez-Aviles; Govind Nandakumar; Marina Ricci; Srivatsan Sridhar; Anastasia Titarenko
+pp: Danh dự (émérite) | Albert Bijaoui; José de Freitas Pacheco
+pp: Nghiên cứu viên liên kết | Alberto Cappi
+
+#unit MPO — Méthodes Physiques pour l'Observation
+parent: Lagrange
+topics: Giao thoa quang học (VLTI, MATISSE), chụp ảnh độ tương phản cao và kernel-phase, quang học thích ứng, quang học khí quyển, thiết bị không gian.
+url: https://lagrange.oca.eu/fr/lag-mpo-accueil
+src: https://lagrange.oca.eu/fr/lag-mpo-membres
+p: Frantz Martinache | Trưởng nhóm, GS | https://lagrange.oca.eu/fr/frantz-martinache
+p: Lyu Abe | Nhân sự biên chế | https://lagrange.oca.eu/fr/lyu-abe
+p: Eric Aristidi | Nhân sự biên chế | https://lagrange.oca.eu/fr/eric-aristidi
+p: Marcel Carbillet | Nhân sự biên chế | https://lagrange.oca.eu/fr/marcel-carbillet
+p: Pierre Cruzalèbes | Nhân sự biên chế | https://lagrange.oca.eu/fr/cruzalebes-pierre
+p: Patrice Martinez | Nhân sự biên chế | https://lagrange.oca.eu/fr/patrice-martinez
+pp: Nhân sự biên chế (GS, DR, CR, MCF, astronome) | Jean-Pierre Folcher; Iva Laginja; Olivier Lai; David Mary; Mamadou N'Diaye; Sylvie Robbe-Dubois; Aziz Ziad
+pp: PD | Farin Drewes; Marc-Antoine Martinod
+pp: NCS | Jeronimo Calderon Gomez; Vincent Foriel; Anna Rahim; Charles Sallard
+pp: Danh dự / liên kết | Romain Petrov; Julien Borgnino; Yves Rabbia
+
+#unit ESOM — Physique Stellaire et Solaire
+parent: Lagrange
+topics: Giao thoa sao (CHARA/SPICA, VLTI), sao biến quang Cepheid và thang khoảng cách, sao khối lượng lớn và sao tiến hóa, địa chấn sao (PLATO), tiền thân sóng hấp dẫn và LISA, vật lý Mặt Trời.
+url: https://lagrange.oca.eu/fr/lag-esom-presentation
+src: https://lagrange.oca.eu/en/esom-staff
+p: Nicolas Nardetto | Trưởng nhóm, DR CNRS | https://lagrange.oca.eu/fr/nicolas-nardetto
+p: Lionel Bigot | Nhân sự biên chế | https://lagrange.oca.eu/fr/lionel-bigot
+p: Andrea Chiavassa | Nhân sự biên chế | https://lagrange.oca.eu/fr/andrea-chiavassa
+p: Thierry Corbard | Nhân sự biên chế | https://lagrange.oca.eu/fr/thierry-corbard
+p: Orlagh Creevey | Nhân sự biên chế | https://lagrange.oca.eu/fr/orlagh-creevey
+p: Philippe Stee | Nhân sự biên chế | https://lagrange.oca.eu/fr/philippe-stee
+pp: Nhân sự biên chế (GS, DR, CR, MCF, astronome) | Philippe Bendjoya; Malik Chami; Armando Domiciano de Souza; Eric Lagadec; Astrid Lamberts; Anthony Meilland; Denis Mourard; Gilles Niccolini
+pp: PD | Shanika Galaudage; Romina Ibanez-Bustos; Jeremy Perdigon; Mathieu Vrard; Hugo Nowacki; Fabien Patru; Nina Kunert; Rajeev Singh Rathour
+pp: NCS | Juraj Jonak; Nayeem Ebrahimkutty; Manon Bailleul; Gabriel Tomassini; Solano Felicio Sousa; Alice Perego; Romain Amestoy; Kamakshi Kaushik; Brankica Apostolova
+
+#unit TOP — Théorie et Observations en Planétologie
+parent: Lagrange
+topics: Hình thành hệ hành tinh, tiểu hành tinh và phòng thủ hành tinh (Hera, DART), sứ mệnh MMX tới Phobos, Gaia, khí quyển ngoại hành tinh, cấu trúc trong hành tinh, giao thoa MATISSE.
+url: https://lagrange.oca.eu/fr/theorie-et-observations-en-planetologie-top
+src: https://www.oca.eu/fr/rech-lagrange/equipes/493-equipe-theorie-et-observations-en-planetologie-top
+p: Benoît Carry | Nhân sự biên chế | https://lagrange.oca.eu/fr/benoit-carry
+p: Aurélien Crida | Nhân sự biên chế | https://lagrange.oca.eu/fr/aurelien-crida
+p: Marco Delbo | Nhân sự biên chế | https://lagrange.oca.eu/fr/marco-delbo
+p: Tristan Guillot | Nhân sự biên chế | https://lagrange.oca.eu/fr/tristan-guillot
+p: Elena Lega | Nhân sự biên chế | https://lagrange.oca.eu/fr/elena-lega
+p: Guy Libourel | Nhân sự biên chế | https://lagrange.oca.eu/fr/guy-libourel
+p: Bruno Lopez | Nhân sự biên chế | https://lagrange.oca.eu/fr/bruno-lopez
+p: Alexis Matter | Nhân sự biên chế | https://lagrange.oca.eu/fr/alexis-matter
+p: Héloise Méheut | Nhân sự biên chế | https://lagrange.oca.eu/fr/heloise-meheut
+p: Patrick Michel | Nhân sự biên chế | https://lagrange.oca.eu/fr/patrick-michel
+p: Florentin Millour | Nhân sự biên chế | https://lagrange.oca.eu/fr/florentin-millour
+p: Alessandro Morbidelli | Nhân sự biên chế | https://lagrange.oca.eu/fr/alessandro-morbidelli
+p: Fathi Namouni | Nhân sự biên chế | https://lagrange.oca.eu/fr/fathi-namouni
+p: Vivien Parmentier | Nhân sự biên chế | https://lagrange.oca.eu/fr/vivien-parmentier
+p: Antoine Camille Petit | Nhân sự biên chế | https://lagrange.oca.eu/fr/antoine-petit
+p: Jean-Pierre Rivet | Nhân sự biên chế | https://lagrange.oca.eu/fr/jean-pierre-rivet
+p: François-Xavier Schmider | Nhân sự biên chế | https://lagrange.oca.eu/fr/francois-xavier-schmider
+p: Paolo Tanga | Nhân sự biên chế | https://lagrange.oca.eu/fr/paolo-tanga
+pp: PD | Harrison Agrusa; Jin Beniyama; Max Goldberg; Masanori Kanamaru; James Leftley; Luana Liberato; Steve Markham; Nathan Magnan; Julia Seidel; Alexey Sergeyev; Fernando Ruano Tinaut
+pp: NCS | Roberto Balossi; Valentin Fleury; Maya Guy; Amelie Lam; Gregorio Ricerchi; Diego Uribe; Ragnar Van den Broeck
+pp: Danh dự (émérite) | François Mignard; Farrokh Vakili
+
+#unit Turbulence Fluide et Plasma
+parent: Lagrange
+topics: Rối loạn chất lưu và plasma, MHD và dynamo, gió Mặt Trời, vận chuyển hạt trong dòng rối, rối loạn lượng tử.
+url: https://fluid.oca.eu/en/fluid-home
+src: https://fluid.oca.eu/en/staff-fluid-plasma-turbulence-en
+p: Yannick Ponty | Trưởng nhóm (theo trang nhóm cập nhật 2018), DR CNRS | https://lagrange.oca.eu/fr/yannick-ponty
+p: Nicolas Besse | Nhân sự biên chế | https://lagrange.oca.eu/fr/nicolas-besse
+p: Silvio Cerri | Nhân sự biên chế | https://lagrange.oca.eu/fr/silvio-cerri
+p: Holger Homann | Nhân sự biên chế | https://lagrange.oca.eu/fr/holger-homann
+p: Giorgio Krstulovic | Nhân sự biên chế | https://lagrange.oca.eu/fr/giorgio-krstulovic
+p: Thierry Passot | Nhân sự biên chế | https://lagrange.oca.eu/fr/thierry-passot
+p: Emanuele Tassi | Nhân sự biên chế | https://lagrange.oca.eu/fr/emanuele-tassi
+
+#unit Signal & Image
+parent: Lagrange
+topics: Xử lý tín hiệu và ảnh, học máy thống kê, bài toán ngược, ứng dụng cho SPHERE, MUSE, VLTI và vô tuyến.
+url: https://lagrange.oca.eu/fr/rech-lagrange/equipes/485-lag-signal
+src: https://www.oca.eu/fr/rech-lagrange/equipes/485-lag-signal
+p: André Ferrari | Người liên hệ của nhóm, GS | https://lagrange.oca.eu/fr/andre-ferrari
+
+#unit Thành viên khác có trang cá nhân
+parent: Lagrange
+topics: Thành viên có trang cá nhân trên site Lagrange nhưng chưa thấy trong danh sách nhóm công khai.
 url: https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange
 src: https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange
-p: Lyu Abe | Thành viên | https://lagrange.oca.eu/fr/lyu-abe
-p: Eric Aristidi | Thành viên | https://lagrange.oca.eu/fr/eric-aristidi
 p: Chrysa Avdellidou | Thành viên | https://lagrange.oca.eu/fr/chrysa-avdellidou
-p: Edouard Bernard | Thành viên | https://lagrange.oca.eu/fr/edouard-bernard
-p: Nicolas Besse | Thành viên | https://lagrange.oca.eu/fr/nicolas-besse
-p: Lionel Bigot | Thành viên | https://lagrange.oca.eu/fr/lionel-bigot
-p: Albert Bijaoui | Thành viên | https://lagrange.oca.eu/fr/albert-bijaoui
 p: Eric Bois | Thành viên | https://lagrange.oca.eu/fr/eric-bois
 p: Adrien Broquet | Thành viên | https://lagrange.oca.eu/fr/adrien-broquet
-p: Marcel Carbillet | Thành viên | https://lagrange.oca.eu/fr/marcel-carbillet
-p: Benoît Carry | Thành viên | https://lagrange.oca.eu/fr/benoit-carry
-p: Silvio Cerri | Thành viên | https://lagrange.oca.eu/fr/silvio-cerri
-p: Andrea Chiavassa | Thành viên | https://lagrange.oca.eu/fr/andrea-chiavassa
 p: Gaël Chauvin | Thành viên | https://lagrange.oca.eu/fr/gael-chauvin
-p: Thierry Corbard | Thành viên | https://lagrange.oca.eu/fr/thierry-corbard
-p: Orlagh Creevey | Thành viên | https://lagrange.oca.eu/fr/orlagh-creevey
-p: Aurélien Crida | Thành viên | https://lagrange.oca.eu/fr/aurelien-crida
-p: Pierre Cruzalebes | Thành viên | https://lagrange.oca.eu/fr/cruzalebes-pierre
-p: Marco Delbo | Thành viên | https://lagrange.oca.eu/fr/marco-delbo
 p: Jun Du | Thành viên | https://lagrange.oca.eu/fr/jun-du
 p: Yan Fanteï-Caujolle | Thành viên | https://lagrange.oca.eu/fr/caujolle
-p: André Ferrari | Thành viên | https://lagrange.oca.eu/fr/andre-ferrari
 p: Camille Granier | Thành viên | https://lagrange.oca.eu/fr/camille-granier
 p: Philippine Griveaud | Thành viên | https://lagrange.oca.eu/fr/philippine-griveaud
-p: Tristan Guillot | Thành viên | https://lagrange.oca.eu/fr/tristan-guillot
-p: Oliver Hahn | Thành viên | https://lagrange.oca.eu/fr/olivier-hahn
-p: Michael Hayden | Thành viên | https://lagrange.oca.eu/fr/michael-hayden
 p: Vincent Hocdé | Thành viên | https://lagrange.oca.eu/fr/vincent-hocde
-p: Holger Homann | Thành viên | https://lagrange.oca.eu/fr/holger-homann
 p: Saburo Howard | Thành viên | https://lagrange.oca.eu/fr/saburo-howard
-p: Georges Kordopatis | Thành viên | https://lagrange.oca.eu/fr/georges-kordopatis
-p: Giorgio Krstulovic | Thành viên | https://lagrange.oca.eu/fr/giorgio-krstulovic
-p: Elena Léga | Thành viên | https://lagrange.oca.eu/fr/elena-lega
-p: Guy Libourel | Thành viên | https://lagrange.oca.eu/fr/guy-libourel
-p: Bruno Lopez | Thành viên | https://lagrange.oca.eu/fr/bruno-lopez
 p: Max Mahlke | Thành viên | https://lagrange.oca.eu/fr/max-mahlke
 p: Julia Maia | Thành viên | https://lagrange.oca.eu/fr/julia-maia
-p: Frantz Martinache | Thành viên | https://lagrange.oca.eu/fr/frantz-martinache
-p: Patrice Martinez | Thành viên | https://lagrange.oca.eu/fr/patrice-martinez
-p: Alexis Matter | Thành viên | https://lagrange.oca.eu/fr/alexis-matter
-p: Sophie Maurogordato | Thành viên | https://lagrange.oca.eu/fr/sophie-maurogordato
-p: Patrick Michel | Thành viên | https://lagrange.oca.eu/fr/patrick-michel
-p: Héloise Méheut | Thành viên | https://lagrange.oca.eu/fr/heloise-meheut
-p: François Mignard | Thành viên | https://lagrange.oca.eu/fr/francois-mignard
-p: Florentin Millour | Thành viên | https://lagrange.oca.eu/fr/florentin-millour
-p: Alessandro Morbidelli | Thành viên | https://lagrange.oca.eu/fr/alessandro-morbidelli
 p: Nicolas Muller | Thành viên | https://lagrange.oca.eu/fr/nicolas-muller
-p: Fathi Namouni | Thành viên | https://lagrange.oca.eu/fr/fathi-namouni
-p: Nicolas Nardetto | Thành viên | https://lagrange.oca.eu/fr/nicolas-nardetto
-p: Nicole Nesvadba | Thành viên | https://lagrange.oca.eu/fr/nicole-nesvadba
 p: Pascal Oberti | Thành viên | https://lagrange.oca.eu/fr/pascal-oberti
 p: Paulina Palma-Bifani | Thành viên | https://lagrange.oca.eu/fr/paulina-palma-bifani
-p: Vivien Parmentier | Thành viên | https://lagrange.oca.eu/fr/vivien-parmentier
-p: Thierry Passot | Thành viên | https://lagrange.oca.eu/fr/thierry-passot
-p: Antoine Petit | Thành viên | https://lagrange.oca.eu/fr/antoine-petit
-p: Romain Petrov | Thành viên | https://lagrange.oca.eu/fr/romain-petrov
 p: Gabriele Pichierri | Thành viên | https://lagrange.oca.eu/fr/gabriele-pichierri
 p: Bernard Pichon | Thành viên | https://lagrange.oca.eu/fr/bernard-pichon
 p: Rose Pinto | Thành viên | https://lagrange.oca.eu/fr/rose-pinto
-p: Yannick Ponty | Thành viên | https://lagrange.oca.eu/fr/yannick-ponty
 p: Olivier Preis | Thành viên | https://lagrange.oca.eu/fr/olivier-preis
-p: Alejandra Recio-Blanco | Thành viên | https://lagrange.oca.eu/fr/alejandra-recio-blanco
 p: Catherine Renaud | Thành viên | https://lagrange.oca.eu/fr/catherine-renaud
-p: Jean-Pierre Rivet | Thành viên | https://lagrange.oca.eu/fr/jean-pierre-rivet
 p: Clément Robert | Thành viên | https://lagrange.oca.eu/fr/clement-robert
-p: François-Xavier Schmider | Thành viên | https://lagrange.oca.eu/fr/francois-xavier-schmider
-p: Mathias Schultheis | Thành viên | https://lagrange.oca.eu/fr/mathias-schultheis
 p: Marta Spinelli | Thành viên | https://lagrange.oca.eu/fr/marta-spinelli
 p: Jochen Stadler | Thành viên | https://lagrange.oca.eu/fr/jochen-stadler
-p: Philippe Stee | Thành viên | https://lagrange.oca.eu/fr/philippe-stee
-p: Paolo Tanga | Thành viên | https://lagrange.oca.eu/fr/paolo-tanga
-p: Emanuele Tassi | Thành viên | https://lagrange.oca.eu/fr/emanuele-tassi
 p: Florian Thuillet | Thành viên | https://lagrange.oca.eu/fr/florian-thuillet
-p: Farrokh Vakili | Thành viên | https://lagrange.oca.eu/fr/farrokh-vakili
 p: Mark Wieczorek | Thành viên | https://lagrange.oca.eu/fr/mark-wieczorek
 p: Yun Zhang | Thành viên | https://lagrange.oca.eu/fr/yun-zhang
