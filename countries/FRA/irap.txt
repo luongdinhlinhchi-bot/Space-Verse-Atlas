@@ -1,0 +1,70 @@
+@city toulouse | Toulouse | 1.44, 43.60
+
+@inst Institut de Recherche en Astrophysique et Planétologie (IRAP) — CNRS / Université de Toulouse / CNES
+city: toulouse
+type: institute
+url: https://www.irap.omp.eu/
+research: Vật lý thiên văn năng lượng cao và vũ trụ học (SVOM/ECLAIRs, X-IFU/NewAthena, CTAO, Euclid), môi trường liên sao và hoá học thiên văn, vật lý Mặt Trời–sao–ngoại hành tinh (SPIRou, PLATO), hành tinh và plasma không gian (ChemCam/SuperCam trên Sao Hỏa, Comet Interceptor, Solar Orbiter), cấu trúc trong hành tinh; chế tạo thiết bị bay.
+coverage: full
+structure: Đơn vị hỗn hợp thuộc Observatoire Midi-Pyrénées (OMP); sáu nhóm chủ đề: GAHEC, MICMAC, PS2E, PEPS, DIP và SISU (tín hiệu & ảnh).
+structureUrl: https://www.irap.omp.eu/recherche/groupes-thematiques/
+scope: Danh bạ IRAP chỉ mở cho nhân viên OMP; danh sách lấy từ mục "Membres de l'équipe" trên trang năm nhóm (11/2026), bỏ thành viên cũ. Nhóm SISU không công bố danh sách. Người thuộc hai nhóm có thể xuất hiện hai lần.
+
+#unit GAHEC — Thiên hà, vật lý thiên văn năng lượng cao và vũ trụ học
+parent: IRAP
+topics: Vật thể đặc, chớp gamma (SVOM — trách nhiệm ECLAIRs), cụm thiên hà và vũ trụ học (Euclid), gia tốc hạt, CTAO, X-IFU/NewAthena, LISA.
+url: https://www.irap.omp.eu/research-team/galaxies-astrophysique-hautes-energies-cosmologie-gahec/
+src: https://www.irap.omp.eu/research-team/galaxies-astrophysique-hautes-energies-cosmologie-gahec/
+pp: Đồng trưởng nhóm | Nicolas Clerc; Sébastien Guillot
+pp: Nhà nghiên cứu biên chế | Jonathan Aumont; Anthony Banday; Didier Barret; Alain Blanchard; Frédéric Boone; Rémi Cabanac; Thierry Contini; Mickaël Coriat; Benjamin Crinquand; Jean-Pascal Dezalay; Arnaud Dupays; Jean-Baptiste Durrive; Katia Ferrière; Francis Fortin; Martin Giard; Olivier Godet; Annie Hughes; Mathilde Jauzac; Pierre Jean; Alain Klotz; Jürgen Knödlseder; Brahim Lamine; Julien Malzac; Pierrick Martin; François Mernier; Jihane Moultaka; Frédéric Moutier; Jean-François Olive; Etienne Pointecouteau; Quentin Rémy; Geneviève Soucail; Luigi Tibaldo; Isaac Tutusaus; Natalie Webb
+pp: Nhà nghiên cứu danh dự | François Pajot; Peter von Ballmoos
+pp: PD | Camille Diez; Simon Dupourqué; Paul Fauverge; Raphaël Kou; Guangxuan Lan; Alexeï Molin; Hui Yang; Robbie Webbe
+pp: NCS | Spandan Biswal; Loïc Bochrawna; Marius Brunet; Emile Carinos; Jehanne Delhomelle; Cara Dignam; Christine Kazantsev; Felicitas Keil; Anastasia Kilina; Jeroni Massip; Lucien Mauviard-Haag; Paul Montaigne; Quentin Moysan; Elie Sévègnes; Baptiste Sigal; Pierre Stammler; Samy Vinzl
+
+#unit MICMAC — Môi trường liên sao, chu trình vật chất và hoá học thiên văn
+parent: IRAP
+topics: Bụi và phân tử liên sao, PAH, hoá học thiên văn phòng thí nghiệm, từ trường Ngân Hà (Planck), JWST.
+url: https://www.irap.omp.eu/research-team/milieu-interstellaire-cycle-de-la-matiere-astro-chimie-micmac/
+src: https://www.irap.omp.eu/research-team/milieu-interstellaire-cycle-de-la-matiere-astro-chimie-micmac/
+pp: Nhà nghiên cứu (CNRS) | Jean-Philippe Bernard; Olivier Berné; Emmanuel Caux; Karine Demyk; Christine Joblin; Isabelle Ristorcelli; Nathalie Ysard
+pp: Nhà thiên văn / giảng viên-nghiên cứu (CNAP, UT) | Sandrine Bottinelli; Audrey Coutens; Douglas Marshall; Claude Mény; Arnaud Le Padellec; Deborah Paradis; Hassan Sabbah; Charlotte Vastel; Adam Walters
+pp: PD | Fernando Cruz Sáenz de Miera; Pierre Marchand; Ilane Schroetter; Sandra Wiersma
+pp: NCS | Paul Amiot; Louan de Bentzmann; Antoine Espagnet; Raphaël Maris; Landry Marquis; Jonathan Oers; Antoine Zakardjian
+
+#unit PS2E — Vật lý Mặt Trời, sao và ngoại hành tinh
+parent: IRAP
+topics: Từ trường sao và ngoại hành tinh quanh sao lùn M (SPIRou), địa chấn học sao (PLATO), động lực học sao, đĩa tiền hành tinh, quan sát Mặt Trời (CLIMSO).
+url: https://www.irap.omp.eu/research-team/physique-soleil-etoiles-exoplanetes-ps2e/
+src: https://www.irap.omp.eu/research-team/physique-soleil-etoiles-exoplanetes-ps2e/
+pp: Giám đốc nghiên cứu (DR) | Torsten Böhm; Stéphane Charpinet; Jean-François Donati; François Lignières; Arturo López Ariste; Claire Moutou
+pp: Giám đốc nghiên cứu, biệt phái ĐH Genève | Corinne Charbonnel
+pp: Chargé(e) de recherche (CR) | Aurélie Astoul; Jérôme Ballot; Clément Baruteau; Florian Debras
+pp: Giảng viên / nhà thiên văn | Sébastien Deheuvels; Alain Hui-Bon-Hoa; Laurène Jouve; Philippe Mathias; Frédéric Paletou; Pascal Petit; Michel Rieutord
+pp: Nhà nghiên cứu liên kết / danh dự | Bernard Gelly; Sylvie Vauclair
+pp: PD | Nicholas Borsato; Charlotte Gehan; Matthew Gent; Pierre Houdayer; Alexis Lavail; Axel Lazzarotto
+pp: NCS | Tom Boismard; Paul Charpentier; Siméo Evelain; Jean Guislain; Xueying Hu; Selyan Ihallaine; Tristan Lagache; Paul Lomazzi; Matisse Villate; Xuan Wang
+
+#unit PEPS — Hành tinh, môi trường và plasma không gian
+parent: IRAP
+topics: Sao Hỏa (ChemCam, SuperCam, LIBS), Mặt Trăng, gió Mặt Trời và thời tiết không gian (Solar Orbiter, Parker Solar Probe), từ quyển hành tinh (BepiColombo, JUICE), sao chổi (Comet Interceptor).
+url: https://www.irap.omp.eu/research-team/planetes-environnements-plasmas-spatiaux-peps/
+src: https://www.irap.omp.eu/research-team/planetes-environnements-plasmas-spatiaux-peps/
+pp: Nhà nghiên cứu (CNRS) | Pierre-Louis Blelly; Baptiste Chide; Iannis Dandouras; Olivier Forni; Olivier Gasnault; Elisabeth Jourdain; Benoit Lavraud; Philippe Louarn; Aurélie Marchaudon; Christian Mazelle; Quentin Nénon; Patrick Pinet; Victor Réville; Jean-Pierre Roques; Alexis Rouillard; Michael Toplis
+pp: Nhà thiên văn (CNAP) | Serge Chevrel; Agnès Cousin; Vincent Génot; Christian Jacquey; Jérémie Lasue; Sylvestre Maurice; Frédéric Pitout; Ilya Plotnikov
+pp: Giảng viên-nghiên cứu (UT) | François Forme; Gabriel Fruit; Philippe Garnier; Pierre-Yves Meslin
+pp: Nhà nghiên cứu danh dự | Michel Blanc; Henri Rème; Jean-André Sauvaud
+pp: PD | Naïs Fargette; Amaury Fau; Issaad Kacem; Aneesah Kamran; Rungployphan Kieokaew; Zhi-Yang Liu; Mathias Rojo; Aurélien Stcherbinine; Ayu Ramada Sukarmadji; Nasrin Talebpour Sheshvan; Vincent Thomas
+pp: NCS | Ana-Filipa Barros-Sousa; Marie Devinat; Julien Granier; Ulysse Laffitau; Thomas Le Liboux; Thomas Lheureux; Florian Mourlin; Jonas Rabia; Sofiann Ramos; Antoine Resseguier; Julien Rouzot; Quentin Taupin; Tristan Vergé
+
+#unit DIP — Động lực học và cấu trúc trong hành tinh
+parent: IRAP
+topics: Địa chấn học hành tinh (InSight/SEIS), vật liệu hành tinh dưới áp suất cao, thiên thạch và đồng vị, nước–đá trên Sao Hỏa.
+url: https://www.irap.omp.eu/research-team/dynamique-interieurs-planetaires-dip/
+src: https://www.irap.omp.eu/research-team/dynamique-interieurs-planetaires-dip/
+pp: Nhà nghiên cứu (CNRS) | Frédéric Béjina; Ludovic Margerin; Marc Monnereau; Ghylaine Quitté; William Rapin
+pp: Nhà thiên văn (CNAP) | Marie Calvet; Jean Letort; Matthieu Sylvander
+pp: Giảng viên-nghiên cứu (UT) | Micha Bystricky; Soumaya Latour
+pp: Nhà nghiên cứu liên kết | Sébastien Fabre; Raphaël Garcia
+pp: Kỹ sư | Sébastien Benahmed; Frank Grimaud; Pascal Munsch; Hélène Pauchet
+pp: PD | Matteo Loche
+pp: NCS | Giacomo Permunian

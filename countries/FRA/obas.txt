@@ -1,0 +1,37 @@
+@city strasbourg | Strasbourg | 7.75, 48.58
+
+@inst Observatoire astronomique de Strasbourg (ObAS) — Université de Strasbourg / CNRS
+city: strasbourg
+type: institute
+url: https://astro.unistra.fr/
+research: Thiên hà và Ngân Hà (khảo cổ học thiên hà, Pristine, Gaia, WEAVE), động lực học và vật chất tối, vật lý năng lượng cao và vật thể đặc (XMM-Newton, sao neutron, pulsar), vũ trụ học; Trung tâm dữ liệu thiên văn CDS (SIMBAD, VizieR, Aladin) và Đài thiên văn ảo.
+coverage: full
+structure: UMR 7550 (Unistra – CNRS); hai nhóm nghiên cứu: GALHECOS (Galaxies, High Energy, Cosmology, Compact Objects & Stars) và CDS (vừa là nhóm nghiên cứu vừa là dịch vụ quan sát quốc gia); cùng ban giám đốc và dịch vụ hỗ trợ.
+structureUrl: https://astro.unistra.fr/?p=3659
+scope: Đủ thành viên hai nhóm GALHECOS và CDS theo trang nhóm (11/2026), phân loại theo chức danh ghi trên trang; bỏ nhân sự hành chính/kỹ thuật thuần và các dịch vụ hỗ trợ.
+
+#unit GALHECOS — Thiên hà, năng lượng cao, vũ trụ học, vật thể đặc và sao
+parent: ObAS
+topics: Hình thành và tiến hóa thiên hà, khảo cổ học Ngân Hà, động lực học MOND/vật chất tối, sao neutron và pulsar, AGN, tia X (XMM-Newton SSC), SVOM.
+url: https://astro.unistra.fr/fr/recherche/galhecos
+src: https://astro.unistra.fr/fr/recherche/galhecos
+p: Pierre-Alain Duc | Giám đốc ObAS, DR CNRS | https://astro.unistra.fr/?p=3659
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Dominique Aubert; Christian Boily; Benoit Famaey; Rodrigo Ibata; Ariane Lançon; Jérôme Novak; Micaela Oertel; Jérôme Pétri; Florent Renaud
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome-adjoint, CPJ) | Hubert Baty; Matthieu Bethermin; Paolo Bianchini; Laurence Boirin; Laurent Chemin; Jonathan Freundlich; Patrick Guillout; Katarina Kraljic; Pierre Maggi; Frédéric Marin; Nicolas Martin
+pp: Kỹ sư nghiên cứu / chuyên viên dữ liệu | Louis Kleiver; Olivier Marchal; Laurent Michel
+pp: PD | Salvatore Ferrone; Nicolas Gillet; Santiago Jaraba-Gomez; Giulia Pagnini; Divya Rawat; Teymoor Saifollahi; Gauri Sharma; Kerwann Tep
+pp: NCS | Cédric Accard; Gonzalo Aichele; Adrien Anthore; Bharat Bhatt; Julie Biedermann; Claire Guillaume; Baptiste Jego; Alexandra Lorange; Arn Marklund; Samuel Rusterucci; Mattéo Sautron; Anirudh Shankar
+pp: Danh dự (émérite) | Olivier Bienaymé; Jean-Louis Halbwachs; Jean-Marie Hameury; Christian Motch
+
+#unit CDS — Centre de Données astronomiques de Strasbourg
+parent: ObAS
+topics: SIMBAD, VizieR, Aladin/HiPS, X-Match, Đài thiên văn ảo (IVOA), khoa học dữ liệu thiên văn, môi trường giữa các sao.
+url: https://cds.unistra.fr/
+src: https://astro.unistra.fr/?p=3367
+p: Mark Allen | Giám đốc CDS, DR CNRS | https://cds.unistra.fr/staff
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Laurent Cambrésy; Bernd Vollmer
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome-adjoint, CPJ) | Caroline Bot; Sébastien Derriere; Cécile Loup; Mireille Louys; Giacomo Monari; Ada Nebot-Gomez-Moran; Pierre Ocvirk; Arnaud Siebert
+pp: Kỹ sư nghiên cứu / chuyên viên dữ liệu | Matthieu Baumann; Thomas Boch; François Bonnarel; Marianne Brouty; Catherine Brunet; Mihaela Buga; Margot Chevalier; Esther Collas; Aline Eisele; Pierre Fernique; Coralie Fix; Gilles Landais; Soizick Lesteven; Grégory Mantelet; Manon Marchand; Magali Neuville; Anaïs Oberto; Emmanuelle Perret; François-Xavier Pineau; André Schaaff; Luc Trabelsi; Katia van der Woerd; Patricia Vannier; Philippe Vonflie
+pp: PD | Anaïs Gonneau; Chengdong Li; Pooja Sharma; Karina Voggel
+pp: NCS | Lucie Correia; Thomas Oliveira; Mei Palanque
+pp: Danh dự (émérite) | Françoise Genova

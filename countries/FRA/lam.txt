@@ -1,0 +1,51 @@
+@city marseille | Marseille | 5.40, 43.30
+
+@inst Laboratoire d'Astrophysique de Marseille (LAM) — Aix-Marseille Université / CNRS / CNES
+city: marseille
+type: institute
+url: https://www.lam.fr/
+research: Vũ trụ học và thiên hà (Euclid, PFS/Subaru, MOSAIC), ngoại hành tinh và Hệ Mặt Trời (PLATO, SPHERE, Hera), quang học thích ứng và thiết bị cho ELT (HARMONI), trung tâm dữ liệu CeSAM; thử nghiệm và tích hợp thiết bị không gian (NISP/Euclid).
+coverage: full
+structure: Đơn vị hỗn hợp UMR 7326 (AMU – CNRS – CNES), thuộc Institut Pythéas; ba nhóm khoa học (GECO, GSP, GRD), trung tâm dữ liệu CeSAM và các dịch vụ kỹ thuật.
+structureUrl: https://www.lam.fr/laboratoire/annuaire/
+scope: Đủ danh sách ba nhóm khoa học và CeSAM theo Annuaire LAM (11/2026), phân loại theo trạng thái (biên chế, postdoc, NCS, CDD, danh dự); bỏ các dịch vụ kỹ thuật, hành chính và ban giám đốc. Annuaire không có trang cá nhân.
+
+#unit GECO — Thiên hà, sao và vũ trụ học
+parent: LAM
+topics: Vũ trụ học quan sát (Euclid, PFS), tiến hóa thiên hà, thấu kính hấp dẫn, sao khối lượng lớn, hình thành sao, chớp gamma (SVOM).
+url: https://www.lam.fr/recherche/equipe/galaxies-etoiles-et-cosmologie/
+src: https://www.lam.fr/laboratoire/annuaire/
+pp: Nhân sự biên chế (nhà nghiên cứu / kỹ sư) | Christophe Adami; Philippe Amram; Stephane Arnouts; Stephane Basa; Alexandre Beelen; Stephane Blondin; Samuel Boissier; Alessandro Boselli; Jean-Claude Bouret; Veronique Buat; Denis Burgarella; Laure Ciesla; Sylvain de la Torre; Antonio de Ugarte Postigo; Benoit Epinat; Raphael Gavazzi; Nicolas Grosso; Olivier Ilbert; Eric Jullo; Guilaine Lagache; Nicolas Laporte; Vincent Le Brun; Marceau Limousin; Michel Marcelin; Nicolas Martinet; Raphaël Mignon-Risse; Emmanuel Nezri; Roser Pello; Matthew Pieri; Delphine Porquet; Delphine Russeil; Carlo Schimd; Lidia Tasca; Patrice Theule; Laurence Tresse; Marie Treyer; Annie Zavagno
+pp: NCS | Rafael Arango-Toro; Chloé Aurin; Loris Berthelot; Vishrut Bezbarua; Clara Bonini; Cristian Carvajal; Tim Dewachter; Matteo Fanelli; Elena Mangola; Nicolo Massari; Juan Pacheco; Aniket Prasad; Ny-Avo Rakotondrainibe; Sandra Ross; Duarte Santos; Lise-Marie Seille; Paolo Suin; Simone Vinciguerra; Hao Zhang
+pp: Danh dự (émérite) | Evangelie Athanassoula; Albert Bosma; Cecile Gry; Jean-François Le Borgne; Jean-Pierre Luminet; Bruno Milliard
+pp: PD | Alexander Beckett; Teng Hu; Wilfried Mercier; Benjamin Schneider; Simon Weng; Yan-Kun Zhang
+pp: Hợp đồng có thời hạn (CDD) | Raoul Canameras; Nikos Mandarakas; Silvia Martocchia; Daniele Michilli
+
+#unit GSP — Hệ hành tinh
+parent: LAM
+topics: Ngoại hành tinh (PLATO, SPHERE), tiểu hành tinh và sao chổi (Rosetta, Hera), khí quyển hành tinh khổng lồ, vô tuyến hành tinh.
+url: https://www.lam.fr/recherche/equipe/systemes-planetaires
+src: https://www.lam.fr/laboratoire/annuaire/
+pp: NCS | Alizée Amsler; Jana Baron; Tom Benest; Yannis Bennacer; Tom Briand; Allan Denis; Loula Grenier-Frassati; Mariya Krasteva; Antoine Schneeberger; Paul Simon; Hugo Vivien
+pp: Danh dự (émérite) | Pierre Barge
+pp: PD | Bilal Benmahi; Ellis Bogat; Merwan Ould-Elhkim; Shinnosuke Satoh
+pp: Nhân sự biên chế (nhà nghiên cứu / kỹ sư) | Isabelle Boisse; John Carter; Magali Deleuil; Audrey Delsanti; Olivier Groussin; Nathan Hara; Vincent Hue; Laurent Jorda; Laurent Lamy; Herve Le Coroller; Alexandre Santerne; Sophia Sulis; Pierre Vernazza; Arthur Vigan
+pp: Hợp đồng có thời hạn (CDD) | Jean-Charles Ize; James Waters
+
+#unit GRD — R&D Quang học và Thiết bị
+parent: LAM
+topics: Quang học thích ứng (HARMONI/ELT, SPHERE+), gương biến dạng, quang học chủ động, MOEMS.
+url: https://www.lam.fr/recherche/equipe/groupe-rd-optique-instrumentation/
+src: https://www.lam.fr/laboratoire/annuaire/
+pp: PD | Angelie Alagao; Adrien Bolliand; Nicolas Godoy; Yee-Shan Lau; Lisa-Marie Mazzolo
+pp: NCS | Lisa Altinier; Simon Ans; Eloise Bernaud; Jonathan Dray; Charles Gresset; Lucie Jonkisz; François Leroux; Mathieu Motte; Francisco Oyarzun; Matteo Pasinetti; Jordi Roubichou; Rafael Salgueiro; Edvardas Vinerskas
+pp: Nhân sự biên chế (nhà nghiên cứu / kỹ sư) | Jean-Luc Beuzit; Vincent Chambouleyron; Elodie Choquet; Marc Ferrari; Romain Fetick; Thierry Fusco; Jean-Luc Gach; Cédric-Taïssir Héritier Salama; Emmanuel Hugot; Benoit Neichel; Jean-Francois Sauvage; Lakhdar Zaid; Frederic Zamkotsian
+pp: Danh dự (émérite) | Gerard Lemaitre
+
+#unit CeSAM — Trung tâm dữ liệu thiên văn Marseille
+parent: LAM
+topics: Trung tâm dữ liệu cho Euclid, PFS, CoRoT/PLATO, phần mềm khoa học.
+url: https://www.lam.fr/
+src: https://www.lam.fr/laboratoire/annuaire/
+pp: Nhân sự biên chế (nhà nghiên cứu / kỹ sư) | Francois Agneray; Pierre-Yves Chabaud; Simon Conseil; Thomas Fenouillet; Morgan Gray; Jean-Charles Lambert; Jean-Charles Meunier; Léo Michel-Dansac; Chrystel Moreau; Yannick Roehlly; Christian Surace; Didier Vibert
+pp: Hợp đồng có thời hạn (CDD) | Julien Agneray; Thomas Bedrine; Gaelle Daste; Fanny Dufresne; Jeremy Dumoulin; Sergio Hoyer; Sophie Huot; Lucas Menou; Nathalie Michel; Sophie Noiret; Axel Poulain; Arnaud Turin

@@ -1,0 +1,93 @@
+@city nice | Nice | 7.30, 43.72
+
+@inst Laboratoire Lagrange — Observatoire de la Côte d'Azur (OCA) / Université Côte d'Azur / CNRS
+city: nice
+type: institute
+url: https://lagrange.oca.eu/fr/
+research: Ngoại hành tinh và hình thành hành tinh, tiểu hành tinh (Gaia, Hera), vật lý sao và Mặt Trời, thiên hà và vũ trụ học, giao thoa kế quang học (VLTI, CHARA), xử lý tín hiệu/ảnh, rối loạn chất lưu và plasma, sóng hấp dẫn.
+coverage: partial
+structure: UMR 7293 (OCA – UCA – CNRS); sáu nhóm: Galaxies et Cosmologie, Méthodes Physiques pour l'Observation (MPO), Physique Stellaire et Solaire, Signal & Image, Théorie et Observations en Planétologie (TOP), Turbulence Fluide et Plasma.
+structureUrl: https://lagrange.oca.eu/fr/rech-lagrange/equipes
+scope: Chỉ gồm thành viên có trang cá nhân trên site Lagrange (11/2026), không ghi vai trò và không chia theo nhóm vì trang không cho biết; danh bạ đầy đủ của OCA cần đăng nhập. Không gồm phòng thí nghiệm Géoazur và ARTEMIS của OCA.
+
+#unit Thành viên có trang cá nhân
+parent: Lagrange
+topics: Mọi nhóm của phòng thí nghiệm Lagrange.
+url: https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange
+src: https://lagrange.oca.eu/fr/rech-lagrange/pages-personnelles-lagrange
+p: Lyu Abe | Thành viên | https://lagrange.oca.eu/fr/lyu-abe
+p: Eric Aristidi | Thành viên | https://lagrange.oca.eu/fr/eric-aristidi
+p: Chrysa Avdellidou | Thành viên | https://lagrange.oca.eu/fr/chrysa-avdellidou
+p: Edouard Bernard | Thành viên | https://lagrange.oca.eu/fr/edouard-bernard
+p: Nicolas Besse | Thành viên | https://lagrange.oca.eu/fr/nicolas-besse
+p: Lionel Bigot | Thành viên | https://lagrange.oca.eu/fr/lionel-bigot
+p: Albert Bijaoui | Thành viên | https://lagrange.oca.eu/fr/albert-bijaoui
+p: Eric Bois | Thành viên | https://lagrange.oca.eu/fr/eric-bois
+p: Adrien Broquet | Thành viên | https://lagrange.oca.eu/fr/adrien-broquet
+p: Marcel Carbillet | Thành viên | https://lagrange.oca.eu/fr/marcel-carbillet
+p: Benoît Carry | Thành viên | https://lagrange.oca.eu/fr/benoit-carry
+p: Silvio Cerri | Thành viên | https://lagrange.oca.eu/fr/silvio-cerri
+p: Andrea Chiavassa | Thành viên | https://lagrange.oca.eu/fr/andrea-chiavassa
+p: Gaël Chauvin | Thành viên | https://lagrange.oca.eu/fr/gael-chauvin
+p: Thierry Corbard | Thành viên | https://lagrange.oca.eu/fr/thierry-corbard
+p: Orlagh Creevey | Thành viên | https://lagrange.oca.eu/fr/orlagh-creevey
+p: Aurélien Crida | Thành viên | https://lagrange.oca.eu/fr/aurelien-crida
+p: Pierre Cruzalebes | Thành viên | https://lagrange.oca.eu/fr/cruzalebes-pierre
+p: Marco Delbo | Thành viên | https://lagrange.oca.eu/fr/marco-delbo
+p: Jun Du | Thành viên | https://lagrange.oca.eu/fr/jun-du
+p: Yan Fanteï-Caujolle | Thành viên | https://lagrange.oca.eu/fr/caujolle
+p: André Ferrari | Thành viên | https://lagrange.oca.eu/fr/andre-ferrari
+p: Camille Granier | Thành viên | https://lagrange.oca.eu/fr/camille-granier
+p: Philippine Griveaud | Thành viên | https://lagrange.oca.eu/fr/philippine-griveaud
+p: Tristan Guillot | Thành viên | https://lagrange.oca.eu/fr/tristan-guillot
+p: Oliver Hahn | Thành viên | https://lagrange.oca.eu/fr/olivier-hahn
+p: Michael Hayden | Thành viên | https://lagrange.oca.eu/fr/michael-hayden
+p: Vincent Hocdé | Thành viên | https://lagrange.oca.eu/fr/vincent-hocde
+p: Holger Homann | Thành viên | https://lagrange.oca.eu/fr/holger-homann
+p: Saburo Howard | Thành viên | https://lagrange.oca.eu/fr/saburo-howard
+p: Georges Kordopatis | Thành viên | https://lagrange.oca.eu/fr/georges-kordopatis
+p: Giorgio Krstulovic | Thành viên | https://lagrange.oca.eu/fr/giorgio-krstulovic
+p: Elena Léga | Thành viên | https://lagrange.oca.eu/fr/elena-lega
+p: Guy Libourel | Thành viên | https://lagrange.oca.eu/fr/guy-libourel
+p: Bruno Lopez | Thành viên | https://lagrange.oca.eu/fr/bruno-lopez
+p: Max Mahlke | Thành viên | https://lagrange.oca.eu/fr/max-mahlke
+p: Julia Maia | Thành viên | https://lagrange.oca.eu/fr/julia-maia
+p: Frantz Martinache | Thành viên | https://lagrange.oca.eu/fr/frantz-martinache
+p: Patrice Martinez | Thành viên | https://lagrange.oca.eu/fr/patrice-martinez
+p: Alexis Matter | Thành viên | https://lagrange.oca.eu/fr/alexis-matter
+p: Sophie Maurogordato | Thành viên | https://lagrange.oca.eu/fr/sophie-maurogordato
+p: Patrick Michel | Thành viên | https://lagrange.oca.eu/fr/patrick-michel
+p: Héloise Méheut | Thành viên | https://lagrange.oca.eu/fr/heloise-meheut
+p: François Mignard | Thành viên | https://lagrange.oca.eu/fr/francois-mignard
+p: Florentin Millour | Thành viên | https://lagrange.oca.eu/fr/florentin-millour
+p: Alessandro Morbidelli | Thành viên | https://lagrange.oca.eu/fr/alessandro-morbidelli
+p: Nicolas Muller | Thành viên | https://lagrange.oca.eu/fr/nicolas-muller
+p: Fathi Namouni | Thành viên | https://lagrange.oca.eu/fr/fathi-namouni
+p: Nicolas Nardetto | Thành viên | https://lagrange.oca.eu/fr/nicolas-nardetto
+p: Nicole Nesvadba | Thành viên | https://lagrange.oca.eu/fr/nicole-nesvadba
+p: Pascal Oberti | Thành viên | https://lagrange.oca.eu/fr/pascal-oberti
+p: Paulina Palma-Bifani | Thành viên | https://lagrange.oca.eu/fr/paulina-palma-bifani
+p: Vivien Parmentier | Thành viên | https://lagrange.oca.eu/fr/vivien-parmentier
+p: Thierry Passot | Thành viên | https://lagrange.oca.eu/fr/thierry-passot
+p: Antoine Petit | Thành viên | https://lagrange.oca.eu/fr/antoine-petit
+p: Romain Petrov | Thành viên | https://lagrange.oca.eu/fr/romain-petrov
+p: Gabriele Pichierri | Thành viên | https://lagrange.oca.eu/fr/gabriele-pichierri
+p: Bernard Pichon | Thành viên | https://lagrange.oca.eu/fr/bernard-pichon
+p: Rose Pinto | Thành viên | https://lagrange.oca.eu/fr/rose-pinto
+p: Yannick Ponty | Thành viên | https://lagrange.oca.eu/fr/yannick-ponty
+p: Olivier Preis | Thành viên | https://lagrange.oca.eu/fr/olivier-preis
+p: Alejandra Recio-Blanco | Thành viên | https://lagrange.oca.eu/fr/alejandra-recio-blanco
+p: Catherine Renaud | Thành viên | https://lagrange.oca.eu/fr/catherine-renaud
+p: Jean-Pierre Rivet | Thành viên | https://lagrange.oca.eu/fr/jean-pierre-rivet
+p: Clément Robert | Thành viên | https://lagrange.oca.eu/fr/clement-robert
+p: François-Xavier Schmider | Thành viên | https://lagrange.oca.eu/fr/francois-xavier-schmider
+p: Mathias Schultheis | Thành viên | https://lagrange.oca.eu/fr/mathias-schultheis
+p: Marta Spinelli | Thành viên | https://lagrange.oca.eu/fr/marta-spinelli
+p: Jochen Stadler | Thành viên | https://lagrange.oca.eu/fr/jochen-stadler
+p: Philippe Stee | Thành viên | https://lagrange.oca.eu/fr/philippe-stee
+p: Paolo Tanga | Thành viên | https://lagrange.oca.eu/fr/paolo-tanga
+p: Emanuele Tassi | Thành viên | https://lagrange.oca.eu/fr/emanuele-tassi
+p: Florian Thuillet | Thành viên | https://lagrange.oca.eu/fr/florian-thuillet
+p: Farrokh Vakili | Thành viên | https://lagrange.oca.eu/fr/farrokh-vakili
+p: Mark Wieczorek | Thành viên | https://lagrange.oca.eu/fr/mark-wieczorek
+p: Yun Zhang | Thành viên | https://lagrange.oca.eu/fr/yun-zhang
