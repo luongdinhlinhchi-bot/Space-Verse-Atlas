@@ -1,0 +1,27 @@
+@city guyancourt | Guyancourt | 2.07, 48.77 | -22, -6
+
+@inst Laboratoire Atmosphères, Observations Spatiales (LATMOS) — CNRS / Sorbonne Université / UVSQ
+city: guyancourt
+type: institute
+url: https://latmos.ipsl.fr/
+research: Khí quyển và bề mặt hành tinh (sao Hỏa, sao Kim, Titan), tầng khí quyển cao và thoát khí, hóa học tiền sinh học trong phòng thí nghiệm, radar xuyên đất (WISDOM trên ExoMars), thiết bị không gian (SPICAM, SPICAV, MAVEN, Perseverance/SuperCam); ngoài ra nghiên cứu khí quyển Trái Đất.
+coverage: limited
+structure: UMR 8190 (CNRS – Sorbonne Université – UVSQ), thuộc IPSL và OVSQ; các phòng nghiên cứu khí quyển Trái Đất (STRATO, TROPO...), Mặt Trời – Trái Đất (HELIOS) và hành tinh học (PLANETO).
+structureUrl: https://latmos.ipsl.fr/?p=11636
+scope: Danh bạ và trang phòng PLANETO của LATMOS không đọc được (11/2026); chỉ ghi ban giám đốc theo trang thông tin pháp lý và một phần thành viên phòng PLANETO lấy từ các đoạn trích danh bạ trong kết quả tìm kiếm, không có vai trò. Bỏ các phòng khí quyển Trái Đất.
+
+#unit Ban giám đốc
+parent: LATMOS
+topics: —
+url: https://latmos.ipsl.fr/?p=11636
+src: https://latmos.ipsl.fr/?p=11636
+p: François Leblanc | Giám đốc LATMOS | https://latmos.ipsl.fr/?p=11636
+p: Franck Montmessin | Phó giám đốc khoa học, DR CNRS | https://montmessin.page.latmos.ipsl.fr/Accueil.html
+pp: Phó giám đốc khoa học | Cathy Clerbaux
+
+#unit PLANETO — Hành tinh học
+parent: LATMOS
+topics: Khí quyển sao Hỏa và sao Kim, Titan, bề mặt và lòng đất hành tinh (radar), hóa học tiền sinh học thực nghiệm, ngoại quyển và thoát khí.
+url: https://latmos.ipsl.fr/
+src: https://www3.latmos.ipsl.fr/index.php/fr/annuaire
+pp: Thành viên (một phần, không rõ vai trò) | Alex Abello; Maëlle Bombled; Emile Brighi; Nathalie Carrasco; Claude Chapuis; Audrey Chatain; Valérie Ciarletti; Lucile Conan; Pierre-Richard Dahoo; Koyena Das; Thomas Drant; Klervi Duhen; Paul Lagouanelle; Alice Le Gall; Franck Lefèvre; Maxence Lefèvre; Yann Leseigneur; Dan Li; Lucas Lopes Ferreira; Anni Määttänen; Louis Maratrat; Emmanuel Marcq; Salman Raza; Clément Royer

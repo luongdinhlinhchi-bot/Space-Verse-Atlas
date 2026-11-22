@@ -1002,6 +1002,386 @@
       }
      ],
      "networks": []
+    },
+    {
+     "name": "Laboratoire de Physique des Plasmas (LPP) — École polytechnique / CNRS / Sorbonne Université / Université Paris-Saclay / Observatoire de Paris",
+     "type": "institute",
+     "research": "Plasma không gian trong Hệ Mặt Trời: từ quyển Trái Đất và hành tinh, gió Mặt Trời và môi trường liên hành tinh, rối loạn và tái kết nối từ; chế tạo cảm biến sóng và hạt cho các sứ mệnh MMS, Solar Orbiter, BepiColombo, JUICE; mô phỏng số plasma. (Phòng thí nghiệm còn có các nhóm plasma nhiệt hạch và plasma lạnh, không đưa vào đây.)",
+     "url": "https://lpp.ip-paris.fr/",
+     "coverage": "full",
+     "structure": "UMR 7648, trụ sở Palaiseau (cơ sở phụ ở Jussieu); ba nhóm: Plasmas de fusion, Plasmas froids, Plasmas spatiaux. Giám đốc Anne Bourdon, phó giám đốc Fouad Sahraoui.",
+     "structureUrl": "https://lpp.ip-paris.fr/sites/lpp/files/content/pages/documents/2025-08/2025-07_15_Organigramme_LPP_WEB.pdf",
+     "scopeNote": "Đủ thành viên nhóm Plasmas spatiaux theo trang nhóm (11/2026), phân loại theo trang; bỏ cựu thành viên và hai nhóm không thuộc vật lý thiên văn.",
+     "units": [
+      {
+       "name": "Plasmas spatiaux",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LPP",
+       "topics": "Từ quyển và tái kết nối từ (MMS), gió Mặt Trời và rối loạn plasma (Solar Orbiter, Parker Solar Probe), môi trường plasma quanh sao Thủy, sao Mộc và các vệ tinh (BepiColombo, JUICE), vật lý Mặt Trời, mô phỏng lai và động học.",
+       "url": "https://lpp.ip-paris.fr/en/node/112",
+       "researchers": {
+        "people": [
+         {
+          "name": "Nicolas Aunai",
+          "role": "Trưởng nhóm, nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Sae Aizawa",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Matthieu Berthomier",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Thomas Chust",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Alexandre Chuvatin",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Lina Hadid",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Olivier Le Contel",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Alessandro Retinò",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Fouad Sahraoui",
+          "role": "Nghiên cứu viên CNRS",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Sébastien Galtier",
+          "role": "Giảng viên – nghiên cứu viên",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Catherine Krafft",
+          "role": "Giảng viên – nghiên cứu viên",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Philippe Savoini",
+          "role": "Giảng viên – nghiên cứu viên",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Pauline Simon",
+          "role": "Giảng viên – nghiên cứu viên",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Roch Smets",
+          "role": "Giảng viên – nghiên cứu viên",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Guillaume Aulanier",
+          "role": "Astronome",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Sophie Masson",
+          "role": "Astronome",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Yvon Alata",
+          "role": "Kỹ sư",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Dominique Alison",
+          "role": "Kỹ sư",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Frédéric Leblanc",
+          "role": "Kỹ sư",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Laurent Mirioni",
+          "role": "Kỹ sư",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Fatima Mehrez",
+          "role": "Kỹ sư",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Jean-Denis Techer",
+          "role": "Kỹ sư",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Soboh Alqeeq",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Giulio Ballerini",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Mohammed Baraka",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Jérémy Dargent",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Ivan Girault",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Sébastien Verkercke",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Jesse Coburn",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Xue Wang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Ambre Ghisalberti",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Francisco Polanco Rodriguez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Léa d'Herbomez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Pierre Raynal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Jorge Romero Castañeda",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Thershi Seebaruth",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Ulysse Caromel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Ewan Bataille",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Thomas Faure",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Camille Coustillet",
+          "role": "Nghiên cứu sinh",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Hassirou Ba",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Gwendal Henaff",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Théo Stassen",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Philip Deegan",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Khanh Le",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Corentin Le Bomin",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Gabriel Poggia",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Evan Seneret",
+          "role": "Kỹ sư hợp đồng",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Gérard Belmont",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Patrick Canu",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Gérard Chanteur",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Dominique Delcourt",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Dominique Fontaine",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Laurence Rezeau",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Roland Grappin",
+          "role": "Danh dự (émérite)",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Christine Amory-Mazaudier",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Nahuel Andrés",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Jean-Jacques Berthelier",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Hugo Breuillard",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Francesco Califano",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Nicolas Dorville",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Gaëtan Gauthier",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Benjamin Grison",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Ronan Modolo",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Victor Montagud Camps",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Joël Moutoussamy",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Etienne Pariat",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Raymond Pottelette",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Chien Thang Nguyen",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         },
+         {
+          "name": "Patrick Robert",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://lpp.ip-paris.fr/en/node/112"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://lpp.ip-paris.fr/en/node/112"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
     }
    ],
    "offset": [
@@ -2151,6 +2531,218 @@
         "external": [],
         "sources": [
          "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Institut de Radioastronomie Millimétrique (IRAM) — CNRS / MPG / IGN",
+     "type": "institute",
+     "research": "Thiên văn vô tuyến bước sóng milimét: vận hành giao thoa kế NOEMA (Plateau de Bure) và kính 30 m Pico Veleta (Tây Ban Nha); môi trường giữa các sao và hóa học phân tử, hình thành sao, đĩa tiền hành tinh, thiên hà xa; phát triển máy thu, bộ tương quan và phần mềm GILDAS.",
+     "url": "https://iram-institute.org/",
+     "coverage": "full",
+     "structure": "Viện nghiên cứu quốc tế do CNRS (Pháp), MPG (Đức) và IGN (Tây Ban Nha) đồng sở hữu; trụ sở ở Saint-Martin-d'Hères (Grenoble), văn phòng Granada; nhóm Astronomy & Science Support ở Pháp và ở Tây Ban Nha, Science Operations Group của NOEMA, cùng các nhóm kỹ thuật (máy thu, backend, phần mềm).",
+     "structureUrl": "https://iram-institute.org/science-portal/science-contacts/",
+     "scopeNote": "Đủ nhà thiên văn trong hai nhóm Astronomy & Science Support (Pháp và Tây Ban Nha) theo trang Science contacts của IRAM; trang không ghi chức danh nên để chung. Bỏ thư ký và các nhóm kỹ thuật.",
+     "units": [
+      {
+       "name": "Astronomy & Science Support Group — Pháp (Grenoble, NOEMA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IRAM",
+       "topics": "Vận hành khoa học và hiệu chuẩn NOEMA, hỗ trợ người dùng, nghiên cứu môi trường giữa các sao, hình thành sao, đĩa tiền hành tinh, thiên hà xa và AGN.",
+       "url": "https://iram-institute.org/science-portal/noema/contact-the-sog/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Roberto Neri",
+          "role": "Trưởng nhóm",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Felipe Alves",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Nacho Añez-López",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Sébastien Bardeau",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Stefano Berta",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Jérémie Boissier",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Laure Bouscasse",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Michael Bremer",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Arancha Castro-Carrizo",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Victor Chalamet",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Edwige Chapillon",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Chiara Circosta",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Giuliana Cosentino",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Kaiyi Du",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Golshan Ejlali",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Emilie Faret",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Christian Fischer",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Romana Grossová",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Michel Guélin",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Carsten Kramer",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Melanie Krips",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Romane Le Gal",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Ana López Sepulcre",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Gan Luo",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Jan Orkisz",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Léa Pamphile",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Jérôme Pety",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Vincent Piétu",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Emmanuel Reynier",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://iram-institute.org/science-portal/science-contacts/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Astronomy & Science Support Group — Tây Ban Nha (Granada, kính 30 m)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IRAM",
+       "topics": "Vận hành khoa học kính 30 m Pico Veleta, thiết bị NIKA2 và EMIR, hỗ trợ người dùng.",
+       "url": "https://iram-institute.org/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Miguel Sánchez Portal",
+          "role": "Trưởng trạm, trưởng nhóm",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Brisa Mancillas Vaquera",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Ioannis Myserlis",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         },
+         {
+          "name": "Pablo Torne",
+          "role": "Nhà thiên văn",
+          "url": "https://iram-institute.org/science-portal/science-contacts/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://iram-institute.org/science-portal/science-contacts/"
         ],
         "note": "",
         "checked": "2026-11-22"
@@ -4566,6 +5158,202 @@
      ],
      "networks": []
     }
+   ]
+  },
+  {
+   "id": "guyancourt",
+   "city": "Guyancourt",
+   "coordinates": [
+    2.07,
+    48.77
+   ],
+   "institutions": [
+    {
+     "name": "Laboratoire Atmosphères, Observations Spatiales (LATMOS) — CNRS / Sorbonne Université / UVSQ",
+     "type": "institute",
+     "research": "Khí quyển và bề mặt hành tinh (sao Hỏa, sao Kim, Titan), tầng khí quyển cao và thoát khí, hóa học tiền sinh học trong phòng thí nghiệm, radar xuyên đất (WISDOM trên ExoMars), thiết bị không gian (SPICAM, SPICAV, MAVEN, Perseverance/SuperCam); ngoài ra nghiên cứu khí quyển Trái Đất.",
+     "url": "https://latmos.ipsl.fr/",
+     "coverage": "limited",
+     "structure": "UMR 8190 (CNRS – Sorbonne Université – UVSQ), thuộc IPSL và OVSQ; các phòng nghiên cứu khí quyển Trái Đất (STRATO, TROPO...), Mặt Trời – Trái Đất (HELIOS) và hành tinh học (PLANETO).",
+     "structureUrl": "https://latmos.ipsl.fr/?p=11636",
+     "scopeNote": "Danh bạ và trang phòng PLANETO của LATMOS không đọc được (11/2026); chỉ ghi ban giám đốc theo trang thông tin pháp lý và một phần thành viên phòng PLANETO lấy từ các đoạn trích danh bạ trong kết quả tìm kiếm, không có vai trò. Bỏ các phòng khí quyển Trái Đất.",
+     "units": [
+      {
+       "name": "Ban giám đốc",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LATMOS",
+       "topics": "—",
+       "url": "https://latmos.ipsl.fr/?p=11636",
+       "researchers": {
+        "people": [
+         {
+          "name": "François Leblanc",
+          "role": "Giám đốc LATMOS",
+          "url": "https://latmos.ipsl.fr/?p=11636"
+         },
+         {
+          "name": "Franck Montmessin",
+          "role": "Phó giám đốc khoa học, DR CNRS",
+          "url": "https://montmessin.page.latmos.ipsl.fr/Accueil.html"
+         },
+         {
+          "name": "Cathy Clerbaux",
+          "role": "Phó giám đốc khoa học",
+          "url": "https://latmos.ipsl.fr/?p=11636"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://latmos.ipsl.fr/?p=11636"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "PLANETO — Hành tinh học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LATMOS",
+       "topics": "Khí quyển sao Hỏa và sao Kim, Titan, bề mặt và lòng đất hành tinh (radar), hóa học tiền sinh học thực nghiệm, ngoại quyển và thoát khí.",
+       "url": "https://latmos.ipsl.fr/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alex Abello",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Maëlle Bombled",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Emile Brighi",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Nathalie Carrasco",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Claude Chapuis",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Audrey Chatain",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Valérie Ciarletti",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Lucile Conan",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Pierre-Richard Dahoo",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Koyena Das",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Thomas Drant",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Klervi Duhen",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Paul Lagouanelle",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Alice Le Gall",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Franck Lefèvre",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Maxence Lefèvre",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Yann Leseigneur",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Dan Li",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Lucas Lopes Ferreira",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Anni Määttänen",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Louis Maratrat",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Emmanuel Marcq",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Salman Raza",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         },
+         {
+          "name": "Clément Royer",
+          "role": "Thành viên (một phần, không rõ vai trò)",
+          "url": "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www3.latmos.ipsl.fr/index.php/fr/annuaire"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ],
+   "offset": [
+    -22.0,
+    -6.0
    ]
   },
   {

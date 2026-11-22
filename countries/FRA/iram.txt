@@ -1,0 +1,25 @@
+@inst Institut de Radioastronomie Millimétrique (IRAM) — CNRS / MPG / IGN
+city: grenoble
+type: institute
+url: https://iram-institute.org/
+research: Thiên văn vô tuyến bước sóng milimét: vận hành giao thoa kế NOEMA (Plateau de Bure) và kính 30 m Pico Veleta (Tây Ban Nha); môi trường giữa các sao và hóa học phân tử, hình thành sao, đĩa tiền hành tinh, thiên hà xa; phát triển máy thu, bộ tương quan và phần mềm GILDAS.
+coverage: full
+structure: Viện nghiên cứu quốc tế do CNRS (Pháp), MPG (Đức) và IGN (Tây Ban Nha) đồng sở hữu; trụ sở ở Saint-Martin-d'Hères (Grenoble), văn phòng Granada; nhóm Astronomy & Science Support ở Pháp và ở Tây Ban Nha, Science Operations Group của NOEMA, cùng các nhóm kỹ thuật (máy thu, backend, phần mềm).
+structureUrl: https://iram-institute.org/science-portal/science-contacts/
+scope: Đủ nhà thiên văn trong hai nhóm Astronomy & Science Support (Pháp và Tây Ban Nha) theo trang Science contacts của IRAM; trang không ghi chức danh nên để chung. Bỏ thư ký và các nhóm kỹ thuật.
+
+#unit Astronomy & Science Support Group — Pháp (Grenoble, NOEMA)
+parent: IRAM
+topics: Vận hành khoa học và hiệu chuẩn NOEMA, hỗ trợ người dùng, nghiên cứu môi trường giữa các sao, hình thành sao, đĩa tiền hành tinh, thiên hà xa và AGN.
+url: https://iram-institute.org/science-portal/noema/contact-the-sog/
+src: https://iram-institute.org/science-portal/science-contacts/
+p: Roberto Neri | Trưởng nhóm | https://iram-institute.org/science-portal/science-contacts/
+pp: Nhà thiên văn | Felipe Alves; Nacho Añez-López; Sébastien Bardeau; Stefano Berta; Jérémie Boissier; Laure Bouscasse; Michael Bremer; Arancha Castro-Carrizo; Victor Chalamet; Edwige Chapillon; Chiara Circosta; Giuliana Cosentino; Kaiyi Du; Golshan Ejlali; Emilie Faret; Christian Fischer; Romana Grossová; Michel Guélin; Carsten Kramer; Melanie Krips; Romane Le Gal; Ana López Sepulcre; Gan Luo; Jan Orkisz; Léa Pamphile; Jérôme Pety; Vincent Piétu; Emmanuel Reynier
+
+#unit Astronomy & Science Support Group — Tây Ban Nha (Granada, kính 30 m)
+parent: IRAM
+topics: Vận hành khoa học kính 30 m Pico Veleta, thiết bị NIKA2 và EMIR, hỗ trợ người dùng.
+url: https://iram-institute.org/
+src: https://iram-institute.org/science-portal/science-contacts/
+p: Miguel Sánchez Portal | Trưởng trạm, trưởng nhóm | https://iram-institute.org/science-portal/science-contacts/
+pp: Nhà thiên văn | Brisa Mancillas Vaquera; Ioannis Myserlis; Pablo Torne

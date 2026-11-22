@@ -1,0 +1,25 @@
+@inst Laboratoire de Physique des Plasmas (LPP) — École polytechnique / CNRS / Sorbonne Université / Université Paris-Saclay / Observatoire de Paris
+city: saclay
+type: institute
+url: https://lpp.ip-paris.fr/
+research: Plasma không gian trong Hệ Mặt Trời: từ quyển Trái Đất và hành tinh, gió Mặt Trời và môi trường liên hành tinh, rối loạn và tái kết nối từ; chế tạo cảm biến sóng và hạt cho các sứ mệnh MMS, Solar Orbiter, BepiColombo, JUICE; mô phỏng số plasma. (Phòng thí nghiệm còn có các nhóm plasma nhiệt hạch và plasma lạnh, không đưa vào đây.)
+coverage: full
+structure: UMR 7648, trụ sở Palaiseau (cơ sở phụ ở Jussieu); ba nhóm: Plasmas de fusion, Plasmas froids, Plasmas spatiaux. Giám đốc Anne Bourdon, phó giám đốc Fouad Sahraoui.
+structureUrl: https://lpp.ip-paris.fr/sites/lpp/files/content/pages/documents/2025-08/2025-07_15_Organigramme_LPP_WEB.pdf
+scope: Đủ thành viên nhóm Plasmas spatiaux theo trang nhóm (11/2026), phân loại theo trang; bỏ cựu thành viên và hai nhóm không thuộc vật lý thiên văn.
+
+#unit Plasmas spatiaux
+parent: LPP
+topics: Từ quyển và tái kết nối từ (MMS), gió Mặt Trời và rối loạn plasma (Solar Orbiter, Parker Solar Probe), môi trường plasma quanh sao Thủy, sao Mộc và các vệ tinh (BepiColombo, JUICE), vật lý Mặt Trời, mô phỏng lai và động học.
+url: https://lpp.ip-paris.fr/en/node/112
+src: https://lpp.ip-paris.fr/en/node/112
+p: Nicolas Aunai | Trưởng nhóm, nghiên cứu viên CNRS | https://lpp.ip-paris.fr/en/node/112
+pp: Nghiên cứu viên CNRS | Sae Aizawa; Matthieu Berthomier; Thomas Chust; Alexandre Chuvatin; Lina Hadid; Olivier Le Contel; Alessandro Retinò; Fouad Sahraoui
+pp: Giảng viên – nghiên cứu viên | Sébastien Galtier; Catherine Krafft; Philippe Savoini; Pauline Simon; Roch Smets
+pp: Astronome | Guillaume Aulanier; Sophie Masson
+pp: Kỹ sư | Yvon Alata; Dominique Alison; Frédéric Leblanc; Laurent Mirioni; Fatima Mehrez; Jean-Denis Techer
+pp: PD | Soboh Alqeeq; Giulio Ballerini; Mohammed Baraka; Jérémy Dargent; Ivan Girault; Sébastien Verkercke; Jesse Coburn; Xue Wang; Ambre Ghisalberti; Francisco Polanco Rodriguez
+pp: NCS | Léa d'Herbomez; Pierre Raynal; Jorge Romero Castañeda; Thershi Seebaruth; Ulysse Caromel; Ewan Bataille; Thomas Faure; Camille Coustillet
+pp: Kỹ sư hợp đồng | Hassirou Ba; Gwendal Henaff; Théo Stassen; Philip Deegan; Khanh Le; Corentin Le Bomin; Gabriel Poggia; Evan Seneret
+pp: Danh dự (émérite) | Gérard Belmont; Patrick Canu; Gérard Chanteur; Dominique Delcourt; Dominique Fontaine; Laurence Rezeau; Roland Grappin
+pp: Nghiên cứu viên liên kết | Christine Amory-Mazaudier; Nahuel Andrés; Jean-Jacques Berthelier; Hugo Breuillard; Francesco Califano; Nicolas Dorville; Gaëtan Gauthier; Benjamin Grison; Ronan Modolo; Victor Montagud Camps; Joël Moutoussamy; Etienne Pariat; Raymond Pottelette; Chien Thang Nguyen; Patrick Robert
