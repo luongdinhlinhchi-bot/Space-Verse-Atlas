@@ -1,0 +1,67 @@
+@city bordeaux | Bordeaux (Pessac) | -0.61, 44.80
+
+@inst Laboratoire d'Astrophysique de Bordeaux (LAB) — Université de Bordeaux / CNRS
+city: bordeaux
+type: institute
+url: https://astrophy.u-bordeaux.fr/
+research: Hệ hành tinh và ngoại hành tinh (khí hậu, khả năng sống), khí quyển hành tinh, đĩa tiền hành tinh và hóa học thiên văn, hình thành sao và môi trường giữa các sao, đo sao và hệ quy chiếu thiên văn (Gaia, VLBI).
+coverage: full
+structure: UMR 5804 (UB – CNRS), thuộc OASU; năm nhóm khoa học (AMOR, ASP, ECLIPSE, FEMIS, M2A), bốn nhóm kỹ thuật (CSSD, Mécanique, SE2I, Pôle instrumentation) và các bộ phận hỗ trợ.
+structureUrl: https://astrophy.u-bordeaux.fr/
+scope: Thành viên năm nhóm khoa học theo Annuaire LAB (11/2026), phân loại theo trạng thái ghi trong danh bạ; bỏ các nhóm kỹ thuật và hỗ trợ. Danh bạ không có trang cá nhân.
+
+#unit AMOR — Hóa học phân tử thiên văn và nguồn gốc hệ hành tinh
+parent: LAB
+topics: Đĩa tiền hành tinh (NOEMA, ALMA), hóa học phân tử trong đĩa, giao thoa vô tuyến.
+url: https://astrophy.u-bordeaux.fr/amor/
+src: https://astrophy.u-bordeaux.fr/annuaire/
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Jean-Marc Huré; Anne Dutrey
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint) | Emmanuel Di Folco
+pp: NCS | Thomas Collin-Dufresne; Coralie Foucher
+pp: Nghiên cứu viên liên kết | Edwige Chapillon
+pp: Danh dự (émérite) | Stéphane Guilloteau
+
+#unit ASP — Khí quyển và bề mặt hành tinh
+parent: LAB
+topics: Khí quyển hành tinh khổng lồ và Titan (JUICE), radar bề mặt, hóa quang, exobiology.
+url: https://astrophy.u-bordeaux.fr/asp/
+src: https://astrophy.u-bordeaux.fr/annuaire/
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Philippe Paillou
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint) | Michel Dobrijevic; Bertrand Dauphole; Géraldine Bourda; Françoise Billebaud; Thibault Cavalié
+pp: Kỹ sư nghiên cứu | Aurélie Le Postollec Cavalié
+pp: NCS | Camille Lefour
+pp: Nghiên cứu viên liên kết | Vincent Hue
+
+#unit ECLIPSE — Ngoại hành tinh, khí hậu và tiến hóa hệ hành tinh
+parent: LAB
+topics: Hình thành và động lực hệ hành tinh, khí hậu và khả năng sống của ngoại hành tinh, plasma không gian, hành tinh lang thang (Euclid).
+url: https://astrophy.u-bordeaux.fr/eclipse/
+src: https://astrophy.u-bordeaux.fr/annuaire/
+p: Sean Raymond | Giám đốc LAB, DR CNRS | https://astrophy.u-bordeaux.fr/annuaire/
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Franck Selsis; Benoît Lavraud; Muriel Gargaud-Claeys; Hervé Bouy; Pascal Bordé
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint) | Arnaud Pierens; Jérémy Leconte
+pp: PD / nghiên cứu viên hợp đồng | Gwenaël Milcareck
+pp: NCS | Afonso Do Brito Do Vale; Hugo Pélissard
+pp: Nghiên cứu viên liên kết | Martin Turbet; Yassin Jaziri; Sarah Joiret; Noé Clément
+
+#unit FEMIS — Hình thành sao và môi trường giữa các sao
+parent: LAB
+topics: Hình thành sao khối lượng lớn, đám mây phân tử, hóa học thiên văn (mô hình KIDA), thiên văn vô tuyến (IRAM, ALMA).
+url: https://astrophy.u-bordeaux.fr/femis/
+src: https://astrophy.u-bordeaux.fr/annuaire/
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Jonathan Braine; Bertrand Le Floch; Valentine Wakelam; David Smith; Sylvain Bontemps; Fabrice Herpin
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint) | Thierry Jacq; Pierre Gratier; Timea Csengeri; Nathalie Brouillet
+pp: PD / nghiên cứu viên hợp đồng | Isaure Gonzalez Rivera
+pp: NCS | Rohit Mandal; Tianyu Tu; Devismita Panda; Nina Kessler; Aimie Clément
+pp: Nghiên cứu viên liên kết | Maxime Valeille-Manet; Didier Despois
+pp: Danh dự (émérite) | Alain Baudry
+
+#unit M2A — Đo lường không gian, động lực học thiên thể, vật lý thiên văn
+parent: LAB
+topics: Hệ quy chiếu thiên văn và VLBI (ICRF), Gaia, cụm sao mở và quần thể sao Ngân Hà.
+url: https://astrophy.u-bordeaux.fr/m2a/
+src: https://astrophy.u-bordeaux.fr/annuaire/
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Caroline Soubiran; Patrick Charlot
+pp: Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint) | Nadège Lagarde; Christine Ducourant
+pp: NCS | Afonso Ribeiro; Tommy Rodrigues
+pp: Nghiên cứu viên liên kết | Qingshun Hu; Marcel Agüeros; Sergi Blanco-Cuaresma; Alberto Krone-Martins; Laïa Casamiquela

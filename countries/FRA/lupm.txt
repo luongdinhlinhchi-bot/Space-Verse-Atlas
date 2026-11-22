@@ -1,0 +1,47 @@
+@city montpellier | Montpellier | 3.86, 43.63
+
+@inst Laboratoire Univers et Particules de Montpellier (LUPM) — Université de Montpellier / CNRS
+city: montpellier
+type: institute
+url: https://www.lupm.in2p3.fr/
+research: Vật lý sao (sao khối lượng lớn, từ trường sao, khí quyển sao, hóa học thiên văn), thiên văn hạt và tia gamma (H.E.S.S., CTAO, Fermi, SVOM), tia vũ trụ và plasma năng lượng cao, lý thuyết hạt – vũ trụ học (vật chất tối, sóng hấp dẫn, căng thẳng Hubble).
+coverage: full
+structure: UMR 5299 (UM – CNRS), thuộc IN2P3 và INSU; ba nhóm nghiên cứu (AS, EMAC, PACT) cùng ba dịch vụ hỗ trợ (hành chính, tin học, thiết bị).
+structureUrl: https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf
+scope: Đủ thành viên ba nhóm nghiên cứu theo sơ đồ tổ chức LUPM 12/2025, kèm chức danh; trưởng nhóm lấy theo người đứng đầu danh sách. Bỏ các dịch vụ hỗ trợ.
+
+#unit AS — Vật lý sao
+parent: LUPM
+topics: Sao khối lượng lớn, từ trường và hoạt động sao, khí quyển và phổ sao, khuếch tán nguyên tố, hóa học thiên văn, Gaia.
+url: https://www.lupm.in2p3.fr/?p=533
+src: https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf
+pp: Trưởng nhóm | Julien Morin; Ana Palacios
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Bertrand Plez; Fabrice Martins; Dahbia Talbi; Agnès Lèbre; Hervé Wozniak
+pp: Nghiên cứu viên / Giảng viên (CR, MCF) | Éric Josselin; Olivier Richard; Yohann Scribano; Morgan Deal
+pp: Nghiên cứu viên hợp đồng (CDD) | Isabelle Cherchneff
+pp: NCS | Manon Diez; Joachim Knapik; Marin Vidal; Thomas Voje
+pp: Danh dự / cộng tác viên | Henri Reboul; Nicolas Mauron
+
+#unit EMAC — Thực nghiệm và mô hình thiên văn hạt, vũ trụ học
+parent: LUPM
+topics: Thiên văn tia gamma (H.E.S.S., CTAO, Fermi-LAT), chớp gamma (SVOM), gia tốc tia vũ trụ và sóng xung kích, bụi và từ trường giữa các sao.
+url: https://www.lupm.in2p3.fr/
+src: https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf
+pp: Trưởng nhóm | Alexandre Marcowith
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR) | Nukri Komin; Yves Gallant; Frédéric Piron; Georges Vasileiadis
+pp: Nghiên cứu viên / Giảng viên (CR, MCF) | Vincent Guillet; Justine Devin; Claire Guépin
+pp: Nghiên cứu viên liên kết | Maria Grazia Bernardini; Christophe Sauty
+pp: NCS | Edouard Callies; Souhayla El Attar Sofi
+
+#unit PACT — Lý thuyết hạt, thiên văn hạt và vũ trụ học
+parent: LUPM
+topics: Vật chất tối, vũ trụ học sớm, căng thẳng Hubble, thấu kính hấp dẫn, siêu đối xứng, QCD.
+url: https://www.lupm.in2p3.fr/
+src: https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf
+pp: Trưởng nhóm | Félix Brümmer
+p: Denis Puy | Giám đốc LUPM, GS Đại học Montpellier | https://www.lupm.in2p3.fr/
+pp: Nghiên cứu viên cao cấp (DR) | Julien Lavalle
+pp: Nghiên cứu viên / Giảng viên (CR, MCF) | Cyril Hugonie; Julien Larena; Pierre Fleury; Karsten Jedamzik; Gilbert Moultaka; Vivian Poulin; Théo Simon
+pp: PD | Thomas Montandon; Giacomo Queirolo; Elsa Teixeira
+pp: NCS | Théodore Fischer; Daniel Johnson; Camille Libourel; Théo Paré; Adèle Poudou; Yannick Tanguy
+pp: Danh dự (émérite) | Michel Capdequi-Peyranère; Pierre Grange; Stephan Narison

@@ -1,0 +1,63 @@
+@city grenoble | Grenoble | 5.72, 45.19
+
+@inst Institut de Planétologie et d'Astrophysique de Grenoble (IPAG) — Université Grenoble Alpes / CNRS
+city: grenoble
+type: institute
+url: https://ipag.osug.fr/
+research: Hành tinh học và vật chất nguyên thủy (thiên thạch, sao chổi, Rosetta, radar CONSERT), ngoại hành tinh và đĩa mảnh vụn (SPHERE, SPIRou), hình thành sao và hành tinh, hóa học thiên văn và môi trường giữa các sao, vật lý năng lượng cao và plasma thiên văn, thiết bị quang học thích ứng và giao thoa (Gravity, ELT).
+coverage: partial
+structure: UMR 5274 (UGA – CNRS), một trong các phòng thí nghiệm chính của OSUG; sáu nhóm nghiên cứu: Planéto, Exoplanets, Odyssey, Spectre, Sherpas, Charm; cùng nhóm hành chính – kỹ thuật và dịch vụ quan sát.
+structureUrl: https://ipag.osug.fr/english/research/research-teams/
+scope: Đủ thành viên năm nhóm Planéto, Exoplanets, Odyssey, Spectre, Sherpas theo trang "Members" của từng nhóm (11/2026), phân loại theo trạng thái ghi trên trang; trang không ghi trưởng nhóm. Nhóm Charm (thiết bị) chưa có vì trang thành viên bị chặn truy cập tự động.
+
+#unit Planéto — Hành tinh học
+parent: IPAG
+topics: Thiên thạch và vật chất nguyên thủy, bề mặt hành tinh và vật thể nhỏ, sao chổi (Rosetta), radar xuyên đất (CONSERT), băng và chất hữu cơ.
+url: https://ipag.osug.fr/english/research/research-teams/planeto/
+src: https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/
+pp: Nhân sự biên chế (GS, NCV, astronome, MCF) | Pierre Beck; Lydie Bonal; Cecilia Ceccarelli; Sylvain Douté; Alain Hérique; Lucia Mandon; François-Régis Orthous-Daunay; Olivier Poch; Bernard Schmitt; Sonia Zine
+pp: PD | Yann Berquin; Leopold Desage
+pp: NCS | Chloé Arthozoul; Lise Boitard-Crépeau; Jannes Depoortere; Marianne Le Turnier; Maëlys Rigouleau
+pp: Danh dự (émérite) | Wlodek Kofman
+
+#unit Exoplanets — Ngoại hành tinh
+parent: IPAG
+topics: Phát hiện và đặc trưng ngoại hành tinh (vận tốc xuyên tâm, chụp ảnh trực tiếp SPHERE), sao lùn M, đĩa mảnh vụn, động lực học hệ hành tinh, Gaia.
+url: https://ipag.osug.fr/english/research/research-teams/exoplanets/
+src: https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/
+pp: Astronome cao cấp (UGA) | Jean-Charles Augereau; Carine Babusiaux; Hervé Beust; Xavier Delfosse; Thierry Forveille; Nadège Meunier
+pp: Nghiên cứu viên / astronome | Xavier Bonfils; Mickael Bonnefoy; Lucile Mignon; Philippe Delorme; Julien Milli
+pp: PD | Myriam Bonduelle; Guillaume Chaverot; Salomé Grouffal; Gayathri Viswanath; Jie Ma
+pp: NCS | Vincent Bruniquel; Rémi Julo; Antoine Lacquement; Mathis Letessier; Alejandro Martin Escabia; Philippe Priolet; Vincent Yariv
+pp: Liên kết / khách mời | Alexandre Santerne; Jose Manuel Almenara; Antoine Chomez; Mathieu Ravet
+
+#unit Odyssey — Hình thành sao và hành tinh
+parent: IPAG
+topics: Sao trẻ và đĩa tiền hành tinh, bồi tụ và phụt khí, hình thành sao khối lượng lớn (ALMA), mô phỏng đĩa, cụm sao trẻ.
+url: https://ipag.osug.fr/english/research/research-teams/odyssey/
+src: https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/
+pp: Nghiên cứu viên cao cấp (DR) | Jérôme Bouvier; Catherine Dougados; François Ménard; Frédérique Motte
+pp: Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ) | Evelyne Alecian; Fabien Louvet; Sébastien Maret; Marion Villenave; Nicolas Cuello; Gaspard Duchêne; Isabelle Joncour; Estelle Moraux
+pp: PD | Youcef Bouarour; Timothée David-Cléris; Antonia Drescher; Greta Guidi; Mathis Houllé; Pedro P. Poblete; Martin Scheuck; Mario Sucerquia Areiza
+pp: NCS | Yann Bernard; Elisa Castro; Simon Chevalier; Eva de Araujo Pereira; Hugo Dherbey; Lisa Drouglazet; Romain Grane; Laurine Martinien; Tamara Rom; Maxime Roumesy; Hugo T'Kindt; Romeo Veyry; Rémi Zerna
+pp: Danh dự (émérite) | Jean-Louis Monin
+pp: Nghiên cứu viên liên kết | Eleonora Bianchi; Christophe Pinte
+
+#unit Spectre — Hóa học thiên văn và khí quyển hành tinh
+parent: IPAG
+topics: Hóa học giữa các sao và hóa học tiền sinh học, phân tử trong vùng hình thành sao, phổ học phòng thí nghiệm, khí quyển cao và cực quang hành tinh, Titan.
+url: https://ipag.osug.fr/english/research/research-teams/spectre/
+src: https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/
+pp: Nhân sự biên chế (GS, DR, astronome, MCF) | Aurore Bacmann; Mathieu Barthelemy; Eric Quirico; Alexandre Faure; Véronique Vuitton; Mathilde Faure; Pierre Hily-Blant; Claire Rist; Romane Le Gal; Ana Lopez Sepulcre
+pp: PD | Elsa Henault; Gaylor Wafflard-Fernandez
+pp: NCS | Léa Etchechoury; Matheo Gaillard; Cora Hoppe; Léa Pamphile; Alexandre Perroni; Samuel Reboud-Maquin; Zack Ribeiro; Juliette Robuschi; Guillaume Saury
+pp: Danh dự (émérite) | François-Xavier Désert; Jean Lilensten
+
+#unit Sherpas — Vật lý năng lượng cao và plasma thiên văn
+parent: IPAG
+topics: Đĩa bồi tụ và phụt khí, lỗ đen và AGN, pulsar và sao neutron, tái kết nối từ, mô phỏng MHD và động học plasma.
+url: https://ipag.osug.fr/english/research/research-teams/sherpas/
+src: https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/
+pp: Nhân sự biên chế (GS, DR, CR) | Jonathan Ferreira; Guillaume Dubus; Geoffroy Lesur; Pierre-Olivier Petrucci; Benoît Cerutti; Maïca Clavel; Didier Fraix-Burnet; Pierre-Yves Longaretti; Nicolas Scepi
+pp: PD | Dominic Bernardi; Emilie Parent; Enzo Figueiredo
+pp: NCS | Felix Anger; Adrian Faucher; Rafan Muhammad; Matheo Zjawiony

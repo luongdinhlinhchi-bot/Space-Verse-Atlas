@@ -1,0 +1,31 @@
+@city orleans | Orléans | 1.94, 47.84
+
+@inst Laboratoire de Physique et Chimie de l'Environnement et de l'Espace (LPC2E) — Université d'Orléans / CNRS / CNES
+city: orleans
+type: institute
+url: https://www.lpc2e.cnrs.fr/
+research: Pulsar và chớp vô tuyến nhanh (đài vô tuyến Nançay, NenuFAR, mảng định thời pulsar tìm sóng hấp dẫn), plasma không gian (quan hệ Mặt Trời – Trái Đất, từ quyển, Solar Orbiter, Parker Solar Probe), cảm biến điện – từ cho các sứ mệnh không gian, khí quyển và hành tinh học.
+coverage: partial
+structure: UMR 7328 (Université d'Orléans – CNRS, liên kết CNES), thành viên sáng lập OSUC; ba nhóm khoa học: ASTRO, ESPACE (plasma không gian), SAMPLE (môi trường khí quyển và hành tinh học).
+structureUrl: https://www.lpc2e.cnrs.fr/?p=7406
+scope: Đủ thành viên hai nhóm ASTRO và ESPACE theo trang nhóm (11/2026), bỏ thực tập sinh M2 và cựu thành viên; chưa có nhóm SAMPLE vì phần lớn nghiên cứu khí quyển Trái Đất.
+
+#unit ASTRO — Vật lý thiên văn (pulsar và vô tuyến)
+parent: LPC2E
+topics: Định thời pulsar (EPTA, NANOGrav-IPTA), sóng hấp dẫn tần số nano-hertz, chớp vô tuyến nhanh, phát xạ vô tuyến từ quyển hành tinh và ngoại hành tinh, kiểm chứng hấp dẫn.
+url: https://www.lpc2e.cnrs.fr/en/astrophysique
+src: https://www.lpc2e.cnrs.fr/en/astrophysique
+pp: Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome) | Ismaël Cognard; Alessandro Spallicci; Gilles Theureau
+pp: Nghiên cứu viên (CR, Astronome-adjoint) | Aurélien Chalumeau; Jean-Mathias Griessmeier; Lucas Guillemot; Cherry Ng-Guihéneuf
+pp: PD | Fabian Jankowski; Prerna Rana
+pp: NCS | Abedennour Hakim Dib; Pranav Limaye; Pauline Noé
+
+#unit ESPACE — Plasma không gian
+parent: LPC2E
+topics: Quan hệ Mặt Trời – Trái Đất, gió Mặt Trời và rối loạn plasma, liên kết khí quyển – điện ly – từ quyển, plasma hành tinh và sao chổi; cảm biến điện – từ trên Solar Orbiter, Parker Solar Probe, BepiColombo, JUICE.
+url: https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2
+src: https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2
+pp: Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS) | Sébastien Célestin; Thierry Dudok de Wit; Clara Froment; Pierre Henri; Youssef Kebbati; Matthieu Kretzschmar
+pp: PD / ATER | Alexandros Chasapis; Giulia Cozzani; Anthony Jeseněk; Nicolas Poirier; Luis Preisser; Gabriel Suen; Mélody Pallu
+pp: NCS | Chirelle Aziz; Bellana Carme; Mehul Chakraborty; Dillon Elliot; Hannah Kirkwood; Nicolas Le Nestour; Sambatra Randriamampionona; Avital Sievers; Panisara Thepthong
+pp: Nghỉ hưu vẫn hoạt động | Vladimir Krasnoselskikh

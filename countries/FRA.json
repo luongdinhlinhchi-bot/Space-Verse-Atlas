@@ -470,6 +470,714 @@
    ]
   },
   {
+   "id": "grenoble",
+   "city": "Grenoble",
+   "coordinates": [
+    5.72,
+    45.19
+   ],
+   "institutions": [
+    {
+     "name": "Institut de Planétologie et d'Astrophysique de Grenoble (IPAG) — Université Grenoble Alpes / CNRS",
+     "type": "institute",
+     "research": "Hành tinh học và vật chất nguyên thủy (thiên thạch, sao chổi, Rosetta, radar CONSERT), ngoại hành tinh và đĩa mảnh vụn (SPHERE, SPIRou), hình thành sao và hành tinh, hóa học thiên văn và môi trường giữa các sao, vật lý năng lượng cao và plasma thiên văn, thiết bị quang học thích ứng và giao thoa (Gravity, ELT).",
+     "url": "https://ipag.osug.fr/",
+     "coverage": "partial",
+     "structure": "UMR 5274 (UGA – CNRS), một trong các phòng thí nghiệm chính của OSUG; sáu nhóm nghiên cứu: Planéto, Exoplanets, Odyssey, Spectre, Sherpas, Charm; cùng nhóm hành chính – kỹ thuật và dịch vụ quan sát.",
+     "structureUrl": "https://ipag.osug.fr/english/research/research-teams/",
+     "scopeNote": "Đủ thành viên năm nhóm Planéto, Exoplanets, Odyssey, Spectre, Sherpas theo trang \"Members\" của từng nhóm (11/2026), phân loại theo trạng thái ghi trên trang; trang không ghi trưởng nhóm. Nhóm Charm (thiết bị) chưa có vì trang thành viên bị chặn truy cập tự động.",
+     "units": [
+      {
+       "name": "Planéto — Hành tinh học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IPAG",
+       "topics": "Thiên thạch và vật chất nguyên thủy, bề mặt hành tinh và vật thể nhỏ, sao chổi (Rosetta), radar xuyên đất (CONSERT), băng và chất hữu cơ.",
+       "url": "https://ipag.osug.fr/english/research/research-teams/planeto/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pierre Beck",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Lydie Bonal",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Cecilia Ceccarelli",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Sylvain Douté",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Alain Hérique",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Lucia Mandon",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "François-Régis Orthous-Daunay",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Olivier Poch",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Bernard Schmitt",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Sonia Zine",
+          "role": "Nhân sự biên chế (GS, NCV, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Yann Berquin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Leopold Desage",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Chloé Arthozoul",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Lise Boitard-Crépeau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Jannes Depoortere",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Marianne Le Turnier",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Maëlys Rigouleau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         },
+         {
+          "name": "Wlodek Kofman",
+          "role": "Danh dự (émérite)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ipag.osug.fr/english/research/research-teams/planeto/members-of-the-planeto-team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Exoplanets — Ngoại hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IPAG",
+       "topics": "Phát hiện và đặc trưng ngoại hành tinh (vận tốc xuyên tâm, chụp ảnh trực tiếp SPHERE), sao lùn M, đĩa mảnh vụn, động lực học hệ hành tinh, Gaia.",
+       "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jean-Charles Augereau",
+          "role": "Astronome cao cấp (UGA)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Carine Babusiaux",
+          "role": "Astronome cao cấp (UGA)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Hervé Beust",
+          "role": "Astronome cao cấp (UGA)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Xavier Delfosse",
+          "role": "Astronome cao cấp (UGA)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Thierry Forveille",
+          "role": "Astronome cao cấp (UGA)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Nadège Meunier",
+          "role": "Astronome cao cấp (UGA)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Xavier Bonfils",
+          "role": "Nghiên cứu viên / astronome",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Mickael Bonnefoy",
+          "role": "Nghiên cứu viên / astronome",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Lucile Mignon",
+          "role": "Nghiên cứu viên / astronome",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Philippe Delorme",
+          "role": "Nghiên cứu viên / astronome",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Julien Milli",
+          "role": "Nghiên cứu viên / astronome",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Myriam Bonduelle",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Guillaume Chaverot",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Salomé Grouffal",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Gayathri Viswanath",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Jie Ma",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Vincent Bruniquel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Rémi Julo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Antoine Lacquement",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Mathis Letessier",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Alejandro Martin Escabia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Philippe Priolet",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Vincent Yariv",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Alexandre Santerne",
+          "role": "Liên kết / khách mời",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Jose Manuel Almenara",
+          "role": "Liên kết / khách mời",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Antoine Chomez",
+          "role": "Liên kết / khách mời",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         },
+         {
+          "name": "Mathieu Ravet",
+          "role": "Liên kết / khách mời",
+          "url": "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ipag.osug.fr/english/research/research-teams/exoplanets/members-of-the-exoplanetes-team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Odyssey — Hình thành sao và hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IPAG",
+       "topics": "Sao trẻ và đĩa tiền hành tinh, bồi tụ và phụt khí, hình thành sao khối lượng lớn (ALMA), mô phỏng đĩa, cụm sao trẻ.",
+       "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jérôme Bouvier",
+          "role": "Nghiên cứu viên cao cấp (DR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Catherine Dougados",
+          "role": "Nghiên cứu viên cao cấp (DR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "François Ménard",
+          "role": "Nghiên cứu viên cao cấp (DR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Frédérique Motte",
+          "role": "Nghiên cứu viên cao cấp (DR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Evelyne Alecian",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Fabien Louvet",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Sébastien Maret",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Marion Villenave",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Nicolas Cuello",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Gaspard Duchêne",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Isabelle Joncour",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Estelle Moraux",
+          "role": "Nghiên cứu viên / giảng viên (CR, astronome, MCF, CPJ)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Youcef Bouarour",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Timothée David-Cléris",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Antonia Drescher",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Greta Guidi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Mathis Houllé",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Pedro P. Poblete",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Martin Scheuck",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Mario Sucerquia Areiza",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Yann Bernard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Elisa Castro",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Simon Chevalier",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Eva de Araujo Pereira",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Hugo Dherbey",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Lisa Drouglazet",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Romain Grane",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Laurine Martinien",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Tamara Rom",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Maxime Roumesy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Hugo T'Kindt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Romeo Veyry",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Rémi Zerna",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Jean-Louis Monin",
+          "role": "Danh dự (émérite)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Eleonora Bianchi",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         },
+         {
+          "name": "Christophe Pinte",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ipag.osug.fr/english/research/research-teams/odyssey/members-of-the-odyssey-team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Spectre — Hóa học thiên văn và khí quyển hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IPAG",
+       "topics": "Hóa học giữa các sao và hóa học tiền sinh học, phân tử trong vùng hình thành sao, phổ học phòng thí nghiệm, khí quyển cao và cực quang hành tinh, Titan.",
+       "url": "https://ipag.osug.fr/english/research/research-teams/spectre/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Aurore Bacmann",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Mathieu Barthelemy",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Eric Quirico",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Alexandre Faure",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Véronique Vuitton",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Mathilde Faure",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Pierre Hily-Blant",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Claire Rist",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Romane Le Gal",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Ana Lopez Sepulcre",
+          "role": "Nhân sự biên chế (GS, DR, astronome, MCF)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Elsa Henault",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Gaylor Wafflard-Fernandez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Léa Etchechoury",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Matheo Gaillard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Cora Hoppe",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Léa Pamphile",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Alexandre Perroni",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Samuel Reboud-Maquin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Zack Ribeiro",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Juliette Robuschi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Guillaume Saury",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "François-Xavier Désert",
+          "role": "Danh dự (émérite)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         },
+         {
+          "name": "Jean Lilensten",
+          "role": "Danh dự (émérite)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ipag.osug.fr/english/research/research-teams/spectre/members-of-the-spectre-team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Sherpas — Vật lý năng lượng cao và plasma thiên văn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IPAG",
+       "topics": "Đĩa bồi tụ và phụt khí, lỗ đen và AGN, pulsar và sao neutron, tái kết nối từ, mô phỏng MHD và động học plasma.",
+       "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jonathan Ferreira",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Guillaume Dubus",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Geoffroy Lesur",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Pierre-Olivier Petrucci",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Benoît Cerutti",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Maïca Clavel",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Didier Fraix-Burnet",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Pierre-Yves Longaretti",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Nicolas Scepi",
+          "role": "Nhân sự biên chế (GS, DR, CR)",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Dominic Bernardi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Emilie Parent",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Enzo Figueiredo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Felix Anger",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Adrian Faucher",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Rafan Muhammad",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         },
+         {
+          "name": "Matheo Zjawiony",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ipag.osug.fr/english/research/research-teams/sherpas/members-of-the-sherpas-team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "toulouse",
    "city": "Toulouse",
    "coordinates": [
@@ -1562,6 +2270,419 @@
         "external": [],
         "sources": [
          "https://www.irap.omp.eu/research-team/dynamique-interieurs-planetaires-dip/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "bordeaux",
+   "city": "Bordeaux (Pessac)",
+   "coordinates": [
+    -0.61,
+    44.8
+   ],
+   "institutions": [
+    {
+     "name": "Laboratoire d'Astrophysique de Bordeaux (LAB) — Université de Bordeaux / CNRS",
+     "type": "institute",
+     "research": "Hệ hành tinh và ngoại hành tinh (khí hậu, khả năng sống), khí quyển hành tinh, đĩa tiền hành tinh và hóa học thiên văn, hình thành sao và môi trường giữa các sao, đo sao và hệ quy chiếu thiên văn (Gaia, VLBI).",
+     "url": "https://astrophy.u-bordeaux.fr/",
+     "coverage": "full",
+     "structure": "UMR 5804 (UB – CNRS), thuộc OASU; năm nhóm khoa học (AMOR, ASP, ECLIPSE, FEMIS, M2A), bốn nhóm kỹ thuật (CSSD, Mécanique, SE2I, Pôle instrumentation) và các bộ phận hỗ trợ.",
+     "structureUrl": "https://astrophy.u-bordeaux.fr/",
+     "scopeNote": "Thành viên năm nhóm khoa học theo Annuaire LAB (11/2026), phân loại theo trạng thái ghi trong danh bạ; bỏ các nhóm kỹ thuật và hỗ trợ. Danh bạ không có trang cá nhân.",
+     "units": [
+      {
+       "name": "AMOR — Hóa học phân tử thiên văn và nguồn gốc hệ hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LAB",
+       "topics": "Đĩa tiền hành tinh (NOEMA, ALMA), hóa học phân tử trong đĩa, giao thoa vô tuyến.",
+       "url": "https://astrophy.u-bordeaux.fr/amor/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jean-Marc Huré",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Anne Dutrey",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Emmanuel Di Folco",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Thomas Collin-Dufresne",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Coralie Foucher",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Edwige Chapillon",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Stéphane Guilloteau",
+          "role": "Danh dự (émérite)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophy.u-bordeaux.fr/annuaire/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "ASP — Khí quyển và bề mặt hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LAB",
+       "topics": "Khí quyển hành tinh khổng lồ và Titan (JUICE), radar bề mặt, hóa quang, exobiology.",
+       "url": "https://astrophy.u-bordeaux.fr/asp/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Philippe Paillou",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Michel Dobrijevic",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Bertrand Dauphole",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Géraldine Bourda",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Françoise Billebaud",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Thibault Cavalié",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Aurélie Le Postollec Cavalié",
+          "role": "Kỹ sư nghiên cứu",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Camille Lefour",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Vincent Hue",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophy.u-bordeaux.fr/annuaire/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "ECLIPSE — Ngoại hành tinh, khí hậu và tiến hóa hệ hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LAB",
+       "topics": "Hình thành và động lực hệ hành tinh, khí hậu và khả năng sống của ngoại hành tinh, plasma không gian, hành tinh lang thang (Euclid).",
+       "url": "https://astrophy.u-bordeaux.fr/eclipse/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Sean Raymond",
+          "role": "Giám đốc LAB, DR CNRS",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Franck Selsis",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Benoît Lavraud",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Muriel Gargaud-Claeys",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Hervé Bouy",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Pascal Bordé",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Arnaud Pierens",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Jérémy Leconte",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Gwenaël Milcareck",
+          "role": "PD / nghiên cứu viên hợp đồng",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Afonso Do Brito Do Vale",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Hugo Pélissard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Martin Turbet",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Yassin Jaziri",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Sarah Joiret",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Noé Clément",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophy.u-bordeaux.fr/annuaire/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "FEMIS — Hình thành sao và môi trường giữa các sao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LAB",
+       "topics": "Hình thành sao khối lượng lớn, đám mây phân tử, hóa học thiên văn (mô hình KIDA), thiên văn vô tuyến (IRAM, ALMA).",
+       "url": "https://astrophy.u-bordeaux.fr/femis/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jonathan Braine",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Bertrand Le Floch",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Valentine Wakelam",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "David Smith",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Sylvain Bontemps",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Fabrice Herpin",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Thierry Jacq",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Pierre Gratier",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Timea Csengeri",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Nathalie Brouillet",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Isaure Gonzalez Rivera",
+          "role": "PD / nghiên cứu viên hợp đồng",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Rohit Mandal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Tianyu Tu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Devismita Panda",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Nina Kessler",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Aimie Clément",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Maxime Valeille-Manet",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Didier Despois",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Alain Baudry",
+          "role": "Danh dự (émérite)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophy.u-bordeaux.fr/annuaire/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "M2A — Đo lường không gian, động lực học thiên thể, vật lý thiên văn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LAB",
+       "topics": "Hệ quy chiếu thiên văn và VLBI (ICRF), Gaia, cụm sao mở và quần thể sao Ngân Hà.",
+       "url": "https://astrophy.u-bordeaux.fr/m2a/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Caroline Soubiran",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Patrick Charlot",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Nadège Lagarde",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Christine Ducourant",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF, Astronome adjoint)",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Afonso Ribeiro",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Tommy Rodrigues",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Qingshun Hu",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Marcel Agüeros",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Sergi Blanco-Cuaresma",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Alberto Krone-Martins",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         },
+         {
+          "name": "Laïa Casamiquela",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://astrophy.u-bordeaux.fr/annuaire/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://astrophy.u-bordeaux.fr/annuaire/"
         ],
         "note": "",
         "checked": "2026-11-22"
@@ -3685,6 +4806,572 @@
    "offset": [
     -14.0,
     10.0
+   ]
+  },
+  {
+   "id": "orleans",
+   "city": "Orléans",
+   "coordinates": [
+    1.94,
+    47.84
+   ],
+   "institutions": [
+    {
+     "name": "Laboratoire de Physique et Chimie de l'Environnement et de l'Espace (LPC2E) — Université d'Orléans / CNRS / CNES",
+     "type": "institute",
+     "research": "Pulsar và chớp vô tuyến nhanh (đài vô tuyến Nançay, NenuFAR, mảng định thời pulsar tìm sóng hấp dẫn), plasma không gian (quan hệ Mặt Trời – Trái Đất, từ quyển, Solar Orbiter, Parker Solar Probe), cảm biến điện – từ cho các sứ mệnh không gian, khí quyển và hành tinh học.",
+     "url": "https://www.lpc2e.cnrs.fr/",
+     "coverage": "partial",
+     "structure": "UMR 7328 (Université d'Orléans – CNRS, liên kết CNES), thành viên sáng lập OSUC; ba nhóm khoa học: ASTRO, ESPACE (plasma không gian), SAMPLE (môi trường khí quyển và hành tinh học).",
+     "structureUrl": "https://www.lpc2e.cnrs.fr/?p=7406",
+     "scopeNote": "Đủ thành viên hai nhóm ASTRO và ESPACE theo trang nhóm (11/2026), bỏ thực tập sinh M2 và cựu thành viên; chưa có nhóm SAMPLE vì phần lớn nghiên cứu khí quyển Trái Đất.",
+     "units": [
+      {
+       "name": "ASTRO — Vật lý thiên văn (pulsar và vô tuyến)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LPC2E",
+       "topics": "Định thời pulsar (EPTA, NANOGrav-IPTA), sóng hấp dẫn tần số nano-hertz, chớp vô tuyến nhanh, phát xạ vô tuyến từ quyển hành tinh và ngoại hành tinh, kiểm chứng hấp dẫn.",
+       "url": "https://www.lpc2e.cnrs.fr/en/astrophysique",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ismaël Cognard",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Alessandro Spallicci",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Gilles Theureau",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Aurélien Chalumeau",
+          "role": "Nghiên cứu viên (CR, Astronome-adjoint)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Jean-Mathias Griessmeier",
+          "role": "Nghiên cứu viên (CR, Astronome-adjoint)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Lucas Guillemot",
+          "role": "Nghiên cứu viên (CR, Astronome-adjoint)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Cherry Ng-Guihéneuf",
+          "role": "Nghiên cứu viên (CR, Astronome-adjoint)",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Fabian Jankowski",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Prerna Rana",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Abedennour Hakim Dib",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Pranav Limaye",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         },
+         {
+          "name": "Pauline Noé",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/astrophysique"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.lpc2e.cnrs.fr/en/astrophysique"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "ESPACE — Plasma không gian",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LPC2E",
+       "topics": "Quan hệ Mặt Trời – Trái Đất, gió Mặt Trời và rối loạn plasma, liên kết khí quyển – điện ly – từ quyển, plasma hành tinh và sao chổi; cảm biến điện – từ trên Solar Orbiter, Parker Solar Probe, BepiColombo, JUICE.",
+       "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2",
+       "researchers": {
+        "people": [
+         {
+          "name": "Sébastien Célestin",
+          "role": "Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS)",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Thierry Dudok de Wit",
+          "role": "Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS)",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Clara Froment",
+          "role": "Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS)",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Pierre Henri",
+          "role": "Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS)",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Youssef Kebbati",
+          "role": "Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS)",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Matthieu Kretzschmar",
+          "role": "Nhân sự biên chế (giảng viên – nghiên cứu viên, NCV CNRS)",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Alexandros Chasapis",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Giulia Cozzani",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Anthony Jeseněk",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Nicolas Poirier",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Luis Preisser",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Gabriel Suen",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Mélody Pallu",
+          "role": "PD / ATER",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Chirelle Aziz",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Bellana Carme",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Mehul Chakraborty",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Dillon Elliot",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Hannah Kirkwood",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Nicolas Le Nestour",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Sambatra Randriamampionona",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Avital Sievers",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Panisara Thepthong",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         },
+         {
+          "name": "Vladimir Krasnoselskikh",
+          "role": "Nghỉ hưu vẫn hoạt động",
+          "url": "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.lpc2e.cnrs.fr/en/plasmas-spatiaux-2"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "montpellier",
+   "city": "Montpellier",
+   "coordinates": [
+    3.86,
+    43.63
+   ],
+   "institutions": [
+    {
+     "name": "Laboratoire Univers et Particules de Montpellier (LUPM) — Université de Montpellier / CNRS",
+     "type": "institute",
+     "research": "Vật lý sao (sao khối lượng lớn, từ trường sao, khí quyển sao, hóa học thiên văn), thiên văn hạt và tia gamma (H.E.S.S., CTAO, Fermi, SVOM), tia vũ trụ và plasma năng lượng cao, lý thuyết hạt – vũ trụ học (vật chất tối, sóng hấp dẫn, căng thẳng Hubble).",
+     "url": "https://www.lupm.in2p3.fr/",
+     "coverage": "full",
+     "structure": "UMR 5299 (UM – CNRS), thuộc IN2P3 và INSU; ba nhóm nghiên cứu (AS, EMAC, PACT) cùng ba dịch vụ hỗ trợ (hành chính, tin học, thiết bị).",
+     "structureUrl": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf",
+     "scopeNote": "Đủ thành viên ba nhóm nghiên cứu theo sơ đồ tổ chức LUPM 12/2025, kèm chức danh; trưởng nhóm lấy theo người đứng đầu danh sách. Bỏ các dịch vụ hỗ trợ.",
+     "units": [
+      {
+       "name": "AS — Vật lý sao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUPM",
+       "topics": "Sao khối lượng lớn, từ trường và hoạt động sao, khí quyển và phổ sao, khuếch tán nguyên tố, hóa học thiên văn, Gaia.",
+       "url": "https://www.lupm.in2p3.fr/?p=533",
+       "researchers": {
+        "people": [
+         {
+          "name": "Julien Morin",
+          "role": "Trưởng nhóm",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Ana Palacios",
+          "role": "Trưởng nhóm",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Bertrand Plez",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Fabrice Martins",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Dahbia Talbi",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Agnès Lèbre",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Hervé Wozniak",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR, Astronome)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Éric Josselin",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Olivier Richard",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Yohann Scribano",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Morgan Deal",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Isabelle Cherchneff",
+          "role": "Nghiên cứu viên hợp đồng (CDD)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Manon Diez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Joachim Knapik",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Marin Vidal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Thomas Voje",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Henri Reboul",
+          "role": "Danh dự / cộng tác viên",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Nicolas Mauron",
+          "role": "Danh dự / cộng tác viên",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "EMAC — Thực nghiệm và mô hình thiên văn hạt, vũ trụ học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUPM",
+       "topics": "Thiên văn tia gamma (H.E.S.S., CTAO, Fermi-LAT), chớp gamma (SVOM), gia tốc tia vũ trụ và sóng xung kích, bụi và từ trường giữa các sao.",
+       "url": "https://www.lupm.in2p3.fr/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alexandre Marcowith",
+          "role": "Trưởng nhóm",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Nukri Komin",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Yves Gallant",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Frédéric Piron",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Georges Vasileiadis",
+          "role": "Giáo sư / Nghiên cứu viên cao cấp (PR, DR)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Vincent Guillet",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Justine Devin",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Claire Guépin",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Maria Grazia Bernardini",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Christophe Sauty",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Edouard Callies",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Souhayla El Attar Sofi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "PACT — Lý thuyết hạt, thiên văn hạt và vũ trụ học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LUPM",
+       "topics": "Vật chất tối, vũ trụ học sớm, căng thẳng Hubble, thấu kính hấp dẫn, siêu đối xứng, QCD.",
+       "url": "https://www.lupm.in2p3.fr/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Félix Brümmer",
+          "role": "Trưởng nhóm",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Denis Puy",
+          "role": "Giám đốc LUPM, GS Đại học Montpellier",
+          "url": "https://www.lupm.in2p3.fr/"
+         },
+         {
+          "name": "Julien Lavalle",
+          "role": "Nghiên cứu viên cao cấp (DR)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Cyril Hugonie",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Julien Larena",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Pierre Fleury",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Karsten Jedamzik",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Gilbert Moultaka",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Vivian Poulin",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Théo Simon",
+          "role": "Nghiên cứu viên / Giảng viên (CR, MCF)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Thomas Montandon",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Giacomo Queirolo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Elsa Teixeira",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Théodore Fischer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Daniel Johnson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Camille Libourel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Théo Paré",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Adèle Poudou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Yannick Tanguy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Michel Capdequi-Peyranère",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Pierre Grange",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         },
+         {
+          "name": "Stephan Narison",
+          "role": "Danh dự (émérite)",
+          "url": "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.lupm.in2p3.fr/wp-content/uploads/2025/12/Organigramme-LUPM-12-2025.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
    ]
   },
   {
