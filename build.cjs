@@ -80,7 +80,8 @@ const countries = data.features.map(f0 => {
  const isVietnam = f0.properties.ADM0_A3==='VNM';
  const f = isVietnam ? withIslands(f0, 0.4) : f0;
  const name = f.properties.NAME_VI || f.properties.NAME_EN;
- const detailFeature = f.properties.ADM0_A3==='FIN' ? finlandGeometry : isVietnam ? withIslands(f0, 0.09) : f;
+ const hiRes = `geometry/${f.properties.ADM0_A3}.json`;
+ const detailFeature = f.properties.ADM0_A3==='FIN' ? finlandGeometry : isVietnam ? withIslands(f0, 0.09) : fs.existsSync(hiRes) ? JSON.parse(fs.readFileSync(hiRes,'utf8')) : f;
  const bounds = d3.geoBounds(detailFeature);
  const west = bounds[0][0], east = bounds[1][0];
  const center = (west + (east < west ? east + 360 : east)) / 2;

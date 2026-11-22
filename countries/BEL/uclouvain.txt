@@ -1,0 +1,59 @@
+@city lln | Louvain-la-Neuve | 4.61, 50.67
+
+@inst UCLouvain — Centre for Cosmology, Particle Physics and Phenomenology (CP3)
+city: lln
+type: university
+url: https://uclouvain.be/en/research-institutes/irmp/cp3
+research: Chủ yếu là vật lý hạt; các mảng liên quan thiên văn gồm sóng hấp dẫn (Virgo, Einstein Telescope), thiên văn neutrino (IceCube, KM3NeT) và vũ trụ học hạt.
+coverage: full
+structure: Trung tâm CP3 thuộc Viện IRMP, UCLouvain.
+structureUrl: https://uclouvain.be/en/research-institutes/irmp/cp3/members
+scope: Chỉ lấy những người có hướng nghiên cứu thiên văn/vật lý thiên văn theo mô tả trên trang Members (11/2026); bỏ các nhóm máy gia tốc (CMS, NA62), hiện tượng luận va chạm, muography và kỹ thuật.
+
+#unit Sóng hấp dẫn (Virgo, LIGO, Einstein Telescope)
+parent: CP3, UCLouvain
+topics: Phân tích dữ liệu sóng hấp dẫn, thấu kính hấp dẫn của sóng hấp dẫn, sao neutron đôi, nền sóng hấp dẫn ngẫu nhiên, thiết bị giao thoa kế (quang học, laser, nhiễu nhiệt) cho Einstein Telescope.
+url: https://uclouvain.be/en/research-institutes/irmp/cp3
+src: https://uclouvain.be/en/research-institutes/irmp/cp3/members
+p: Giacomo Bruno | Giáo sư; Virgo/EGO | https://cp3.irmp.ucl.ac.be/public/member/7/en
+p: Justin Janquart | Giáo sư; thấu kính sóng hấp dẫn | https://cp3.irmp.ucl.ac.be/public/member/809/en
+p: Aaron Goodwin-Jones | Nhà nghiên cứu; thiết bị giao thoa kế | https://cp3.irmp.ucl.ac.be/public/member/832/en
+p: Ricardo Cabrita | PD; thiết bị giao thoa kế | https://cp3.irmp.ucl.ac.be/public/member/685/en
+p: Matti Jansson | PD; cơ sở dữ liệu sóng hấp dẫn | https://cp3.irmp.ucl.ac.be/public/member/854/en
+p: Roy Soumen | PD; sóng hấp dẫn từ sao đôi đặc | https://cp3.irmp.ucl.ac.be/public/member/824/en
+p: Jue Zhang | PD; laser công suất cao cho máy dò | https://cp3.irmp.ucl.ac.be/public/member/888/en
+p: Charlotte Bragard | NCS; nhiễu nhiệt lớp phủ | https://cp3.irmp.ucl.ac.be/public/member/873/en
+p: Antoine Depasse | NCS; đám boson quanh lỗ đen | https://cp3.irmp.ucl.ac.be/public/member/597/en
+p: Swapnil Dhage | NCS; Einstein Telescope | https://cp3.irmp.ucl.ac.be/public/member/875/en
+p: Vincent Ernst | NCS; sao neutron hợp nhất | https://cp3.irmp.ucl.ac.be/public/member/866/en
+p: Muhammad Fahmi Fauzi | NCS; thấu kính sóng hấp dẫn | https://cp3.irmp.ucl.ac.be/public/member/919/en
+p: Martin Gerini | NCS; AI/ML cho Einstein Telescope | https://cp3.irmp.ucl.ac.be/public/member/911/en
+p: Disha Hegde | NCS; thấu kính lỗ đen đôi đa thông điệp | https://cp3.irmp.ucl.ac.be/public/member/869/en
+p: Jef Heynen | NCS; tìm sóng hấp dẫn bị thấu kính | https://cp3.irmp.ucl.ac.be/public/member/823/en
+p: Stavros Venikoudis | NCS; nền sóng hấp dẫn ngẫu nhiên | https://cp3.irmp.ucl.ac.be/public/member/740/en
+
+#unit Thiên văn neutrino và đa thông điệp (IceCube, KM3NeT)
+parent: CP3, UCLouvain
+topics: Neutrino thiên văn năng lượng cao và thấp, chớp gamma, bùng Mặt Trời, thiên văn đa thông điệp với sóng hấp dẫn.
+url: https://uclouvain.be/en/research-institutes/irmp/cp3
+src: https://uclouvain.be/en/research-institutes/irmp/cp3/members
+p: Gwenhaël Wilberts Dewasseige | Giáo sư; IceCube, KM3NeT | https://cp3.irmp.ucl.ac.be/public/member/686/en
+p: Vincent Lemaitre | Giáo sư; KM3NeT | https://cp3.irmp.ucl.ac.be/public/member/25/en
+p: Rogan Clark | PD; KM3NeT-ORCA | https://cp3.irmp.ucl.ac.be/public/member/816/en
+p: Christoph Raab | PD; IceCube, đa thông điệp | https://cp3.irmp.ucl.ac.be/public/member/774/en
+p: Karlijn Kruiswijk | NCS; neutrino từ chớp gamma | https://cp3.irmp.ucl.ac.be/public/member/699/en
+p: Jonathan Mauro | NCS; neutrino từ bùng Mặt Trời | https://cp3.irmp.ucl.ac.be/public/member/734/en
+p: Emile Moyaux | NCS; phân bố năng lượng neutrino | https://cp3.irmp.ucl.ac.be/public/member/819/en
+p: Leonardo Ricca | NCS; Virgo + IceCube | https://cp3.irmp.ucl.ac.be/public/member/813/en
+p: Marco Scarnera | NCS; ANTARES/KM3NeT, chớp gamma | https://cp3.irmp.ucl.ac.be/public/member/838/en
+p: Per Arne Sevle Myhr | NCS; IceCube | https://cp3.irmp.ucl.ac.be/public/member/779/en
+
+#unit Vũ trụ học hạt
+parent: CP3, UCLouvain
+topics: Vũ trụ sơ khai, vật chất tối, neutrino trong vũ trụ học.
+url: https://uclouvain.be/en/research-institutes/irmp/cp3
+src: https://uclouvain.be/en/research-institutes/irmp/cp3/members
+p: Marco Drewes | Giáo sư | https://cp3.irmp.ucl.ac.be/public/member/517/en
+p: Yuanzhen Li | PD | https://cp3.irmp.ucl.ac.be/public/member/862/en
+p: Luca Wiggering | PD; vật chất tối | https://cp3.irmp.ucl.ac.be/public/member/920/en
+p: Valentin Weber | NCS; vật chất tối khu vực ẩn | https://cp3.irmp.ucl.ac.be/public/member/609/en

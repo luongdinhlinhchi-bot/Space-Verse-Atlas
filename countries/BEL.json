@@ -1796,6 +1796,230 @@
    ]
   },
   {
+   "id": "lln",
+   "city": "Louvain-la-Neuve",
+   "coordinates": [
+    4.61,
+    50.67
+   ],
+   "institutions": [
+    {
+     "name": "UCLouvain — Centre for Cosmology, Particle Physics and Phenomenology (CP3)",
+     "type": "university",
+     "research": "Chủ yếu là vật lý hạt; các mảng liên quan thiên văn gồm sóng hấp dẫn (Virgo, Einstein Telescope), thiên văn neutrino (IceCube, KM3NeT) và vũ trụ học hạt.",
+     "url": "https://uclouvain.be/en/research-institutes/irmp/cp3",
+     "coverage": "full",
+     "structure": "Trung tâm CP3 thuộc Viện IRMP, UCLouvain.",
+     "structureUrl": "https://uclouvain.be/en/research-institutes/irmp/cp3/members",
+     "scopeNote": "Chỉ lấy những người có hướng nghiên cứu thiên văn/vật lý thiên văn theo mô tả trên trang Members (11/2026); bỏ các nhóm máy gia tốc (CMS, NA62), hiện tượng luận va chạm, muography và kỹ thuật.",
+     "units": [
+      {
+       "name": "Sóng hấp dẫn (Virgo, LIGO, Einstein Telescope)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CP3, UCLouvain",
+       "topics": "Phân tích dữ liệu sóng hấp dẫn, thấu kính hấp dẫn của sóng hấp dẫn, sao neutron đôi, nền sóng hấp dẫn ngẫu nhiên, thiết bị giao thoa kế (quang học, laser, nhiễu nhiệt) cho Einstein Telescope.",
+       "url": "https://uclouvain.be/en/research-institutes/irmp/cp3",
+       "researchers": {
+        "people": [
+         {
+          "name": "Giacomo Bruno",
+          "role": "Giáo sư; Virgo/EGO",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/7/en"
+         },
+         {
+          "name": "Justin Janquart",
+          "role": "Giáo sư; thấu kính sóng hấp dẫn",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/809/en"
+         },
+         {
+          "name": "Aaron Goodwin-Jones",
+          "role": "Nhà nghiên cứu; thiết bị giao thoa kế",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/832/en"
+         },
+         {
+          "name": "Ricardo Cabrita",
+          "role": "PD; thiết bị giao thoa kế",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/685/en"
+         },
+         {
+          "name": "Matti Jansson",
+          "role": "PD; cơ sở dữ liệu sóng hấp dẫn",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/854/en"
+         },
+         {
+          "name": "Roy Soumen",
+          "role": "PD; sóng hấp dẫn từ sao đôi đặc",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/824/en"
+         },
+         {
+          "name": "Jue Zhang",
+          "role": "PD; laser công suất cao cho máy dò",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/888/en"
+         },
+         {
+          "name": "Charlotte Bragard",
+          "role": "NCS; nhiễu nhiệt lớp phủ",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/873/en"
+         },
+         {
+          "name": "Antoine Depasse",
+          "role": "NCS; đám boson quanh lỗ đen",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/597/en"
+         },
+         {
+          "name": "Swapnil Dhage",
+          "role": "NCS; Einstein Telescope",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/875/en"
+         },
+         {
+          "name": "Vincent Ernst",
+          "role": "NCS; sao neutron hợp nhất",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/866/en"
+         },
+         {
+          "name": "Muhammad Fahmi Fauzi",
+          "role": "NCS; thấu kính sóng hấp dẫn",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/919/en"
+         },
+         {
+          "name": "Martin Gerini",
+          "role": "NCS; AI/ML cho Einstein Telescope",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/911/en"
+         },
+         {
+          "name": "Disha Hegde",
+          "role": "NCS; thấu kính lỗ đen đôi đa thông điệp",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/869/en"
+         },
+         {
+          "name": "Jef Heynen",
+          "role": "NCS; tìm sóng hấp dẫn bị thấu kính",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/823/en"
+         },
+         {
+          "name": "Stavros Venikoudis",
+          "role": "NCS; nền sóng hấp dẫn ngẫu nhiên",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/740/en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://uclouvain.be/en/research-institutes/irmp/cp3/members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Thiên văn neutrino và đa thông điệp (IceCube, KM3NeT)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CP3, UCLouvain",
+       "topics": "Neutrino thiên văn năng lượng cao và thấp, chớp gamma, bùng Mặt Trời, thiên văn đa thông điệp với sóng hấp dẫn.",
+       "url": "https://uclouvain.be/en/research-institutes/irmp/cp3",
+       "researchers": {
+        "people": [
+         {
+          "name": "Gwenhaël Wilberts Dewasseige",
+          "role": "Giáo sư; IceCube, KM3NeT",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/686/en"
+         },
+         {
+          "name": "Vincent Lemaitre",
+          "role": "Giáo sư; KM3NeT",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/25/en"
+         },
+         {
+          "name": "Rogan Clark",
+          "role": "PD; KM3NeT-ORCA",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/816/en"
+         },
+         {
+          "name": "Christoph Raab",
+          "role": "PD; IceCube, đa thông điệp",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/774/en"
+         },
+         {
+          "name": "Karlijn Kruiswijk",
+          "role": "NCS; neutrino từ chớp gamma",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/699/en"
+         },
+         {
+          "name": "Jonathan Mauro",
+          "role": "NCS; neutrino từ bùng Mặt Trời",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/734/en"
+         },
+         {
+          "name": "Emile Moyaux",
+          "role": "NCS; phân bố năng lượng neutrino",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/819/en"
+         },
+         {
+          "name": "Leonardo Ricca",
+          "role": "NCS; Virgo + IceCube",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/813/en"
+         },
+         {
+          "name": "Marco Scarnera",
+          "role": "NCS; ANTARES/KM3NeT, chớp gamma",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/838/en"
+         },
+         {
+          "name": "Per Arne Sevle Myhr",
+          "role": "NCS; IceCube",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/779/en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://uclouvain.be/en/research-institutes/irmp/cp3/members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vũ trụ học hạt",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CP3, UCLouvain",
+       "topics": "Vũ trụ sơ khai, vật chất tối, neutrino trong vũ trụ học.",
+       "url": "https://uclouvain.be/en/research-institutes/irmp/cp3",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marco Drewes",
+          "role": "Giáo sư",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/517/en"
+         },
+         {
+          "name": "Yuanzhen Li",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/862/en"
+         },
+         {
+          "name": "Luca Wiggering",
+          "role": "PD; vật chất tối",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/920/en"
+         },
+         {
+          "name": "Valentin Weber",
+          "role": "NCS; vật chất tối khu vực ẩn",
+          "url": "https://cp3.irmp.ucl.ac.be/public/member/609/en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://uclouvain.be/en/research-institutes/irmp/cp3/members"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "gent",
    "city": "Gent",
    "coordinates": [
@@ -1942,6 +2166,16 @@
           "url": "https://research.ugent.be/web/person/stefan-van-der-giessen-0"
          },
          {
+          "name": "Francesco Grieco",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/francesco-grieco-0/en"
+         },
+         {
+          "name": "Yolan Uyttenhove",
+          "role": "Nghiên cứu sinh",
+          "url": "https://research.ugent.be/web/person/yolan-uyttenhove-0/en"
+         },
+         {
           "name": "Sena Bokona",
           "role": "Nghiên cứu sinh",
           "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
@@ -1952,17 +2186,7 @@
           "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
          },
          {
-          "name": "Francesco Grieco",
-          "role": "Nghiên cứu sinh",
-          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
-         },
-         {
           "name": "Mariana Rivas Sánchez",
-          "role": "Nghiên cứu sinh",
-          "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
-         },
-         {
-          "name": "Yolan Uyttenhove",
           "role": "Nghiên cứu sinh",
           "url": "https://www.ugent.be/we/physics-astronomy/en/research/astronomy/staff/overview.htm"
          },
@@ -2009,14 +2233,156 @@
    ],
    "institutions": [
     {
+     "name": "Institut royal d'Aéronomie Spatiale de Belgique / Koninklijk Belgisch Instituut voor Ruimte-Aeronomie (BIRA-IASB)",
+     "type": "institute",
+     "research": "Viện liên bang về khí quyển Trái Đất, hành tinh và không gian: khí quyển hành tinh (Sao Hỏa, Sao Kim; thiết bị NOMAD trên ExoMars TGO), từ quyển và gió Mặt Trời, thời tiết không gian. Phần lớn còn lại của viện là khí quyển Trái Đất.",
+     "url": "https://www.aeronomie.be/",
+     "coverage": "full",
+     "structure": "4 khối nghiên cứu (D10 Vật lý không gian; D20, D30 khí quyển Trái Đất; D40 Bức xạ Mặt Trời trong khí quyển, gồm D43 Khí quyển hành tinh) và chương trình B.USOC.",
+     "structureUrl": "https://www.aeronomie.be/en/organisational-chart",
+     "scopeNote": "Chỉ lấy các nhóm liên quan thiên văn: D43 Khí quyển hành tinh và D11 Từ quyển, đủ danh sách theo trang nhóm (11/2026). Các nhóm khí quyển Trái Đất không đưa vào.",
+     "units": [
+      {
+       "name": "D43 Planetary atmospheres",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "D40 Solar radiation in atmospheres, BIRA-IASB",
+       "topics": "Khí quyển Sao Hỏa và Sao Kim, quang phổ hồng ngoại/UV, thiết bị NOMAD (ExoMars TGO) và VenSpec-H (EnVision), mô hình GEM-Mars.",
+       "url": "https://planetary.aeronomie.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Frank Daerden",
+          "role": "Nhà nghiên cứu; Sao Hỏa, mô hình hoá",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/frank-daerden"
+         },
+         {
+          "name": "Justin Erwin",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/justin-erwin"
+         },
+         {
+          "name": "François Hendrick",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/hendrick-francois"
+         },
+         {
+          "name": "Hiroki Karyu",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/hiroki-karyu"
+         },
+         {
+          "name": "Alexis Libert",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/alexis-libert"
+         },
+         {
+          "name": "Arnaud Mahieux",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/arnaud-mahieux"
+         },
+         {
+          "name": "Lori Neary",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/lori-neary"
+         },
+         {
+          "name": "Arianna Piccialli",
+          "role": "Nhà nghiên cứu; động lực học và cấu trúc nhiệt",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/arianna-piccialli"
+         },
+         {
+          "name": "Séverine Robert",
+          "role": "Nhà nghiên cứu; quang phổ, thiết bị không gian",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/severine-robert"
+         },
+         {
+          "name": "Ian Thomas",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/ian-thomas"
+         },
+         {
+          "name": "Loïc Trompet",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/loic-trompet"
+         },
+         {
+          "name": "Filip Vanhellemont",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/filip-vanhellemont"
+         },
+         {
+          "name": "Yannick Willame",
+          "role": "Nhà nghiên cứu",
+          "url": "https://planetary.aeronomie.be/meet-the-team/meet-the-team/yannick-willame"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://planetary.aeronomie.be/meet-the-team/meet-the-team"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "D11 Magnetosphere",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "D10 Space Physics, BIRA-IASB",
+       "topics": "Từ quyển Trái Đất và hành tinh, plasma không gian, cực quang, sứ mệnh Cluster, Comet Interceptor, Plasma Observatory.",
+       "url": "https://magnetosphere.aeronomie.be/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Johan De Keyser",
+          "role": "Nhà nghiên cứu; GS thỉnh giảng KU Leuven",
+          "url": "https://orcid.org/0000-0003-4805-5695"
+         },
+         {
+          "name": "Luisa Alonso Tagle",
+          "role": "NCS (cùng KU Leuven CmPA)",
+          "url": "https://orcid.org/0000-0003-2439-1993"
+         },
+         {
+          "name": "Gaël Cessateur",
+          "role": "Nhà nghiên cứu",
+          "url": "https://orcid.org/0000-0002-4316-7252"
+         },
+         {
+          "name": "Fabien Darrouzet",
+          "role": "Nhà nghiên cứu",
+          "url": "https://orcid.org/0000-0002-2927-6858"
+         },
+         {
+          "name": "Frederik Dhooghe",
+          "role": "Nhà nghiên cứu",
+          "url": "https://orcid.org/0000-0001-7334-833X"
+         },
+         {
+          "name": "Romain Maggiolo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://orcid.org/0000-0002-5658-1313"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://magnetosphere.aeronomie.be/team"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
      "name": "Observatoire royal de Belgique / Koninklijke Sterrenwacht van België (ROB)",
      "type": "institute",
-     "research": "Viện khoa học liên bang (BELSPO) với 4 bộ phận: Hệ quy chiếu & Hành tinh học, Địa chấn & Trọng lực, Thiên văn & Vật lý thiên văn, Vật lý Mặt Trời & Thời tiết không gian (SIDC).",
+     "research": "Viện khoa học liên bang (BELSPO): sao và thiên văn sao, vật lý Mặt Trời và thời tiết không gian (SIDC), hành tinh học (tự quay và cấu trúc trong của hành tinh), hệ quy chiếu và thời gian.",
      "url": "https://www.astro.oma.be/",
-     "coverage": "partial",
+     "coverage": "limited",
      "structure": "Bốn Operational Directorates (OD1 Hệ quy chiếu & Hành tinh học, OD2 Địa chấn & Trọng lực, OD3 Thiên văn & Vật lý thiên văn, OD4 Vật lý Mặt Trời & Thời tiết không gian / SIDC).",
      "structureUrl": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/",
-     "scopeNote": "Bộ phận Thiên văn & Vật lý thiên văn có đủ danh sách theo trang Staff (11/2026). Các bộ phận khác (SIDC với khoảng 40 người, hành tinh học) không công bố danh sách nhân sự hiện tại trên trang web — danh sách STCE tìm được là từ 2016 nên không dùng.",
+     "scopeNote": "OD3 Thiên văn & Vật lý thiên văn đủ danh sách theo trang Staff (11/2026). OD4 (SIDC, khoảng 40 người) và mảng hành tinh học của OD1 không công bố danh sách nhân sự, chỉ ghi người được nêu tên trong nguồn 2024–2026. Bỏ mảng địa chấn và GNSS vì ngoài thiên văn.",
      "units": [
       {
        "name": "Astronomy & Astrophysics (OD3)",
@@ -2110,6 +2476,97 @@
         "external": [],
         "sources": [
          "https://aa.oma.be/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Solar Physics & Space Weather (OD4 / SIDC)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Observatoire royal de Belgique",
+       "topics": "Vật lý vành nhật hoa và gió Mặt Trời, thời tiết không gian (Regional Warning Center Belgium, ESA SWE), chỉ số vết đen Mặt Trời quốc tế (WDC-SILSO), thiết bị không gian (EUI trên Solar Orbiter, SWAP/LYRA trên PROBA2, ASPIICS trên PROBA-3), trạm vô tuyến Humain, kính USET.",
+       "url": "https://www.sidc.be/",
+       "note": "Bộ phận khoảng 40 người nhưng trang \"The SIDC Team\" không hiển thị danh sách; chỉ ghi những người được nêu tên trong nguồn ROB/SIDC năm 2025–2026.",
+       "researchers": {
+        "people": [
+         {
+          "name": "Cis Verbeeck",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/"
+         },
+         {
+          "name": "Marie Dominique",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/"
+         },
+         {
+          "name": "Sabrina Bechet",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/"
+         },
+         {
+          "name": "Véronique Delouille",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/"
+         },
+         {
+          "name": "Laure Lefèvre",
+          "role": "NCV — điều phối WDC-SILSO",
+          "url": "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Reference Systems & Planetology (OD1) — Planetary Science",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Observatoire royal de Belgique",
+       "topics": "Tự quay, trường hấp dẫn và thủy triều của các hành tinh đất đá và vệ tinh lớn (Sao Hỏa, Sao Thủy, Sao Kim, vệ tinh băng), khoa học vô tuyến (RISE/InSight, LaRa/ExoMars), sinh học vũ trụ.",
+       "url": "https://www.astro.oma.be/en/scientific-research/reference-systems-and-planetology/planetary-science/",
+       "note": "Không có trang nhân sự; danh sách lấy từ báo cáo thường niên 2024 và trang cá nhân.",
+       "researchers": {
+        "people": [
+         {
+          "name": "Véronique Dehant",
+          "role": "Nghiên cứu viên cấp cao; trưởng bộ phận OD1 2010–2024; GS danh dự UCLouvain",
+          "url": "https://homepage.oma.be/veroniq"
+         },
+         {
+          "name": "Özgür Karatekin",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf"
+         },
+         {
+          "name": "Sébastien Le Maistre",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf"
+         },
+         {
+          "name": "Jérémy Rekier",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf"
+         },
+         {
+          "name": "Orkun Temel",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf"
+         },
+         {
+          "name": "Cem Berk Senel",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf"
         ],
         "note": "",
         "checked": "2026-11-22"
@@ -2420,6 +2877,148 @@
         "external": [],
         "sources": [
          "https://hep.research.vub.be/people-0"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "mons",
+   "city": "Mons",
+   "coordinates": [
+    3.95,
+    50.45
+   ],
+   "institutions": [
+    {
+     "name": "UMONS — Service de Physique atomique et Astrophysique",
+     "type": "university",
+     "research": "Dữ liệu nguyên tử cho vật lý thiên văn: xác suất chuyển dời, thời gian sống, phổ của nguyên tố nặng (lanthanide, actinide) phục vụ quang phổ sao và kilonova.",
+     "url": "https://web.umons.ac.be/paas/",
+     "coverage": "full",
+     "structure": "Một service thuộc Khoa Vật lý, UMONS; trưởng service Pascal Quinet.",
+     "structureUrl": "https://web.umons.ac.be/paas/en/team/",
+     "scopeNote": "Đủ danh sách theo trang Team (11/2026); trang không có trang cá nhân riêng.",
+     "units": [
+      {
+       "name": "Physique atomique et Astrophysique",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Khoa Vật lý, UMONS",
+       "topics": "Cấu trúc nguyên tử và phổ học ion nặng cho vật lý thiên văn, opacity kilonova.",
+       "url": "https://web.umons.ac.be/paas/en/research-activities/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pascal Quinet",
+          "role": "Trưởng service",
+          "url": "https://web.umons.ac.be/paas/en/team/"
+         },
+         {
+          "name": "Patrick Palmeri",
+          "role": "Thành viên",
+          "url": "https://web.umons.ac.be/paas/en/team/"
+         },
+         {
+          "name": "Maxime Brasseur",
+          "role": "Thành viên",
+          "url": "https://web.umons.ac.be/paas/en/team/"
+         },
+         {
+          "name": "Helena Carvajal Gallego",
+          "role": "Thành viên",
+          "url": "https://web.umons.ac.be/paas/en/team/"
+         },
+         {
+          "name": "Jérôme Deprince",
+          "role": "Thành viên",
+          "url": "https://web.umons.ac.be/paas/en/team/"
+         },
+         {
+          "name": "Lucas Maison",
+          "role": "Thành viên",
+          "url": "https://web.umons.ac.be/paas/en/team/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://web.umons.ac.be/paas/en/team/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "namur",
+   "city": "Namur",
+   "coordinates": [
+    4.87,
+    50.47
+   ],
+   "institutions": [
+    {
+     "name": "UNamur — naXys (Namur Institute for Complex Systems), pôle SPACE",
+     "type": "university",
+     "research": "Cơ học thiên thể và vũ trụ học: hình thành, tiến hóa và khả năng sống của hệ ngoại hành tinh, động lực học rác vũ trụ và vệ tinh, vũ trụ học lý thuyết và hấp dẫn biến thể.",
+     "url": "https://www.unamur.be/en/science/mathematics/research/extra",
+     "coverage": "limited",
+     "structure": "Pôle SPACE của viện naXys (Khoa Toán và Khoa Vật lý); chủ tịch naXys Anne-Sophie Libert.",
+     "structureUrl": "https://newsroom.unamur.be/en/news/naxys-institute-space-pole-complex-systems-cpsii",
+     "scopeNote": "Viện không công bố danh sách thành viên pôle SPACE; chỉ ghi các trưởng nhóm có hồ sơ trên Research Portal.",
+     "units": [
+      {
+       "name": "EXTRA — Hệ ngoại hành tinh",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "naXys, Khoa Toán",
+       "topics": "Hình thành và tiến hóa động lực của hệ ngoại hành tinh, cộng hưởng, bài toán n vật, khả năng sống; cộng tác CHEOPS và PLATO.",
+       "url": "https://www.unamur.be/en/science/mathematics/research/extra",
+       "researchers": {
+        "people": [
+         {
+          "name": "Anne-Sophie Libert",
+          "role": "Giáo sư; trưởng nhóm; chủ tịch naXys",
+          "url": "https://www.unamur.be/en/profile/aslibert"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.unamur.be/en/science/mathematics/research/extra"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Vũ trụ học và cơ học thiên thể",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "naXys",
+       "topics": "Năng lượng tối, hấp dẫn biến thể, rác vũ trụ, chuyển động quay của hành tinh và vệ tinh.",
+       "url": "https://newsroom.unamur.be/en/news/naxys-institute-space-pole-complex-systems-cpsii",
+       "researchers": {
+        "people": [
+         {
+          "name": "André Füzfa",
+          "role": "Giáo sư; vũ trụ học",
+          "url": "https://researchportal.unamur.be/en/persons/afuzfa/"
+         },
+         {
+          "name": "Anne Lemaître",
+          "role": "Giáo sư danh dự; cơ học thiên thể, rác vũ trụ",
+          "url": "https://researchportal.unamur.be/en/persons/alemaitr/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://researchportal.unamur.be/en/persons/afuzfa/"
         ],
         "note": "",
         "checked": "2026-11-22"

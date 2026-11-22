@@ -1,0 +1,26 @@
+@city namur | Namur | 4.87, 50.47
+
+@inst UNamur — naXys (Namur Institute for Complex Systems), pôle SPACE
+city: namur
+type: university
+url: https://www.unamur.be/en/science/mathematics/research/extra
+research: Cơ học thiên thể và vũ trụ học: hình thành, tiến hóa và khả năng sống của hệ ngoại hành tinh, động lực học rác vũ trụ và vệ tinh, vũ trụ học lý thuyết và hấp dẫn biến thể.
+coverage: limited
+structure: Pôle SPACE của viện naXys (Khoa Toán và Khoa Vật lý); chủ tịch naXys Anne-Sophie Libert.
+structureUrl: https://newsroom.unamur.be/en/news/naxys-institute-space-pole-complex-systems-cpsii
+scope: Viện không công bố danh sách thành viên pôle SPACE; chỉ ghi các trưởng nhóm có hồ sơ trên Research Portal.
+
+#unit EXTRA — Hệ ngoại hành tinh
+parent: naXys, Khoa Toán
+topics: Hình thành và tiến hóa động lực của hệ ngoại hành tinh, cộng hưởng, bài toán n vật, khả năng sống; cộng tác CHEOPS và PLATO.
+url: https://www.unamur.be/en/science/mathematics/research/extra
+src: https://www.unamur.be/en/science/mathematics/research/extra
+p: Anne-Sophie Libert | Giáo sư; trưởng nhóm; chủ tịch naXys | https://www.unamur.be/en/profile/aslibert
+
+#unit Vũ trụ học và cơ học thiên thể
+parent: naXys
+topics: Năng lượng tối, hấp dẫn biến thể, rác vũ trụ, chuyển động quay của hành tinh và vệ tinh.
+url: https://newsroom.unamur.be/en/news/naxys-institute-space-pole-complex-systems-cpsii
+src: https://researchportal.unamur.be/en/persons/afuzfa/
+p: André Füzfa | Giáo sư; vũ trụ học | https://researchportal.unamur.be/en/persons/afuzfa/
+p: Anne Lemaître | Giáo sư danh dự; cơ học thiên thể, rác vũ trụ | https://researchportal.unamur.be/en/persons/alemaitr/

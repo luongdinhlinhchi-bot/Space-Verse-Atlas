@@ -4,11 +4,11 @@
 city: bruxelles
 type: institute
 url: https://www.astro.oma.be/
-research: Viện khoa học liên bang (BELSPO) với 4 bộ phận: Hệ quy chiếu & Hành tinh học, Địa chấn & Trọng lực, Thiên văn & Vật lý thiên văn, Vật lý Mặt Trời & Thời tiết không gian (SIDC).
-coverage: partial
+research: Viện khoa học liên bang (BELSPO): sao và thiên văn sao, vật lý Mặt Trời và thời tiết không gian (SIDC), hành tinh học (tự quay và cấu trúc trong của hành tinh), hệ quy chiếu và thời gian.
+coverage: limited
 structure: Bốn Operational Directorates (OD1 Hệ quy chiếu & Hành tinh học, OD2 Địa chấn & Trọng lực, OD3 Thiên văn & Vật lý thiên văn, OD4 Vật lý Mặt Trời & Thời tiết không gian / SIDC).
 structureUrl: https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/
-scope: Bộ phận Thiên văn & Vật lý thiên văn có đủ danh sách theo trang Staff (11/2026). Các bộ phận khác (SIDC với khoảng 40 người, hành tinh học) không công bố danh sách nhân sự hiện tại trên trang web — danh sách STCE tìm được là từ 2016 nên không dùng.
+scope: OD3 Thiên văn & Vật lý thiên văn đủ danh sách theo trang Staff (11/2026). OD4 (SIDC, khoảng 40 người) và mảng hành tinh học của OD1 không công bố danh sách nhân sự, chỉ ghi người được nêu tên trong nguồn 2024–2026. Bỏ mảng địa chấn và GNSS vì ngoài thiên văn.
 
 #unit Astronomy & Astrophysics (OD3)
 parent: Observatoire royal de Belgique
@@ -23,3 +23,22 @@ pp: Dịch vụ Thông tin khoa học, Lưu trữ & Thư viện | Hilde Langenak
 pp: Dự án số hoá | Anatoliy Ivantsov; Joan Vandekerckhove
 pp: NCS | Tom Henry
 pp: Cộng tác viên tình nguyện | Patricia Lampens; Thierry Pauwels; Peter van Hoof
+
+#unit Solar Physics & Space Weather (OD4 / SIDC)
+parent: Observatoire royal de Belgique
+topics: Vật lý vành nhật hoa và gió Mặt Trời, thời tiết không gian (Regional Warning Center Belgium, ESA SWE), chỉ số vết đen Mặt Trời quốc tế (WDC-SILSO), thiết bị không gian (EUI trên Solar Orbiter, SWAP/LYRA trên PROBA2, ASPIICS trên PROBA-3), trạm vô tuyến Humain, kính USET.
+url: https://www.sidc.be/
+src: https://www.astro.oma.be/en/scientific-research/solar-physics-space-weather/
+note: Bộ phận khoảng 40 người nhưng trang "The SIDC Team" không hiển thị danh sách; chỉ ghi những người được nêu tên trong nguồn ROB/SIDC năm 2025–2026.
+pp: NCV | Cis Verbeeck; Marie Dominique; Sabrina Bechet; Véronique Delouille
+pp: NCV — điều phối WDC-SILSO | Laure Lefèvre
+
+#unit Reference Systems & Planetology (OD1) — Planetary Science
+parent: Observatoire royal de Belgique
+topics: Tự quay, trường hấp dẫn và thủy triều của các hành tinh đất đá và vệ tinh lớn (Sao Hỏa, Sao Thủy, Sao Kim, vệ tinh băng), khoa học vô tuyến (RISE/InSight, LaRa/ExoMars), sinh học vũ trụ.
+url: https://www.astro.oma.be/en/scientific-research/reference-systems-and-planetology/planetary-science/
+src: https://www.astro.oma.be/common/pdf/y_reports/AnnualReport2024.pdf
+note: Không có trang nhân sự; danh sách lấy từ báo cáo thường niên 2024 và trang cá nhân.
+p: Véronique Dehant | Nghiên cứu viên cấp cao; trưởng bộ phận OD1 2010–2024; GS danh dự UCLouvain | https://homepage.oma.be/veroniq
+pp: NCV | Özgür Karatekin; Sébastien Le Maistre; Jérémy Rekier; Orkun Temel
+pp: PD | Cem Berk Senel

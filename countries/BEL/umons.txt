@@ -1,0 +1,19 @@
+@city mons | Mons | 3.95, 50.45
+
+@inst UMONS — Service de Physique atomique et Astrophysique
+city: mons
+type: university
+url: https://web.umons.ac.be/paas/
+research: Dữ liệu nguyên tử cho vật lý thiên văn: xác suất chuyển dời, thời gian sống, phổ của nguyên tố nặng (lanthanide, actinide) phục vụ quang phổ sao và kilonova.
+coverage: full
+structure: Một service thuộc Khoa Vật lý, UMONS; trưởng service Pascal Quinet.
+structureUrl: https://web.umons.ac.be/paas/en/team/
+scope: Đủ danh sách theo trang Team (11/2026); trang không có trang cá nhân riêng.
+
+#unit Physique atomique et Astrophysique
+parent: Khoa Vật lý, UMONS
+topics: Cấu trúc nguyên tử và phổ học ion nặng cho vật lý thiên văn, opacity kilonova.
+url: https://web.umons.ac.be/paas/en/research-activities/
+src: https://web.umons.ac.be/paas/en/team/
+pp: Trưởng service | Pascal Quinet
+pp: Thành viên | Patrick Palmeri; Maxime Brasseur; Helena Carvajal Gallego; Jérôme Deprince; Lucas Maison

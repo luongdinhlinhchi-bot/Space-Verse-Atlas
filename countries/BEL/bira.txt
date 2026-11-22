@@ -1,0 +1,40 @@
+@inst Institut royal d'Aéronomie Spatiale de Belgique / Koninklijk Belgisch Instituut voor Ruimte-Aeronomie (BIRA-IASB)
+city: bruxelles
+type: institute
+url: https://www.aeronomie.be/
+research: Viện liên bang về khí quyển Trái Đất, hành tinh và không gian: khí quyển hành tinh (Sao Hỏa, Sao Kim; thiết bị NOMAD trên ExoMars TGO), từ quyển và gió Mặt Trời, thời tiết không gian. Phần lớn còn lại của viện là khí quyển Trái Đất.
+coverage: full
+structure: 4 khối nghiên cứu (D10 Vật lý không gian; D20, D30 khí quyển Trái Đất; D40 Bức xạ Mặt Trời trong khí quyển, gồm D43 Khí quyển hành tinh) và chương trình B.USOC.
+structureUrl: https://www.aeronomie.be/en/organisational-chart
+scope: Chỉ lấy các nhóm liên quan thiên văn: D43 Khí quyển hành tinh và D11 Từ quyển, đủ danh sách theo trang nhóm (11/2026). Các nhóm khí quyển Trái Đất không đưa vào.
+
+#unit D43 Planetary atmospheres
+parent: D40 Solar radiation in atmospheres, BIRA-IASB
+topics: Khí quyển Sao Hỏa và Sao Kim, quang phổ hồng ngoại/UV, thiết bị NOMAD (ExoMars TGO) và VenSpec-H (EnVision), mô hình GEM-Mars.
+url: https://planetary.aeronomie.be/
+src: https://planetary.aeronomie.be/meet-the-team/meet-the-team
+p: Frank Daerden | Nhà nghiên cứu; Sao Hỏa, mô hình hoá | https://planetary.aeronomie.be/meet-the-team/meet-the-team/frank-daerden
+p: Justin Erwin | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/justin-erwin
+p: François Hendrick | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/hendrick-francois
+p: Hiroki Karyu | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/hiroki-karyu
+p: Alexis Libert | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/alexis-libert
+p: Arnaud Mahieux | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/arnaud-mahieux
+p: Lori Neary | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/lori-neary
+p: Arianna Piccialli | Nhà nghiên cứu; động lực học và cấu trúc nhiệt | https://planetary.aeronomie.be/meet-the-team/meet-the-team/arianna-piccialli
+p: Séverine Robert | Nhà nghiên cứu; quang phổ, thiết bị không gian | https://planetary.aeronomie.be/meet-the-team/meet-the-team/severine-robert
+p: Ian Thomas | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/ian-thomas
+p: Loïc Trompet | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/loic-trompet
+p: Filip Vanhellemont | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/filip-vanhellemont
+p: Yannick Willame | Nhà nghiên cứu | https://planetary.aeronomie.be/meet-the-team/meet-the-team/yannick-willame
+
+#unit D11 Magnetosphere
+parent: D10 Space Physics, BIRA-IASB
+topics: Từ quyển Trái Đất và hành tinh, plasma không gian, cực quang, sứ mệnh Cluster, Comet Interceptor, Plasma Observatory.
+url: https://magnetosphere.aeronomie.be/
+src: https://magnetosphere.aeronomie.be/team
+p: Johan De Keyser | Nhà nghiên cứu; GS thỉnh giảng KU Leuven | https://orcid.org/0000-0003-4805-5695
+p: Luisa Alonso Tagle | NCS (cùng KU Leuven CmPA) | https://orcid.org/0000-0003-2439-1993
+p: Gaël Cessateur | Nhà nghiên cứu | https://orcid.org/0000-0002-4316-7252
+p: Fabien Darrouzet | Nhà nghiên cứu | https://orcid.org/0000-0002-2927-6858
+p: Frederik Dhooghe | Nhà nghiên cứu | https://orcid.org/0000-0001-7334-833X
+p: Romain Maggiolo | Nhà nghiên cứu | https://orcid.org/0000-0002-5658-1313

@@ -38,7 +38,9 @@ p: Eric Muires | NCS | https://research.ugent.be/web/person/eric-muires-1/en
 p: Polina Smirnova | NCS | https://research.ugent.be/web/person/polina-smirnova-0
 p: Bert Vander Meulen | NCS | https://research.ugent.be/web/person/bert-vander-meulen-0/en
 p: Stefan van der Giessen | NCS | https://research.ugent.be/web/person/stefan-van-der-giessen-0
-pp: NCS | Sena Bokona; Abdissa Emana; Francesco Grieco; Mariana Rivas Sánchez; Yolan Uyttenhove
+p: Francesco Grieco | NCS | https://research.ugent.be/web/person/francesco-grieco-0/en
+p: Yolan Uyttenhove | NCS | https://research.ugent.be/web/person/yolan-uyttenhove-0/en
+pp: NCS | Sena Bokona; Abdissa Emana; Mariana Rivas Sánchez
 p: Guy Wauters | Nhân viên kỹ thuật | https://biblio.ugent.be/person/801001845885
 p: Herwig Dejonghe | EM | https://biblio.ugent.be/person/801000437466
 p: Frank Verheest | EM | https://biblio.ugent.be/person/801000105040
