@@ -1,0 +1,105 @@
+{
+ "cities": [
+  {
+   "id": "luxembourg",
+   "city": "Luxembourg",
+   "coordinates": [
+    6.16,
+    49.63
+   ],
+   "institutions": [
+    {
+     "name": "Đại học Luxembourg — SnT, nhóm Space Robotics (SpaceR)",
+     "type": "university",
+     "research": "Robot tự hành cho thám hiểm hành tinh và quỹ đạo: robot trên Mặt Trăng, khai thác tài nguyên tại chỗ (ISRU), bảo dưỡng vệ tinh trên quỹ đạo; phòng thí nghiệm mô phỏng bề mặt Mặt Trăng (LunaLab) và phòng thí nghiệm không trọng lực (Zero-G Lab). Đây là kỹ thuật vũ trụ, không phải thiên văn học.",
+     "url": "https://www.uni.lu/snt-en/research-groups/spacer/",
+     "coverage": "full",
+     "structure": "Nhóm nghiên cứu thuộc Trung tâm liên ngành SnT (Interdisciplinary Centre for Security, Reliability and Trust) của Đại học Luxembourg; trưởng nhóm cũng điều hành chương trình Interdisciplinary Space Master. Khoa Vật lý (DPhyMS) không có nhóm vật lý thiên văn.",
+     "structureUrl": "https://www.uni.lu/snt-en/research-groups/spacer/",
+     "scopeNote": "Luxembourg không có viện hay khoa thiên văn; năm hướng nghiên cứu của Khoa Vật lý đều không thuộc vật lý thiên văn. Ghi nhóm SpaceR vì đây là nhóm nghiên cứu vũ trụ có danh sách thành viên công khai (11/2026).",
+     "units": [
+      {
+       "name": "SpaceR — Space Robotics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SnT",
+       "topics": "Robot hành tinh (LunaLab), robot quỹ đạo và thao tác (Zero-G Lab), trí tuệ nhân tạo cho robot vũ trụ, Space Robotics Bench mã nguồn mở.",
+       "url": "https://www.uni.lu/snt-en/research-groups/spacer/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Miguel Angel Olivares-Mendez",
+          "role": "Trưởng nhóm, PGS",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/"
+         },
+         {
+          "name": "Carol Martinez Luna",
+          "role": "Phó trưởng nhóm, trợ lý GS",
+          "url": "https://carolmartinez.github.io"
+         },
+         {
+          "name": "Raul Castilla Arquillo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Loick Chovet",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Mhamed Matteo El Hariry",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Lina Maria Amaya Mejia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Aman Arora",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Alexandre Frantz",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Zhanna Bokal",
+          "role": "Kỹ thuật viên / chuyên viên R&D",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Joao Miguel da Costa Magalhaes",
+          "role": "Kỹ thuật viên / chuyên viên R&D",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         },
+         {
+          "name": "Pedro Lima",
+          "role": "Kỹ thuật viên / chuyên viên R&D",
+          "url": "https://www.uni.lu/snt-en/research-groups/spacer/people"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uni.lu/snt-en/research-groups/spacer/people"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "LUX",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là vị trí gần đúng của khu Kirchberg (Luxembourg), không phải vị trí toà nhà. Luxembourg không có viện hay khoa thiên văn; mục này chỉ ghi nhóm nghiên cứu vũ trụ duy nhất tìm thấy ở Đại học Luxembourg.",
+ "listSource": "https://www.uni.lu/fstm-en/?p=176"
+}

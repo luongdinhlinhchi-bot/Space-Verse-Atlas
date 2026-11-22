@@ -1,0 +1,5 @@
+@country LUX
+checked: 2026-11-22
+pin: 6
+coordinateNote: Toạ độ là vị trí gần đúng của khu Kirchberg (Luxembourg), không phải vị trí toà nhà. Luxembourg không có viện hay khoa thiên văn; mục này chỉ ghi nhóm nghiên cứu vũ trụ duy nhất tìm thấy ở Đại học Luxembourg.
+listSource: https://www.uni.lu/fstm-en/?p=176

@@ -1,0 +1,22 @@
+@city luxembourg | Luxembourg | 6.16, 49.63
+
+@inst Đại học Luxembourg — SnT, nhóm Space Robotics (SpaceR)
+city: luxembourg
+type: university
+url: https://www.uni.lu/snt-en/research-groups/spacer/
+research: Robot tự hành cho thám hiểm hành tinh và quỹ đạo: robot trên Mặt Trăng, khai thác tài nguyên tại chỗ (ISRU), bảo dưỡng vệ tinh trên quỹ đạo; phòng thí nghiệm mô phỏng bề mặt Mặt Trăng (LunaLab) và phòng thí nghiệm không trọng lực (Zero-G Lab). Đây là kỹ thuật vũ trụ, không phải thiên văn học.
+coverage: full
+structure: Nhóm nghiên cứu thuộc Trung tâm liên ngành SnT (Interdisciplinary Centre for Security, Reliability and Trust) của Đại học Luxembourg; trưởng nhóm cũng điều hành chương trình Interdisciplinary Space Master. Khoa Vật lý (DPhyMS) không có nhóm vật lý thiên văn.
+structureUrl: https://www.uni.lu/snt-en/research-groups/spacer/
+scope: Luxembourg không có viện hay khoa thiên văn; năm hướng nghiên cứu của Khoa Vật lý đều không thuộc vật lý thiên văn. Ghi nhóm SpaceR vì đây là nhóm nghiên cứu vũ trụ có danh sách thành viên công khai (11/2026).
+
+#unit SpaceR — Space Robotics
+parent: SnT
+topics: Robot hành tinh (LunaLab), robot quỹ đạo và thao tác (Zero-G Lab), trí tuệ nhân tạo cho robot vũ trụ, Space Robotics Bench mã nguồn mở.
+url: https://www.uni.lu/snt-en/research-groups/spacer/
+src: https://www.uni.lu/snt-en/research-groups/spacer/people
+p: Miguel Angel Olivares-Mendez | Trưởng nhóm, PGS | https://www.uni.lu/snt-en/research-groups/spacer/
+p: Carol Martinez Luna | Phó trưởng nhóm, trợ lý GS | https://carolmartinez.github.io
+pp: PD | Raul Castilla Arquillo; Loick Chovet; Mhamed Matteo El Hariry
+pp: NCS | Lina Maria Amaya Mejia; Aman Arora; Alexandre Frantz
+pp: Kỹ thuật viên / chuyên viên R&D | Zhanna Bokal; Joao Miguel da Costa Magalhaes; Pedro Lima
