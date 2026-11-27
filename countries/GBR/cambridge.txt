@@ -1,0 +1,21 @@
+@city cambridge | Cambridge | 0.09, 52.21
+
+@inst Institute of Astronomy, University of Cambridge (IoA)
+city: cambridge
+type: university
+url: https://www.ast.cam.ac.uk/
+research: Vũ trụ học và CMB, thiên hà sớm và chuẩn tinh, khảo cổ học Ngân Hà và Gaia (trung tâm xử lý dữ liệu Gaia DPAC), ngoại hành tinh và khí quyển hành tinh, đĩa tiền hành tinh và đĩa mảnh vụn, hố đen và vật lý thiên văn năng lượng cao, sóng hấp dẫn, khoa học dữ liệu.
+coverage: partial
+structure: Viện thuộc Khoa Vật lý thiên văn, Đại học Cambridge; gắn với Kavli Institute for Cosmology Cambridge (KICC); khoảng 205 người theo danh bạ.
+structureUrl: https://www.ast.cam.ac.uk/people
+scope: Gồm 15/21 giảng viên (faculty), đủ 5 giáo sư nghiên cứu và 15/62 nghiên cứu viên sau tiến sĩ theo danh bạ IoA (11/2026); các trang tiếp theo của danh bạ không mở được nên còn thiếu.
+
+#unit Institute of Astronomy (IoA)
+parent: IoA Cambridge
+topics: Vũ trụ học, thiên hà, Gaia, ngoại hành tinh, đĩa tiền hành tinh, hố đen.
+url: https://research.ast.cam.ac.uk
+src: https://www.ast.cam.ac.uk/people
+p: Sera Markoff | Plumian Professor of Astronomy and Experimental Philosophy | https://www.ast.cam.ac.uk/people
+pp: Giảng viên (faculty) | Vasily Belokurov; Amy Bonsor; Anthony Challinor; Cathie Clarke; Miles Cranmer; Wyn Evans; Anastasia Fialkov; Boryana Hadzhiyska; Martin Haehnelt; Will Handley; Nikku Madhusudhan; Kaisey Mandel; Richard McMahon; Christopher Moore
+pp: Giáo sư nghiên cứu | Francesca De Angeli; Dafydd Wyn Evans; Simon Hodgkin; Floor van Leeuwen; Nicholas Walton
+pp: Nghiên cứu viên sau tiến sĩ | Saad Ahmed; Mohammad Al Sad; James Alvey; Maxmillian Autenrieth; Elmé Breedt; Patrick Burgess; Giorgia Busso; Christopher Cain; Nicholas Choustikov; Gregory Cooke; Giuseppe D'Ago; Sinan Deger; Aaron Do; Callum Fairbairn; Marcelo Aron Fetzner Keniger

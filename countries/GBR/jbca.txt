@@ -1,0 +1,25 @@
+@city manchester | Manchester (Jodrell Bank) | -2.24, 53.47
+
+@inst Jodrell Bank Centre for Astrophysics (JBCA), University of Manchester
+city: manchester
+type: university
+url: https://jodrellbank.manchester.ac.uk/
+research: Thiên văn vô tuyến: pulsar và thiên văn thời gian, giao thoa vô tuyến (e-MERLIN, VLBI), CMB và vũ trụ học, thiên hà và cụm thiên hà, hình thành sao và môi trường giữa các sao (ALMA), sao tiến hóa muộn, vi thấu kính và ngoại hành tinh; công nghệ máy thu và phần mềm cho SKA.
+coverage: full
+structure: Nhóm thiên văn thuộc Bộ môn Vật lý và Thiên văn, Đại học Manchester; vận hành Đài thiên văn Jodrell Bank (kính Lovell) và mạng e-MERLIN; giám đốc Keith Grainge, phó giám đốc Anna Scaife.
+structureUrl: https://jodrellbank.manchester.ac.uk/about/people
+scope: Đủ cán bộ học thuật, giáo sư danh dự, thành viên danh dự và nhân sự nghiên cứu theo trang People (11/2026); không gồm nhân viên kỹ thuật – vận hành (trừ các nhà khoa học hỗ trợ e-MERLIN) và NCS (trang không liệt kê).
+
+#unit Jodrell Bank Centre for Astrophysics
+parent: JBCA
+topics: Pulsar, giao thoa vô tuyến, vũ trụ học, thiên hà, hình thành sao, SKA.
+url: https://jodrellbank.manchester.ac.uk/research/groups/
+src: https://jodrellbank.manchester.ac.uk/about/people
+p: Keith Grainge | Giáo sư; giám đốc JBCA | https://jodrellbank.manchester.ac.uk/about/people
+p: Anna Scaife | Giáo sư thiên văn vô tuyến; phó giám đốc JBCA | https://jodrellbank.manchester.ac.uk/about/people
+p: Benjamin Stappers | Giáo sư; phó giám đốc phụ trách nghiên cứu | https://jodrellbank.manchester.ac.uk/about/people
+pp: Cán bộ học thuật | Richard Battye; Robert Beswick; Rebecca Bowler; René Breton; Michael Brown; Philip Bull; Jens Chluba; Rachel Cochrane; Christopher Conselice; Philip Diamond; Clive Dickinson; Gary Fuller; Michael Garrett (Sir Bernard Lovell Chair); Neal Jackson; Scott Kay; Michael Keith; Eamonn Kerins; Michael Kramer; Timothy O'Brien; J. Patrick Leahy; Mark McCulloch; Andrina Nicola; Lucio Piccirillo; Patrick Weltevrede; Laura Wolz; Albert Zijlstra
+pp: Nhân sự nghiên cứu | Emmanuel Bempong-Manful; George Bendo; Justin Bray; Iulia Cimpan; Steven Cotterill; Alastair Gunn; Stuart Harper; William McGenn; Iain McDonald; Lina Preston; Jack Radcliffe; Benjamin Shaw; Christopher Skipper; Robert Watson; David Williams-Baldwin; Thomas Muxlow (e-MERLIN)
+pp: Giáo sư danh dự | Ian Browne; Philippa Browning; Andrew Lyne; John Meaburn; Alan Pedlar; Richard Schilizzi; Ralph Spencer
+pp: Thành viên danh dự | Tyler Bourke; Anita Richards; Andrew Siemion; Peter Thomasson
+pp: Đài thiên văn Jodrell Bank / e-MERLIN | Simon Garrington (phó giám đốc đài; giám đốc e-MERLIN/VLBI National Facility)

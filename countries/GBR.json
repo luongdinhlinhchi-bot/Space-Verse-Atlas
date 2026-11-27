@@ -1,0 +1,1580 @@
+{
+ "cities": [
+  {
+   "id": "cambridge",
+   "city": "Cambridge",
+   "coordinates": [
+    0.09,
+    52.21
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Astronomy, University of Cambridge (IoA)",
+     "type": "university",
+     "research": "Vũ trụ học và CMB, thiên hà sớm và chuẩn tinh, khảo cổ học Ngân Hà và Gaia (trung tâm xử lý dữ liệu Gaia DPAC), ngoại hành tinh và khí quyển hành tinh, đĩa tiền hành tinh và đĩa mảnh vụn, hố đen và vật lý thiên văn năng lượng cao, sóng hấp dẫn, khoa học dữ liệu.",
+     "url": "https://www.ast.cam.ac.uk/",
+     "coverage": "partial",
+     "structure": "Viện thuộc Khoa Vật lý thiên văn, Đại học Cambridge; gắn với Kavli Institute for Cosmology Cambridge (KICC); khoảng 205 người theo danh bạ.",
+     "structureUrl": "https://www.ast.cam.ac.uk/people",
+     "scopeNote": "Gồm 15/21 giảng viên (faculty), đủ 5 giáo sư nghiên cứu và 15/62 nghiên cứu viên sau tiến sĩ theo danh bạ IoA (11/2026); các trang tiếp theo của danh bạ không mở được nên còn thiếu.",
+     "units": [
+      {
+       "name": "Institute of Astronomy (IoA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IoA Cambridge",
+       "topics": "Vũ trụ học, thiên hà, Gaia, ngoại hành tinh, đĩa tiền hành tinh, hố đen.",
+       "url": "https://research.ast.cam.ac.uk",
+       "researchers": {
+        "people": [
+         {
+          "name": "Sera Markoff",
+          "role": "Plumian Professor of Astronomy and Experimental Philosophy",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Vasily Belokurov",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Amy Bonsor",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Anthony Challinor",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Cathie Clarke",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Miles Cranmer",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Wyn Evans",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Anastasia Fialkov",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Boryana Hadzhiyska",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Martin Haehnelt",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Will Handley",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Nikku Madhusudhan",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Kaisey Mandel",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Richard McMahon",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Christopher Moore",
+          "role": "Giảng viên (faculty)",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Francesca De Angeli",
+          "role": "Giáo sư nghiên cứu",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Dafydd Wyn Evans",
+          "role": "Giáo sư nghiên cứu",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Simon Hodgkin",
+          "role": "Giáo sư nghiên cứu",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Floor van Leeuwen",
+          "role": "Giáo sư nghiên cứu",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Nicholas Walton",
+          "role": "Giáo sư nghiên cứu",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Saad Ahmed",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Mohammad Al Sad",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "James Alvey",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Maxmillian Autenrieth",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Elmé Breedt",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Patrick Burgess",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Giorgia Busso",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Christopher Cain",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Nicholas Choustikov",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Gregory Cooke",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Giuseppe D'Ago",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Sinan Deger",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Aaron Do",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Callum Fairbairn",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         },
+         {
+          "name": "Marcelo Aron Fetzner Keniger",
+          "role": "Nghiên cứu viên sau tiến sĩ",
+          "url": "https://www.ast.cam.ac.uk/people"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ast.cam.ac.uk/people"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "edinburgh",
+   "city": "Edinburgh",
+   "coordinates": [
+    -3.19,
+    55.92
+   ],
+   "institutions": [
+    {
+     "name": "Institute for Astronomy, University of Edinburgh (Royal Observatory Edinburgh)",
+     "type": "university",
+     "research": "Vũ trụ học quan sát và lý thuyết (Euclid, DESI, LSST, thấu kính hấp dẫn yếu), hình thành – tiến hóa thiên hà sớm (JWST), thiên văn tia X và AGN, khảo cổ học Ngân Hà và nhóm Địa phương, ngoại hành tinh và sao lùn nâu, sao chổi và hệ Mặt Trời, khảo sát diện rộng (WFAU).",
+     "url": "https://ifa.roe.ac.uk/",
+     "coverage": "full",
+     "structure": "Một trong ba bộ phận lớn của Trường Vật lý và Thiên văn, Đại học Edinburgh; đặt tại Đài thiên văn Hoàng gia Edinburgh (Blackford Hill), chung khuôn viên với UK Astronomy Technology Centre; trưởng viện Ken Rice.",
+     "structureUrl": "https://ifa.roe.ac.uk/people-contacts",
+     "scopeNote": "Đủ cán bộ giảng dạy, nhân sự nghiên cứu và NCS theo Staff directory của IfA (11/2026); không gồm nhân viên hỗ trợ.",
+     "units": [
+      {
+       "name": "Institute for Astronomy (IfA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IfA Edinburgh",
+       "topics": "Vũ trụ học, thiên hà, tia X, Ngân Hà, ngoại hành tinh, hệ Mặt Trời, khảo sát diện rộng.",
+       "url": "https://ifa.roe.ac.uk/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ken Rice",
+          "role": "Trưởng viện; giáo sư vật lý thiên văn tính toán",
+          "url": "https://ifa.roe.ac.uk/people-contacts"
+         },
+         {
+          "name": "James Aird",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ricarda Beckmann",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Philip Best (trưởng Trường Vật lý và Thiên văn)",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Florian Beutler",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Beth Biller",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Yan-Chuan Cai",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Adam Carnall",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Fergus Cullen",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Romeel Davé",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Kenneth Duncan",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "James Dunlop",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Trent Dupuy",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Annette Ferguson",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Alex Hall",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Catherine Heymans",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Laura Keating",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sadegh Khochfar",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sergey Koposov",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Andy Lawrence",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Bob Mann",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ross McLure",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Avery Meiksin",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Cyrielle Opitom",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "John Peacock",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Alkistis Pourtsidou",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sarah Rugheimer",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Britton Smith",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Colin Snodgrass",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Andy Taylor",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Steve Tobias",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Anna Lisa Varri",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Joe Zuntz",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Peter Brand",
+          "role": "Giáo sư danh dự / thành viên danh dự",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jorge Peñarrubia",
+          "role": "Giáo sư danh dự / thành viên danh dự",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Weiguang Cui",
+          "role": "Giáo sư danh dự / thành viên danh dự",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Alison Young",
+          "role": "Giáo sư danh dự / thành viên danh dự",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Silvia Almada Monter",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Tom Callingham",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Rory Claydon",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ross Collins",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Giuseppe Congedo",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Chiara Crociati",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Nicholas Cross",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "William d'Assignies Doumerg",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Abbie Donaldson",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Veronika Dornan",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Chris Duncan",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sophia Flury",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Clémence Fontanive",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Lilian Garratt-Smithson",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Anna Genina",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jindra Gensior",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Gordon Gibb",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Benjamin Giblin",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Marcin Glowacki",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Lisa Goh",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Aritra Gon",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Alexander Gordon",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Caroline Guandalin",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Catherine Hale",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Nigel Hambly",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Danny Horta Darrington",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Malcolm Illingworth",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jean-Maël Kempf",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Pete Kuzma",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Hin Leung",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Derek McLeod",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Erica Molnar-Bufanda",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Brendan O'Brien",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Marcos Pellejero",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Corey Pirie",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Amy Rankine",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Michael Read",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Naomi Robertson",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "James Robinson",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Nicholas Rowell",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Agata Rożek",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Matus Rybak",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jascha Schewtschenko",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Dirk Scholte",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Terence Sloan",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Thomas Stanton",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Giovanni Strampelli",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ben Sutlieff",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Eckhard Sutorius",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Lizzie Taylor",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Eric Tittley",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Maria Tsedrik",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Roy Williams",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Hon Wah Yeung",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Emilio Zanatta",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Daniel Dicken",
+          "role": "Khách nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Michael Hawkins",
+          "role": "Khách nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Peredur Williams",
+          "role": "Khách nghiên cứu",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Roman Akhmetshyn",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Durrah Alessa",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Stella Antonogiannaki",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Lucy Arditi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Thomas Athanasenas",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jiachen Bai",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sankalan Bhattacharyya",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Cecilia Bondestam",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ardiana Bushi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Amanda Byström",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Richard Cannon",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ho Wan Cheng",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Matthew Cole",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Giulia Congera",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Arefeh Daei Rasouli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jacob (Haozhe) Dong",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Salman Farasi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "James Fecanin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Yixuan Feng",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Patricia Veronica Fort",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Pranavi Hiremath",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Tanja Holc",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Isaac Holst",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "George-Luca Iconaru",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Evan Jones",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ryusei Kano",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Aiza Kenzhebekova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Mishita Khurana",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Adam Koval",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jingjing Althea Lai",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Joshua Luke Layton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Winky Hiu Laam Lee",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sida Li",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Feng-Yuan Liu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Harrison Lo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Kevin Lo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Leonardo Maggiore",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Gracie Rose McGill",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Madeleine Kate McLeod",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Tushar Meshram",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Valentina Miranda",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ankit Mishra",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Ben Mitchell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Bereket Assefa Moltote",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Sara Muñoz Torres",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Flavia Cristiana Pascal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jade Piat",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Giulia Pruto",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Koloina Rambeloson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Hima Ramrooch",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Finn Roper",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Jay Stephan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Struan Stevenson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Elena Tannock",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Linus Thummel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Edward Turner",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Zhenyu Wu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Zhen Xiang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Yunchen Xie",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Hong-Gang Yang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Charles Yin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Zhuoming Zhang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         },
+         {
+          "name": "Wenrui Zhong",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifa.roe.ac.uk/staff-directory"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ifa.roe.ac.uk/staff-directory"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "manchester",
+   "city": "Manchester (Jodrell Bank)",
+   "coordinates": [
+    -2.24,
+    53.47
+   ],
+   "institutions": [
+    {
+     "name": "Jodrell Bank Centre for Astrophysics (JBCA), University of Manchester",
+     "type": "university",
+     "research": "Thiên văn vô tuyến: pulsar và thiên văn thời gian, giao thoa vô tuyến (e-MERLIN, VLBI), CMB và vũ trụ học, thiên hà và cụm thiên hà, hình thành sao và môi trường giữa các sao (ALMA), sao tiến hóa muộn, vi thấu kính và ngoại hành tinh; công nghệ máy thu và phần mềm cho SKA.",
+     "url": "https://jodrellbank.manchester.ac.uk/",
+     "coverage": "full",
+     "structure": "Nhóm thiên văn thuộc Bộ môn Vật lý và Thiên văn, Đại học Manchester; vận hành Đài thiên văn Jodrell Bank (kính Lovell) và mạng e-MERLIN; giám đốc Keith Grainge, phó giám đốc Anna Scaife.",
+     "structureUrl": "https://jodrellbank.manchester.ac.uk/about/people",
+     "scopeNote": "Đủ cán bộ học thuật, giáo sư danh dự, thành viên danh dự và nhân sự nghiên cứu theo trang People (11/2026); không gồm nhân viên kỹ thuật – vận hành (trừ các nhà khoa học hỗ trợ e-MERLIN) và NCS (trang không liệt kê).",
+     "units": [
+      {
+       "name": "Jodrell Bank Centre for Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "JBCA",
+       "topics": "Pulsar, giao thoa vô tuyến, vũ trụ học, thiên hà, hình thành sao, SKA.",
+       "url": "https://jodrellbank.manchester.ac.uk/research/groups/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Keith Grainge",
+          "role": "Giáo sư; giám đốc JBCA",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Anna Scaife",
+          "role": "Giáo sư thiên văn vô tuyến; phó giám đốc JBCA",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Benjamin Stappers",
+          "role": "Giáo sư; phó giám đốc phụ trách nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Richard Battye",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Robert Beswick",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Rebecca Bowler",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "René Breton",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Michael Brown",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Philip Bull",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Jens Chluba",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Rachel Cochrane",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Christopher Conselice",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Philip Diamond",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Clive Dickinson",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Gary Fuller",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Michael Garrett (Sir Bernard Lovell Chair)",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Neal Jackson",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Scott Kay",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Michael Keith",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Eamonn Kerins",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Michael Kramer",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Timothy O'Brien",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "J. Patrick Leahy",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Mark McCulloch",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Andrina Nicola",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Lucio Piccirillo",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Patrick Weltevrede",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Laura Wolz",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Albert Zijlstra",
+          "role": "Cán bộ học thuật",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Emmanuel Bempong-Manful",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "George Bendo",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Justin Bray",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Iulia Cimpan",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Steven Cotterill",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Alastair Gunn",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Stuart Harper",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "William McGenn",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Iain McDonald",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Lina Preston",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Jack Radcliffe",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Benjamin Shaw",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Christopher Skipper",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Robert Watson",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "David Williams-Baldwin",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Thomas Muxlow (e-MERLIN)",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Ian Browne",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Philippa Browning",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Andrew Lyne",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "John Meaburn",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Alan Pedlar",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Richard Schilizzi",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Ralph Spencer",
+          "role": "Giáo sư danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Tyler Bourke",
+          "role": "Thành viên danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Anita Richards",
+          "role": "Thành viên danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Andrew Siemion",
+          "role": "Thành viên danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Peter Thomasson",
+          "role": "Thành viên danh dự",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "Simon Garrington (phó giám đốc đài",
+          "role": "Đài thiên văn Jodrell Bank / e-MERLIN",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         },
+         {
+          "name": "giám đốc e-MERLIN/VLBI National Facility)",
+          "role": "Đài thiên văn Jodrell Bank / e-MERLIN",
+          "url": "https://jodrellbank.manchester.ac.uk/about/people"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://jodrellbank.manchester.ac.uk/about/people"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "oxford",
+   "city": "Oxford",
+   "coordinates": [
+    -1.26,
+    51.75
+   ],
+   "institutions": [
+    {
+     "name": "Sub-department of Astrophysics, University of Oxford",
+     "type": "university",
+     "research": "Vũ trụ học (CMB, Simons Observatory, cấu trúc quy mô lớn), thiên hà và động lực học (MUSE, HARMONI cho ELT, JWST), thiên văn vô tuyến và hiện tượng thoáng qua (MeerKAT, SKA), ngoại hành tinh và khí quyển hành tinh, hố đen và tia phản lực, khoa học công dân (Zooniverse), vật lý thiên văn lý thuyết.",
+     "url": "https://www.physics.ox.ac.uk/research/subdepartment/astrophysics",
+     "coverage": "partial",
+     "structure": "Phân bộ Vật lý thiên văn thuộc Khoa Vật lý, Đại học Oxford; trưởng phân bộ Rob Fender.",
+     "structureUrl": "https://www.physics.ox.ac.uk/our-people?theme=29",
+     "scopeNote": "Chỉ một phần: các giảng viên đọc được trong danh sách học thuật (A–M) và trang đầu của danh bạ chủ đề Thiên văn và Vật lý thiên văn; danh bạ phân trang dài nên chưa lấy hết.",
+     "units": [
+      {
+       "name": "Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Oxford Astrophysics",
+       "topics": "Vũ trụ học, thiên hà, thiên văn vô tuyến, ngoại hành tinh, hố đen.",
+       "url": "https://www.physics.ox.ac.uk/our-people?theme=29",
+       "researchers": {
+        "people": [
+         {
+          "name": "Rob Fender",
+          "role": "Giáo sư; trưởng phân bộ Vật lý thiên văn",
+          "url": "https://www.physics.ox.ac.uk/our-people?subdept=5"
+         },
+         {
+          "name": "Suzanne Aigrain",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "David Alonso",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Jayne Birkby",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Katherine Blundell",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Andrew Bunker",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Martin Bureau",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Michele Cappellari",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Garret Cotter",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Gavin Dalton",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Roger Davies",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Julien Devriendt",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Pedro Ferreira",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Matt Jarvis",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Michael Jones",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Aris Karastergiou",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Bence Kocsis",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Chris Lintott",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "John Magorrian",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Steven Balbus (giáo sư danh dự)",
+          "role": "Giảng viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Sara Maleubre Molinero",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Alex Andersson",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Josu Aurrekoetxea",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Deaglan Bartlett",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Pablo Bilbao",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Lana Alabbasi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "John Allen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Aikya Banerjee",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Sally Blumenthal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Alexander Boone",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         },
+         {
+          "name": "Maria Carranza Escudero",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.physics.ox.ac.uk/our-people?theme=29"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.physics.ox.ac.uk/our-people?theme=29"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "GBR",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://ifa.roe.ac.uk/staff-directory"
+}

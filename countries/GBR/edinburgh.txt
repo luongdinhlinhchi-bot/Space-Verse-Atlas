@@ -1,0 +1,23 @@
+@city edinburgh | Edinburgh | -3.19, 55.92
+
+@inst Institute for Astronomy, University of Edinburgh (Royal Observatory Edinburgh)
+city: edinburgh
+type: university
+url: https://ifa.roe.ac.uk/
+research: Vũ trụ học quan sát và lý thuyết (Euclid, DESI, LSST, thấu kính hấp dẫn yếu), hình thành – tiến hóa thiên hà sớm (JWST), thiên văn tia X và AGN, khảo cổ học Ngân Hà và nhóm Địa phương, ngoại hành tinh và sao lùn nâu, sao chổi và hệ Mặt Trời, khảo sát diện rộng (WFAU).
+coverage: full
+structure: Một trong ba bộ phận lớn của Trường Vật lý và Thiên văn, Đại học Edinburgh; đặt tại Đài thiên văn Hoàng gia Edinburgh (Blackford Hill), chung khuôn viên với UK Astronomy Technology Centre; trưởng viện Ken Rice.
+structureUrl: https://ifa.roe.ac.uk/people-contacts
+scope: Đủ cán bộ giảng dạy, nhân sự nghiên cứu và NCS theo Staff directory của IfA (11/2026); không gồm nhân viên hỗ trợ.
+
+#unit Institute for Astronomy (IfA)
+parent: IfA Edinburgh
+topics: Vũ trụ học, thiên hà, tia X, Ngân Hà, ngoại hành tinh, hệ Mặt Trời, khảo sát diện rộng.
+url: https://ifa.roe.ac.uk/
+src: https://ifa.roe.ac.uk/staff-directory
+p: Ken Rice | Trưởng viện; giáo sư vật lý thiên văn tính toán | https://ifa.roe.ac.uk/people-contacts
+pp: Cán bộ giảng dạy | James Aird; Ricarda Beckmann; Philip Best (trưởng Trường Vật lý và Thiên văn); Florian Beutler; Beth Biller; Yan-Chuan Cai; Adam Carnall; Fergus Cullen; Romeel Davé; Kenneth Duncan; James Dunlop; Trent Dupuy; Annette Ferguson; Alex Hall; Catherine Heymans; Laura Keating; Sadegh Khochfar; Sergey Koposov; Andy Lawrence; Bob Mann; Ross McLure; Avery Meiksin; Cyrielle Opitom; John Peacock; Alkistis Pourtsidou; Sarah Rugheimer; Britton Smith; Colin Snodgrass; Andy Taylor; Steve Tobias; Anna Lisa Varri; Joe Zuntz
+pp: Giáo sư danh dự / thành viên danh dự | Peter Brand; Jorge Peñarrubia; Weiguang Cui; Alison Young
+pp: Nhân sự nghiên cứu | Silvia Almada Monter; Tom Callingham; Rory Claydon; Ross Collins; Giuseppe Congedo; Chiara Crociati; Nicholas Cross; William d'Assignies Doumerg; Abbie Donaldson; Veronika Dornan; Chris Duncan; Sophia Flury; Clémence Fontanive; Lilian Garratt-Smithson; Anna Genina; Jindra Gensior; Gordon Gibb; Benjamin Giblin; Marcin Glowacki; Lisa Goh; Aritra Gon; Alexander Gordon; Caroline Guandalin; Catherine Hale; Nigel Hambly; Danny Horta Darrington; Malcolm Illingworth; Jean-Maël Kempf; Pete Kuzma; Hin Leung; Derek McLeod; Erica Molnar-Bufanda; Brendan O'Brien; Marcos Pellejero; Corey Pirie; Amy Rankine; Michael Read; Naomi Robertson; James Robinson; Nicholas Rowell; Agata Rożek; Matus Rybak; Jascha Schewtschenko; Dirk Scholte; Terence Sloan; Thomas Stanton; Giovanni Strampelli; Ben Sutlieff; Eckhard Sutorius; Lizzie Taylor; Eric Tittley; Maria Tsedrik; Roy Williams; Hon Wah Yeung; Emilio Zanatta
+pp: Khách nghiên cứu | Daniel Dicken; Michael Hawkins; Peredur Williams
+pp: NCS | Roman Akhmetshyn; Durrah Alessa; Stella Antonogiannaki; Lucy Arditi; Thomas Athanasenas; Jiachen Bai; Sankalan Bhattacharyya; Cecilia Bondestam; Ardiana Bushi; Amanda Byström; Richard Cannon; Ho Wan Cheng; Matthew Cole; Giulia Congera; Arefeh Daei Rasouli; Jacob (Haozhe) Dong; Salman Farasi; James Fecanin; Yixuan Feng; Patricia Veronica Fort; Pranavi Hiremath; Tanja Holc; Isaac Holst; George-Luca Iconaru; Evan Jones; Ryusei Kano; Aiza Kenzhebekova; Mishita Khurana; Adam Koval; Jingjing Althea Lai; Joshua Luke Layton; Winky Hiu Laam Lee; Sida Li; Feng-Yuan Liu; Harrison Lo; Kevin Lo; Leonardo Maggiore; Gracie Rose McGill; Madeleine Kate McLeod; Tushar Meshram; Valentina Miranda; Ankit Mishra; Ben Mitchell; Bereket Assefa Moltote; Sara Muñoz Torres; Flavia Cristiana Pascal; Jade Piat; Giulia Pruto; Koloina Rambeloson; Hima Ramrooch; Finn Roper; Jay Stephan; Struan Stevenson; Elena Tannock; Linus Thummel; Edward Turner; Zhenyu Wu; Zhen Xiang; Yunchen Xie; Hong-Gang Yang; Charles Yin; Zhuoming Zhang; Wenrui Zhong

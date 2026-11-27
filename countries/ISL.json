@@ -1,0 +1,90 @@
+{
+ "cities": [
+  {
+   "id": "reykjavik",
+   "city": "Reykjavík",
+   "coordinates": [
+    -21.94,
+    64.14
+   ],
+   "institutions": [
+    {
+     "name": "Science Institute, University of Iceland – Astrophysics (Center for Astrophysics and Cosmology)",
+     "type": "university",
+     "research": "Hiện tượng thoáng qua (siêu tân tinh, chớp gamma), tính chất quan sát của thiên hà dịch chuyển đỏ cao, mô phỏng hình thành cấu trúc vũ trụ (vật chất tối, thiên hà), vật lý thiên văn năng lượng cao và lan truyền tia vũ trụ trong Ngân Hà.",
+     "url": "https://english.hi.is/node/844905",
+     "coverage": "partial",
+     "structure": "Nhóm vật lý thiên văn trong Phân ban Vật lý và Toán, Viện Khoa học, Đại học Iceland (Trường Kỹ thuật và Khoa học Tự nhiên).",
+     "structureUrl": "https://english.hi.is/node/844905",
+     "scopeNote": "Ba cán bộ giảng dạy ghi rõ tên trên trang nghiên cứu vật lý của Viện Khoa học; postdoc và NCS lấy từ phiên bản cũ của trang (old-english.hi.is), có thể đã thay đổi. Trang hiện tại chỉ ghi chức danh, không ghi tên.",
+     "units": [
+      {
+       "name": "Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Iceland",
+       "topics": "Chớp gamma, siêu tân tinh, thiên hà xa, vật chất tối, tia vũ trụ.",
+       "url": "https://english.hi.is/node/844905",
+       "researchers": {
+        "people": [
+         {
+          "name": "Páll Jakobsson",
+          "role": "Giáo sư vật lý thiên văn",
+          "url": "https://english.hi.is/staff/pja"
+         },
+         {
+          "name": "Gunnlaugur Björnsson",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://old-english.hi.is/node/844905"
+         },
+         {
+          "name": "Jesús Zavala Franco",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://old-english.hi.is/node/844905"
+         },
+         {
+          "name": "Hemanadhan Myneni",
+          "role": "Postdoc (theo trang cũ)",
+          "url": "https://old-english.hi.is/node/844905"
+         },
+         {
+          "name": "Kasper Elm Heintz",
+          "role": "Postdoc (theo trang cũ)",
+          "url": "https://old-english.hi.is/node/844905"
+         },
+         {
+          "name": "Mark Richard Lovell",
+          "role": "Postdoc (theo trang cũ)",
+          "url": "https://old-english.hi.is/node/844905"
+         },
+         {
+          "name": "Sebastian Bohr",
+          "role": "NCS (theo trang cũ)",
+          "url": "https://old-english.hi.is/node/844905"
+         },
+         {
+          "name": "Tamari Meshveliani",
+          "role": "NCS (theo trang cũ)",
+          "url": "https://old-english.hi.is/node/844905"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://old-english.hi.is/node/844905"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "ISL",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://english.hi.is/node/844905"
+}

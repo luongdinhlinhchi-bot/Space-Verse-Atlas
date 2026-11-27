@@ -1,0 +1,21 @@
+@city oxford | Oxford | -1.26, 51.75
+
+@inst Sub-department of Astrophysics, University of Oxford
+city: oxford
+type: university
+url: https://www.physics.ox.ac.uk/research/subdepartment/astrophysics
+research: Vũ trụ học (CMB, Simons Observatory, cấu trúc quy mô lớn), thiên hà và động lực học (MUSE, HARMONI cho ELT, JWST), thiên văn vô tuyến và hiện tượng thoáng qua (MeerKAT, SKA), ngoại hành tinh và khí quyển hành tinh, hố đen và tia phản lực, khoa học công dân (Zooniverse), vật lý thiên văn lý thuyết.
+coverage: partial
+structure: Phân bộ Vật lý thiên văn thuộc Khoa Vật lý, Đại học Oxford; trưởng phân bộ Rob Fender.
+structureUrl: https://www.physics.ox.ac.uk/our-people?theme=29
+scope: Chỉ một phần: các giảng viên đọc được trong danh sách học thuật (A–M) và trang đầu của danh bạ chủ đề Thiên văn và Vật lý thiên văn; danh bạ phân trang dài nên chưa lấy hết.
+
+#unit Astrophysics
+parent: Oxford Astrophysics
+topics: Vũ trụ học, thiên hà, thiên văn vô tuyến, ngoại hành tinh, hố đen.
+url: https://www.physics.ox.ac.uk/our-people?theme=29
+src: https://www.physics.ox.ac.uk/our-people?theme=29
+p: Rob Fender | Giáo sư; trưởng phân bộ Vật lý thiên văn | https://www.physics.ox.ac.uk/our-people?subdept=5
+pp: Giảng viên | Suzanne Aigrain; David Alonso; Jayne Birkby; Katherine Blundell; Andrew Bunker; Martin Bureau; Michele Cappellari; Garret Cotter; Gavin Dalton; Roger Davies; Julien Devriendt; Pedro Ferreira; Matt Jarvis; Michael Jones; Aris Karastergiou; Bence Kocsis; Chris Lintott; John Magorrian; Steven Balbus (giáo sư danh dự)
+pp: Nghiên cứu viên | Sara Maleubre Molinero; Alex Andersson; Josu Aurrekoetxea; Deaglan Bartlett; Pablo Bilbao
+pp: NCS | Lana Alabbasi; John Allen; Aikya Banerjee; Sally Blumenthal; Alexander Boone; Maria Carranza Escudero

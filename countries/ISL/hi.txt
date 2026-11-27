@@ -1,0 +1,21 @@
+@city reykjavik | Reykjavík | -21.94, 64.14
+
+@inst Science Institute, University of Iceland – Astrophysics (Center for Astrophysics and Cosmology)
+city: reykjavik
+type: university
+url: https://english.hi.is/node/844905
+research: Hiện tượng thoáng qua (siêu tân tinh, chớp gamma), tính chất quan sát của thiên hà dịch chuyển đỏ cao, mô phỏng hình thành cấu trúc vũ trụ (vật chất tối, thiên hà), vật lý thiên văn năng lượng cao và lan truyền tia vũ trụ trong Ngân Hà.
+coverage: partial
+structure: Nhóm vật lý thiên văn trong Phân ban Vật lý và Toán, Viện Khoa học, Đại học Iceland (Trường Kỹ thuật và Khoa học Tự nhiên).
+structureUrl: https://english.hi.is/node/844905
+scope: Ba cán bộ giảng dạy ghi rõ tên trên trang nghiên cứu vật lý của Viện Khoa học; postdoc và NCS lấy từ phiên bản cũ của trang (old-english.hi.is), có thể đã thay đổi. Trang hiện tại chỉ ghi chức danh, không ghi tên.
+
+#unit Astrophysics
+parent: University of Iceland
+topics: Chớp gamma, siêu tân tinh, thiên hà xa, vật chất tối, tia vũ trụ.
+url: https://english.hi.is/node/844905
+src: https://old-english.hi.is/node/844905
+p: Páll Jakobsson | Giáo sư vật lý thiên văn | https://english.hi.is/staff/pja
+pp: Giáo sư / phó giáo sư | Gunnlaugur Björnsson; Jesús Zavala Franco
+pp: Postdoc (theo trang cũ) | Hemanadhan Myneni; Kasper Elm Heintz; Mark Richard Lovell
+pp: NCS (theo trang cũ) | Sebastian Bohr; Tamari Meshveliani
