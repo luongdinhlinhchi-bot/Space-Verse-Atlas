@@ -1,0 +1,20 @@
+@city portsmouth | Portsmouth | -1.09, 50.80
+
+@inst Institute of Cosmology and Gravitation (ICG), University of Portsmouth
+city: portsmouth
+type: university
+url: https://www.port.ac.uk/research/research-groups-and-centres/institute-of-cosmology-and-gravitation
+research: Vũ trụ học lý thuyết và quan sát (DESI, Euclid, SDSS), năng lượng tối và hấp dẫn sửa đổi, sóng hấp dẫn (LIGO-Virgo-KAGRA), hình thành – tiến hóa thiên hà, khoa học công dân (Galaxy Zoo); siêu máy tính SCIAMA.
+coverage: leaders
+structure: Viện nghiên cứu độc lập thành lập năm 2002 tại Đại học Portsmouth; gần 50 cán bộ, postdoc và NCS; giám đốc David Bacon.
+structureUrl: https://en.wikipedia.org/wiki/Institute_of_Cosmology_and_Gravitation,_University_of_Portsmouth
+scope: Chỉ vài cán bộ và NCS hiện qua kết quả tìm kiếm; trang danh sách nhân sự ICG cần bạn duyệt mới mở được.
+
+#unit ICG
+parent: ICG Portsmouth
+topics: Vũ trụ học, năng lượng tối, sóng hấp dẫn, thiên hà.
+url: https://www.port.ac.uk/institute-of-cosmology-and-gravitation
+src: https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff
+p: David Bacon | Giáo sư; giám đốc ICG | https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff
+pp: Cán bộ | Tessa Baker; Marco Bruni; Hooshyar Assadullahi; Daniel Whalen
+pp: NCS | Rahma Alfarsy; Parth Bhargava; Kevin Boyne; Ana Sainz de Murieta; Neel Shah; Luke Weisenbach; Arthur Whyley; Emily Wickens

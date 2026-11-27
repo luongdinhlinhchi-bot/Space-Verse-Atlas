@@ -1,0 +1,23 @@
+@city coventry | Coventry (Warwick) | -1.56, 52.38
+
+@inst Astronomy & Astrophysics Group, University of Warwick
+city: coventry
+type: university
+url: https://warwick.ac.uk/fac/sci/physics/research/astro/
+research: Ngoại hành tinh (NGTS, PLATO, CHEOPS), sao lùn trắng và hệ hành tinh sau dãy chính, sao đôi tương tác và biến quang, hiện tượng thoáng qua và sóng hấp dẫn đa sứ giả (GOTO), quần thể sao và tiến hóa sao đôi (BPASS), đĩa tiền hành tinh.
+coverage: full
+structure: Nhóm thuộc Khoa Vật lý, Đại học Warwick; trưởng nhóm Elizabeth Stanway.
+structureUrl: https://warwick.ac.uk/fac/sci/physics/research/astro/people/
+scope: Đủ thành viên theo trang People của nhóm (11/2026), gồm giảng viên, nghiên cứu viên, thành viên danh dự và học viên sau đại học.
+
+#unit Astronomy & Astrophysics Group
+parent: Warwick Astro
+topics: Ngoại hành tinh, sao lùn trắng, thoáng qua, sao đôi.
+url: https://warwick.ac.uk/fac/sci/physics/research/astro/
+src: https://warwick.ac.uk/fac/sci/physics/research/astro/people/
+p: Elizabeth Stanway | Giáo sư; trưởng nhóm | https://warwick.ac.uk/fac/sci/physics/research/astro/people/
+pp: Cán bộ giảng dạy | David Armstrong; Daniel Bayliss; Heather Cegla; Deanne Coppejans; Timothy Cunningham; Siddharth Gandhi; Boris Gänsicke; Joseph Lyman; Farzana Meru; Ingrid Pelisoli; Don Pollacco; Danny Steeghs; Pier-Emmanuel Tremblay; Dimitri Veras; Peter Wheatley; Jiachen Jiang (giảng viên giảng dạy)
+pp: Nhân sự nghiên cứu | David Brown; Paul Chote; Lauren Doyle; James McCormac; Krzysztof Ulaczyk; Richard West; Thomas Wilson
+pp: Nghiên cứu viên (fellows) | Kendall Ackley; Ioannis Apergis; Oscar Barragán; Antoine Bédard; James Blake; Andrew Buchan; Ed Bryant; Conor Byrne; Noel Castro Segura; Hritam Chakraborty; Ben Cooke; Kaiming Cui; Maria De Juan Ovelar; Jorge Fernández Fernández; Samuel Gill; Andreas Hadjigeorghiou; Mark Hollands; Minjae Kim; George King; Thomas Killestein; Vedad Kunovac; Marina Lafarga Magro; Cis Lagae; Mark Magee; Mairi O'Brien; Ayaka Okuya; David O'Neill; Ares Osborn; Miika Pursiainen; Sergio Ramírez Ramírez; Snehalata Sahu; Andrew Swan
+pp: Giáo sư / thành viên danh dự | Jan Eldridge; Kevin Heng; Andrew Levan; Gavin Ramsay; Keith Inight; Paula Izquierdo; James Jackman
+pp: NCS / thạc sĩ | Robert Airey; Phineas Allen; Charlie Bailey; Wenjun Chen; Rhys Collins; Gabriela Da Rosa; Ben Davies; Toni Dougan; Sophie Edley; Fintan Eeles-Nolle; Vanessa Emeka-Okafor; Yoshi Eschen; Amena Faruqi; Cristina Madurga Favieres; Marcelo Aron Fetzner Keniger; Ginger Frame; Matt Godfrey; Ben Godson; Cameron Kelahan; Isobel Lockley; Azib Norazman; Alexander MacManus; Sumit Kumar Maheshwari; Rafael Martinez-Brunner; Ross McConnell; John Mills; Rosie Northover; Christopher Phillips; Mateusz Potrykus; Brandon Rajkumar; Pratishtha Rawat; Emily Roberts; Anwesha Sahu; Amber Sedgley; Lixian Shen; Billy Shrive; Ankur Upadhyaya; Almudena Visser Velez; Ben Warwick; Miriam West; Taf Zivave

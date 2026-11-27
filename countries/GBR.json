@@ -1,6 +1,51 @@
 {
  "cities": [
   {
+   "id": "armagh",
+   "city": "Armagh",
+   "coordinates": [
+    -6.65,
+    54.35
+   ],
+   "institutions": [
+    {
+     "name": "Armagh Observatory and Planetarium (AOP)",
+     "type": "observatory",
+     "research": "Vật lý sao (sao khối lượng lớn, sao biến quang, sao lùn trắng), Mặt Trời và thời tiết không gian, thiên văn hệ Mặt Trời (sao chổi, tiểu hành tinh, thiên thạch), khí hậu Trái Đất (chuỗi đo nhiệt độ từ 1844), hình thành sao.",
+     "url": "https://armaghplanet.com/",
+     "coverage": "leaders",
+     "structure": "Viện nghiên cứu khoa học lâu đời nhất ở Bắc Ireland (thành lập 1790), hợp nhất với Cung thiên văn Armagh; khoảng 25 nhà thiên văn; giám đốc Michael Burton (từ 2016).",
+     "structureUrl": "https://www.ria.ie/ga/node/100435",
+     "scopeNote": "Chỉ giám đốc; không tìm được danh sách nhà nghiên cứu công khai đọc được.",
+     "units": [
+      {
+       "name": "Ban giám đốc",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "AOP",
+       "topics": "Sao, Mặt Trời, hệ Mặt Trời, khí hậu.",
+       "url": "https://armaghplanet.com/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Michael Burton",
+          "role": "Giáo sư; giám đốc AOP",
+          "url": "https://www.ria.ie/ga/node/100435"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ria.ie/ga/node/100435"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "cambridge",
    "city": "Cambridge",
    "coordinates": [
@@ -205,6 +250,493 @@
         "external": [],
         "sources": [
          "https://www.ast.cam.ac.uk/people"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "durham",
+   "city": "Durham",
+   "coordinates": [
+    -1.57,
+    54.77
+   ],
+   "institutions": [
+    {
+     "name": "Durham Astronomy (Department of Physics, Durham University)",
+     "type": "university",
+     "research": "Thiên văn ngoài thiên hà (AGN, thiên hà và cụm, thấu kính hấp dẫn, môi trường giữa các thiên hà), vũ trụ học tính toán (mô phỏng EAGLE, vật chất tối, cấu trúc quy mô lớn), thiết bị thiên văn (quang học thích ứng, HARMONI cho ELT, thiết bị không gian) và thiên văn tia gamma (CTA).",
+     "url": "https://astro.dur.ac.uk/members.html",
+     "coverage": "full",
+     "structure": "Cụm Thiên văn Durham gồm ba trung tâm: Centre for Extragalactic Astronomy (CEA, lập 2015), Institute for Computational Cosmology (ICC) và Centre for Advanced Instrumentation (CfAI); khoảng 28 cán bộ giảng dạy.",
+     "structureUrl": "https://dur.ac.uk/departments/academic/physics/staff-researchgroups/",
+     "scopeNote": "Đủ cán bộ giảng dạy và nhân sự nghiên cứu thuộc CEA, ICC, CfAI theo danh sách nhân viên Khoa Vật lý (11/2026); không gồm kỹ sư, kỹ thuật viên và NCS. Một người có thể thuộc nhiều trung tâm; ghi trung tâm chính trong ngoặc.",
+     "units": [
+      {
+       "name": "Cán bộ giảng dạy (CEA / ICC / CfAI)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Durham Astronomy",
+       "topics": "Thiên hà, AGN, vũ trụ học tính toán, thiết bị thiên văn, tia gamma.",
+       "url": "https://astro.dur.ac.uk/CEA/members.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Carlos Frenk",
+          "role": "Ogden Professor (ICC)",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "David Alexander (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Carlton Baugh (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Sownak Bose (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Anthony Brown (CfAI/CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Paula Chadwick (CfAI/CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Ryan Cooke (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Alis Deason (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Chris Done (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Alastair Edge (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Vincent Eke (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Francesca Fragkoudi (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Dimitri Gadotti (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "John Girkin (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Claire Greenwell (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Robert Harris (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Adam Ingram (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Adrian Jenkins (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Baojiu Li (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Richard Massey (CEA/ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Anna McLeod (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Nigel Metcalfe (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Leah Morabito (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Peder Norberg (CEA/ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Kieran O'Brien (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "James Osborn (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Andrew Pontzen (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Andrew Reeves (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Yuan Ren (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Tim Roberts (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Simone Scaringi (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Russell Smith (CEA)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Mark Swinbank (CEA",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "nhà khoa học dự án HARMONI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Tom Theuns (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Richard Wilson (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Kyle Oman (ICC)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         },
+         {
+          "name": "Ariadna Calcines Rosario (CfAI)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Nhân sự nghiên cứu (CEA / ICC / CfAI)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Durham Astronomy",
+       "topics": "Thiên hà, vũ trụ học, thiết bị.",
+       "url": "https://astro.dur.ac.uk/members.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Sioree Ansar",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Fergus Baker",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Benjamin Beauchesne",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Timothy Butterley",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Evgenii Chaikin",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Isabelle Crossley",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Radhika Dharmadhikari",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Sofia Dimoudi",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Emma Dodd",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Willem Elbers",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Oliver Farley",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Leo Wing Hong Fung",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Theo Gayoux",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Paula Gherghinescu",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Polly Gill",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "James Gill-Fleming",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Christopher Graham",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Anastasia Gvozdenko",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Katherine Harborne",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Kathryn Hartley",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Helawae Friew Kelemu",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Amy Knight",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Rohit Kondapally",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Gavin Leroy",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Zefeng Li",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Sheridan Lloyd",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Perrine Lognone",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Shengdong Lu",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Aurélie Magniez",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Deborah Malone",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Graham Murray",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Omer Rathore",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Bronwyn Reichardt Chu",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Cheng-Zong Ruan",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Cameron Rulten",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Daniela Saadeh",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Difu Shi",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Mahlet Shiferaw",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Daniele Sorini",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Lazar Staykov",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Frits Sweijen",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Matthew Temple",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Roland Timmerman",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Maximilian von Wietersheim-Kramsta",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Kai Wang",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Louise Welsh",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Carola Zanoletti",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         },
+         {
+          "name": "Lai Zhang",
+          "role": "Nghiên cứu viên sau tiến sĩ / nghiên cứu viên",
+          "url": "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE"
         ],
         "note": "",
         "checked": "2026-11-28"
@@ -1046,6 +1578,186 @@
    ]
   },
   {
+   "id": "glasgow",
+   "city": "Glasgow",
+   "coordinates": [
+    -4.29,
+    55.87
+   ],
+   "institutions": [
+    {
+     "name": "Astronomy & Astrophysics Group, University of Glasgow",
+     "type": "university",
+     "research": "Vật lý Mặt Trời (bùng nổ Mặt Trời, gia tốc hạt, quang phổ X và vô tuyến), vật lý plasma vũ trụ, thiên văn sóng hấp dẫn (gắn với Viện Nghiên cứu Hấp dẫn IGR), giáo dục thiên văn.",
+     "url": "https://www.astro.gla.ac.uk/",
+     "coverage": "full",
+     "structure": "Nhóm thuộc Trường Vật lý và Thiên văn, Đại học Glasgow; trưởng nhóm kiêm giám đốc đài quan sát Graham Woan; các nhà thiên văn sóng hấp dẫn thuộc IGR được liệt kê riêng.",
+     "structureUrl": "https://www.astro.gla.ac.uk/people/",
+     "scopeNote": "Đủ cán bộ, nghiên cứu viên, NCS và thành viên danh dự hiện tại theo trang People (11/2026); không gồm thành viên cũ và nhóm sóng hấp dẫn IGR.",
+     "units": [
+      {
+       "name": "Astronomy & Astrophysics Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Glasgow Astro",
+       "topics": "Mặt Trời, plasma vũ trụ, sóng hấp dẫn.",
+       "url": "https://www.astro.gla.ac.uk/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Graham Woan",
+          "role": "Giáo sư; trưởng nhóm; giám đốc đài quan sát",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Declan Diver",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Lyndsay Fletcher",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Norman Gray",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Iain Hannah",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Martin Hendry",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Eduard Kontar",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Nicolas Labrosse",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Craig Stark",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Daniel Clarkson",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "David Graham",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Graham Kerr",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Teodora Mihăilescu",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Sargam Mulay",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Christopher Osborne",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Natália Bajnoková",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Eilidh Bush",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Samantha Cook",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Danai Kasselaki",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Aidan Miles",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Chi Nok Ng",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Françoise Osborne",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Miguel Rojas-Quesada",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Hugh Hudson",
+          "role": "Thành viên danh dự",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Alexander MacKinnon",
+          "role": "Thành viên danh dự",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "David Millar",
+          "role": "Thành viên danh dự",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Bonnie Steves",
+          "role": "Thành viên danh dự",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         },
+         {
+          "name": "Luis Teodoro",
+          "role": "Thành viên danh dự",
+          "url": "https://www.astro.gla.ac.uk/people/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.astro.gla.ac.uk/people/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "manchester",
    "city": "Manchester (Jodrell Bank)",
    "coordinates": [
@@ -1560,6 +2272,786 @@
         "external": [],
         "sources": [
          "https://www.physics.ox.ac.uk/our-people?theme=29"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "portsmouth",
+   "city": "Portsmouth",
+   "coordinates": [
+    -1.09,
+    50.8
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Cosmology and Gravitation (ICG), University of Portsmouth",
+     "type": "university",
+     "research": "Vũ trụ học lý thuyết và quan sát (DESI, Euclid, SDSS), năng lượng tối và hấp dẫn sửa đổi, sóng hấp dẫn (LIGO-Virgo-KAGRA), hình thành – tiến hóa thiên hà, khoa học công dân (Galaxy Zoo); siêu máy tính SCIAMA.",
+     "url": "https://www.port.ac.uk/research/research-groups-and-centres/institute-of-cosmology-and-gravitation",
+     "coverage": "leaders",
+     "structure": "Viện nghiên cứu độc lập thành lập năm 2002 tại Đại học Portsmouth; gần 50 cán bộ, postdoc và NCS; giám đốc David Bacon.",
+     "structureUrl": "https://en.wikipedia.org/wiki/Institute_of_Cosmology_and_Gravitation,_University_of_Portsmouth",
+     "scopeNote": "Chỉ vài cán bộ và NCS hiện qua kết quả tìm kiếm; trang danh sách nhân sự ICG cần bạn duyệt mới mở được.",
+     "units": [
+      {
+       "name": "ICG",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ICG Portsmouth",
+       "topics": "Vũ trụ học, năng lượng tối, sóng hấp dẫn, thiên hà.",
+       "url": "https://www.port.ac.uk/institute-of-cosmology-and-gravitation",
+       "researchers": {
+        "people": [
+         {
+          "name": "David Bacon",
+          "role": "Giáo sư; giám đốc ICG",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Tessa Baker",
+          "role": "Cán bộ",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Marco Bruni",
+          "role": "Cán bộ",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Hooshyar Assadullahi",
+          "role": "Cán bộ",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Daniel Whalen",
+          "role": "Cán bộ",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Rahma Alfarsy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Parth Bhargava",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Kevin Boyne",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Ana Sainz de Murieta",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Neel Shah",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Luke Weisenbach",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Arthur Whyley",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         },
+         {
+          "name": "Emily Wickens",
+          "role": "Nghiên cứu sinh",
+          "url": "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://corporate-governance.docstore.port.ac.uk/research/institute-of-cosmology-and-gravitation/institute-of-cosmology-and-gravitation-staff"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "brighton",
+   "city": "Brighton (Falmer)",
+   "coordinates": [
+    -0.09,
+    50.87
+   ],
+   "institutions": [
+    {
+     "name": "Astronomy Centre, University of Sussex",
+     "type": "university",
+     "research": "Vũ trụ học (CMB, Planck, Euclid, cụm thiên hà – DES, XCS), tái ion hóa và mô phỏng vũ trụ sơ khai, khảo sát thiên hà và hình thành thiên hà (Herschel, JWST), vũ trụ học lý thuyết và sóng hấp dẫn.",
+     "url": "https://sussex.ac.uk/research/centres/astronomy/",
+     "coverage": "full",
+     "structure": "Trung tâm thuộc Khoa Toán và Khoa học Vật lý, Đại học Sussex; trưởng trung tâm Kathy Romer.",
+     "structureUrl": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z",
+     "scopeNote": "Đủ danh sách A–Z của trung tâm (11/2026); danh sách này ít NCS và postdoc, có thể chưa cập nhật đầy đủ.",
+     "units": [
+      {
+       "name": "Astronomy Centre",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sussex Astronomy Centre",
+       "topics": "Vũ trụ học, cụm thiên hà, tái ion hóa, khảo sát thiên hà.",
+       "url": "https://sussex.ac.uk/research/centres/astronomy/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Kathy Romer",
+          "role": "Giáo sư vật lý thiên văn; trưởng Astronomy Centre",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Ilian Iliev",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Antony Lewis",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Jonathan Loveday",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Seb Oliver",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "David Seery",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Robert E. Smith",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Stephen Wilkins",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Mark Hindmarsh (liên kết, Vật lý hạt lý thuyết)",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Christian Byrnes",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Eva-Maria Mueller",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Wendy Brown",
+          "role": "Cán bộ",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Anna Cibinel",
+          "role": "Khách / thỉnh giảng",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "Laura Marian",
+          "role": "Khách / thỉnh giảng",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         },
+         {
+          "name": "John Gribbin",
+          "role": "Khách / thỉnh giảng",
+          "url": "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://sussex.ac.uk/research/centres/astronomy/people/list/a-z"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "coventry",
+   "city": "Coventry (Warwick)",
+   "coordinates": [
+    -1.56,
+    52.38
+   ],
+   "institutions": [
+    {
+     "name": "Astronomy & Astrophysics Group, University of Warwick",
+     "type": "university",
+     "research": "Ngoại hành tinh (NGTS, PLATO, CHEOPS), sao lùn trắng và hệ hành tinh sau dãy chính, sao đôi tương tác và biến quang, hiện tượng thoáng qua và sóng hấp dẫn đa sứ giả (GOTO), quần thể sao và tiến hóa sao đôi (BPASS), đĩa tiền hành tinh.",
+     "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/",
+     "coverage": "full",
+     "structure": "Nhóm thuộc Khoa Vật lý, Đại học Warwick; trưởng nhóm Elizabeth Stanway.",
+     "structureUrl": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/",
+     "scopeNote": "Đủ thành viên theo trang People của nhóm (11/2026), gồm giảng viên, nghiên cứu viên, thành viên danh dự và học viên sau đại học.",
+     "units": [
+      {
+       "name": "Astronomy & Astrophysics Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Warwick Astro",
+       "topics": "Ngoại hành tinh, sao lùn trắng, thoáng qua, sao đôi.",
+       "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Elizabeth Stanway",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "David Armstrong",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Daniel Bayliss",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Heather Cegla",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Deanne Coppejans",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Timothy Cunningham",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Siddharth Gandhi",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Boris Gänsicke",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Joseph Lyman",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Farzana Meru",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ingrid Pelisoli",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Don Pollacco",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Danny Steeghs",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Pier-Emmanuel Tremblay",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Dimitri Veras",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Peter Wheatley",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Jiachen Jiang (giảng viên giảng dạy)",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "David Brown",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Paul Chote",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Lauren Doyle",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "James McCormac",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Krzysztof Ulaczyk",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Richard West",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Thomas Wilson",
+          "role": "Nhân sự nghiên cứu",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Kendall Ackley",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ioannis Apergis",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Oscar Barragán",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Antoine Bédard",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "James Blake",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Andrew Buchan",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ed Bryant",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Conor Byrne",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Noel Castro Segura",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Hritam Chakraborty",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ben Cooke",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Kaiming Cui",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Maria De Juan Ovelar",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Jorge Fernández Fernández",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Samuel Gill",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Andreas Hadjigeorghiou",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Mark Hollands",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Minjae Kim",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "George King",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Thomas Killestein",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Vedad Kunovac",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Marina Lafarga Magro",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Cis Lagae",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Mark Magee",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Mairi O'Brien",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ayaka Okuya",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "David O'Neill",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ares Osborn",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Miika Pursiainen",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Sergio Ramírez Ramírez",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Snehalata Sahu",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Andrew Swan",
+          "role": "Nghiên cứu viên (fellows)",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Jan Eldridge",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Kevin Heng",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Andrew Levan",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Gavin Ramsay",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Keith Inight",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Paula Izquierdo",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "James Jackman",
+          "role": "Giáo sư / thành viên danh dự",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Robert Airey",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Phineas Allen",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Charlie Bailey",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Wenjun Chen",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Rhys Collins",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Gabriela Da Rosa",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ben Davies",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Toni Dougan",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Sophie Edley",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Fintan Eeles-Nolle",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Vanessa Emeka-Okafor",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Yoshi Eschen",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Amena Faruqi",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Cristina Madurga Favieres",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Marcelo Aron Fetzner Keniger",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ginger Frame",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Matt Godfrey",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ben Godson",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Cameron Kelahan",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Isobel Lockley",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Azib Norazman",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Alexander MacManus",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Sumit Kumar Maheshwari",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Rafael Martinez-Brunner",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ross McConnell",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "John Mills",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Rosie Northover",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Christopher Phillips",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Mateusz Potrykus",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Brandon Rajkumar",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Pratishtha Rawat",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Emily Roberts",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Anwesha Sahu",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Amber Sedgley",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Lixian Shen",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Billy Shrive",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ankur Upadhyaya",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Almudena Visser Velez",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Ben Warwick",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Miriam West",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         },
+         {
+          "name": "Taf Zivave",
+          "role": "NCS / thạc sĩ",
+          "url": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://warwick.ac.uk/fac/sci/physics/research/astro/people/"
         ],
         "note": "",
         "checked": "2026-11-28"

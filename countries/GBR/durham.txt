@@ -1,0 +1,26 @@
+@city durham | Durham | -1.57, 54.77
+
+@inst Durham Astronomy (Department of Physics, Durham University)
+city: durham
+type: university
+url: https://astro.dur.ac.uk/members.html
+research: Thiên văn ngoài thiên hà (AGN, thiên hà và cụm, thấu kính hấp dẫn, môi trường giữa các thiên hà), vũ trụ học tính toán (mô phỏng EAGLE, vật chất tối, cấu trúc quy mô lớn), thiết bị thiên văn (quang học thích ứng, HARMONI cho ELT, thiết bị không gian) và thiên văn tia gamma (CTA).
+coverage: full
+structure: Cụm Thiên văn Durham gồm ba trung tâm: Centre for Extragalactic Astronomy (CEA, lập 2015), Institute for Computational Cosmology (ICC) và Centre for Advanced Instrumentation (CfAI); khoảng 28 cán bộ giảng dạy.
+structureUrl: https://dur.ac.uk/departments/academic/physics/staff-researchgroups/
+scope: Đủ cán bộ giảng dạy và nhân sự nghiên cứu thuộc CEA, ICC, CfAI theo danh sách nhân viên Khoa Vật lý (11/2026); không gồm kỹ sư, kỹ thuật viên và NCS. Một người có thể thuộc nhiều trung tâm; ghi trung tâm chính trong ngoặc.
+
+#unit Cán bộ giảng dạy (CEA / ICC / CfAI)
+parent: Durham Astronomy
+topics: Thiên hà, AGN, vũ trụ học tính toán, thiết bị thiên văn, tia gamma.
+url: https://astro.dur.ac.uk/CEA/members.html
+src: https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC
+p: Carlos Frenk | Ogden Professor (ICC) | https://www.physics.dur.ac.uk/stafflist/phone.php?sort=AC
+pp: Giáo sư / phó giáo sư | David Alexander (CEA); Carlton Baugh (ICC); Sownak Bose (ICC); Anthony Brown (CfAI/CEA); Paula Chadwick (CfAI/CEA); Ryan Cooke (CEA); Alis Deason (ICC); Chris Done (CEA); Alastair Edge (CEA); Vincent Eke (ICC); Francesca Fragkoudi (ICC); Dimitri Gadotti (CEA); John Girkin (CfAI); Claire Greenwell (CEA); Robert Harris (CfAI); Adam Ingram (CEA); Adrian Jenkins (ICC); Baojiu Li (ICC); Richard Massey (CEA/ICC); Anna McLeod (CEA); Nigel Metcalfe (CEA); Leah Morabito (CEA); Peder Norberg (CEA/ICC); Kieran O'Brien (CfAI); James Osborn (CfAI); Andrew Pontzen (ICC); Andrew Reeves (CfAI); Yuan Ren (CfAI); Tim Roberts (CEA); Simone Scaringi (CEA); Russell Smith (CEA); Mark Swinbank (CEA; nhà khoa học dự án HARMONI); Tom Theuns (ICC); Richard Wilson (CfAI); Kyle Oman (ICC); Ariadna Calcines Rosario (CfAI)
+
+#unit Nhân sự nghiên cứu (CEA / ICC / CfAI)
+parent: Durham Astronomy
+topics: Thiên hà, vũ trụ học, thiết bị.
+url: https://astro.dur.ac.uk/members.html
+src: https://www.physics.dur.ac.uk/stafflist/phone.php?sort=RE
+pp: Nghiên cứu viên sau tiến sĩ / nghiên cứu viên | Sioree Ansar; Fergus Baker; Benjamin Beauchesne; Timothy Butterley; Evgenii Chaikin; Isabelle Crossley; Radhika Dharmadhikari; Sofia Dimoudi; Emma Dodd; Willem Elbers; Oliver Farley; Leo Wing Hong Fung; Theo Gayoux; Paula Gherghinescu; Polly Gill; James Gill-Fleming; Christopher Graham; Anastasia Gvozdenko; Katherine Harborne; Kathryn Hartley; Helawae Friew Kelemu; Amy Knight; Rohit Kondapally; Gavin Leroy; Zefeng Li; Sheridan Lloyd; Perrine Lognone; Shengdong Lu; Aurélie Magniez; Deborah Malone; Graham Murray; Omer Rathore; Bronwyn Reichardt Chu; Cheng-Zong Ruan; Cameron Rulten; Daniela Saadeh; Difu Shi; Mahlet Shiferaw; Daniele Sorini; Lazar Staykov; Frits Sweijen; Matthew Temple; Roland Timmerman; Maximilian von Wietersheim-Kramsta; Kai Wang; Louise Welsh; Carola Zanoletti; Lai Zhang

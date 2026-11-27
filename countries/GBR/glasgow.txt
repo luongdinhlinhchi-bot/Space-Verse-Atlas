@@ -1,0 +1,22 @@
+@city glasgow | Glasgow | -4.29, 55.87
+
+@inst Astronomy & Astrophysics Group, University of Glasgow
+city: glasgow
+type: university
+url: https://www.astro.gla.ac.uk/
+research: Vật lý Mặt Trời (bùng nổ Mặt Trời, gia tốc hạt, quang phổ X và vô tuyến), vật lý plasma vũ trụ, thiên văn sóng hấp dẫn (gắn với Viện Nghiên cứu Hấp dẫn IGR), giáo dục thiên văn.
+coverage: full
+structure: Nhóm thuộc Trường Vật lý và Thiên văn, Đại học Glasgow; trưởng nhóm kiêm giám đốc đài quan sát Graham Woan; các nhà thiên văn sóng hấp dẫn thuộc IGR được liệt kê riêng.
+structureUrl: https://www.astro.gla.ac.uk/people/
+scope: Đủ cán bộ, nghiên cứu viên, NCS và thành viên danh dự hiện tại theo trang People (11/2026); không gồm thành viên cũ và nhóm sóng hấp dẫn IGR.
+
+#unit Astronomy & Astrophysics Group
+parent: Glasgow Astro
+topics: Mặt Trời, plasma vũ trụ, sóng hấp dẫn.
+url: https://www.astro.gla.ac.uk/
+src: https://www.astro.gla.ac.uk/people/
+p: Graham Woan | Giáo sư; trưởng nhóm; giám đốc đài quan sát | https://www.astro.gla.ac.uk/people/
+pp: Cán bộ giảng dạy | Declan Diver; Lyndsay Fletcher; Norman Gray; Iain Hannah; Martin Hendry; Eduard Kontar; Nicolas Labrosse; Craig Stark
+pp: Nghiên cứu viên | Daniel Clarkson; David Graham; Graham Kerr; Teodora Mihăilescu; Sargam Mulay; Christopher Osborne
+pp: NCS | Natália Bajnoková; Eilidh Bush; Samantha Cook; Danai Kasselaki; Aidan Miles; Chi Nok Ng; Françoise Osborne; Miguel Rojas-Quesada
+pp: Thành viên danh dự | Hugh Hudson; Alexander MacKinnon; David Millar; Bonnie Steves; Luis Teodoro

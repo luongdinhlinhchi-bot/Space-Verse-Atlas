@@ -1,0 +1,18 @@
+@city armagh | Armagh | -6.65, 54.35
+
+@inst Armagh Observatory and Planetarium (AOP)
+city: armagh
+type: observatory
+url: https://armaghplanet.com/
+research: Vật lý sao (sao khối lượng lớn, sao biến quang, sao lùn trắng), Mặt Trời và thời tiết không gian, thiên văn hệ Mặt Trời (sao chổi, tiểu hành tinh, thiên thạch), khí hậu Trái Đất (chuỗi đo nhiệt độ từ 1844), hình thành sao.
+coverage: leaders
+structure: Viện nghiên cứu khoa học lâu đời nhất ở Bắc Ireland (thành lập 1790), hợp nhất với Cung thiên văn Armagh; khoảng 25 nhà thiên văn; giám đốc Michael Burton (từ 2016).
+structureUrl: https://www.ria.ie/ga/node/100435
+scope: Chỉ giám đốc; không tìm được danh sách nhà nghiên cứu công khai đọc được.
+
+#unit Ban giám đốc
+parent: AOP
+topics: Sao, Mặt Trời, hệ Mặt Trời, khí hậu.
+url: https://armaghplanet.com/
+src: https://www.ria.ie/ga/node/100435
+p: Michael Burton | Giáo sư; giám đốc AOP | https://www.ria.ie/ga/node/100435

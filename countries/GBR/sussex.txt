@@ -1,0 +1,20 @@
+@city brighton | Brighton (Falmer) | -0.09, 50.87
+
+@inst Astronomy Centre, University of Sussex
+city: brighton
+type: university
+url: https://sussex.ac.uk/research/centres/astronomy/
+research: Vũ trụ học (CMB, Planck, Euclid, cụm thiên hà – DES, XCS), tái ion hóa và mô phỏng vũ trụ sơ khai, khảo sát thiên hà và hình thành thiên hà (Herschel, JWST), vũ trụ học lý thuyết và sóng hấp dẫn.
+coverage: full
+structure: Trung tâm thuộc Khoa Toán và Khoa học Vật lý, Đại học Sussex; trưởng trung tâm Kathy Romer.
+structureUrl: https://sussex.ac.uk/research/centres/astronomy/people/list/a-z
+scope: Đủ danh sách A–Z của trung tâm (11/2026); danh sách này ít NCS và postdoc, có thể chưa cập nhật đầy đủ.
+
+#unit Astronomy Centre
+parent: Sussex Astronomy Centre
+topics: Vũ trụ học, cụm thiên hà, tái ion hóa, khảo sát thiên hà.
+url: https://sussex.ac.uk/research/centres/astronomy/
+src: https://sussex.ac.uk/research/centres/astronomy/people/list/a-z
+p: Kathy Romer | Giáo sư vật lý thiên văn; trưởng Astronomy Centre | https://sussex.ac.uk/research/centres/astronomy/people/list/a-z
+pp: Cán bộ | Ilian Iliev; Antony Lewis; Jonathan Loveday; Seb Oliver; David Seery; Robert E. Smith; Stephen Wilkins; Mark Hindmarsh (liên kết, Vật lý hạt lý thuyết); Christian Byrnes; Eva-Maria Mueller; Wendy Brown
+pp: Khách / thỉnh giảng | Anna Cibinel; Laura Marian; John Gribbin
