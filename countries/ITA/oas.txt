@@ -1,0 +1,25 @@
+@city bologna | Bologna | 11.34, 44.49
+
+@inst INAF – Osservatorio di Astrofisica e Scienza dello Spazio di Bologna (OAS)
+city: bologna
+type: observatory
+url: https://www.oas.inaf.it/en/
+research: Chuẩn tinh, AGN và lỗ đen, thiên hà và vũ trụ học (Euclid, VLT, JWST), quần thể sao và cụm sao cầu (Gaia), thiên văn năng lượng cao và tia gamma, bức xạ phông vi sóng (Planck, LiteBIRD), thiết bị không gian (Athena X-IFU) và quang học thích ứng (MORFEO); trạm quan sát Loiano.
+coverage: full
+structure: Viện INAF thành lập 01/2018, gồm khoảng 100 người ở hai cơ sở tại Bologna và trạm Loiano; giám đốc Lorenzo Amati; các nhà khoa học của Khoa Vật lý và Thiên văn, Đại học Bologna là thành viên liên kết.
+structureUrl: https://www.oas.inaf.it/en/organisation/
+scope: Đủ nhân sự nghiên cứu theo danh bạ OAS (11/2026): nhà nghiên cứu, kỹ sư công nghệ (tecnologi), nghiên cứu viên hợp đồng, NCS và thành viên liên kết INAF; không gồm nhân viên hành chính và kỹ thuật viên.
+
+#unit Nhân sự nghiên cứu OAS
+parent: OAS
+topics: Thiên văn ngoài thiên hà và vũ trụ học; sao và quần thể sao; năng lượng cao; công nghệ và thiết bị.
+url: https://www.oas.inaf.it/en/
+src: https://www.oas.inaf.it/?p=819
+p: Lorenzo Amati | Giám đốc | https://www.oas.inaf.it/?p=240
+pp: Dirigente di ricerca | Michele Bellazzini; Angela Bragaglia; Andrea Bulgarelli; Massimo Cappi; Andrea Comastri; Emiliano Diolaiti; Stefano Ettori; Roberto Gilli; Paola Grandi; Carlotta Gruppioni; Giuseppe Malaguti; Nicola Masetti; Massimo Meneghetti; Gianluca Morgante; Livia Origlia; Elena Pian; Maurizio Salaris; Luca Valenziano
+pp: Primo ricercatore | Francesca Annibali; Micol Bolzonella; Francesco Calura; Olga Cucciati; Francesco Cuttaia; Mauro Dadina; Emanuele Dalessandro; Roberto Decarli; Fabio Finelli; Valentina Fioretti; Alessandro Gruppuso; Giorgio Lanzuisi; Angela Malizia; Davide Massari; Eduardo Medinaceli; Marco Mignoli; Luciano Nicastro; Mauro Orlandini; Lucia Pozzetti; Sara Ricciardi; Donatella Romano; Mauro Sereno; Vito Sguera; Luca Terenzi; Eros Vanzella; Daniela Vergani; Enrico Virgilli
+pp: Ricercatore | Sandro Bardelli; Paola Battaglia; Meriem Behiri; Pietro Bergamini; Ettore Bronzini; Albino Carbognani; Eugenio Carretta; Fabrizio Cogato; Mirko Curti; Felice Cusano; Paolo Da Vela; Ivan Delvecchio; Cristiano Fanelli; Ruben Farinelli; Alessia Garofalo; Vittorio Ghirardini; Carlo Giocoli; Mahsa Kohandel; Raffaella Landi; Silvia Leanza; Elisabetta Maiorano; Paolo Montegriffo; Tatiana Muraveva; Daniela Paoletti; Raffaele Pascale; Letizia Scaloni; Giulia Stratta; Eleonora Torresi; Alessia Tortosa; Livia Vallini; Fabio Vito; Anita Zanella; Elena Zucca
+pp: Tecnologo (dirigente / primo / tecnologo) | Paolo Ciliegi; Andrea Di Rocco; Fulvio Gianotti; Marco Malaspina; Fabrizio Villa; Natalia Auricchio; Riccardo Campana; Vito Conforti; Fausto Cortecchia; Italo Foppiani; Enrico Franceschi; Michele Gatti; Matteo Lombini; Francesco Poppi; Maura Sandri; Laura Schreiber; Ambra Di Piano; Silvia Galleti; Giannandrea Inchingolo; Marija Kuljanac; Marco Lolli; Monica Marra; Nicolò Parmiggiani; Valerio Pastore; Gabriele Rodeghiero; Luca Rosignoli; Andrea Rossi; Federico Russo; Ludovico Teodori
+pp: Nghiên cứu viên hợp đồng / PD | Ismam Abu; Adam Andrews; Emre Bahar; Riccardo Bianconcini; Luca Castaldini; Gianluca Castignani; Giacomo Cherchi; Greta Ettorre; Riccardo Falco; Antonio Femia; Federica Loiacono; Ivan Ezequiel López; Zhiying Mao; Ezequiel J. Marchesini; Giulia Mattioli; Matteo Messa; Valentina Missaglia; Lorenzo Monti; Cristina Nanci; Gabriele Panebianco; Giulia Papini; Simone Paradiso; Giorgia Peluso; David Pérez Millán; Smiriti Srivastava
+pp: NCS | Tommaso Bartalesi; Edoardo Borciani; Giulia Brunelli; Virginia Lucia Cavicchi; Michele Costa; Mónica Isla Llave; Mattia Maniscalco; Luca Morelli; Sophie Penger; Alessio Taranto; Chiara Zerbinati; Yipeng Zou
+pp: Thành viên liên kết (astronomo associato / associato INAF) | Alberto Cappi; Loredana Bassani; Chris Butler; Anna Elisa Camisasca; Ezio Caroli; Gisella Clementini; Roberto Di Luca; Filippo Frontera; Flavio Fusi Pecci; Matteo Galaverni; Claudio Labanti; Nazzareno Mandolesi; Eliana Palazzi; Graziella Pizzichini; Antonio Ragagnin; John Stephen; Giovanna Maria Stirpe; Monica Tosi; Massimo Trifoglio; Gabriele Umbriaco; Giovanni Zamorani

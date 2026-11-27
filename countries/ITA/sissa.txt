@@ -1,0 +1,17 @@
+@inst SISSA – Scuola Internazionale Superiore di Studi Avanzati
+city: trieste
+type: university
+url: https://www.sissa.it/
+research: Vũ trụ học và vũ trụ sơ khai, bức xạ phông vi sóng (LiteBIRD, Simons Observatory) và cấu trúc quy mô lớn, hình thành – tiến hóa thiên hà, thiên văn năng lượng cao, vật lý sao, sóng hấp dẫn, vật lý hạt thiên văn và lực hấp dẫn.
+coverage: partial
+structure: Khu vực Vật lý của SISSA gồm nhóm Vật lý thiên văn và Vũ trụ học (Astrophysics and Cosmology, ~8 biên chế, nhiều PD và ~25 NCS) và nhóm Vật lý hạt thiên văn (Astroparticle Physics); cùng ICTP và INAF-OATs lập viện IFPU.
+structureUrl: https://www.sissa.it/ap
+scope: Chỉ nhóm Astrophysics and Cosmology theo danh bạ đơn vị của SISSA (11/2026: 65 người hiển thị, không ghi chức danh); chưa gồm nhóm Astroparticle Physics (trưởng nhóm Matteo Viel).
+
+#unit Astrophysics and Cosmology Group
+parent: SISSA
+topics: Vũ trụ học, CMB và cấu trúc quy mô lớn, thiên hà, năng lượng cao, sao, sóng hấp dẫn.
+url: https://www.sissa.it/ap
+src: https://idman.web-services.sissa.it/organizationalUnitDetails/57
+p: Nicoletta Krachmalnicoff | Điều phối viên nhóm | https://idman.web-services.sissa.it/organizationalUnitDetails/57
+pp: Thành viên (biên chế, PD, NCS – không phân loại) | Alessandro Verganti; Aliza Mustafa; Athul Kuruvai Parambil Soman; Alessandro Bressan; Alessandro Carones; Alessandro Renzi; Annalisa Celotti; Antonio Lanza; Cristina Letizia Maddanu; Carlo Baccigalupi; Carlos Alonso Álvarez; Carmelita Carbone; Chi Thanh Nguyen; Claudio Ranucci; Cristiano Ugolini; Daniele Defrancesco; Davide Luchina; Elisabeth-Adelheid Keppler; Enrico Veraldi; Emma Dreas; Florie Carralot; Francesca Perrotta; Francesco Gabrielli; Francesco Longo; Giuliana Maria Claudia Travaglino; Gauri Sharma; Gayathri Gururajan; Giovanni Antinozzi; Giulio Fabbian; Irene Iorio; Ilia Musco; John Matthew Houghteling; John Miller; Karnchana Aroonrueang; Kavish Sardana; Kendall Gale Shepherd; Laura Silva; Luigi Danese; Margherita Imbriani; Marta Corioni; Marcella Massardi; Marco Raveri; Margherita De Toma; Maria Vittoria Zanchettin; Mario Spera; Martina Torsello; Matteo Costanzi; Mayurakshi Mukherjee; Michele Bosi; Milena Valentini; Olga Pietrosanti; Ritabik Banerjee; Rahul Srinivasan; Riccardo Valdarnini; Roberto Caiozzo; Samuele Marco Silveravalle; Serena Giardiello; Sijil Jose; Stefano Cristiani; Thomas George P; Tiziano Schiavone; Tommaso Ronconi; Xiaoting Fu; Yacer Boumechta; Yang Chen

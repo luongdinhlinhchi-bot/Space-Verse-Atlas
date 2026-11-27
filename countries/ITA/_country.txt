@@ -1,0 +1,5 @@
+@country ITA
+checked: 2026-11-28
+pin: 5
+coordinateNote: Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.
+listSource: https://www.inaf.it/it/sedi

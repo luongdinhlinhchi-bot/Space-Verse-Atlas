@@ -1,0 +1,20 @@
+@city firenze | Firenze | 11.25, 43.77
+
+@inst INAF – Osservatorio Astrofisico di Arcetri (OAA)
+city: firenze
+type: observatory
+url: https://www.arcetri.inaf.it/
+research: Thiên hà và vũ trụ học, sự hình thành sao và ngoại hành tinh (Gaia-ESO, WEAVE), Mặt Trời và hệ Mặt Trời, vật lý thiên văn tương đối tính và hạt thiên văn; quang học thích ứng (LBT, ELT MORFEO), quang phổ hồng ngoại, thiết bị vô tuyến.
+coverage: full
+structure: Một trong các viện của INAF; 5 mảng nghiên cứu: Thiên hà và vũ trụ học; Sao, sự hình thành sao và ngoại hành tinh; Mặt Trời và hệ Mặt Trời; Vật lý thiên văn tương đối tính và hạt thiên văn; Công nghệ tiên tiến và thiết bị.
+structureUrl: https://www.arcetri.inaf.it/en/contatti-staff
+scope: Đủ "Personale di ricerca", nghiên cứu viên hợp đồng và nghiên cứu sinh theo danh bạ nội bộ của đài (23/02/2026); không gồm nhân viên kỹ thuật – hành chính. Danh bạ không ghi chức danh từng người.
+
+#unit Personale di ricerca
+parent: OAA
+topics: Toàn bộ 5 mảng nghiên cứu của đài.
+url: https://www.arcetri.inaf.it/en/contatti-staff
+src: https://www.arcetri.inaf.it/elenco-telefonico.pdf
+pp: Nhà nghiên cứu / kỹ thuật viên nghiên cứu | Guido Agapito; Andrew Alberini; Elena Amato; Nicolò Azzaroli; Francesca Bacciotti; Alessandro Barucci; Mariano Battistuzzi; Francesco Michel Concetto Belfiore; Carolina Belli; Maria Teresa Beltrán Sorolla; Simone Bianchi; Pietro Bolli; Marco Bonaglia; Runa Antonio Briguglio Pellegrino; Anna Brucalassi; John Robert Brucato; Niccolò Bucciantini; Lorenzo Busoni; Giulia Carlà; Riccardo Cesaroni; Simone Chiarucci; Claudio Codella; Edvige Corbelli; Giovanni Cresci; Aldo Dell'Oro; Paola Di Ninni; Serena Donati; Simone Esposito; Davide Fedele; Anna Feltre; Mauro Focardi; Francesco Fontani; Teresa Fornaro; Elena Franciosini; Anna Rita Gallazzi; Daniele Galli; Antonella Gasperini; Elisabetta Giani; Tommaso Lapucci; Mimma Lauria; Andrea Lorenzani; Laura Magrini; Filippo Mannucci; Gianluca Marotta; Elena Masciadri; Fabrizio Massi; Andrea Meneghin; Luca Moscadelli; Emanuele Nardini; Renzo Nesti; Barbara Olmi; Luca Olmi; Marco Padovani; Elena Pancino; Enrico Pinna; Lorenzo Pino; Cédric Antoine Adrien Gabriel Plantet; Linda Podio; Giovanni Poggiali; Maria Sofia Randich; Armando Riccardi; Fabio Rossi; Giovanni Sabatini; Giuseppe Germano Sacco; Nicoletta Sanna; Andrea Tozzi; Paolo Tozzi; Francesco Tribioli; Maria Tsantaki; Alessio Turchi; Marina Vela Nunez; Marco Xompero; Alessandra Zanazzi; Stefano Zibetti
+pp: Nghiên cứu viên hợp đồng (borsisti/assegnisti) | Fabio Giovanardi; Rossella Spiga
+pp: NCS | Martina Scialpi

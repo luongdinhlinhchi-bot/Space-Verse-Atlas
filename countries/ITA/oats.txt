@@ -1,0 +1,20 @@
+@city trieste | Trieste | 13.77, 45.65
+
+@inst INAF – Osservatorio Astronomico di Trieste (OATs)
+city: trieste
+type: observatory
+url: https://www.oats.inaf.it/
+research: Vũ trụ học và cấu trúc quy mô lớn (Euclid), mô phỏng hình thành thiên hà và cụm thiên hà, môi trường giữa các thiên hà và chuẩn tinh (máy quang phổ ESPRESSO, ANDES), tiến hóa hóa học thiên hà, sao cổ; điện toán thiên văn và kho dữ liệu (IA2), Mặt Trời và hệ Mặt Trời.
+coverage: full
+structure: Viện INAF; hợp tác chặt với Đại học Trieste (UniTs), SISSA và ICTP qua viện IFPU.
+structureUrl: https://www.oats.inaf.it/index.php/en/people
+scope: Đủ nhân sự nghiên cứu theo trang People của OATs (11/2026), gồm cả nhân sự UniTs và viện khác làm việc tại đài (ghi trong ngoặc); không gồm nhân viên kỹ thuật, hành chính, thư viện.
+
+#unit Nhân sự nghiên cứu OATs
+parent: OATs
+topics: Vũ trụ học, thiên hà, chuẩn tinh, sao, Mặt Trời, điện toán thiên văn.
+url: https://www.oats.inaf.it/
+src: https://www.oats.inaf.it/index.php/en/people
+pp: Nhà nghiên cứu | Michel Aguena da Silva; Valentina Alberti; Franklin Aldás Garcés; Veronica Baldini; Paramita Barai; Tiago Batalha de Castro; Lorenzo Biasotti; Sara Bertocco; Veronica Biffi; Andrea Bignamini; Manuela Bischetti; Andrea Biviano; Stefano Borgani (UniTs); Robert Butora; Giorgio Calderone; Daniela Carollo; Isabella Carucci; Gabriele Cescutti (UniTs); Roberto Cirami; Marco Citossi; Matteo Costanzi (UniTs); Stefano Cristiani; Guido Cupani; Valentina D'Odorico; Gabriella De Lucia; Paolo Di Marcantonio; Chiara Feruglio; Fabrizio Fiore; Laura Flora; Fabio Fontanot; Marco Frailis; Mariagrazia Franchini; Marco Fulle; Samuele Galeotta; Nicola Gentile Fusillo (UniTs); Marisa Girardi (UniTs); Enrico Giro (INAF-OAPD); David Goz; Gian Luigi Granato; Anna Gregorio (UniTs); Michaela Hirschmann; Giulia Iafrate; Stavro Ivanovski; Giovanna Jerse; Cristina Knapic; Giovanni Lacopo; Gianmarco Maggio; Umberto Maio; Sukanya Mallik; Oriana Mansutti; Alessandro Marassi; Michele Maris; Elena Mason; Francesca Matteucci (UniTs); Mauro Messerotti; Dinko Milaković; Paolo Molaro; Marco Molinaro; Pierluigi Monaco (UniTs); Sergio Monai; Emiliano Munari; Giuseppe Murante; Chi Thanh Nguyen; Maurilio Pannella; Fabio Pasian; Elena Rasia; Erik Romelli; Alex Saro (UniTs); Elena Sarpa; Emiliano Sefusatti; Pierluigi Selvelli; Laura Silva; Paolo Simonetti; Riccardo Smareglia; Emanuele Spitoni; Veronica Strazzullo (OA Brera); Giuliano Taffoni; Daniele Tavagnacco; Luca Tornatore; Andrea Travascio; Milena Valentini (UniTs); Giovanni Vladilo; Claudio Vuerli; Andrea Zacchei; Alessio Zanutta (INAF Brera)
+pp: Nghiên cứu viên hợp đồng (assegnisti / grant holders) | Lucie Baumont (UniTs); Erica Bisesi; Lorenzo Calderone; Benjamin Camacho (IFPU); Chaitra; Marco Chiarenza (UniTs); Giacomo Coran; Yousry Elkhashab (UniTs); Carina Fian; Luca Fontana (UniTs); Alessandra Fumagalli; Zohreh Ghaffari; Maxime Gitton (UniTs); Roberta Giusteri; Valeria Grisoni; Scott Hagen (IFPU); Mohammad Kamran; Linda Lombardo; Chiara Moretti; Omima Osman; Kalyani Pedamkar; Matteo Porru; Federico Rizzo; Stefano Alberto Russo; Jacopo Salvalaggio; Francesco Salvestrini; Lapo Sgatti (UniTs); Tomáš Šoltinský; Thomas Vassallo (LMU München); Daria Zakharova
+pp: NCS (UniTs) | Giulia Baroni; Matilde Brazzini; Sebastiano Cantarella; Luca Cappelli; Alice Damiano; Simona Di Stefano; Tommaso Fagotto; Roberto Ingrao; Lionel Randall Kharkrang; Marius Lepinzan; Marco Salvador; Sara Trevisan; Andrea Trost

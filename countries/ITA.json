@@ -1,0 +1,2345 @@
+{
+ "cities": [
+  {
+   "id": "firenze",
+   "city": "Firenze",
+   "coordinates": [
+    11.25,
+    43.77
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astrofisico di Arcetri (OAA)",
+     "type": "observatory",
+     "research": "Thiên hà và vũ trụ học, sự hình thành sao và ngoại hành tinh (Gaia-ESO, WEAVE), Mặt Trời và hệ Mặt Trời, vật lý thiên văn tương đối tính và hạt thiên văn; quang học thích ứng (LBT, ELT MORFEO), quang phổ hồng ngoại, thiết bị vô tuyến.",
+     "url": "https://www.arcetri.inaf.it/",
+     "coverage": "full",
+     "structure": "Một trong các viện của INAF; 5 mảng nghiên cứu: Thiên hà và vũ trụ học; Sao, sự hình thành sao và ngoại hành tinh; Mặt Trời và hệ Mặt Trời; Vật lý thiên văn tương đối tính và hạt thiên văn; Công nghệ tiên tiến và thiết bị.",
+     "structureUrl": "https://www.arcetri.inaf.it/en/contatti-staff",
+     "scopeNote": "Đủ \"Personale di ricerca\", nghiên cứu viên hợp đồng và nghiên cứu sinh theo danh bạ nội bộ của đài (23/02/2026); không gồm nhân viên kỹ thuật – hành chính. Danh bạ không ghi chức danh từng người.",
+     "units": [
+      {
+       "name": "Personale di ricerca",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OAA",
+       "topics": "Toàn bộ 5 mảng nghiên cứu của đài.",
+       "url": "https://www.arcetri.inaf.it/en/contatti-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Guido Agapito",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Andrew Alberini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Elena Amato",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Nicolò Azzaroli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Francesca Bacciotti",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Alessandro Barucci",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Mariano Battistuzzi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Francesco Michel Concetto Belfiore",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Carolina Belli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Maria Teresa Beltrán Sorolla",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Simone Bianchi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Pietro Bolli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Marco Bonaglia",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Runa Antonio Briguglio Pellegrino",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Anna Brucalassi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "John Robert Brucato",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Niccolò Bucciantini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Lorenzo Busoni",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Giulia Carlà",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Riccardo Cesaroni",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Simone Chiarucci",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Claudio Codella",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Edvige Corbelli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Giovanni Cresci",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Aldo Dell'Oro",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Paola Di Ninni",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Serena Donati",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Simone Esposito",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Davide Fedele",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Anna Feltre",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Mauro Focardi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Francesco Fontani",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Teresa Fornaro",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Elena Franciosini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Anna Rita Gallazzi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Daniele Galli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Antonella Gasperini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Elisabetta Giani",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Tommaso Lapucci",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Mimma Lauria",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Andrea Lorenzani",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Laura Magrini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Filippo Mannucci",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Gianluca Marotta",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Elena Masciadri",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Fabrizio Massi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Andrea Meneghin",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Luca Moscadelli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Emanuele Nardini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Renzo Nesti",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Barbara Olmi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Luca Olmi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Marco Padovani",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Elena Pancino",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Enrico Pinna",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Lorenzo Pino",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Cédric Antoine Adrien Gabriel Plantet",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Linda Podio",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Giovanni Poggiali",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Maria Sofia Randich",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Armando Riccardi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Fabio Rossi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Giovanni Sabatini",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Giuseppe Germano Sacco",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Nicoletta Sanna",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Andrea Tozzi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Paolo Tozzi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Francesco Tribioli",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Maria Tsantaki",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Alessio Turchi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Marina Vela Nunez",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Marco Xompero",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Alessandra Zanazzi",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Stefano Zibetti",
+          "role": "Nhà nghiên cứu / kỹ thuật viên nghiên cứu",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Fabio Giovanardi",
+          "role": "Nghiên cứu viên hợp đồng (borsisti/assegnisti)",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Rossella Spiga",
+          "role": "Nghiên cứu viên hợp đồng (borsisti/assegnisti)",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         },
+         {
+          "name": "Martina Scialpi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.arcetri.inaf.it/elenco-telefonico.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "bologna",
+   "city": "Bologna",
+   "coordinates": [
+    11.34,
+    44.49
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio di Astrofisica e Scienza dello Spazio di Bologna (OAS)",
+     "type": "observatory",
+     "research": "Chuẩn tinh, AGN và lỗ đen, thiên hà và vũ trụ học (Euclid, VLT, JWST), quần thể sao và cụm sao cầu (Gaia), thiên văn năng lượng cao và tia gamma, bức xạ phông vi sóng (Planck, LiteBIRD), thiết bị không gian (Athena X-IFU) và quang học thích ứng (MORFEO); trạm quan sát Loiano.",
+     "url": "https://www.oas.inaf.it/en/",
+     "coverage": "full",
+     "structure": "Viện INAF thành lập 01/2018, gồm khoảng 100 người ở hai cơ sở tại Bologna và trạm Loiano; giám đốc Lorenzo Amati; các nhà khoa học của Khoa Vật lý và Thiên văn, Đại học Bologna là thành viên liên kết.",
+     "structureUrl": "https://www.oas.inaf.it/en/organisation/",
+     "scopeNote": "Đủ nhân sự nghiên cứu theo danh bạ OAS (11/2026): nhà nghiên cứu, kỹ sư công nghệ (tecnologi), nghiên cứu viên hợp đồng, NCS và thành viên liên kết INAF; không gồm nhân viên hành chính và kỹ thuật viên.",
+     "units": [
+      {
+       "name": "Nhân sự nghiên cứu OAS",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OAS",
+       "topics": "Thiên văn ngoài thiên hà và vũ trụ học; sao và quần thể sao; năng lượng cao; công nghệ và thiết bị.",
+       "url": "https://www.oas.inaf.it/en/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Lorenzo Amati",
+          "role": "Giám đốc",
+          "url": "https://www.oas.inaf.it/?p=240"
+         },
+         {
+          "name": "Michele Bellazzini",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Angela Bragaglia",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Andrea Bulgarelli",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Massimo Cappi",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Andrea Comastri",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Emiliano Diolaiti",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Stefano Ettori",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Roberto Gilli",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Paola Grandi",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Carlotta Gruppioni",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giuseppe Malaguti",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Nicola Masetti",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Massimo Meneghetti",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Gianluca Morgante",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Livia Origlia",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Elena Pian",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Maurizio Salaris",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Luca Valenziano",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Francesca Annibali",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Micol Bolzonella",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Francesco Calura",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Olga Cucciati",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Francesco Cuttaia",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mauro Dadina",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Emanuele Dalessandro",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Roberto Decarli",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Fabio Finelli",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Valentina Fioretti",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Alessandro Gruppuso",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giorgio Lanzuisi",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Angela Malizia",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Davide Massari",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Eduardo Medinaceli",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Marco Mignoli",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Luciano Nicastro",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mauro Orlandini",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Lucia Pozzetti",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Sara Ricciardi",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Donatella Romano",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mauro Sereno",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Vito Sguera",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Luca Terenzi",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Eros Vanzella",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Daniela Vergani",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Enrico Virgilli",
+          "role": "Primo ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Sandro Bardelli",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Paola Battaglia",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Meriem Behiri",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Pietro Bergamini",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ettore Bronzini",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Albino Carbognani",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Eugenio Carretta",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Fabrizio Cogato",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mirko Curti",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Felice Cusano",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Paolo Da Vela",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ivan Delvecchio",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Cristiano Fanelli",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ruben Farinelli",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Alessia Garofalo",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Vittorio Ghirardini",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Carlo Giocoli",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mahsa Kohandel",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Raffaella Landi",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Silvia Leanza",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Elisabetta Maiorano",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Paolo Montegriffo",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Tatiana Muraveva",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Daniela Paoletti",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Raffaele Pascale",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Letizia Scaloni",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giulia Stratta",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Eleonora Torresi",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Alessia Tortosa",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Livia Vallini",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Fabio Vito",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Anita Zanella",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Elena Zucca",
+          "role": "Ricercatore",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Paolo Ciliegi",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Andrea Di Rocco",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Fulvio Gianotti",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Marco Malaspina",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Fabrizio Villa",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Natalia Auricchio",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Riccardo Campana",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Vito Conforti",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Fausto Cortecchia",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Italo Foppiani",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Enrico Franceschi",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Michele Gatti",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Matteo Lombini",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Francesco Poppi",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Maura Sandri",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Laura Schreiber",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ambra Di Piano",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Silvia Galleti",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giannandrea Inchingolo",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Marija Kuljanac",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Marco Lolli",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Monica Marra",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Nicolò Parmiggiani",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Valerio Pastore",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Gabriele Rodeghiero",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Luca Rosignoli",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Andrea Rossi",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Federico Russo",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ludovico Teodori",
+          "role": "Tecnologo (dirigente / primo / tecnologo)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ismam Abu",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Adam Andrews",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Emre Bahar",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Riccardo Bianconcini",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Luca Castaldini",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Gianluca Castignani",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giacomo Cherchi",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Greta Ettorre",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Riccardo Falco",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Antonio Femia",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Federica Loiacono",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ivan Ezequiel López",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Zhiying Mao",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ezequiel J. Marchesini",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giulia Mattioli",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Matteo Messa",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Valentina Missaglia",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Lorenzo Monti",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Cristina Nanci",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Gabriele Panebianco",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giulia Papini",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Simone Paradiso",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giorgia Peluso",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "David Pérez Millán",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Smiriti Srivastava",
+          "role": "Nghiên cứu viên hợp đồng / PD",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Tommaso Bartalesi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Edoardo Borciani",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giulia Brunelli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Virginia Lucia Cavicchi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Michele Costa",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mónica Isla Llave",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Mattia Maniscalco",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Luca Morelli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Sophie Penger",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Alessio Taranto",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Chiara Zerbinati",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Yipeng Zou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Alberto Cappi",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Loredana Bassani",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Chris Butler",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Anna Elisa Camisasca",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Ezio Caroli",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Gisella Clementini",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Roberto Di Luca",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Filippo Frontera",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Flavio Fusi Pecci",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Matteo Galaverni",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Claudio Labanti",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Nazzareno Mandolesi",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Eliana Palazzi",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Graziella Pizzichini",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Antonio Ragagnin",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "John Stephen",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giovanna Maria Stirpe",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Monica Tosi",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Massimo Trifoglio",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Gabriele Umbriaco",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         },
+         {
+          "name": "Giovanni Zamorani",
+          "role": "Thành viên liên kết (astronomo associato / associato INAF)",
+          "url": "https://www.oas.inaf.it/?p=819"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oas.inaf.it/?p=819"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "trieste",
+   "city": "Trieste",
+   "coordinates": [
+    13.77,
+    45.65
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Trieste (OATs)",
+     "type": "observatory",
+     "research": "Vũ trụ học và cấu trúc quy mô lớn (Euclid), mô phỏng hình thành thiên hà và cụm thiên hà, môi trường giữa các thiên hà và chuẩn tinh (máy quang phổ ESPRESSO, ANDES), tiến hóa hóa học thiên hà, sao cổ; điện toán thiên văn và kho dữ liệu (IA2), Mặt Trời và hệ Mặt Trời.",
+     "url": "https://www.oats.inaf.it/",
+     "coverage": "full",
+     "structure": "Viện INAF; hợp tác chặt với Đại học Trieste (UniTs), SISSA và ICTP qua viện IFPU.",
+     "structureUrl": "https://www.oats.inaf.it/index.php/en/people",
+     "scopeNote": "Đủ nhân sự nghiên cứu theo trang People của OATs (11/2026), gồm cả nhân sự UniTs và viện khác làm việc tại đài (ghi trong ngoặc); không gồm nhân viên kỹ thuật, hành chính, thư viện.",
+     "units": [
+      {
+       "name": "Nhân sự nghiên cứu OATs",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OATs",
+       "topics": "Vũ trụ học, thiên hà, chuẩn tinh, sao, Mặt Trời, điện toán thiên văn.",
+       "url": "https://www.oats.inaf.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Michel Aguena da Silva",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Valentina Alberti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Franklin Aldás Garcés",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Veronica Baldini",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Paramita Barai",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Tiago Batalha de Castro",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Lorenzo Biasotti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Sara Bertocco",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Veronica Biffi",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Andrea Bignamini",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Manuela Bischetti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Andrea Biviano",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Stefano Borgani (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Robert Butora",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giorgio Calderone",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Daniela Carollo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Isabella Carucci",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Gabriele Cescutti (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Roberto Cirami",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marco Citossi",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Matteo Costanzi (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Stefano Cristiani",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Guido Cupani",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Valentina D'Odorico",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Gabriella De Lucia",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Paolo Di Marcantonio",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Chiara Feruglio",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Fabrizio Fiore",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Laura Flora",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Fabio Fontanot",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marco Frailis",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Mariagrazia Franchini",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marco Fulle",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Samuele Galeotta",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Nicola Gentile Fusillo (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marisa Girardi (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Enrico Giro (INAF-OAPD)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "David Goz",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Gian Luigi Granato",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Anna Gregorio (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Michaela Hirschmann",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giulia Iafrate",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Stavro Ivanovski",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giovanna Jerse",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Cristina Knapic",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giovanni Lacopo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Gianmarco Maggio",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Umberto Maio",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Sukanya Mallik",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Oriana Mansutti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Alessandro Marassi",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Michele Maris",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Elena Mason",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Francesca Matteucci (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Mauro Messerotti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Dinko Milaković",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Paolo Molaro",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marco Molinaro",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Pierluigi Monaco (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Sergio Monai",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Emiliano Munari",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giuseppe Murante",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Chi Thanh Nguyen",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Maurilio Pannella",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Fabio Pasian",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Elena Rasia",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Erik Romelli",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Alex Saro (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Elena Sarpa",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Emiliano Sefusatti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Pierluigi Selvelli",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Laura Silva",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Paolo Simonetti",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Riccardo Smareglia",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Emanuele Spitoni",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Veronica Strazzullo (OA Brera)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giuliano Taffoni",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Daniele Tavagnacco",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Luca Tornatore",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Andrea Travascio",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Milena Valentini (UniTs)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giovanni Vladilo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Claudio Vuerli",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Andrea Zacchei",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Alessio Zanutta (INAF Brera)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Lucie Baumont (UniTs)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Erica Bisesi",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Lorenzo Calderone",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Benjamin Camacho (IFPU)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Chaitra",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marco Chiarenza (UniTs)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giacomo Coran",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Yousry Elkhashab (UniTs)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Carina Fian",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Luca Fontana (UniTs)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Alessandra Fumagalli",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Zohreh Ghaffari",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Maxime Gitton (UniTs)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Roberta Giusteri",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Valeria Grisoni",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Scott Hagen (IFPU)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Mohammad Kamran",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Linda Lombardo",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Chiara Moretti",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Omima Osman",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Kalyani Pedamkar",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Matteo Porru",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Federico Rizzo",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Stefano Alberto Russo",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Jacopo Salvalaggio",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Francesco Salvestrini",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Lapo Sgatti (UniTs)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Tomáš Šoltinský",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Thomas Vassallo (LMU München)",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Daria Zakharova",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / grant holders)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Giulia Baroni",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Matilde Brazzini",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Sebastiano Cantarella",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Luca Cappelli",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Alice Damiano",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Simona Di Stefano",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Tommaso Fagotto",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Roberto Ingrao",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Lionel Randall Kharkrang",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marius Lepinzan",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Marco Salvador",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Sara Trevisan",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         },
+         {
+          "name": "Andrea Trost",
+          "role": "NCS (UniTs)",
+          "url": "https://www.oats.inaf.it/index.php/en/people"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oats.inaf.it/index.php/en/people"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "SISSA – Scuola Internazionale Superiore di Studi Avanzati",
+     "type": "university",
+     "research": "Vũ trụ học và vũ trụ sơ khai, bức xạ phông vi sóng (LiteBIRD, Simons Observatory) và cấu trúc quy mô lớn, hình thành – tiến hóa thiên hà, thiên văn năng lượng cao, vật lý sao, sóng hấp dẫn, vật lý hạt thiên văn và lực hấp dẫn.",
+     "url": "https://www.sissa.it/",
+     "coverage": "partial",
+     "structure": "Khu vực Vật lý của SISSA gồm nhóm Vật lý thiên văn và Vũ trụ học (Astrophysics and Cosmology, ~8 biên chế, nhiều PD và ~25 NCS) và nhóm Vật lý hạt thiên văn (Astroparticle Physics); cùng ICTP và INAF-OATs lập viện IFPU.",
+     "structureUrl": "https://www.sissa.it/ap",
+     "scopeNote": "Chỉ nhóm Astrophysics and Cosmology theo danh bạ đơn vị của SISSA (11/2026: 65 người hiển thị, không ghi chức danh); chưa gồm nhóm Astroparticle Physics (trưởng nhóm Matteo Viel).",
+     "units": [
+      {
+       "name": "Astrophysics and Cosmology Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SISSA",
+       "topics": "Vũ trụ học, CMB và cấu trúc quy mô lớn, thiên hà, năng lượng cao, sao, sóng hấp dẫn.",
+       "url": "https://www.sissa.it/ap",
+       "researchers": {
+        "people": [
+         {
+          "name": "Nicoletta Krachmalnicoff",
+          "role": "Điều phối viên nhóm",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Alessandro Verganti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Aliza Mustafa",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Athul Kuruvai Parambil Soman",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Alessandro Bressan",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Alessandro Carones",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Alessandro Renzi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Annalisa Celotti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Antonio Lanza",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Cristina Letizia Maddanu",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Carlo Baccigalupi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Carlos Alonso Álvarez",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Carmelita Carbone",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Chi Thanh Nguyen",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Claudio Ranucci",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Cristiano Ugolini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Daniele Defrancesco",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Davide Luchina",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Elisabeth-Adelheid Keppler",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Enrico Veraldi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Emma Dreas",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Florie Carralot",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Francesca Perrotta",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Francesco Gabrielli",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Francesco Longo",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Giuliana Maria Claudia Travaglino",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Gauri Sharma",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Gayathri Gururajan",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Giovanni Antinozzi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Giulio Fabbian",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Irene Iorio",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Ilia Musco",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "John Matthew Houghteling",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "John Miller",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Karnchana Aroonrueang",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Kavish Sardana",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Kendall Gale Shepherd",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Laura Silva",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Luigi Danese",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Margherita Imbriani",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Marta Corioni",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Marcella Massardi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Marco Raveri",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Margherita De Toma",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Maria Vittoria Zanchettin",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Mario Spera",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Martina Torsello",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Matteo Costanzi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Mayurakshi Mukherjee",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Michele Bosi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Milena Valentini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Olga Pietrosanti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Ritabik Banerjee",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Rahul Srinivasan",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Riccardo Valdarnini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Roberto Caiozzo",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Samuele Marco Silveravalle",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Serena Giardiello",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Sijil Jose",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Stefano Cristiani",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Thomas George P",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Tiziano Schiavone",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Tommaso Ronconi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Xiaoting Fu",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Yacer Boumechta",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         },
+         {
+          "name": "Yang Chen",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "ITA",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://www.inaf.it/it/sedi"
+}
