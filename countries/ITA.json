@@ -909,6 +909,471 @@
    ],
    "institutions": [
     {
+     "name": "INAF – Istituto di Radioastronomia (IRA)",
+     "type": "institute",
+     "research": "Thiên văn vô tuyến: cụm thiên hà và môi trường giữa các cụm, AGN và tia phản lực, VLBI và trắc địa, khảo sát vô tuyến sâu, CMB, phân tử giữa các sao; vận hành kính vô tuyến Medicina và Noto, tham gia SKA, LOFAR, ALMA (Trung tâm vùng ALMA Italia).",
+     "url": "https://info.ira.inaf.it/",
+     "coverage": "full",
+     "structure": "Viện INAF với ba cơ sở: trụ sở Bologna, trạm vô tuyến Medicina (Bologna) và Noto (Siracusa); khoảng 100 người; giám đốc G. Brunetti.",
+     "structureUrl": "https://info.ira.inaf.it/en/about/organization/",
+     "scopeNote": "Đủ nhân sự nghiên cứu theo danh bạ IRA (11/2026): nhà nghiên cứu, tecnologi, nghiên cứu viên hợp đồng, NCS và thành viên liên kết; không gồm nhân viên kỹ thuật và hành chính. Danh bạ chỉ có địa chỉ email nên một số tên chỉ có chữ cái đầu; tên đầy đủ được bổ sung khi chắc chắn.",
+     "units": [
+      {
+       "name": "Nhân sự nghiên cứu IRA",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IRA",
+       "topics": "Thiên văn vô tuyến ngoài thiên hà, cụm thiên hà, AGN, VLBI, công nghệ máy thu.",
+       "url": "https://info.ira.inaf.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "G. Brunetti",
+          "role": "Giám đốc",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Carlo Burigana",
+          "role": "Dirigente di ricerca / dirigente tecnologo",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Francesco de Gasperin",
+          "role": "Dirigente di ricerca / dirigente tecnologo",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "T. Venturi",
+          "role": "Dirigente di ricerca / dirigente tecnologo",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "J. Monari (Medicina)",
+          "role": "Dirigente di ricerca / dirigente tecnologo",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Jan Brand",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Ettore Carretti",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "K. Mack",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "M. Negusini",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Roberto Orosei",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Isabella Prandoni",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "P. Sarti",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "C. Stanghellini",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Alessandro Zanichelli",
+          "role": "Primo ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "R. Baldi",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "G. Bernardi",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "M. Bondi",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Andrea Botteon",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "M. Brienza",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Viviana Casasola",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "R. Cassano",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Pietro Cassaro (Noto)",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "F. Chierici",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Filippo D'Ammando",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "A. Gianne",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Marcello Giroletti",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "E. Liuzzo",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "N. Marchili",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Marcella Massardi",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Giulia Migliori",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Monica Orienti",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Rosita Paladino",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Kazi Rygl",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Simona Righini",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Cristiana Spingola",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Tiziana Trombetti",
+          "role": "Ricercatore",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Stefano Giovannini",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Alessandro Orfei",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "G. Tuccari (Noto)",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Stefania Varano",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "V. Baldini",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "G. Bianchi",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "A. Cremonini",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "V. Galluzzi",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Claudio Gheller",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Daria Guidetti",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "F. Manuli",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Giovanni Naldi",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "A. Orlati",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "F. Perini",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "M. Poloni",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Giuseppe Pupillo",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Fabio Vitello",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "I. Baronchelli",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Matteo Bonato",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Luca Guallini",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "T. Pasini",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti)",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "D. Belfiori",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "L. Bruno",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "E. De Rubeis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "S. Giarratana",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "S. Koushika",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "C. Nanci",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "R. Toniolo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "R. Ambrosini",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "A. Bonafede",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Daniele Dallacasa",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "L. Feretti",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "I. Gioia",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "G. Giovannini",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "M. Gitti",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "L. Gregorini",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "G. Inchingolo",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Roberto Lulli",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "F. Mantovani",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "S. Montebugnoli",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "M. Nanni",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "P. Parma",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "D. Pelliciari",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Francesca Perrotta",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Giancarlo Setti",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Chiara Stuardi",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "F. Tinarelli",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Franco Vazza",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Giampaolo Vettolani",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Luca Vittuari",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         },
+         {
+          "name": "Antonio Zanutta",
+          "role": "Thành viên liên kết INAF",
+          "url": "https://info.ira.inaf.it/?p=3916"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://info.ira.inaf.it/?p=3916"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
      "name": "INAF – Osservatorio di Astrofisica e Scienza dello Spazio di Bologna (OAS)",
      "type": "observatory",
      "research": "Chuẩn tinh, AGN và lỗ đen, thiên hà và vũ trụ học (Euclid, VLT, JWST), quần thể sao và cụm sao cầu (Gaia), thiên văn năng lượng cao và tia gamma, bức xạ phông vi sóng (Planck, LiteBIRD), thiết bị không gian (Athena X-IFU) và quang học thích ứng (MORFEO); trạm quan sát Loiano.",
@@ -2808,10 +3273,10 @@
      "type": "university",
      "research": "Vũ trụ học và vũ trụ sơ khai, bức xạ phông vi sóng (LiteBIRD, Simons Observatory) và cấu trúc quy mô lớn, hình thành – tiến hóa thiên hà, thiên văn năng lượng cao, vật lý sao, sóng hấp dẫn, vật lý hạt thiên văn và lực hấp dẫn.",
      "url": "https://www.sissa.it/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "Khu vực Vật lý của SISSA gồm nhóm Vật lý thiên văn và Vũ trụ học (Astrophysics and Cosmology, ~8 biên chế, nhiều PD và ~25 NCS) và nhóm Vật lý hạt thiên văn (Astroparticle Physics); cùng ICTP và INAF-OATs lập viện IFPU.",
      "structureUrl": "https://www.sissa.it/ap",
-     "scopeNote": "Chỉ nhóm Astrophysics and Cosmology theo danh bạ đơn vị của SISSA (11/2026: 65 người hiển thị, không ghi chức danh); chưa gồm nhóm Astroparticle Physics (trưởng nhóm Matteo Viel).",
+     "scopeNote": "Hai nhóm thiên văn của SISSA theo danh bạ đơn vị (11/2026): Astrophysics and Cosmology (65 người) và Astroparticle and Gravitational Physics (79 người); danh bạ không ghi chức danh, một số người là thành viên liên kết từ INAF-OATs, ICTP, Đại học Trieste.",
      "units": [
       {
        "name": "Astrophysics and Cosmology Group",
@@ -3155,6 +3620,418 @@
         "external": [],
         "sources": [
          "https://idman.web-services.sissa.it/organizationalUnitDetails/57"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Astroparticle and Gravitational Physics Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "SISSA",
+       "topics": "Vật chất tối, năng lượng tối, vũ trụ sơ khai, môi trường giữa các thiên hà, sóng hấp dẫn, lý thuyết hấp dẫn cổ điển và lượng tử, vật lý hạt thiên văn.",
+       "url": "https://www.sissa.it/app/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Matteo Viel",
+          "role": "Điều phối viên nhóm",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Anna D'Ambrosio",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Aaron Collavini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Alessandro Camilletti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Anamaria Hell",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Andrea De Simone",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Andrea Muñoz Gutiérrez",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Andrea Trost",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Angelo Rosa",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Antonia Micol Frassino",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Barun Maity",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Benjamin Camacho Quevedo",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Cecilia Oliveri",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Chantal Laure Pitte",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Chetan Prakash",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Chi Zhang",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Clemente Smarra",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Davide Ciattaglia",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Daniele Perri",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "David Francisco Camarena Torres",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Erika Sottocorno",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Elena Pinetti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Elena Sarpa",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Emiliano Sefusatti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Emilio Bellini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Emma Albertini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Enrico Garaldi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Farid Thaalba",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Francesco Sinigaglia",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Francesco Verdiani",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Francescopaolo Lopez",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Gabriele Russo",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Gianluca Minichetti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Gabriele Autieri",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Gabriele Parimbelli",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Giulio Neri",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Hooman Neshat",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Isabella Carucci",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "João Magueijo",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "José Guillermo Lara Delgado",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Julio Arrechea",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Kallol Dey",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Lidia Gomes Da Silva",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Lodovico Capuano",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Lorenzo Copparoni",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Lorenzo Ubaldi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Margherita Pulga",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Massimiliano Spadafora",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Michael Mancini",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Mak Pavičević",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Marco Crisostomi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Mariia Khelashvili",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Massimo Vaglio",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Matteo Biagetti",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Miguel Ángel Andrés Bezares Figueroa",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Mirko Boezio",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Mohammad Reza Khansari",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Piero Ullio",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Pranjal Ralegankar",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Qile Zhang",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Rahul Srinivasan",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Ramiro Cayuso",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Ran Chen",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Riccardo Murgia",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Rocco D'Agostino",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Rohit Subbarayan Chandramouli",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Scott Hagen",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Stefano Ansoldi",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Stefano Borgani",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Stefano Liberati",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Thomas Lovo",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Takuya Okawa",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Tomáš Šoltinský",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Valentin Pomakov",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Vid Iršič",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Vincenzo Naso",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Walter Arata",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Warin Patrick McBlain",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         },
+         {
+          "name": "Yiqi Xie",
+          "role": "Thành viên (biên chế, PD, NCS – không phân loại)",
+          "url": "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://idman.web-services.sissa.it/organizationalUnitDetails/64"
         ],
         "note": "",
         "checked": "2026-11-28"

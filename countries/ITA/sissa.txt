@@ -3,10 +3,10 @@ city: trieste
 type: university
 url: https://www.sissa.it/
 research: Vũ trụ học và vũ trụ sơ khai, bức xạ phông vi sóng (LiteBIRD, Simons Observatory) và cấu trúc quy mô lớn, hình thành – tiến hóa thiên hà, thiên văn năng lượng cao, vật lý sao, sóng hấp dẫn, vật lý hạt thiên văn và lực hấp dẫn.
-coverage: partial
+coverage: full
 structure: Khu vực Vật lý của SISSA gồm nhóm Vật lý thiên văn và Vũ trụ học (Astrophysics and Cosmology, ~8 biên chế, nhiều PD và ~25 NCS) và nhóm Vật lý hạt thiên văn (Astroparticle Physics); cùng ICTP và INAF-OATs lập viện IFPU.
 structureUrl: https://www.sissa.it/ap
-scope: Chỉ nhóm Astrophysics and Cosmology theo danh bạ đơn vị của SISSA (11/2026: 65 người hiển thị, không ghi chức danh); chưa gồm nhóm Astroparticle Physics (trưởng nhóm Matteo Viel).
+scope: Hai nhóm thiên văn của SISSA theo danh bạ đơn vị (11/2026): Astrophysics and Cosmology (65 người) và Astroparticle and Gravitational Physics (79 người); danh bạ không ghi chức danh, một số người là thành viên liên kết từ INAF-OATs, ICTP, Đại học Trieste.
 
 #unit Astrophysics and Cosmology Group
 parent: SISSA
@@ -15,3 +15,11 @@ url: https://www.sissa.it/ap
 src: https://idman.web-services.sissa.it/organizationalUnitDetails/57
 p: Nicoletta Krachmalnicoff | Điều phối viên nhóm | https://idman.web-services.sissa.it/organizationalUnitDetails/57
 pp: Thành viên (biên chế, PD, NCS – không phân loại) | Alessandro Verganti; Aliza Mustafa; Athul Kuruvai Parambil Soman; Alessandro Bressan; Alessandro Carones; Alessandro Renzi; Annalisa Celotti; Antonio Lanza; Cristina Letizia Maddanu; Carlo Baccigalupi; Carlos Alonso Álvarez; Carmelita Carbone; Chi Thanh Nguyen; Claudio Ranucci; Cristiano Ugolini; Daniele Defrancesco; Davide Luchina; Elisabeth-Adelheid Keppler; Enrico Veraldi; Emma Dreas; Florie Carralot; Francesca Perrotta; Francesco Gabrielli; Francesco Longo; Giuliana Maria Claudia Travaglino; Gauri Sharma; Gayathri Gururajan; Giovanni Antinozzi; Giulio Fabbian; Irene Iorio; Ilia Musco; John Matthew Houghteling; John Miller; Karnchana Aroonrueang; Kavish Sardana; Kendall Gale Shepherd; Laura Silva; Luigi Danese; Margherita Imbriani; Marta Corioni; Marcella Massardi; Marco Raveri; Margherita De Toma; Maria Vittoria Zanchettin; Mario Spera; Martina Torsello; Matteo Costanzi; Mayurakshi Mukherjee; Michele Bosi; Milena Valentini; Olga Pietrosanti; Ritabik Banerjee; Rahul Srinivasan; Riccardo Valdarnini; Roberto Caiozzo; Samuele Marco Silveravalle; Serena Giardiello; Sijil Jose; Stefano Cristiani; Thomas George P; Tiziano Schiavone; Tommaso Ronconi; Xiaoting Fu; Yacer Boumechta; Yang Chen
+
+#unit Astroparticle and Gravitational Physics Group
+parent: SISSA
+topics: Vật chất tối, năng lượng tối, vũ trụ sơ khai, môi trường giữa các thiên hà, sóng hấp dẫn, lý thuyết hấp dẫn cổ điển và lượng tử, vật lý hạt thiên văn.
+url: https://www.sissa.it/app/
+src: https://idman.web-services.sissa.it/organizationalUnitDetails/64
+p: Matteo Viel | Điều phối viên nhóm | https://idman.web-services.sissa.it/organizationalUnitDetails/64
+pp: Thành viên (biên chế, PD, NCS – không phân loại) | Anna D'Ambrosio; Aaron Collavini; Alessandro Camilletti; Anamaria Hell; Andrea De Simone; Andrea Muñoz Gutiérrez; Andrea Trost; Angelo Rosa; Antonia Micol Frassino; Barun Maity; Benjamin Camacho Quevedo; Cecilia Oliveri; Chantal Laure Pitte; Chetan Prakash; Chi Zhang; Clemente Smarra; Davide Ciattaglia; Daniele Perri; David Francisco Camarena Torres; Erika Sottocorno; Elena Pinetti; Elena Sarpa; Emiliano Sefusatti; Emilio Bellini; Emma Albertini; Enrico Garaldi; Farid Thaalba; Francesco Sinigaglia; Francesco Verdiani; Francescopaolo Lopez; Gabriele Russo; Gianluca Minichetti; Gabriele Autieri; Gabriele Parimbelli; Giulio Neri; Hooman Neshat; Isabella Carucci; João Magueijo; José Guillermo Lara Delgado; Julio Arrechea; Kallol Dey; Lidia Gomes Da Silva; Lodovico Capuano; Lorenzo Copparoni; Lorenzo Ubaldi; Margherita Pulga; Massimiliano Spadafora; Michael Mancini; Mak Pavičević; Marco Crisostomi; Mariia Khelashvili; Massimo Vaglio; Matteo Biagetti; Miguel Ángel Andrés Bezares Figueroa; Mirko Boezio; Mohammad Reza Khansari; Piero Ullio; Pranjal Ralegankar; Qile Zhang; Rahul Srinivasan; Ramiro Cayuso; Ran Chen; Riccardo Murgia; Rocco D'Agostino; Rohit Subbarayan Chandramouli; Scott Hagen; Stefano Ansoldi; Stefano Borgani; Stefano Liberati; Thomas Lovo; Takuya Okawa; Tomáš Šoltinský; Valentin Pomakov; Vid Iršič; Vincenzo Naso; Walter Arata; Warin Patrick McBlain; Yiqi Xie

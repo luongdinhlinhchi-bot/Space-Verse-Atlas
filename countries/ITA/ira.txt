@@ -1,0 +1,23 @@
+@inst INAF – Istituto di Radioastronomia (IRA)
+city: bologna
+type: institute
+url: https://info.ira.inaf.it/
+research: Thiên văn vô tuyến: cụm thiên hà và môi trường giữa các cụm, AGN và tia phản lực, VLBI và trắc địa, khảo sát vô tuyến sâu, CMB, phân tử giữa các sao; vận hành kính vô tuyến Medicina và Noto, tham gia SKA, LOFAR, ALMA (Trung tâm vùng ALMA Italia).
+coverage: full
+structure: Viện INAF với ba cơ sở: trụ sở Bologna, trạm vô tuyến Medicina (Bologna) và Noto (Siracusa); khoảng 100 người; giám đốc G. Brunetti.
+structureUrl: https://info.ira.inaf.it/en/about/organization/
+scope: Đủ nhân sự nghiên cứu theo danh bạ IRA (11/2026): nhà nghiên cứu, tecnologi, nghiên cứu viên hợp đồng, NCS và thành viên liên kết; không gồm nhân viên kỹ thuật và hành chính. Danh bạ chỉ có địa chỉ email nên một số tên chỉ có chữ cái đầu; tên đầy đủ được bổ sung khi chắc chắn.
+
+#unit Nhân sự nghiên cứu IRA
+parent: IRA
+topics: Thiên văn vô tuyến ngoài thiên hà, cụm thiên hà, AGN, VLBI, công nghệ máy thu.
+url: https://info.ira.inaf.it/
+src: https://info.ira.inaf.it/?p=3916
+p: G. Brunetti | Giám đốc | https://info.ira.inaf.it/?p=3916
+pp: Dirigente di ricerca / dirigente tecnologo | Carlo Burigana; Francesco de Gasperin; T. Venturi; J. Monari (Medicina)
+pp: Primo ricercatore | Jan Brand; Ettore Carretti; K. Mack; M. Negusini; Roberto Orosei; Isabella Prandoni; P. Sarti; C. Stanghellini; Alessandro Zanichelli
+pp: Ricercatore | R. Baldi; G. Bernardi; M. Bondi; Andrea Botteon; M. Brienza; Viviana Casasola; R. Cassano; Pietro Cassaro (Noto); F. Chierici; Filippo D'Ammando; A. Gianne; Marcello Giroletti; E. Liuzzo; N. Marchili; Marcella Massardi; Giulia Migliori; Monica Orienti; Rosita Paladino; Kazi Rygl; Simona Righini; Cristiana Spingola; Tiziana Trombetti
+pp: Tecnologo (primo / tecnologo) | Stefano Giovannini; Alessandro Orfei; G. Tuccari (Noto); Stefania Varano; V. Baldini; G. Bianchi; A. Cremonini; V. Galluzzi; Claudio Gheller; Daria Guidetti; F. Manuli; Giovanni Naldi; A. Orlati; F. Perini; M. Poloni; Giuseppe Pupillo; Fabio Vitello
+pp: Nghiên cứu viên hợp đồng (assegnisti) | I. Baronchelli; Matteo Bonato; Luca Guallini; T. Pasini
+pp: NCS | D. Belfiori; L. Bruno; E. De Rubeis; S. Giarratana; S. Koushika; C. Nanci; R. Toniolo
+pp: Thành viên liên kết INAF | R. Ambrosini; A. Bonafede; Daniele Dallacasa; L. Feretti; I. Gioia; G. Giovannini; M. Gitti; L. Gregorini; G. Inchingolo; Roberto Lulli; F. Mantovani; S. Montebugnoli; M. Nanni; P. Parma; D. Pelliciari; Francesca Perrotta; Giancarlo Setti; Chiara Stuardi; F. Tinarelli; Franco Vazza; Giampaolo Vettolani; Luca Vittuari; Antonio Zanutta
