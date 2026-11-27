@@ -1,0 +1,5 @@
+@country ESP
+checked: 2026-11-28
+pin: 5
+coordinateNote: Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Bản đồ gồm cả quần đảo Canary (IAC ở Tenerife, ING ở La Palma).
+listSource: https://somma.es/

@@ -1,0 +1,24 @@
+@city lapalma | La Palma (Breña Baja) | -17.77, 28.63
+
+@inst Isaac Newton Group of Telescopes (ING)
+city: lapalma
+type: observatory
+url: https://www.ing.iac.es/
+research: Vận hành Kính William Herschel 4,2 m (máy quang phổ WEAVE, HARPS3) và Kính Isaac Newton 2,5 m tại Đài thiên văn Roque de los Muchachos; nghiên cứu của nhân viên gồm chuẩn tinh, ngoại hành tinh, siêu tân tinh, thiên hà, sao.
+coverage: full
+structure: Tổ chức quốc tế do Anh (STFC), Hà Lan (NWO) và Tây Ban Nha (IAC) đồng vận hành; nhóm thiên văn (Astronomy group) gồm nhà thiên văn hỗ trợ quan sát, quan sát viên, kỹ sư; cùng sinh viên và khách nghiên cứu.
+structureUrl: https://www.ing.iac.es/astronomy/science/staff/index.html
+scope: Đủ nhóm thiên văn của ING theo trang "Research Staff and Their Interests" (cập nhật 12/11/2026), gồm nhân viên, sinh viên và khách nghiên cứu; không gồm bộ phận kỹ thuật và hành chính khác.
+
+#unit Astronomy group
+parent: ING
+topics: Hỗ trợ quan sát WHT/INT, WEAVE, HARPS3; chuẩn tinh hấp thụ vạch rộng, ngoại hành tinh, siêu tân tinh, sự kiện thoáng qua, tiến hóa thiên hà, khí quyển sao.
+url: https://www.ing.iac.es/astronomy/science/staff/index.html
+src: https://www.ing.iac.es/astronomy/science/staff/index.html
+p: Chris Benn | Trưởng nhóm thiên văn | https://www.ing.iac.es/astronomy/science/staff/index.html
+pp: Nhà thiên văn hỗ trợ quan sát / quan sát viên | Lilian Domínguez; Cecilia Fariña; Nada Ihanec; Eduardo Mantero; Yeisson Osorio; Saskia Schlagenhauf
+pp: Trợ lý hỗ trợ quan sát | José Norberto González; Florencia Jiménez (đang nghỉ); Alberto Madrigal; Lara Monteagudo; Viktoria Pinter; Fiona Riddick (đang nghỉ); Judith Santos
+pp: Kỹ sư và nhân viên khoa học khác | Emanuel Gafton; Emilie Lhomé (đang nghỉ); Javier Méndez; Neil O'Mahony; Jure Skvarč; Nicholas Janssen
+pp: Sinh viên | Zhe Shuen Lee; Lucia Juliá Maroto; José Daniel Marrero Falcón; Jamie McAteer; Victor Pascual Pedrosa; Hannah Robinson
+pp: Khách nghiên cứu | Leticia Ferrero; Luciano García; Bridget Kabugho; Martina Tapia Reina
+pp: Danh dự (emeritus) | Marc Balcells; Ian Skillen

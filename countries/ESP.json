@@ -1,0 +1,2046 @@
+{
+ "cities": [
+  {
+   "id": "teruel",
+   "city": "Teruel",
+   "coordinates": [
+    -1.11,
+    40.34
+   ],
+   "institutions": [
+    {
+     "name": "Centro de Estudios de Física del Cosmos de Aragón (CEFCA)",
+     "type": "institute",
+     "research": "Khảo sát trắc quang đa dải J-PLUS và J-PAS, tiến hóa thiên hà và cụm thiên hà, sao và Ngân Hà, thiên thể nhỏ trong Hệ Mặt Trời, thiên hà vệ tinh và vật chất tối; vận hành Đài thiên văn Javalambre (OAJ).",
+     "url": "https://www.cefca.es/",
+     "coverage": "full",
+     "structure": "Quỹ công do chính quyền Aragón thành lập năm 2008; khối nghiên cứu, Đài thiên văn Javalambre (OAJ) với các bộ phận kỹ thuật, vận hành (DOPC) và xử lý dữ liệu (DPAD), khối truyền thông và hành chính.",
+     "structureUrl": "https://www.cefca.es/cefca_en/team",
+     "scopeNote": "Đủ nhà nghiên cứu, nhà thiên văn kỹ thuật và nhân sự dữ liệu khoa học theo trang Team của CEFCA (11/2026); bỏ kỹ thuật viên phần cứng, quan sát viên, thực tập hè và hành chính.",
+     "units": [
+      {
+       "name": "Nghiên cứu",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CEFCA",
+       "topics": "J-PLUS, J-PAS, tiến hóa thiên hà, cụm thiên hà, sao và Ngân Hà, tiểu hành tinh, thiên hà lùn và vật chất tối.",
+       "url": "https://www.cefca.es/cefca_en/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Javier Cenarro Lagunas",
+          "role": "Giám đốc",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Carlos López San Juan",
+          "role": "Phó giám đốc nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Alessandro Ederoclite",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Juan Antonio Fernández Ontiveros",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "David Martínez Delgado",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Bojan Novakovic",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Stefano Zarattini",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Borja Anguiano (Ramón y Cajal)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Karla Ziboney Arellano Córdova",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Raúl Infante Sainz",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "David Fernández Gil",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Adrián Hidalgo Pinilla",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Sayali Kulkarni",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Francisco Javier Sáez Ruiz",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Mariano Moles Villamate",
+          "role": "Nhà sáng lập",
+          "url": "https://www.cefca.es/cefca_en/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.cefca.es/cefca_en/team"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Đài thiên văn Javalambre (OAJ) — vận hành và dữ liệu",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CEFCA",
+       "topics": "Vận hành kính JST/T250 và JAST/T80, xử lý và lưu trữ dữ liệu khảo sát, pipeline, phần mềm Gnuastro.",
+       "url": "https://www.cefca.es/cefca_en/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Antonio Marín-Franch",
+          "role": "Phó giám đốc OAJ, nhà nghiên cứu",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Javier Zaragoza Cardiel",
+          "role": "Nhà nghiên cứu / nhà thiên văn kỹ thuật",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Héctor Vázquez Ramió",
+          "role": "Nhà nghiên cứu / nhà thiên văn kỹ thuật",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Miguel Chioare Díaz Martín",
+          "role": "Nhà nghiên cứu / nhà thiên văn kỹ thuật",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Ramón Iglesias Marzoa",
+          "role": "Nhà nghiên cứu / nhà thiên văn kỹ thuật",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Mohammad Akhlaghi",
+          "role": "Nhà nghiên cứu / nhà thiên văn kỹ thuật",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Antonio Hernán Caballero",
+          "role": "Nhà nghiên cứu / nhà thiên văn kỹ thuật",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Tamara Civera Lorenzo",
+          "role": "Kỹ sư dữ liệu và phần mềm khoa học",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Sepideh Eskandarlou",
+          "role": "Kỹ sư dữ liệu và phần mềm khoa học",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Javier Hernández Fuertes",
+          "role": "Kỹ sư dữ liệu và phần mềm khoa học",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Giacomo Lorenzetti",
+          "role": "Kỹ sư dữ liệu và phần mềm khoa học",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "Alberto Moreno Signes",
+          "role": "Kỹ sư dữ liệu và phần mềm khoa học",
+          "url": "https://www.cefca.es/cefca_en/team"
+         },
+         {
+          "name": "David José Muniesa Gallardo",
+          "role": "Kỹ sư dữ liệu và phần mềm khoa học",
+          "url": "https://www.cefca.es/cefca_en/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.cefca.es/cefca_en/team"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "laguna",
+   "city": "San Cristóbal de La Laguna (Tenerife)",
+   "coordinates": [
+    -16.32,
+    28.48
+   ],
+   "institutions": [
+    {
+     "name": "Instituto de Astrofísica de Canarias (IAC)",
+     "type": "institute",
+     "research": "Vật lý Mặt Trời (EST, GREGOR), ngoại hành tinh và hệ hành tinh (ESPRESSO, CARMENES, PLATO), sao và môi trường giữa các sao, Ngân Hà và nhóm Địa phương, thiên hà và AGN, vũ trụ học và CMB (QUIJOTE), thiên văn năng lượng cao (CTAO, LST); vận hành Đài thiên văn Teide (Tenerife) và Roque de los Muchachos (La Palma), nơi đặt GTC 10,4 m.",
+     "url": "https://www.iac.es/",
+     "coverage": "partial",
+     "structure": "Consorcio công gồm Nhà nước Tây Ban Nha, chính quyền Canarias, Đại học La Laguna (ULL) và CSIC; trung tâm Severo Ochoa. Nhân sự nghiên cứu chia theo loại: nhà nghiên cứu biên chế IAC, nhà nghiên cứu gắn từ ULL/CSIC, postdoc, NCS, nhà nghiên cứu liên kết; nghiên cứu tổ chức theo các mảng (Mặt Trời; sao và môi trường giữa các sao; hệ hành tinh; thiên hà; vũ trụ học và hạt thiên văn).",
+     "structureUrl": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+     "scopeNote": "Danh bạ nhà nghiên cứu IAC có khoảng 22 trang nhưng không đọc tuần tự được (11/2026); danh sách ghép từ các trang danh bạ đọc được và đoạn trích danh bạ trong kết quả tìm kiếm, khoảng 2/3 số nhà nghiên cứu và NCS. Phân loại theo nhãn trong danh bạ IAC; không chia theo mảng nghiên cứu.",
+     "units": [
+      {
+       "name": "Ban giám đốc",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Eva Gloria Villaver Sobrino",
+          "role": "Ban giám đốc",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Nhà nghiên cứu biên chế IAC (Profesor/Investigador/Científico Titular OPIS)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alexandre Vazdekis",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Almudena Prieto Escudero",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Andrés Asensio Ramos",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Antonio Jiménez Mancebo",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carlos Allende Prieto",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carlos Manuel Gutiérrez de la Cruz",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carmen Gallart Gallart",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Casiana Muñoz Tuñón",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Claudio Dalla Vecchia",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Cristina Ramos Almeida",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Eduardo Lorenzo Martín Guerrero de Escalante",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Elena Khomenko Shchukina",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Enric Pallé Bago",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Garik Israelian",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Giuseppina Battaglia",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Hans Jörg Deeg",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ignacio Alfonso Ferreras Páez",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ignacio Martín Navarro",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ignacio Trujillo Cabrera",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Javier Andrés Licandro Goldaracena",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jesús Falcón Barroso",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Johan Hendrik Knapen Koelstra",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jonay Isaí González Hernández",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jorge Casares Velázquez",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jorge Francisco Sánchez Almeida",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jorge Martín Camalich",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "José Alberto Rubiño Martín",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "José Alfonso López Aguerri",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Juan Antonio Belmonte Avilés",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Manuel Ángel Pérez Torres",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Marc Huertas-Portocarrero Company",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Martín López Corredoira",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Michael Andrew Beasley",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Mónica Luisa Vázquez Acosta",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Nicolas Cédric Lodieu",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Pere Lluís Pallé Manzano",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Tariq Shahbaz",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Teodoro Muñoz Darias",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Víctor Javier Sánchez Béjar",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Íñigo Arregui Uribe-Echevarría",
+          "role": "Nhà nghiên cứu biên chế IAC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Nhà nghiên cứu cao cấp theo hợp đồng (Investigador Distinguido, plantilla)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Evanthia Hatziminaoglou",
+          "role": "Nhà nghiên cứu cao cấp theo hợp đồng",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jeffrey Richard Kuhn",
+          "role": "Nhà nghiên cứu cao cấp theo hợp đồng",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Julia de León Cruz",
+          "role": "Nhà nghiên cứu cao cấp theo hợp đồng",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC (adscritos)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Adriana de Lorenzo-Cáceres Rodríguez",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alejandro Suárez Mascareño",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Antonio Aparicio Juan",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Arianna Di Cintio",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Artemio Herrero Davo",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Arturo Manchado Torres",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carlos Cristo Quintero Noda",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carlos Lázaro Hernando",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Christopher Brook",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "César Esteban López",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Emma Fernández Alvar",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Evencio Mediavilla Gradolph",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Francisco Shu Kitaura Joyanes",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ginevra Favole",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Hannu Parviainen",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ignacio González Martínez-Pais",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ismael Pérez Fournon",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jairo Méndez Abreu",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Javier Trujillo Bueno",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jorge Cepa Nogué",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Josefa Becerra González",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "José Antonio Acosta Pulido",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Manuel Collados Vera",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Michael Yousef Abdul Masih",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Mireia Nievas Rosillo",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Pablo Rodríguez Gil",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Paul Beck",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Rafael Rebolo López",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ramón García López",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sara Rodríguez Berlanas",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Yuri Cavecchi",
+          "role": "Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "PD (gồm Ramón y Cajal, Juan de la Cierva)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alejandra Aguirre Santaella",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alessandro Fasano",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alice Mori",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alicia López Oramas",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ana Contreras Santos",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ana Escorza Santos",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Anamaría Navarro Noguera",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Anelise Audibert Allegretti",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Anna Barbara de Andrade Queiroz",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Anna Ferré Mateu",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carlos Humberto Domínguez-Tagle Paredes",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Chengzi Jiang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Christoph Alexander Kuckein",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Christopher Eckner",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Daniel Mata Sánchez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Edgar Samuel Carlín Ramírez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Eri Tatsumi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Eric Michael Maclennan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ernest Alsina Ballester",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Eva Durán Camacho",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Frédéric Nicolas David Poidevin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gaia Lacedelli",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gaston Javier Escobar",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gloria Canocchi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gonzalo Holgado Alijo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Guangwen Chen",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Hirdesh Kumar",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Javier de Miguel Hernández",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jenny Alejandra González Jara",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jorge García Rojas",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "José Manuel Pérez Martínez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Juan Carlos Trelles Arjona",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Judith Marie Korth",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Julia Anneli Martikainen",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Malgorzata Siudek",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Marina Bianchin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Maruska Zerjal",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "María José Benito Castaño",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Montserrat Armas Padilla",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Natalia Arteaga Marrero",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Nikola Vitas",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Pedro Alonso Palicio",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sara Esteban Pozuelo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sara Vitali",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Susana Iglesias Groth",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Tanausú del Pino Alemán",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Tania Eleonore Marie Le Pivert-Jolivet",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Thomas Masseron",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Tobías Felipe García",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "NCS (hợp đồng tiền tiến sĩ)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Adrián Sánchez Chaves",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alba Casasbuenas Corral",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alba Crespo Pérez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alexa Friederich Hidalgo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Alicia Rivero Batista",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ana Rita Rebelo de Almeida",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Andrea Ruiz del Pozo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Atanas Konstantinov Stefanov",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Dafne Martín Domínguez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Daniel Galán Diéguez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Eduardo Albuquerque Hartmann",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Elena Vanetti",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Enzo Agustín Saavedra",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Eva Sola Viladesau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gareb Enoc Fernández Rodríguez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "George Pantelimon Prodan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ignacio Ruiz Cejudo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Jorge Manuel Sarrato Alós",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Kumar Aryan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Le Minh Ngoc",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Luis Barrios Jiménez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Maialen Orte García",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Manuel Sánchez Benavente",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Mar Pérez Sar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Marina Madeline Dunn",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Matías Koll Pistarini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Nafise Sedighi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sara Herminia Navarro Umpiérrez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sara Muñoz Torres",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sergio Guerra Arencibia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Teresa Huertas Roldán",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Tora Therese Hoeiland Arnesen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Utsav Bose",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Valentina Shadi Fontirroig Rojas",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Zahra Sharbaf",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Ángela María Arriero López",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Íñigo Juanikorena Berasategi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Nhà nghiên cứu liên kết (GTC, ING, INAF...)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Akihiko Fukui",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Antonio Luis Cabrera Lavers",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Carmen Pilar Padilla Torres",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Cecilia Fariña",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Daniel Reverte Paya",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gabriel Gómez Velarde",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Gianluca Lombardi",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Lilian Fátima Domínguez Palmero",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Lucio Crivellari",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Matteo Monelli",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Nieves Dolores Castro Rodríguez",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Norio Narita",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sara González Pérez",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Sebastián Francisco Sánchez Sánchez",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Yeisson Fabián Martínez Osorio",
+          "role": "Nhà nghiên cứu liên kết",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Cộng tác viên / ad honorem",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAC",
+       "topics": "Mọi mảng nghiên cứu của IAC.",
+       "url": "https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff",
+       "researchers": {
+        "people": [
+         {
+          "name": "Antonio Eff-Darwich",
+          "role": "Cộng tác viên / ad honorem",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         },
+         {
+          "name": "Daniel Lennon",
+          "role": "Cộng tác viên / ad honorem",
+          "url": "https://www.iac.es/en/about-us/list-of-personnel"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iac.es/en/about-us/list-of-personnel"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "barcelona",
+   "city": "Barcelona (Bellaterra)",
+   "coordinates": [
+    2.11,
+    41.5
+   ],
+   "institutions": [
+    {
+     "name": "Institut de Ciències de l'Espai (ICE-CSIC)",
+     "type": "institute",
+     "research": "Vũ trụ học và khảo sát thiên hà (DES, PAU, Euclid, DESI), AGN và tiến hóa thiên hà, siêu tân tinh và sự kiện thoáng qua, sao neutron và pulsar, sóng hấp dẫn (LISA), sao – hành tinh – thiên thạch, khoa học Trái Đất từ vũ trụ; phát triển thiết bị không gian.",
+     "url": "https://ice.csic.es/",
+     "coverage": "partial",
+     "structure": "Viện của CSIC, liên kết với IEEC; đơn vị María de Maeztu; khoảng 7 nhóm nghiên cứu (vũ trụ học quan sát và lý thuyết; AGN và thiên hà; sao, hành tinh và thiên thạch; sao neutron; sóng hấp dẫn; môi trường giữa các sao; khoa học Trái Đất).",
+     "structureUrl": "https://ice.csic.es/about-us/organisation",
+     "scopeNote": "Chỉ gồm bộ phận khảo sát thiên hà – vũ trụ học (nhóm Large-scale galaxy surveys, AGN and Galaxy Evolution, SN and transients) theo bài trình bày BCN-MAD của ICE (2025); danh bạ ICE đầy đủ không đọc được. Nhân sự kỹ thuật được ghi vì làm thiết bị khảo sát.",
+     "units": [
+      {
+       "name": "Khảo sát thiên hà, AGN và sự kiện thoáng qua",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ICE",
+       "topics": "DES Y6, PAU Survey, Euclid, cấu trúc lớn và thấu kính yếu, mô phỏng, siêu tân tinh loại II/Ia cho vũ trụ học, lỗ đen khối lượng trung bình, ánh sáng nội cụm.",
+       "url": "https://ice.csic.es/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Francisco Castander",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Martin Crocce",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Pablo Fosalba",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Lluís Galbany",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Mar Mezcua",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Mireia Montes",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Isaac Tutusaus",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Alex Alarcon",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Sylvain Gouyou Beauchamps",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Claudia Gutiérrez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Maria Kopsacheili",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Li-Wen Liao",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Gabriele Parimbelli",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Slađana Radinović",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Sujatha Ramakrishnan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Santiago Serrano",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Alaa Alburai",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Marc Alemany",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Zahra Baghkani",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Gisela Camacho",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "José María Coloma",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Dane Cross",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Alejandro Eróstegui",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Giousè Gambardella",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Maider González",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Cristina Jiménez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Hao-Yu Miao",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Cristian Nery Viglione",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Kim Phan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Víctor Rodríguez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Julen Untzaga",
+          "role": "Nghiên cứu sinh",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Ricard Casas",
+          "role": "Kỹ sư",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Axel Verderi",
+          "role": "Kỹ sư",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Álvaro Montoro",
+          "role": "Kỹ sư",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         },
+         {
+          "name": "Alex Tomás",
+          "role": "Kỹ sư",
+          "url": "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "lapalma",
+   "city": "La Palma (Breña Baja)",
+   "coordinates": [
+    -17.77,
+    28.63
+   ],
+   "institutions": [
+    {
+     "name": "Isaac Newton Group of Telescopes (ING)",
+     "type": "observatory",
+     "research": "Vận hành Kính William Herschel 4,2 m (máy quang phổ WEAVE, HARPS3) và Kính Isaac Newton 2,5 m tại Đài thiên văn Roque de los Muchachos; nghiên cứu của nhân viên gồm chuẩn tinh, ngoại hành tinh, siêu tân tinh, thiên hà, sao.",
+     "url": "https://www.ing.iac.es/",
+     "coverage": "full",
+     "structure": "Tổ chức quốc tế do Anh (STFC), Hà Lan (NWO) và Tây Ban Nha (IAC) đồng vận hành; nhóm thiên văn (Astronomy group) gồm nhà thiên văn hỗ trợ quan sát, quan sát viên, kỹ sư; cùng sinh viên và khách nghiên cứu.",
+     "structureUrl": "https://www.ing.iac.es/astronomy/science/staff/index.html",
+     "scopeNote": "Đủ nhóm thiên văn của ING theo trang \"Research Staff and Their Interests\" (cập nhật 12/11/2026), gồm nhân viên, sinh viên và khách nghiên cứu; không gồm bộ phận kỹ thuật và hành chính khác.",
+     "units": [
+      {
+       "name": "Astronomy group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ING",
+       "topics": "Hỗ trợ quan sát WHT/INT, WEAVE, HARPS3; chuẩn tinh hấp thụ vạch rộng, ngoại hành tinh, siêu tân tinh, sự kiện thoáng qua, tiến hóa thiên hà, khí quyển sao.",
+       "url": "https://www.ing.iac.es/astronomy/science/staff/index.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Chris Benn",
+          "role": "Trưởng nhóm thiên văn",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Lilian Domínguez",
+          "role": "Nhà thiên văn hỗ trợ quan sát / quan sát viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Cecilia Fariña",
+          "role": "Nhà thiên văn hỗ trợ quan sát / quan sát viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Nada Ihanec",
+          "role": "Nhà thiên văn hỗ trợ quan sát / quan sát viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Eduardo Mantero",
+          "role": "Nhà thiên văn hỗ trợ quan sát / quan sát viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Yeisson Osorio",
+          "role": "Nhà thiên văn hỗ trợ quan sát / quan sát viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Saskia Schlagenhauf",
+          "role": "Nhà thiên văn hỗ trợ quan sát / quan sát viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "José Norberto González",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Florencia Jiménez (đang nghỉ)",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Alberto Madrigal",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Lara Monteagudo",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Viktoria Pinter",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Fiona Riddick (đang nghỉ)",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Judith Santos",
+          "role": "Trợ lý hỗ trợ quan sát",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Emanuel Gafton",
+          "role": "Kỹ sư và nhân viên khoa học khác",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Emilie Lhomé (đang nghỉ)",
+          "role": "Kỹ sư và nhân viên khoa học khác",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Javier Méndez",
+          "role": "Kỹ sư và nhân viên khoa học khác",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Neil O'Mahony",
+          "role": "Kỹ sư và nhân viên khoa học khác",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Jure Skvarč",
+          "role": "Kỹ sư và nhân viên khoa học khác",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Nicholas Janssen",
+          "role": "Kỹ sư và nhân viên khoa học khác",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Zhe Shuen Lee",
+          "role": "Sinh viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Lucia Juliá Maroto",
+          "role": "Sinh viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "José Daniel Marrero Falcón",
+          "role": "Sinh viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Jamie McAteer",
+          "role": "Sinh viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Victor Pascual Pedrosa",
+          "role": "Sinh viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Hannah Robinson",
+          "role": "Sinh viên",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Leticia Ferrero",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Luciano García",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Bridget Kabugho",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Martina Tapia Reina",
+          "role": "Khách nghiên cứu",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Marc Balcells",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         },
+         {
+          "name": "Ian Skillen",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.ing.iac.es/astronomy/science/staff/index.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ing.iac.es/astronomy/science/staff/index.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "madrid",
+   "city": "Madrid",
+   "coordinates": [
+    -3.7,
+    40.42
+   ],
+   "institutions": [
+    {
+     "name": "Centro de Astrobiología (CAB, CSIC-INTA)",
+     "type": "institute",
+     "research": "Thiên hà và AGN (JWST MIRI/NIRSpec, ELT HARMONI), sao khối lượng lớn, hành tinh học và khả năng sống, thiết bị không gian; cùng các khoa sinh học tiến hóa và địa hóa. Đặt tại campus ESAC (Villanueva de la Cañada) và Torrejón de Ardoz.",
+     "url": "https://cab.inta-csic.es/",
+     "coverage": "partial",
+     "structure": "Trung tâm hỗn hợp CSIC–INTA; các khoa Vật lý thiên văn, Hành tinh học và khả năng sống, Thiết bị tiên tiến, Tiến hóa phân tử. Trưởng khoa Vật lý thiên văn: J. Miguel Mas-Hesse.",
+     "structureUrl": "https://cab.inta-csic.es/en/personal/mas-hesse-j-miguel/",
+     "scopeNote": "Chỉ gồm nhóm Hình thành và tiến hóa thiên hà của khoa Vật lý thiên văn theo trang nhóm (11/2026); danh sách nhân sự CAB đầy đủ không đọc được.",
+     "units": [
+      {
+       "name": "Galaxy Formation and Evolution Group (khoa Vật lý thiên văn)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CAB",
+       "topics": "Thiên hà ở mọi thời kỳ vũ trụ, sao – khí giữa các sao – lỗ đen siêu nặng, JWST (MIRI, NIRSpec), ELT HARMONI.",
+       "url": "https://cab.inta-csic.es/en/?p=31940",
+       "researchers": {
+        "people": [
+         {
+          "name": "J. Miguel Mas-Hesse",
+          "role": "Trưởng khoa Vật lý thiên văn",
+          "url": "https://cab.inta-csic.es/en/personal/mas-hesse-j-miguel/"
+         },
+         {
+          "name": "Almudena Alonso Herrero",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Bruno Rodríguez del Pino",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Giovanni Miniutti",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Irene Shivaei",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Javier Álvarez Márquez",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Luis Colina Robledo",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Michele Perna",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Miguel Cerviño",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Montserrat Villar Martín",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Pablo G. Pérez González",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Santiago Arribas Mocoroa",
+          "role": "Nhà nghiên cứu cao cấp",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Ismael García Bernete",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Ivanna Langan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Laura Hermosa Muñoz",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Luca Costantin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Mahmoud Hamed",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Margherita Giustini",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Marianna Annunziatella",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Carlota Prieto Jiménez",
+          "role": "NCS / thạc sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Carmen Blanco Prieto",
+          "role": "NCS / thạc sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         },
+         {
+          "name": "Leonor Arriscado",
+          "role": "NCS / thạc sĩ",
+          "url": "https://cab-astro-galaxies.github.io/people.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://cab-astro-galaxies.github.io/people.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
+     "name": "Universidad Complutense de Madrid (UCM) — Khoa Vật lý Trái Đất và Vật lý thiên văn, nhóm GUAIX",
+     "type": "university",
+     "research": "Thiên hà hình thành sao ở vũ trụ gần và xa, quần thể sao, tiến hóa thiên hà, thiết bị thiên văn (MEGARA trên GTC, EMIR, ô nhiễm ánh sáng); thuộc IPARCOS-UCM.",
+     "url": "https://guaix.ucm.es/",
+     "coverage": "partial",
+     "structure": "Nhóm GUAIX (Extragalactic Astrophysics and Astronomical Instrumentation) thuộc Khoa Física de la Tierra y Astrofísica, thành viên viện IPARCOS-UCM.",
+     "structureUrl": "https://guaix.ucm.es/about-us",
+     "scopeNote": "Chỉ gồm nhóm GUAIX theo trang thành viên (11/2026); các nhóm thiên văn khác của khoa (sao, vật lý Mặt Trời, khí quyển...) chưa có.",
+     "units": [
+      {
+       "name": "GUAIX — Vật lý thiên văn ngoài thiên hà và thiết bị",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "UCM",
+       "topics": "Thiên hà hình thành sao, quần thể sao, phổ trường tích phân MEGARA, thiết bị cho GTC, ô nhiễm ánh sáng.",
+       "url": "https://guaix.ucm.es/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Jesús Gallego Maestro",
+          "role": "Điều phối nhóm GUAIX",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Nicolás Cardiel López",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Armando Gil de Paz",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "África Castillo Morales",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Patricia Sánchez-Blázquez",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Mariángeles Gómez Flechoso",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Sergio Pascual Ramírez",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Cristina Catalán Torrecilla",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Maritza Lara-López",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Shane O'Sullivan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Enrica Bellocchi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Francisco Miguel Montenegro Montes",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Mario Chamorro-Cazorla",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Ángela García Argumánez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Sunil Malik",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Fumihiro Naokawa",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Luis Enrique Garduño",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Beatriz Callejas Córdoba",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "María Delgado Mancheño",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "David Alonso López",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Paula Macías Pardo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Asier Lambarri Martínez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Sergio García Moreno",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Juba Barrios Ortiz",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "María Chillarón Víctor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Guillermo Valé Arteaga",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Andrés Beamuz Mingote",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Marina Martín Puebla",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Celia Merino",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Hamed Zare",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Laura Medina",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Eugenio Grande",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Raúl Pérez-Parras",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Pablo Álvarez Martín",
+          "role": "Nghiên cứu sinh",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Noelia Grande Zafrilla",
+          "role": "Nhà nghiên cứu / kỹ thuật viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Rafael González Fuentetaja",
+          "role": "Nhà nghiên cứu / kỹ thuật viên",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Jaime Zamorano Calvo",
+          "role": "Cộng tác viên danh dự",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Javier Gorgas García",
+          "role": "Cộng tác viên danh dự",
+          "url": "https://guaix.ucm.es/?p=5"
+         },
+         {
+          "name": "Santi Roca Fàbrega",
+          "role": "Cộng tác viên danh dự",
+          "url": "https://guaix.ucm.es/?p=5"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://guaix.ucm.es/?p=5"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "ESP",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Bản đồ gồm cả quần đảo Canary (IAC ở Tenerife, ING ở La Palma).",
+ "listSource": "https://somma.es/"
+}

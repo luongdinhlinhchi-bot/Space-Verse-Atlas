@@ -1,0 +1,21 @@
+@city barcelona | Barcelona (Bellaterra) | 2.11, 41.50
+
+@inst Institut de Ciències de l'Espai (ICE-CSIC)
+city: barcelona
+type: institute
+url: https://ice.csic.es/
+research: Vũ trụ học và khảo sát thiên hà (DES, PAU, Euclid, DESI), AGN và tiến hóa thiên hà, siêu tân tinh và sự kiện thoáng qua, sao neutron và pulsar, sóng hấp dẫn (LISA), sao – hành tinh – thiên thạch, khoa học Trái Đất từ vũ trụ; phát triển thiết bị không gian.
+coverage: partial
+structure: Viện của CSIC, liên kết với IEEC; đơn vị María de Maeztu; khoảng 7 nhóm nghiên cứu (vũ trụ học quan sát và lý thuyết; AGN và thiên hà; sao, hành tinh và thiên thạch; sao neutron; sóng hấp dẫn; môi trường giữa các sao; khoa học Trái Đất).
+structureUrl: https://ice.csic.es/about-us/organisation
+scope: Chỉ gồm bộ phận khảo sát thiên hà – vũ trụ học (nhóm Large-scale galaxy surveys, AGN and Galaxy Evolution, SN and transients) theo bài trình bày BCN-MAD của ICE (2025); danh bạ ICE đầy đủ không đọc được. Nhân sự kỹ thuật được ghi vì làm thiết bị khảo sát.
+
+#unit Khảo sát thiên hà, AGN và sự kiện thoáng qua
+parent: ICE
+topics: DES Y6, PAU Survey, Euclid, cấu trúc lớn và thấu kính yếu, mô phỏng, siêu tân tinh loại II/Ia cho vũ trụ học, lỗ đen khối lượng trung bình, ánh sáng nội cụm.
+url: https://ice.csic.es/
+src: https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf
+pp: Nhà nghiên cứu biên chế | Francisco Castander; Martin Crocce; Pablo Fosalba; Lluís Galbany; Mar Mezcua; Mireia Montes; Isaac Tutusaus
+pp: PD | Alex Alarcon; Sylvain Gouyou Beauchamps; Claudia Gutiérrez; Maria Kopsacheili; Li-Wen Liao; Gabriele Parimbelli; Slađana Radinović; Sujatha Ramakrishnan; Santiago Serrano
+pp: NCS | Alaa Alburai; Marc Alemany; Zahra Baghkani; Gisela Camacho; José María Coloma; Dane Cross; Alejandro Eróstegui; Giousè Gambardella; Maider González; Cristina Jiménez; Hao-Yu Miao; Cristian Nery Viglione; Kim Phan; Víctor Rodríguez; Julen Untzaga
+pp: Kỹ sư | Ricard Casas; Axel Verderi; Álvaro Montoro; Alex Tomás

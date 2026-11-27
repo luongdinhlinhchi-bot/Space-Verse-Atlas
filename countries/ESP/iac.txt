@@ -1,0 +1,67 @@
+@city laguna | San Cristóbal de La Laguna (Tenerife) | -16.32, 28.48
+
+@inst Instituto de Astrofísica de Canarias (IAC)
+city: laguna
+type: institute
+url: https://www.iac.es/
+research: Vật lý Mặt Trời (EST, GREGOR), ngoại hành tinh và hệ hành tinh (ESPRESSO, CARMENES, PLATO), sao và môi trường giữa các sao, Ngân Hà và nhóm Địa phương, thiên hà và AGN, vũ trụ học và CMB (QUIJOTE), thiên văn năng lượng cao (CTAO, LST); vận hành Đài thiên văn Teide (Tenerife) và Roque de los Muchachos (La Palma), nơi đặt GTC 10,4 m.
+coverage: partial
+structure: Consorcio công gồm Nhà nước Tây Ban Nha, chính quyền Canarias, Đại học La Laguna (ULL) và CSIC; trung tâm Severo Ochoa. Nhân sự nghiên cứu chia theo loại: nhà nghiên cứu biên chế IAC, nhà nghiên cứu gắn từ ULL/CSIC, postdoc, NCS, nhà nghiên cứu liên kết; nghiên cứu tổ chức theo các mảng (Mặt Trời; sao và môi trường giữa các sao; hệ hành tinh; thiên hà; vũ trụ học và hạt thiên văn).
+structureUrl: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+scope: Danh bạ nhà nghiên cứu IAC có khoảng 22 trang nhưng không đọc tuần tự được (11/2026); danh sách ghép từ các trang danh bạ đọc được và đoạn trích danh bạ trong kết quả tìm kiếm, khoảng 2/3 số nhà nghiên cứu và NCS. Phân loại theo nhãn trong danh bạ IAC; không chia theo mảng nghiên cứu.
+
+#unit Ban giám đốc
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: Ban giám đốc | Eva Gloria Villaver Sobrino
+
+#unit Nhà nghiên cứu biên chế IAC (Profesor/Investigador/Científico Titular OPIS)
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: Nhà nghiên cứu biên chế IAC | Alexandre Vazdekis; Almudena Prieto Escudero; Andrés Asensio Ramos; Antonio Jiménez Mancebo; Carlos Allende Prieto; Carlos Manuel Gutiérrez de la Cruz; Carmen Gallart Gallart; Casiana Muñoz Tuñón; Claudio Dalla Vecchia; Cristina Ramos Almeida; Eduardo Lorenzo Martín Guerrero de Escalante; Elena Khomenko Shchukina; Enric Pallé Bago; Garik Israelian; Giuseppina Battaglia; Hans Jörg Deeg; Ignacio Alfonso Ferreras Páez; Ignacio Martín Navarro; Ignacio Trujillo Cabrera; Javier Andrés Licandro Goldaracena; Jesús Falcón Barroso; Johan Hendrik Knapen Koelstra; Jonay Isaí González Hernández; Jorge Casares Velázquez; Jorge Francisco Sánchez Almeida; Jorge Martín Camalich; José Alberto Rubiño Martín; José Alfonso López Aguerri; Juan Antonio Belmonte Avilés; Manuel Ángel Pérez Torres; Marc Huertas-Portocarrero Company; Martín López Corredoira; Michael Andrew Beasley; Mónica Luisa Vázquez Acosta; Nicolas Cédric Lodieu; Pere Lluís Pallé Manzano; Tariq Shahbaz; Teodoro Muñoz Darias; Víctor Javier Sánchez Béjar; Íñigo Arregui Uribe-Echevarría
+
+#unit Nhà nghiên cứu cao cấp theo hợp đồng (Investigador Distinguido, plantilla)
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: Nhà nghiên cứu cao cấp theo hợp đồng | Evanthia Hatziminaoglou; Jeffrey Richard Kuhn; Julia de León Cruz
+
+#unit Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC (adscritos)
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: Nhà nghiên cứu gắn với IAC từ ĐH La Laguna và CSIC | Adriana de Lorenzo-Cáceres Rodríguez; Alejandro Suárez Mascareño; Antonio Aparicio Juan; Arianna Di Cintio; Artemio Herrero Davo; Arturo Manchado Torres; Carlos Cristo Quintero Noda; Carlos Lázaro Hernando; Christopher Brook; César Esteban López; Emma Fernández Alvar; Evencio Mediavilla Gradolph; Francisco Shu Kitaura Joyanes; Ginevra Favole; Hannu Parviainen; Ignacio González Martínez-Pais; Ismael Pérez Fournon; Jairo Méndez Abreu; Javier Trujillo Bueno; Jorge Cepa Nogué; Josefa Becerra González; José Antonio Acosta Pulido; Manuel Collados Vera; Michael Yousef Abdul Masih; Mireia Nievas Rosillo; Pablo Rodríguez Gil; Paul Beck; Rafael Rebolo López; Ramón García López; Sara Rodríguez Berlanas; Yuri Cavecchi
+
+#unit PD (gồm Ramón y Cajal, Juan de la Cierva)
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: PD | Alejandra Aguirre Santaella; Alessandro Fasano; Alice Mori; Alicia López Oramas; Ana Contreras Santos; Ana Escorza Santos; Anamaría Navarro Noguera; Anelise Audibert Allegretti; Anna Barbara de Andrade Queiroz; Anna Ferré Mateu; Carlos Humberto Domínguez-Tagle Paredes; Chengzi Jiang; Christoph Alexander Kuckein; Christopher Eckner; Daniel Mata Sánchez; Edgar Samuel Carlín Ramírez; Eri Tatsumi; Eric Michael Maclennan; Ernest Alsina Ballester; Eva Durán Camacho; Frédéric Nicolas David Poidevin; Gaia Lacedelli; Gaston Javier Escobar; Gloria Canocchi; Gonzalo Holgado Alijo; Guangwen Chen; Hirdesh Kumar; Javier de Miguel Hernández; Jenny Alejandra González Jara; Jorge García Rojas; José Manuel Pérez Martínez; Juan Carlos Trelles Arjona; Judith Marie Korth; Julia Anneli Martikainen; Malgorzata Siudek; Marina Bianchin; Maruska Zerjal; María José Benito Castaño; Montserrat Armas Padilla; Natalia Arteaga Marrero; Nikola Vitas; Pedro Alonso Palicio; Sara Esteban Pozuelo; Sara Vitali; Susana Iglesias Groth; Tanausú del Pino Alemán; Tania Eleonore Marie Le Pivert-Jolivet; Thomas Masseron; Tobías Felipe García
+
+#unit NCS (hợp đồng tiền tiến sĩ)
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: NCS | Adrián Sánchez Chaves; Alba Casasbuenas Corral; Alba Crespo Pérez; Alexa Friederich Hidalgo; Alicia Rivero Batista; Ana Rita Rebelo de Almeida; Andrea Ruiz del Pozo; Atanas Konstantinov Stefanov; Dafne Martín Domínguez; Daniel Galán Diéguez; Eduardo Albuquerque Hartmann; Elena Vanetti; Enzo Agustín Saavedra; Eva Sola Viladesau; Gareb Enoc Fernández Rodríguez; George Pantelimon Prodan; Ignacio Ruiz Cejudo; Jorge Manuel Sarrato Alós; Kumar Aryan; Le Minh Ngoc; Luis Barrios Jiménez; Maialen Orte García; Manuel Sánchez Benavente; Mar Pérez Sar; Marina Madeline Dunn; Matías Koll Pistarini; Nafise Sedighi; Sara Herminia Navarro Umpiérrez; Sara Muñoz Torres; Sergio Guerra Arencibia; Teresa Huertas Roldán; Tora Therese Hoeiland Arnesen; Utsav Bose; Valentina Shadi Fontirroig Rojas; Zahra Sharbaf; Ángela María Arriero López; Íñigo Juanikorena Berasategi
+
+#unit Nhà nghiên cứu liên kết (GTC, ING, INAF...)
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: Nhà nghiên cứu liên kết | Akihiko Fukui; Antonio Luis Cabrera Lavers; Carmen Pilar Padilla Torres; Cecilia Fariña; Daniel Reverte Paya; Gabriel Gómez Velarde; Gianluca Lombardi; Lilian Fátima Domínguez Palmero; Lucio Crivellari; Matteo Monelli; Nieves Dolores Castro Rodríguez; Norio Narita; Sara González Pérez; Sebastián Francisco Sánchez Sánchez; Yeisson Fabián Martínez Osorio
+
+#unit Cộng tác viên / ad honorem
+parent: IAC
+topics: Mọi mảng nghiên cứu của IAC.
+url: https://www.iac.es/en/science-and-technology/astrophysical-research/research-staff
+src: https://www.iac.es/en/about-us/list-of-personnel
+pp: Cộng tác viên / ad honorem | Antonio Eff-Darwich; Daniel Lennon

@@ -1,0 +1,23 @@
+@city madrid | Madrid | -3.70, 40.42
+
+@inst Universidad Complutense de Madrid (UCM) — Khoa Vật lý Trái Đất và Vật lý thiên văn, nhóm GUAIX
+city: madrid
+type: university
+url: https://guaix.ucm.es/
+research: Thiên hà hình thành sao ở vũ trụ gần và xa, quần thể sao, tiến hóa thiên hà, thiết bị thiên văn (MEGARA trên GTC, EMIR, ô nhiễm ánh sáng); thuộc IPARCOS-UCM.
+coverage: partial
+structure: Nhóm GUAIX (Extragalactic Astrophysics and Astronomical Instrumentation) thuộc Khoa Física de la Tierra y Astrofísica, thành viên viện IPARCOS-UCM.
+structureUrl: https://guaix.ucm.es/about-us
+scope: Chỉ gồm nhóm GUAIX theo trang thành viên (11/2026); các nhóm thiên văn khác của khoa (sao, vật lý Mặt Trời, khí quyển...) chưa có.
+
+#unit GUAIX — Vật lý thiên văn ngoài thiên hà và thiết bị
+parent: UCM
+topics: Thiên hà hình thành sao, quần thể sao, phổ trường tích phân MEGARA, thiết bị cho GTC, ô nhiễm ánh sáng.
+url: https://guaix.ucm.es/
+src: https://guaix.ucm.es/?p=5
+p: Jesús Gallego Maestro | Điều phối nhóm GUAIX | https://guaix.ucm.es/?p=5
+pp: Giáo sư / giảng viên | Nicolás Cardiel López; Armando Gil de Paz; África Castillo Morales; Patricia Sánchez-Blázquez; Mariángeles Gómez Flechoso; Sergio Pascual Ramírez; Cristina Catalán Torrecilla
+pp: PD | Maritza Lara-López; Shane O'Sullivan; Enrica Bellocchi; Francisco Miguel Montenegro Montes; Mario Chamorro-Cazorla; Ángela García Argumánez; Sunil Malik; Fumihiro Naokawa; Luis Enrique Garduño
+pp: NCS | Beatriz Callejas Córdoba; María Delgado Mancheño; David Alonso López; Paula Macías Pardo; Asier Lambarri Martínez; Sergio García Moreno; Juba Barrios Ortiz; María Chillarón Víctor; Guillermo Valé Arteaga; Andrés Beamuz Mingote; Marina Martín Puebla; Celia Merino; Hamed Zare; Laura Medina; Eugenio Grande; Raúl Pérez-Parras; Pablo Álvarez Martín
+pp: Nhà nghiên cứu / kỹ thuật viên | Noelia Grande Zafrilla; Rafael González Fuentetaja
+pp: Cộng tác viên danh dự | Jaime Zamorano Calvo; Javier Gorgas García; Santi Roca Fàbrega

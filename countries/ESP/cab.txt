@@ -1,0 +1,19 @@
+@inst Centro de Astrobiología (CAB, CSIC-INTA)
+city: madrid
+type: institute
+url: https://cab.inta-csic.es/
+research: Thiên hà và AGN (JWST MIRI/NIRSpec, ELT HARMONI), sao khối lượng lớn, hành tinh học và khả năng sống, thiết bị không gian; cùng các khoa sinh học tiến hóa và địa hóa. Đặt tại campus ESAC (Villanueva de la Cañada) và Torrejón de Ardoz.
+coverage: partial
+structure: Trung tâm hỗn hợp CSIC–INTA; các khoa Vật lý thiên văn, Hành tinh học và khả năng sống, Thiết bị tiên tiến, Tiến hóa phân tử. Trưởng khoa Vật lý thiên văn: J. Miguel Mas-Hesse.
+structureUrl: https://cab.inta-csic.es/en/personal/mas-hesse-j-miguel/
+scope: Chỉ gồm nhóm Hình thành và tiến hóa thiên hà của khoa Vật lý thiên văn theo trang nhóm (11/2026); danh sách nhân sự CAB đầy đủ không đọc được.
+
+#unit Galaxy Formation and Evolution Group (khoa Vật lý thiên văn)
+parent: CAB
+topics: Thiên hà ở mọi thời kỳ vũ trụ, sao – khí giữa các sao – lỗ đen siêu nặng, JWST (MIRI, NIRSpec), ELT HARMONI.
+url: https://cab.inta-csic.es/en/?p=31940
+src: https://cab-astro-galaxies.github.io/people.html
+p: J. Miguel Mas-Hesse | Trưởng khoa Vật lý thiên văn | https://cab.inta-csic.es/en/personal/mas-hesse-j-miguel/
+pp: Nhà nghiên cứu cao cấp | Almudena Alonso Herrero; Bruno Rodríguez del Pino; Giovanni Miniutti; Irene Shivaei; Javier Álvarez Márquez; Luis Colina Robledo; Michele Perna; Miguel Cerviño; Montserrat Villar Martín; Pablo G. Pérez González; Santiago Arribas Mocoroa
+pp: PD | Ismael García Bernete; Ivanna Langan; Laura Hermosa Muñoz; Luca Costantin; Mahmoud Hamed; Margherita Giustini; Marianna Annunziatella
+pp: NCS / thạc sĩ | Carlota Prieto Jiménez; Carmen Blanco Prieto; Leonor Arriscado

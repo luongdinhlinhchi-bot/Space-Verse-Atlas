@@ -1,0 +1,32 @@
+@city teruel | Teruel | -1.11, 40.34
+
+@inst Centro de Estudios de Física del Cosmos de Aragón (CEFCA)
+city: teruel
+type: institute
+url: https://www.cefca.es/
+research: Khảo sát trắc quang đa dải J-PLUS và J-PAS, tiến hóa thiên hà và cụm thiên hà, sao và Ngân Hà, thiên thể nhỏ trong Hệ Mặt Trời, thiên hà vệ tinh và vật chất tối; vận hành Đài thiên văn Javalambre (OAJ).
+coverage: full
+structure: Quỹ công do chính quyền Aragón thành lập năm 2008; khối nghiên cứu, Đài thiên văn Javalambre (OAJ) với các bộ phận kỹ thuật, vận hành (DOPC) và xử lý dữ liệu (DPAD), khối truyền thông và hành chính.
+structureUrl: https://www.cefca.es/cefca_en/team
+scope: Đủ nhà nghiên cứu, nhà thiên văn kỹ thuật và nhân sự dữ liệu khoa học theo trang Team của CEFCA (11/2026); bỏ kỹ thuật viên phần cứng, quan sát viên, thực tập hè và hành chính.
+
+#unit Nghiên cứu
+parent: CEFCA
+topics: J-PLUS, J-PAS, tiến hóa thiên hà, cụm thiên hà, sao và Ngân Hà, tiểu hành tinh, thiên hà lùn và vật chất tối.
+url: https://www.cefca.es/cefca_en/team
+src: https://www.cefca.es/cefca_en/team
+p: Javier Cenarro Lagunas | Giám đốc | https://www.cefca.es/cefca_en/team
+p: Carlos López San Juan | Phó giám đốc nghiên cứu | https://www.cefca.es/cefca_en/team
+pp: Nhà nghiên cứu | Alessandro Ederoclite; Juan Antonio Fernández Ontiveros; David Martínez Delgado; Bojan Novakovic; Stefano Zarattini; Borja Anguiano (Ramón y Cajal)
+pp: PD | Karla Ziboney Arellano Córdova; Raúl Infante Sainz
+pp: NCS | David Fernández Gil; Adrián Hidalgo Pinilla; Sayali Kulkarni; Francisco Javier Sáez Ruiz
+pp: Nhà sáng lập | Mariano Moles Villamate
+
+#unit Đài thiên văn Javalambre (OAJ) — vận hành và dữ liệu
+parent: CEFCA
+topics: Vận hành kính JST/T250 và JAST/T80, xử lý và lưu trữ dữ liệu khảo sát, pipeline, phần mềm Gnuastro.
+url: https://www.cefca.es/cefca_en/team
+src: https://www.cefca.es/cefca_en/team
+p: Antonio Marín-Franch | Phó giám đốc OAJ, nhà nghiên cứu | https://www.cefca.es/cefca_en/team
+pp: Nhà nghiên cứu / nhà thiên văn kỹ thuật | Javier Zaragoza Cardiel; Héctor Vázquez Ramió; Miguel Chioare Díaz Martín; Ramón Iglesias Marzoa; Mohammad Akhlaghi; Antonio Hernán Caballero
+pp: Kỹ sư dữ liệu và phần mềm khoa học | Tamara Civera Lorenzo; Sepideh Eskandarlou; Javier Hernández Fuertes; Giacomo Lorenzetti; Alberto Moreno Signes; David José Muniesa Gallardo
