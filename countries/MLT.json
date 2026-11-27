@@ -1,0 +1,130 @@
+{
+ "cities": [
+  {
+   "id": "msida",
+   "city": "Msida",
+   "coordinates": [
+    14.48,
+    35.9
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Space Sciences and Astronomy (ISSA), University of Malta",
+     "type": "university",
+     "research": "Thiên văn vô tuyến và thiết bị cho SKA (xử lý tín hiệu, AI cho thiên văn vô tuyến – dự án STRADA), theo dõi vật thể không gian (space surveillance and tracking), vũ trụ học và lý thuyết hấp dẫn sửa đổi (căng thẳng Hubble, hấp dẫn teleparallel), kỷ nguyên tái ion hóa.",
+     "url": "https://www.um.edu.mt/issa/",
+     "coverage": "full",
+     "structure": "Viện liên khoa thành lập năm 2014, gồm thành viên từ các khoa Khoa học, Kỹ thuật và CNTT của Đại học Malta; có cán bộ giảng dạy, cán bộ liên kết (Manchester, Oxford, Catania, Sussex, doanh nghiệp) và nhân viên hỗ trợ nghiên cứu.",
+     "structureUrl": "https://www.um.edu.mt/issa/aboutus/",
+     "scopeNote": "Đủ danh sách trang \"Our staff\" của ISSA (11/2026), không gồm nhân viên hành chính. Trang staff ghi Kristian Zarb Adami là giám đốc, còn bài báo kỷ niệm 10 năm của trường ghi Alessio Magro là giám đốc; bản đồ giữ theo trang staff.",
+     "units": [
+      {
+       "name": "ISSA",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ISSA",
+       "topics": "Thiên văn vô tuyến, SKA, theo dõi vật thể không gian, vũ trụ học, hấp dẫn sửa đổi.",
+       "url": "https://www.um.edu.mt/issa/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Kristian Zarb Adami",
+          "role": "Giáo sư, giám đốc (theo trang staff)",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Alessio Magro",
+          "role": "Phó giáo sư; thiên văn vô tuyến, theo dõi vật thể không gian",
+          "url": "https://www.um.edu.mt/profile/alessiomagro"
+         },
+         {
+          "name": "Jackson Levi Said",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Andrea De Marco",
+          "role": "Cán bộ giảng dạy",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Anthony K. Brown (University of Manchester)",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Andrew Bunker (University of Oxford)",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Simone Riggi (Università di Catania)",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Stephen M. Wilkins (University of Sussex)",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Ian Fenech Conti",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Deandra Cutajar",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Andrew Finch",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Denis Cutajar",
+          "role": "Cán bộ liên kết",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Jurgen Mifsud",
+          "role": "Nhân viên hỗ trợ nghiên cứu",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Zakie Hiba Wazaz",
+          "role": "Nhân viên hỗ trợ nghiên cứu",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Rebecca Briffa",
+          "role": "Nhân viên hỗ trợ nghiên cứu",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         },
+         {
+          "name": "Adrian De Barro",
+          "role": "Nhân viên hỗ trợ nghiên cứu",
+          "url": "https://www.um.edu.mt/issa/staff/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.um.edu.mt/issa/staff/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "MLT",
+ "checked": "2026-11-28",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://www.um.edu.mt/issa/aboutus/"
+}

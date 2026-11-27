@@ -1,0 +1,21 @@
+@city nicosia | Nicosia | 33.35, 35.13
+
+@inst Aristarchus Research Center (ARC), European University Cyprus
+city: nicosia
+type: university
+url: https://arc.euc.ac.cy/
+research: Thiên văn hồng ngoại và vũ trụ học: mô hình truyền bức xạ cho thiên hà bùng nổ sao và nhân thiên hà hoạt động (dự án CYGNUS), hình thành – tiến hóa thiên hà, siêu tân tinh siêu sáng; điện toán hiệu năng cao và khoa học dữ liệu.
+coverage: full
+structure: Trung tâm nghiên cứu liên ngành (trước đây là nhóm Vật lý thiên văn và Điện toán hiệu năng cao – AHPC) thuộc European University Cyprus; giám đốc Andreas Efstathiou, đồng thời là hiệu trưởng trường.
+structureUrl: https://arc.euc.ac.cy/?p=341
+scope: Đủ danh sách "ARC Team" (11/2026), gồm cả thành viên làm khoa học dữ liệu và tin học.
+
+#unit ARC Team
+parent: ARC
+topics: Thiên văn hồng ngoại, thiên hà và AGN, vũ trụ học, điện toán hiệu năng cao.
+url: https://arc.euc.ac.cy/
+src: https://arc.euc.ac.cy/?p=341
+p: Andreas Efstathiou | Giáo sư, trưởng nhóm; hiệu trưởng EUC | https://euc.ac.cy/en/faculty-profiles/andreas-efstathiou/
+pp: Giảng viên | Vicky Papadopoulou Lesta (phó giáo sư); Ioannis Michos (trợ lý giáo sư); Klea Panayidou (trợ lý giáo sư); Vasilios Raptis (phó giáo sư kiêm nhiệm)
+pp: Nhà nghiên cứu | Evangelos Papaefthymiou
+pp: NCS | Orestis Pavlou; Charalambia Varnava; Michalis Papadopoulos; George Pallaris

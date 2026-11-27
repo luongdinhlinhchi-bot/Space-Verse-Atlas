@@ -1,0 +1,22 @@
+@city msida | Msida | 14.48, 35.90
+
+@inst Institute of Space Sciences and Astronomy (ISSA), University of Malta
+city: msida
+type: university
+url: https://www.um.edu.mt/issa/
+research: Thiên văn vô tuyến và thiết bị cho SKA (xử lý tín hiệu, AI cho thiên văn vô tuyến – dự án STRADA), theo dõi vật thể không gian (space surveillance and tracking), vũ trụ học và lý thuyết hấp dẫn sửa đổi (căng thẳng Hubble, hấp dẫn teleparallel), kỷ nguyên tái ion hóa.
+coverage: full
+structure: Viện liên khoa thành lập năm 2014, gồm thành viên từ các khoa Khoa học, Kỹ thuật và CNTT của Đại học Malta; có cán bộ giảng dạy, cán bộ liên kết (Manchester, Oxford, Catania, Sussex, doanh nghiệp) và nhân viên hỗ trợ nghiên cứu.
+structureUrl: https://www.um.edu.mt/issa/aboutus/
+scope: Đủ danh sách trang "Our staff" của ISSA (11/2026), không gồm nhân viên hành chính. Trang staff ghi Kristian Zarb Adami là giám đốc, còn bài báo kỷ niệm 10 năm của trường ghi Alessio Magro là giám đốc; bản đồ giữ theo trang staff.
+
+#unit ISSA
+parent: ISSA
+topics: Thiên văn vô tuyến, SKA, theo dõi vật thể không gian, vũ trụ học, hấp dẫn sửa đổi.
+url: https://www.um.edu.mt/issa/
+src: https://www.um.edu.mt/issa/staff/
+p: Kristian Zarb Adami | Giáo sư, giám đốc (theo trang staff) | https://www.um.edu.mt/issa/staff/
+p: Alessio Magro | Phó giáo sư; thiên văn vô tuyến, theo dõi vật thể không gian | https://www.um.edu.mt/profile/alessiomagro
+pp: Cán bộ giảng dạy | Jackson Levi Said; Andrea De Marco
+pp: Cán bộ liên kết | Anthony K. Brown (University of Manchester); Andrew Bunker (University of Oxford); Simone Riggi (Università di Catania); Stephen M. Wilkins (University of Sussex); Ian Fenech Conti; Deandra Cutajar; Andrew Finch; Denis Cutajar
+pp: Nhân viên hỗ trợ nghiên cứu | Jurgen Mifsud; Zakie Hiba Wazaz; Rebecca Briffa; Adrian De Barro

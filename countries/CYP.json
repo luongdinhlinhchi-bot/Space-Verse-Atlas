@@ -1,0 +1,100 @@
+{
+ "cities": [
+  {
+   "id": "nicosia",
+   "city": "Nicosia",
+   "coordinates": [
+    33.35,
+    35.13
+   ],
+   "institutions": [
+    {
+     "name": "Aristarchus Research Center (ARC), European University Cyprus",
+     "type": "university",
+     "research": "Thiên văn hồng ngoại và vũ trụ học: mô hình truyền bức xạ cho thiên hà bùng nổ sao và nhân thiên hà hoạt động (dự án CYGNUS), hình thành – tiến hóa thiên hà, siêu tân tinh siêu sáng; điện toán hiệu năng cao và khoa học dữ liệu.",
+     "url": "https://arc.euc.ac.cy/",
+     "coverage": "full",
+     "structure": "Trung tâm nghiên cứu liên ngành (trước đây là nhóm Vật lý thiên văn và Điện toán hiệu năng cao – AHPC) thuộc European University Cyprus; giám đốc Andreas Efstathiou, đồng thời là hiệu trưởng trường.",
+     "structureUrl": "https://arc.euc.ac.cy/?p=341",
+     "scopeNote": "Đủ danh sách \"ARC Team\" (11/2026), gồm cả thành viên làm khoa học dữ liệu và tin học.",
+     "units": [
+      {
+       "name": "ARC Team",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ARC",
+       "topics": "Thiên văn hồng ngoại, thiên hà và AGN, vũ trụ học, điện toán hiệu năng cao.",
+       "url": "https://arc.euc.ac.cy/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Andreas Efstathiou",
+          "role": "Giáo sư, trưởng nhóm; hiệu trưởng EUC",
+          "url": "https://euc.ac.cy/en/faculty-profiles/andreas-efstathiou/"
+         },
+         {
+          "name": "Vicky Papadopoulou Lesta (phó giáo sư)",
+          "role": "Giảng viên",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Ioannis Michos (trợ lý giáo sư)",
+          "role": "Giảng viên",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Klea Panayidou (trợ lý giáo sư)",
+          "role": "Giảng viên",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Vasilios Raptis (phó giáo sư kiêm nhiệm)",
+          "role": "Giảng viên",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Evangelos Papaefthymiou",
+          "role": "Nhà nghiên cứu",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Orestis Pavlou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Charalambia Varnava",
+          "role": "Nghiên cứu sinh",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "Michalis Papadopoulos",
+          "role": "Nghiên cứu sinh",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         },
+         {
+          "name": "George Pallaris",
+          "role": "Nghiên cứu sinh",
+          "url": "https://arc.euc.ac.cy/?p=341"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://arc.euc.ac.cy/?p=341"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "CYP",
+ "checked": "2026-11-28",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://arc.euc.ac.cy/"
+}
