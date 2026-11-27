@@ -198,6 +198,135 @@
    ]
   },
   {
+   "id": "granada",
+   "city": "Granada",
+   "coordinates": [
+    -3.6,
+    37.18
+   ],
+   "institutions": [
+    {
+     "name": "Instituto de Astrofísica de Andalucía (IAA-CSIC)",
+     "type": "institute",
+     "research": "Hệ Mặt Trời và khí quyển hành tinh (thiết bị trên Solar Orbiter, ExoMars, JUICE), vật lý sao và ngoại hành tinh (CARMENES, PLATO), vật lý Mặt Trời, thiên văn vô tuyến và cấu trúc Ngân Hà (SKA, EHT, phụt khí tương đối tính), thiên hà và vũ trụ học (J-PAS, CALIFA); vận hành Đài thiên văn Sierra Nevada và tham gia Calar Alto.",
+     "url": "https://www.iaa.csic.es/",
+     "coverage": "leaders",
+     "structure": "Viện của CSIC, trung tâm Severo Ochoa; bốn khoa nghiên cứu (Hệ Mặt Trời; Vật lý sao; Thiên văn vô tuyến và cấu trúc Ngân Hà; Thiên văn ngoài thiên hà), đơn vị phát triển thiết bị (UDIT), trung tâm tính toán, các đài thiên văn Sierra Nevada (OSN) và Calar Alto (CAHA). Năm 2025 có 73 nhân sự biên chế, 69 postdoc và 51 NCS.",
+     "structureUrl": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf",
+     "scopeNote": "Danh bạ IAA tải bằng JavaScript nên không đọc được (11/2026); chỉ ghi ban giám đốc và trưởng các khoa/đơn vị theo sơ đồ tổ chức trong Báo cáo thường niên 2025.",
+     "units": [
+      {
+       "name": "Ban giám đốc",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAA",
+       "topics": "—",
+       "url": "https://www.iaa.csic.es/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Olga Muñoz Gómez (giám đốc)",
+          "role": "Ban giám đốc",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Rainer Schödel (phó giám đốc khoa học)",
+          "role": "Ban giám đốc",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "René Duffard (phó giám đốc công nghệ)",
+          "role": "Ban giám đốc",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Isabel Márquez (giám đốc khoa học dự án Severo Ochoa)",
+          "role": "Ban giám đốc",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Các khoa nghiên cứu",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAA",
+       "topics": "Hệ Mặt Trời; Vật lý sao; Thiên văn vô tuyến và cấu trúc Ngân Hà; Thiên văn ngoài thiên hà.",
+       "url": "https://www.iaa.csic.es/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Maya García Comas (Hệ Mặt Trời)",
+          "role": "Trưởng khoa",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Pedro J. Amado González (Vật lý sao)",
+          "role": "Trưởng khoa",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Iván Agudo Rodríguez (Thiên văn vô tuyến và cấu trúc Ngân Hà)",
+          "role": "Trưởng khoa",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Rubén García Benito (Thiên văn ngoài thiên hà)",
+          "role": "Trưởng khoa",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Đơn vị thiết bị và đài thiên văn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IAA",
+       "topics": "UDIT, Đài thiên văn Sierra Nevada, Calar Alto.",
+       "url": "https://www.iaa.csic.es/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Miguel Abril Martí (UDIT)",
+          "role": "Người phụ trách",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Pablo Santos-Sanz (Đài thiên văn Sierra Nevada)",
+          "role": "Người phụ trách",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         },
+         {
+          "name": "Jesús Aceituno Castro (Calar Alto)",
+          "role": "Người phụ trách",
+          "url": "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "laguna",
    "city": "San Cristóbal de La Laguna (Tenerife)",
    "coordinates": [
@@ -1255,6 +1384,171 @@
    ],
    "institutions": [
     {
+     "name": "Institut de Ciències del Cosmos, Universitat de Barcelona (ICCUB)",
+     "type": "institute",
+     "research": "Gaia và thiên văn đo vị trí, cấu trúc và tiến hóa Ngân Hà, sao và hình thành sao, thiên văn năng lượng cao (hệ nhị phân tia gamma, microquasar), sự kiện thoáng qua, thời tiết không gian, vũ trụ học (cấu trúc lớn, DESI, Euclid), sóng hấp dẫn (Virgo); cùng vật lý hạt và hạt nhân.",
+     "url": "https://icc.ub.edu/",
+     "coverage": "partial",
+     "structure": "Viện nghiên cứu của Đại học Barcelona (đơn vị María de Maeztu), gắn với Khoa Vật lý lượng tử và Vật lý thiên văn (FQA; các phân ban Astronomia i Astrofísica, Partícules i Gravitació, Física Atòmica i Nuclear) và thành viên IEEC. Giám đốc: Domènec Espriu.",
+     "structureUrl": "https://www.ub.edu/portal/web/dp-fquanticaastrofisica/seccions-departamentals",
+     "scopeNote": "Lấy từ danh sách nhân sự Khoa FQA trên GREC (11/2026), chỉ giữ người thuộc phân ban Thiên văn – vật lý thiên văn và vũ trụ học theo chuyên môn đã biết; danh sách không ghi phân ban nên có thể sót hoặc lẫn. Không gồm vật lý hạt, hạt nhân và lý thuyết dây.",
+     "units": [
+      {
+       "name": "Thiên văn, vật lý thiên văn và vũ trụ học (FQA – ICCUB)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ICCUB",
+       "topics": "Gaia (DPAC), động lực học Ngân Hà, hình thành sao, thiên văn tia gamma và nguồn nhị phân, sự kiện thoáng qua, thời tiết không gian, vũ trụ học và cấu trúc lớn.",
+       "url": "https://icc.ub.edu/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Francesc Xavier Luri Carrascoso",
+          "role": "Giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Marc Ribó Gomis",
+          "role": "Giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "José María Solanes Majua",
+          "role": "Giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Maria Teresa Antoja Castelltort",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Maria dels Àngels Aran Sensat",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Nadejda Blagorodnova Mujortova",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Pol Bordas Coma",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Valentí Bosch i Ramon",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Gemma Busquet Rico",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Francesca Figueras Siñol",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Chervin Laporte",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Alberto Manrique Oliva",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Mercè Romero Gómez",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Alessio Notari",
+          "role": "Giảng viên / phó giáo sư",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Friedrich Anders",
+          "role": "Nhà nghiên cứu theo chương trình (Ramón y Cajal, Beatriu de Pinós, ICREA...)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Ruxandra Bondarescu",
+          "role": "Nhà nghiên cứu theo chương trình (Ramón y Cajal, Beatriu de Pinós, ICREA...)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Héctor Gil Marín",
+          "role": "Nhà nghiên cứu theo chương trình (Ramón y Cajal, Beatriu de Pinós, ICREA...)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Sara Rastello",
+          "role": "Nhà nghiên cứu theo chương trình (Ramón y Cajal, Beatriu de Pinós, ICREA...)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Jordi Portell de Mora",
+          "role": "Nhà nghiên cứu Gaia / giảng viên bán thời gian",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "José Manuel Carrasco Martínez",
+          "role": "Nhà nghiên cứu Gaia / giảng viên bán thời gian",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Salvador José Ribas Rubio",
+          "role": "Nhà nghiên cứu Gaia / giảng viên bán thời gian",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Adrià Gómez Valent",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Mohammad Ali Gorji",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Hugo Tranin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Josep Maria Paredes Poy",
+          "role": "Danh dự (emeritus)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Eduardo Salvador Solé",
+          "role": "Danh dự (emeritus)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         },
+         {
+          "name": "Jorge Núñez de Murga",
+          "role": "Danh dự (emeritus)",
+          "url": "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    },
+    {
      "name": "Institut de Ciències de l'Espai (ICE-CSIC)",
      "type": "institute",
      "research": "Vũ trụ học và khảo sát thiên hà (DES, PAU, Euclid, DESI), AGN và tiến hóa thiên hà, siêu tân tinh và sự kiện thoáng qua, sao neutron và pulsar, sóng hấp dẫn (LISA), sao – hành tinh – thiên thạch, khoa học Trái Đất từ vũ trụ; phát triển thiết bị không gian.",
@@ -1451,6 +1745,191 @@
         "external": [],
         "sources": [
          "https://agenda.ciemat.es/event/4988/attachments/4479/7175/BCN-MAD_ICE.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "santander",
+   "city": "Santander",
+   "coordinates": [
+    -3.8,
+    43.46
+   ],
+   "institutions": [
+    {
+     "name": "Instituto de Física de Cantabria (IFCA, CSIC – Universidad de Cantabria)",
+     "type": "institute",
+     "research": "Vũ trụ học quan sát và bức xạ nền vi sóng (Planck, QUIJOTE, LiteBIRD), thấu kính hấp dẫn và vật chất tối, sứ mệnh ARRAKIHS (thiên hà độ sáng bề mặt thấp), thiên hà và AGN (tia X, Athena/NewAthena), cùng vật lý hạt, tính toán tiên tiến và khí tượng.",
+     "url": "https://ifca.unican.es/",
+     "coverage": "partial",
+     "structure": "Viện hỗn hợp CSIC – Đại học Cantabria; các nhóm Galaxies and AGNs, Observational Cosmology and Instrumentation, Particle Physics, Advanced Computing, Nonlinear Dynamics, Meteorology and Data Mining.",
+     "structureUrl": "https://ifca.unican.es/en-us",
+     "scopeNote": "Đủ nhóm Vũ trụ học quan sát và thiết bị theo trang People của nhóm (11/2026); nhóm Thiên hà và AGN chưa có danh sách thành viên đọc được.",
+     "units": [
+      {
+       "name": "Observational Cosmology and Instrumentation",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IFCA",
+       "topics": "CMB (Planck, QUIJOTE, LiteBIRD), dị hướng và phi Gauss, nguồn điểm và cụm thiên hà, thấu kính hấp dẫn và vi thấu kính gần caustic, ARRAKIHS, tìm vật chất tối (DAMIC-M), thiết bị vi sóng.",
+       "url": "https://ifca-cosmology.github.io",
+       "researchers": {
+        "people": [
+         {
+          "name": "Enrique Martínez-González",
+          "role": "Trưởng nhóm",
+          "url": "https://www.csic.es/en/investigation/research-groups/observational-cosmology-and-instrumentation"
+         },
+         {
+          "name": "Rafael Guzmán",
+          "role": "PI sứ mệnh ARRAKIHS",
+          "url": "https://ifca-cosmology.github.io/collabs"
+         },
+         {
+          "name": "Belén Barreiro",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "José Luis Bernal",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Francisco Javier Casas",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Marcos Cruz",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "José María Diego",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Diego Herranz",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Bradley J. Kavanagh",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Mathieu Remazeilles",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Patricio Vielva",
+          "role": "Nhà nghiên cứu biên chế",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Ana Acebrón",
+          "role": "Nhà nghiên cứu tenure-track",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Helena Domínguez Sánchez",
+          "role": "Nhà nghiên cứu tenure-track",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Alejandro Camazón Pinilla",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Laura Castelló",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Md Ishaque Khan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Sung Kei (Keith) Li",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Francesca Scarcella",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Jyothis Chandran",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Matteo Longo Minnolo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Sefa Pamuk",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Abram Pérez Herrero",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Keerthana Ramesh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Miguel Ruiz-Granda",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Dheeraj Vittal Shenoy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Sandra Carcedo Estefanía",
+          "role": "Nhân viên hỗ trợ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Biuse Casaponsa",
+          "role": "Nhân viên hỗ trợ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Airam Marcos-Caballero",
+          "role": "Nhân viên hỗ trợ",
+          "url": "https://ifca-cosmology.github.io/people"
+         },
+         {
+          "name": "Juan Villafañe",
+          "role": "Nhân viên hỗ trợ",
+          "url": "https://ifca-cosmology.github.io/people"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://ifca-cosmology.github.io/people"
         ],
         "note": "",
         "checked": "2026-11-28"
@@ -2026,6 +2505,396 @@
         "external": [],
         "sources": [
          "https://guaix.ucm.es/?p=5"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "valencia",
+   "city": "Valencia (Burjassot / Paterna)",
+   "coordinates": [
+    -0.38,
+    39.47
+   ],
+   "institutions": [
+    {
+     "name": "Universitat de València — Khoa Thiên văn và Vật lý thiên văn (DAA) và Đài thiên văn UV",
+     "type": "university",
+     "research": "Vật lý thiên văn tương đối tính và năng lượng cao (phụt khí AGN, siêu tân tinh suy sụp lõi, sao neutron), sóng hấp dẫn và tương đối số, vũ trụ học tính toán và cấu trúc lớn, giao thoa vô tuyến VLBI và Event Horizon Telescope, sao biến quang và Gaia, ngoại hành tinh.",
+     "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament-astronomia-astrofisica.html",
+     "coverage": "full",
+     "structure": "Khoa thành lập năm 1995 thuộc Facultat de Física; các nhóm nghiên cứu gồm HERA (vật lý thiên văn tương đối tính và năng lượng cao), CAMAP (mô phỏng plasma thiên văn), GWNR (sóng hấp dẫn và tương đối số), vũ trụ học tính toán, thiết bị thiên văn; Đài thiên văn UV ở Paterna.",
+     "structureUrl": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament/presentacio/presentacio-1285854555043.html",
+     "scopeNote": "Đủ giảng viên – nhà nghiên cứu và nhân sự nghiên cứu khác của khoa theo hai trang danh sách nhân sự (11/2026), phân loại theo chức danh ghi trên trang; không chia theo nhóm vì trang không ghi; bỏ nhân viên hành chính.",
+     "units": [
+      {
+       "name": "Khoa Thiên văn và Vật lý thiên văn (DAA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "UV",
+       "topics": "HERA, CAMAP, sóng hấp dẫn và tương đối số, vũ trụ học tính toán, VLBI/EHT, sao và ngoại hành tinh, thiết bị thiên văn.",
+       "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/unitat-docent-1285854554961.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Vicente Quilis Quilis",
+          "role": "Trưởng khoa, GS",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/unitat-docent-1285854554961.html"
+         },
+         {
+          "name": "Miguel Angel Aloy Toras",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Juan Bautista Fabregat Llueca",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Jose Antonio Font Roda",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Jose Carlos Guirado Puerta",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Jose Maria Marti Puig",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Vicent Josep Martinez Garcia",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Jose Antonio Muñoz Lozano",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Manel Perucho Pla",
+          "role": "Giáo sư (Catedràtic)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Pablo Cerda Duran",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Ivan Marti Vidal",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Andres Moya Bedon",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Martin Franz Obergaulinger",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Susana Planelles Mira",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Alejandro Torres Forne",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Pablo Arnalte Mur",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Michael Gabler",
+          "role": "Giảng viên biên chế (Titular / Permanent)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Juan Bautista Climent Oliver",
+          "role": "Giảng viên trợ lý tiến sĩ (Ajudant Doctor)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Miquel Miravet Tenes",
+          "role": "Giảng viên trợ lý tiến sĩ (Ajudant Doctor)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "David Valles Perez",
+          "role": "Giảng viên trợ lý tiến sĩ (Ajudant Doctor)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Camilla Danielski",
+          "role": "Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Daniela Doneva",
+          "role": "Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Nicolas Sanchis Gual",
+          "role": "Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Gerard Navo Perez",
+          "role": "Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Milton Javier Ruiz Meneses",
+          "role": "Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Mauro Stefanon",
+          "role": "Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...)",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Siddhartha Gurung Lopez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Monu Sharma",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Saeed Fakhry",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Raquel Fores Toribio",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Simranpreet Kaur",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Walter Eduard Van Rossem",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Ines Andrade Rainho",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Joan Balmon Anton",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Isac Barranco Llorca",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Santiago Javier Bonanad Hurtado",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Yessica Calatayud Borras",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Millan Carrero Martinez",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Guillem Fernandez Rodriguez",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Joao Carlos Gomes Rebelo",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Oscar Hervas Petit",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Kiara Hervella Seoane",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Yannik Hoche",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Maria Iranzo Muñoz",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Giorgio la Malfa",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Andres Laza Ramos",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Claudio Cesar Lazarte Melgar",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Shifang Li",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Bruno Longo",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Diego Martin Carrero",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Izarne Martinez Donato",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Marco Jose Molina Pradillo",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Oscar Monllor Berbegal",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Gabriele Palloni",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Salvador Rivero Bivia",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Giuseppe Rivieccio",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Anastasios Theodoropoulos",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Fabrizio Venturi Piñas",
+          "role": "NCS / nhà nghiên cứu đang đào tạo",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Victor Alamo Felipo",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Pau Canet Banyuls",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Elena Gonzalez Martinez",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Olena Komarova",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Christian Moya Royo",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Sian Grace Phillips",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Miriam Rodriguez Sanchez",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Sander Theodorus Mar Schouws",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Dimitra Tseneklidou",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Nino Villanueva Espinosa",
+          "role": "Kỹ thuật viên nghiên cứu",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Joan Josep Ferrando Bargues",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         },
+         {
+          "name": "Juan Antonio Morales Lladosa",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html"
         ],
         "note": "",
         "checked": "2026-11-28"

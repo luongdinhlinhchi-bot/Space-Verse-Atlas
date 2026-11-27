@@ -1,0 +1,24 @@
+@city santander | Santander | -3.80, 43.46
+
+@inst Instituto de Física de Cantabria (IFCA, CSIC – Universidad de Cantabria)
+city: santander
+type: institute
+url: https://ifca.unican.es/
+research: Vũ trụ học quan sát và bức xạ nền vi sóng (Planck, QUIJOTE, LiteBIRD), thấu kính hấp dẫn và vật chất tối, sứ mệnh ARRAKIHS (thiên hà độ sáng bề mặt thấp), thiên hà và AGN (tia X, Athena/NewAthena), cùng vật lý hạt, tính toán tiên tiến và khí tượng.
+coverage: partial
+structure: Viện hỗn hợp CSIC – Đại học Cantabria; các nhóm Galaxies and AGNs, Observational Cosmology and Instrumentation, Particle Physics, Advanced Computing, Nonlinear Dynamics, Meteorology and Data Mining.
+structureUrl: https://ifca.unican.es/en-us
+scope: Đủ nhóm Vũ trụ học quan sát và thiết bị theo trang People của nhóm (11/2026); nhóm Thiên hà và AGN chưa có danh sách thành viên đọc được.
+
+#unit Observational Cosmology and Instrumentation
+parent: IFCA
+topics: CMB (Planck, QUIJOTE, LiteBIRD), dị hướng và phi Gauss, nguồn điểm và cụm thiên hà, thấu kính hấp dẫn và vi thấu kính gần caustic, ARRAKIHS, tìm vật chất tối (DAMIC-M), thiết bị vi sóng.
+url: https://ifca-cosmology.github.io
+src: https://ifca-cosmology.github.io/people
+p: Enrique Martínez-González | Trưởng nhóm | https://www.csic.es/en/investigation/research-groups/observational-cosmology-and-instrumentation
+p: Rafael Guzmán | PI sứ mệnh ARRAKIHS | https://ifca-cosmology.github.io/collabs
+pp: Nhà nghiên cứu biên chế | Belén Barreiro; José Luis Bernal; Francisco Javier Casas; Marcos Cruz; José María Diego; Diego Herranz; Bradley J. Kavanagh; Mathieu Remazeilles; Patricio Vielva
+pp: Nhà nghiên cứu tenure-track | Ana Acebrón; Helena Domínguez Sánchez
+pp: PD | Alejandro Camazón Pinilla; Laura Castelló; Md Ishaque Khan; Sung Kei (Keith) Li; Francesca Scarcella
+pp: NCS | Jyothis Chandran; Matteo Longo Minnolo; Sefa Pamuk; Abram Pérez Herrero; Keerthana Ramesh; Miguel Ruiz-Granda; Dheeraj Vittal Shenoy
+pp: Nhân viên hỗ trợ | Sandra Carcedo Estefanía; Biuse Casaponsa; Airam Marcos-Caballero; Juan Villafañe

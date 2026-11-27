@@ -1,0 +1,26 @@
+@city valencia | Valencia (Burjassot / Paterna) | -0.38, 39.47
+
+@inst Universitat de València — Khoa Thiên văn và Vật lý thiên văn (DAA) và Đài thiên văn UV
+city: valencia
+type: university
+url: https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament-astronomia-astrofisica.html
+research: Vật lý thiên văn tương đối tính và năng lượng cao (phụt khí AGN, siêu tân tinh suy sụp lõi, sao neutron), sóng hấp dẫn và tương đối số, vũ trụ học tính toán và cấu trúc lớn, giao thoa vô tuyến VLBI và Event Horizon Telescope, sao biến quang và Gaia, ngoại hành tinh.
+coverage: full
+structure: Khoa thành lập năm 1995 thuộc Facultat de Física; các nhóm nghiên cứu gồm HERA (vật lý thiên văn tương đối tính và năng lượng cao), CAMAP (mô phỏng plasma thiên văn), GWNR (sóng hấp dẫn và tương đối số), vũ trụ học tính toán, thiết bị thiên văn; Đài thiên văn UV ở Paterna.
+structureUrl: https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament/presentacio/presentacio-1285854555043.html
+scope: Đủ giảng viên – nhà nghiên cứu và nhân sự nghiên cứu khác của khoa theo hai trang danh sách nhân sự (11/2026), phân loại theo chức danh ghi trên trang; không chia theo nhóm vì trang không ghi; bỏ nhân viên hành chính.
+
+#unit Khoa Thiên văn và Vật lý thiên văn (DAA)
+parent: UV
+topics: HERA, CAMAP, sóng hấp dẫn và tương đối số, vũ trụ học tính toán, VLBI/EHT, sao và ngoại hành tinh, thiết bị thiên văn.
+url: https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/unitat-docent-1285854554961.html
+src: https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/altre-personal-unitat-1286030915065.html
+p: Vicente Quilis Quilis | Trưởng khoa, GS | https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/personal/professorat-personal-investigador/unitat-docent-1285854554961.html
+pp: Giáo sư (Catedràtic) | Miguel Angel Aloy Toras; Juan Bautista Fabregat Llueca; Jose Antonio Font Roda; Jose Carlos Guirado Puerta; Jose Maria Marti Puig; Vicent Josep Martinez Garcia; Jose Antonio Muñoz Lozano; Manel Perucho Pla
+pp: Giảng viên biên chế (Titular / Permanent) | Pablo Cerda Duran; Ivan Marti Vidal; Andres Moya Bedon; Martin Franz Obergaulinger; Susana Planelles Mira; Alejandro Torres Forne; Pablo Arnalte Mur; Michael Gabler
+pp: Giảng viên trợ lý tiến sĩ (Ajudant Doctor) | Juan Bautista Climent Oliver; Miquel Miravet Tenes; David Valles Perez
+pp: Nhà nghiên cứu theo chương trình xuất sắc (Ramón y Cajal, Juan de la Cierva, CIDEGENT...) | Camilla Danielski; Daniela Doneva; Nicolas Sanchis Gual; Gerard Navo Perez; Milton Javier Ruiz Meneses; Mauro Stefanon
+pp: PD | Siddhartha Gurung Lopez; Monu Sharma; Saeed Fakhry; Raquel Fores Toribio; Simranpreet Kaur; Walter Eduard Van Rossem
+pp: NCS / nhà nghiên cứu đang đào tạo | Ines Andrade Rainho; Joan Balmon Anton; Isac Barranco Llorca; Santiago Javier Bonanad Hurtado; Yessica Calatayud Borras; Millan Carrero Martinez; Guillem Fernandez Rodriguez; Joao Carlos Gomes Rebelo; Oscar Hervas Petit; Kiara Hervella Seoane; Yannik Hoche; Maria Iranzo Muñoz; Giorgio la Malfa; Andres Laza Ramos; Claudio Cesar Lazarte Melgar; Shifang Li; Bruno Longo; Diego Martin Carrero; Izarne Martinez Donato; Marco Jose Molina Pradillo; Oscar Monllor Berbegal; Gabriele Palloni; Salvador Rivero Bivia; Giuseppe Rivieccio; Anastasios Theodoropoulos; Fabrizio Venturi Piñas
+pp: Kỹ thuật viên nghiên cứu | Victor Alamo Felipo; Pau Canet Banyuls; Elena Gonzalez Martinez; Olena Komarova; Christian Moya Royo; Sian Grace Phillips; Miriam Rodriguez Sanchez; Sander Theodorus Mar Schouws; Dimitra Tseneklidou; Nino Villanueva Espinosa
+pp: Giáo sư danh dự | Joan Josep Ferrando Bargues; Juan Antonio Morales Lladosa

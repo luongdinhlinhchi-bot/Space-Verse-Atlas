@@ -1,0 +1,21 @@
+@inst Institut de Ciències del Cosmos, Universitat de Barcelona (ICCUB)
+city: barcelona
+type: institute
+url: https://icc.ub.edu/
+research: Gaia và thiên văn đo vị trí, cấu trúc và tiến hóa Ngân Hà, sao và hình thành sao, thiên văn năng lượng cao (hệ nhị phân tia gamma, microquasar), sự kiện thoáng qua, thời tiết không gian, vũ trụ học (cấu trúc lớn, DESI, Euclid), sóng hấp dẫn (Virgo); cùng vật lý hạt và hạt nhân.
+coverage: partial
+structure: Viện nghiên cứu của Đại học Barcelona (đơn vị María de Maeztu), gắn với Khoa Vật lý lượng tử và Vật lý thiên văn (FQA; các phân ban Astronomia i Astrofísica, Partícules i Gravitació, Física Atòmica i Nuclear) và thành viên IEEC. Giám đốc: Domènec Espriu.
+structureUrl: https://www.ub.edu/portal/web/dp-fquanticaastrofisica/seccions-departamentals
+scope: Lấy từ danh sách nhân sự Khoa FQA trên GREC (11/2026), chỉ giữ người thuộc phân ban Thiên văn – vật lý thiên văn và vũ trụ học theo chuyên môn đã biết; danh sách không ghi phân ban nên có thể sót hoặc lẫn. Không gồm vật lý hạt, hạt nhân và lý thuyết dây.
+
+#unit Thiên văn, vật lý thiên văn và vũ trụ học (FQA – ICCUB)
+parent: ICCUB
+topics: Gaia (DPAC), động lực học Ngân Hà, hình thành sao, thiên văn tia gamma và nguồn nhị phân, sự kiện thoáng qua, thời tiết không gian, vũ trụ học và cấu trúc lớn.
+url: https://icc.ub.edu/
+src: https://webgrec.ub.edu/webpages/000004/ang/indexos/departaments/5757100.html
+pp: Giáo sư | Francesc Xavier Luri Carrascoso; Marc Ribó Gomis; José María Solanes Majua
+pp: Giảng viên / phó giáo sư | Maria Teresa Antoja Castelltort; Maria dels Àngels Aran Sensat; Nadejda Blagorodnova Mujortova; Pol Bordas Coma; Valentí Bosch i Ramon; Gemma Busquet Rico; Francesca Figueras Siñol; Chervin Laporte; Alberto Manrique Oliva; Mercè Romero Gómez; Alessio Notari
+pp: Nhà nghiên cứu theo chương trình (Ramón y Cajal, Beatriu de Pinós, ICREA...) | Friedrich Anders; Ruxandra Bondarescu; Héctor Gil Marín; Sara Rastello
+pp: Nhà nghiên cứu Gaia / giảng viên bán thời gian | Jordi Portell de Mora; José Manuel Carrasco Martínez; Salvador José Ribas Rubio
+pp: PD | Adrià Gómez Valent; Mohammad Ali Gorji; Hugo Tranin
+pp: Danh dự (emeritus) | Josep Maria Paredes Poy; Eduardo Salvador Solé; Jorge Núñez de Murga

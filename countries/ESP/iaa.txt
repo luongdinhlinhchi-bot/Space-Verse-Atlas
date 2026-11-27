@@ -1,0 +1,32 @@
+@city granada | Granada | -3.60, 37.18
+
+@inst Instituto de Astrofísica de Andalucía (IAA-CSIC)
+city: granada
+type: institute
+url: https://www.iaa.csic.es/
+research: Hệ Mặt Trời và khí quyển hành tinh (thiết bị trên Solar Orbiter, ExoMars, JUICE), vật lý sao và ngoại hành tinh (CARMENES, PLATO), vật lý Mặt Trời, thiên văn vô tuyến và cấu trúc Ngân Hà (SKA, EHT, phụt khí tương đối tính), thiên hà và vũ trụ học (J-PAS, CALIFA); vận hành Đài thiên văn Sierra Nevada và tham gia Calar Alto.
+coverage: leaders
+structure: Viện của CSIC, trung tâm Severo Ochoa; bốn khoa nghiên cứu (Hệ Mặt Trời; Vật lý sao; Thiên văn vô tuyến và cấu trúc Ngân Hà; Thiên văn ngoài thiên hà), đơn vị phát triển thiết bị (UDIT), trung tâm tính toán, các đài thiên văn Sierra Nevada (OSN) và Calar Alto (CAHA). Năm 2025 có 73 nhân sự biên chế, 69 postdoc và 51 NCS.
+structureUrl: https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf
+scope: Danh bạ IAA tải bằng JavaScript nên không đọc được (11/2026); chỉ ghi ban giám đốc và trưởng các khoa/đơn vị theo sơ đồ tổ chức trong Báo cáo thường niên 2025.
+
+#unit Ban giám đốc
+parent: IAA
+topics: —
+url: https://www.iaa.csic.es/
+src: https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf
+pp: Ban giám đốc | Olga Muñoz Gómez (giám đốc); Rainer Schödel (phó giám đốc khoa học); René Duffard (phó giám đốc công nghệ); Isabel Márquez (giám đốc khoa học dự án Severo Ochoa)
+
+#unit Các khoa nghiên cứu
+parent: IAA
+topics: Hệ Mặt Trời; Vật lý sao; Thiên văn vô tuyến và cấu trúc Ngân Hà; Thiên văn ngoài thiên hà.
+url: https://www.iaa.csic.es/
+src: https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf
+pp: Trưởng khoa | Maya García Comas (Hệ Mặt Trời); Pedro J. Amado González (Vật lý sao); Iván Agudo Rodríguez (Thiên văn vô tuyến và cấu trúc Ngân Hà); Rubén García Benito (Thiên văn ngoài thiên hà)
+
+#unit Đơn vị thiết bị và đài thiên văn
+parent: IAA
+topics: UDIT, Đài thiên văn Sierra Nevada, Calar Alto.
+url: https://www.iaa.csic.es/
+src: https://www.iaa.csic.es/core/uploads/2026/09/report_iaa_2025.pdf
+pp: Người phụ trách | Miguel Abril Martí (UDIT); Pablo Santos-Sanz (Đài thiên văn Sierra Nevada); Jesús Aceituno Castro (Calar Alto)
