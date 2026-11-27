@@ -1,0 +1,38 @@
+{
+  "country": "Bắc Macedonia",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Bắc Macedonia, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "Ss. Cyril and Methodius University (UKIM) — Institute of Physics (PMF)::Astronomy Group (Institute of Physics)": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Gordana Apostolovska",
+          "role": "Giáo sư (Thiên văn Mặt Trời, Hệ Mặt Trời, Ngoại hành tinh)",
+          "url": "https://astronomy.pmf.ukim.mk/"
+        },
+        {
+          "name": "Elena Vchkova Bebekovska",
+          "role": "Trợ lý giáo sư (Vật thể nhỏ Hệ Mặt Trời, quan trắc)",
+          "url": "https://astronomy.pmf.ukim.mk/"
+        },
+        {
+          "name": "Jana Bogdanoska",
+          "role": "Trợ lý giáo sư (Thiên văn học & Vật lý thiên văn)",
+          "url": "https://astronomy.pmf.ukim.mk/"
+        },
+        {
+          "name": "Olgica Kuzmanovska",
+          "role": "Trợ lý giáo sư / Nghiên cứu viên",
+          "url": "https://astronomy.pmf.ukim.mk/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://astronomy.pmf.ukim.mk/",
+        "https://if.pmf.ukim.edu.mk/"
+      ],
+      "note": "Đầy đủ đội ngũ giảng viên và nhà nghiên cứu thiên văn tại Viện Vật lý PMF UKIM."
+    }
+  }
+}

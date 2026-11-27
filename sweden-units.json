@@ -1,0 +1,121 @@
+{
+ "checked": "2026-11-22",
+ "networks": {
+  "okc": {
+   "name": "Oskar Klein Centre (OKC)",
+   "kind": "Trung tâm nghiên cứu liên trường về Vật lý Hạt thiên văn và Vũ trụ học",
+   "topics": "Năng lượng tối, vật chất tối, sóng hấp dẫn, tia vũ trụ, siêu tân tinh và nguồn gốc vũ trụ.",
+   "url": "https://www.okc.albanova.se/",
+   "note": "Trung tâm hợp tác giữa Stockholm University và KTH Royal Institute of Technology."
+  }
+ },
+ "institutions": {
+  "Stockholm University — Department of Astronomy & Institute for Solar Physics (ISP)": {
+   "coverage": "partial",
+   "structure": "Faculty of Science → Department of Astronomy (gồm Institute for Solar Physics — cơ sở hạ tầng quốc gia)",
+   "structureUrl": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation",
+   "scopeNote": "Trang su.se không công khai danh bạ tĩnh toàn bộ 80 nhân sự nên hiện ghi ban lãnh đạo khoa, hội đồng khoa và các giảng viên/nhà nghiên cứu/nghiên cứu sinh đã xác minh từ trang Organisation.",
+   "units": [
+    {
+     "name": "Department of Astronomy & Institute for Solar Physics (ISP)",
+     "kind": "Khoa nghiên cứu đại học",
+     "parent": "Stockholm University",
+     "topics": "Siêu tân tinh, vũ trụ học và tái ion hoá, tiến hoá thiên hà, hành tinh ngoài Hệ Mặt Trời và vật lý Mặt Trời (SST).",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    }
+   ],
+   "networks": [
+    "okc"
+   ]
+  },
+  "KTH Royal Institute of Technology — Particle Physics, Astrophysics and Medical Imaging": {
+   "coverage": "partial",
+   "structure": "School of Engineering Sciences → Department of Physics → Division of Particle Physics, Astrophysics and Medical Imaging",
+   "structureUrl": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics",
+   "scopeNote": "Trang kth.se trả lỗi máy chủ khi tải trực tiếp nên danh sách lấy từ các kết quả chỉ mục công khai của trang bộ môn trên kth.se; một số nhóm vật lý y sinh/máy gia tốc có thể giao thoa.",
+   "units": [
+    {
+     "name": "Particle Physics, Astrophysics and Medical Imaging",
+     "kind": "Bộ môn đại học",
+     "parent": "Department of Physics, KTH",
+     "topics": "Thiên văn tia gamma năng lượng cao, vật lý neutrino, vật chất tối, vũ trụ học và tiến hoá sao.",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    }
+   ],
+   "networks": [
+    "okc"
+   ]
+  },
+  "Uppsala University — Department of Physics and Astronomy (Astronomy and Space Physics)": {
+   "coverage": "full",
+   "structure": "Department of Physics and Astronomy → Division of Astronomy and Space Physics",
+   "structureUrl": "https://www.uu.se/en/contact-and-organisation/organisation?query=X208:1",
+   "scopeNote": "Lấy toàn bộ danh bạ chính thức của Division of Astronomy and Space Physics (X208:1); loại trừ nhân sự hành chính, kỹ thuật thuần tuý và tách khách mời/danh dự.",
+   "units": [
+    {
+     "name": "Division of Astronomy and Space Physics",
+     "kind": "Bộ môn đại học",
+     "parent": "Department of Physics and Astronomy, Uppsala University",
+     "topics": "Vật lý sao và quang phổ sao, từ trường sao, thiên hà và vũ trụ học, hành tinh ngoài Hệ Mặt Trời và vật lý plasma không gian.",
+     "url": "https://www.uu.se/en/contact-and-organisation/organisation?query=X208:1"
+    }
+   ],
+   "networks": []
+  },
+  "Lund University — Division of Astrophysics (Lund Observatory)": {
+   "coverage": "partial",
+   "structure": "Faculty of Science → Department of Physics → Division of Astrophysics (Lund Observatory)",
+   "structureUrl": "https://www.astro.lu.se/peoplelist",
+   "scopeNote": "Trang peoplelist dùng nút 'Load More' (?page=1) để tải thêm sau 20 mục đầu nên danh sách tĩnh hiện gồm 20 thành viên đầu tiên (đã loại trừ nhân sự hành chính và tách giáo sư danh dự).",
+   "units": [
+    {
+     "name": "Division of Astrophysics (Lund Observatory)",
+     "kind": "Bộ môn đại học",
+     "parent": "Department of Physics, Lund University",
+     "topics": "Động lực học và tiến hoá Ngân Hà (Gaia), quần thể sao, hình thành hành tinh và thiết bị thiên văn.",
+     "url": "https://www.astro.lu.se/peoplelist"
+    }
+   ],
+   "networks": []
+  },
+  "Chalmers University of Technology & Onsala Space Observatory (OSO)": {
+   "coverage": "leaders",
+   "structure": "Department of Space, Earth and Environment (SEE) → Astronomy and Plasma Physics (APP) & Onsala Space Observatory (OSO)",
+   "structureUrl": "https://www.chalmers.se/en/departments/see/research/app/",
+   "scopeNote": "Trang danh bạ chi tiết của Chalmers đổi đường dẫn/không tải tĩnh đầy đủ nên hiện ghi ban lãnh đạo và các giáo sư/nhà khoa học cao cấp đã xác minh từ chỉ mục chalmers.se.",
+   "units": [
+    {
+     "name": "Division of Astronomy and Plasma Physics (APP)",
+     "kind": "Bộ môn đại học",
+     "parent": "Department of Space, Earth and Environment, Chalmers",
+     "topics": "Hình thành sao, hoá học thiên văn, sao tiến hoá, hành tinh ngoài Hệ Mặt Trời, thiên hà dịch chuyển đỏ cao và lý thuyết plasma.",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Onsala Space Observatory (OSO)",
+     "kind": "Đài quan sát quốc gia & bộ môn nghiên cứu",
+     "parent": "Chalmers University of Technology",
+     "topics": "Thiên văn vô tuyến quốc gia Thụy Điển (ALMA, APEX, LOFAR, SKA, EVN/VLBI) và phát triển bộ thu sóng dưới milimet.",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    }
+   ],
+   "networks": []
+  },
+  "Swedish Institute of Space Physics (IRF)": {
+   "coverage": "leaders",
+   "structure": "Viện nghiên cứu quốc gia Thụy Điển → Ban lãnh đạo và 4 chương trình nghiên cứu (SSPT, STAR, Space Plasma Physics, Observatory Activities)",
+   "structureUrl": "https://www.irf.se/en/om-irf/organisation/",
+   "scopeNote": "Trang web của IRF chỉ công khai danh sách ban điều hành và trưởng các chương trình nghiên cứu, chưa công bố danh bạ toàn bộ nhân sự.",
+   "units": [
+    {
+     "name": "IRF Executive & Research Programme Leadership",
+     "kind": "Viện nghiên cứu quốc gia",
+     "parent": "Swedish Institute of Space Physics (Kiruna)",
+     "topics": "Vật lý Hệ Mặt Trời, thiết bị vũ trụ (Juice, Solar Orbiter, BepiColombo), plasma không gian và nghiên cứu cực quang/tầng điện ly.",
+     "url": "https://www.irf.se/en/om-irf/organisation/"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

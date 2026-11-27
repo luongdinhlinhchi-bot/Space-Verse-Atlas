@@ -1,0 +1,86 @@
+{
+  "country": "Hy Lạp",
+  "checked": "2026-11-22",
+  "institutions": {
+    "Institute of Astrophysics — FORTH (IA-FORTH) & University of Crete": {
+      "city": "Heraklion",
+      "coverage": "full",
+      "structure": "Viện Vật lý thiên văn quốc gia tại Crete, vận hành Đài thiên văn Skinakas",
+      "structureUrl": "https://www.ia.forth.gr/structure",
+      "units": [
+        {
+          "name": "Institute of Astrophysics (IA-FORTH)",
+          "kind": "Viện nghiên cứu",
+          "parent": "Foundation for Research and Technology – Hellas (FORTH)",
+          "topics": "Vật lý thiên văn năng lượng cao, blazar, nhân thiên hà hoạt động (AGN), sao xung, phân cực quang học",
+          "url": "https://www.ia.forth.gr/our_team",
+          "coverage": "full",
+          "sources": [
+            "https://www.ia.forth.gr/our_team"
+          ],
+          "note": "Trích xuất trực tiếp từ danh bạ thành viên chính thức của IA-FORTH."
+        }
+      ]
+    },
+    "Aristotle University of Thessaloniki (AUTh) — Section of Astrophysics, Astronomy and Mechanics": {
+      "city": "Thessaloniki",
+      "coverage": "full",
+      "structure": "Bộ môn Vật lý thiên văn, Thiên văn và Cơ học (Khoa Vật lý, AUTh)",
+      "structureUrl": "https://www.astro.auth.gr/",
+      "units": [
+        {
+          "name": "Section of Astrophysics, Astronomy and Mechanics",
+          "kind": "Bộ môn nghiên cứu & đào tạo",
+          "parent": "Department of Physics, Aristotle University of Thessaloniki",
+          "topics": "Thuyết tương đối rộng, sóng hấp dẫn, cơ học thiên thể, vũ trụ học lý thuyết, vật lý plasma Mặt Trời",
+          "url": "https://www.astro.auth.gr/",
+          "coverage": "full",
+          "sources": [
+            "https://www.astro.auth.gr/"
+          ],
+          "note": "Danh sách đầy đủ giảng viên và nghiên cứu viên sau tiến sĩ của Bộ môn Thiên văn AUTh."
+        }
+      ]
+    },
+    "National Observatory of Athens (NOA) — IAASARS": {
+      "city": "Athens",
+      "coverage": "leaders",
+      "structure": "Viện Thiên văn học, Vật lý thiên văn, Ứng dụng Vũ trụ và Viễn thám (quản lý Đài thiên văn Helmos 2.3m)",
+      "structureUrl": "https://www.astro.noa.gr/",
+      "units": [
+        {
+          "name": "Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing",
+          "kind": "Viện nghiên cứu quốc gia",
+          "parent": "National Observatory of Athens",
+          "topics": "Thiên văn tia X, tiến hóa thiên hà, tinh vân hành tinh, vật lý Mặt Trời - Trái Đất, viễn thám",
+          "url": "https://www.astro.noa.gr/",
+          "coverage": "leaders",
+          "sources": [
+            "https://www.astro.noa.gr/"
+          ],
+          "note": "Cổng astro.noa.gr bị timeout khi tải tự động; ghi nhận các lãnh đạo và nghiên cứu viên chủ chốt đã xác minh."
+        }
+      ]
+    },
+    "National and Kapodistrian University of Athens (NKUA) — Section of Astrophysics, Astronomy and Mechanics": {
+      "city": "Athens",
+      "coverage": "full",
+      "structure": "Bộ môn Vật lý thiên văn, Thiên văn và Cơ học (Khoa Vật lý, ĐH Quốc gia Athens)",
+      "structureUrl": "https://www.phys.uoa.gr/",
+      "units": [
+        {
+          "name": "Section of Astrophysics, Astronomy and Mechanics",
+          "kind": "Bộ môn đào tạo & nghiên cứu",
+          "parent": "Department of Physics, National and Kapodistrian University of Athens",
+          "topics": "Thuyết tương đối, vật lý không gian, plasma vật lý thiên văn, tiến hóa thiên hà, sao biến quang",
+          "url": "https://www.phys.uoa.gr/",
+          "coverage": "full",
+          "sources": [
+            "https://www.phys.uoa.gr/"
+          ],
+          "note": "Đội ngũ giảng viên chính thức và giáo sư danh dự của Bộ môn Thiên văn NKUA."
+        }
+      ]
+    }
+  }
+}

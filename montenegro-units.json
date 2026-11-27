@@ -1,0 +1,26 @@
+{
+  "country": "Montenegro",
+  "checked": "2026-11-22",
+  "institutions": {
+    "University of Montenegro — Faculty of Natural Sciences and Mathematics (PMF UCG)": {
+      "city": "Podgorica",
+      "coverage": "leaders",
+      "structure": "Chương trình Vật lý (không có khoa thiên văn riêng; giảng dạy & nghiên cứu vật lý hạt, plasma liên quan)",
+      "structureUrl": "https://www.ucg.ac.me/",
+      "units": [
+        {
+          "name": "Department of Physics (Studijski program za fiziku)",
+          "kind": "Khoa vật lý liên quan",
+          "parent": "Faculty of Natural Sciences and Mathematics, University of Montenegro",
+          "topics": "Vật lý nguyên tử, plasma, hạt cơ bản và giảng dạy thiên văn học cơ bản",
+          "url": "https://www.ucg.ac.me/",
+          "coverage": "leaders",
+          "sources": [
+            "https://www.ucg.ac.me/"
+          ],
+          "note": "Montenegro chưa có viện/khoa thiên văn độc lập; liệt kê giảng viên vật lý lý thuyết/plasma/hạt tại UCG."
+        }
+      ]
+    }
+  }
+}

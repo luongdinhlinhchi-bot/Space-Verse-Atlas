@@ -1,0 +1,20 @@
+{
+  "country": "Bosnia và Herzegovina",
+  "iso": "BIH",
+  "cities": [
+    {
+      "id": "sarajevo",
+      "city": "Sarajevo",
+      "coordinates": [
+        18.4131,
+        43.8563
+      ],
+      "institutions": [
+        {
+          "name": "University of Sarajevo — Faculty of Science (PMF UNSA) & AD Orion",
+          "url": "https://pmf.unsa.ba/"
+        }
+      ]
+    }
+  ]
+}

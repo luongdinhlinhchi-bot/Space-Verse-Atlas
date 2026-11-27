@@ -1,0 +1,20 @@
+{
+  "country": "Kosovo",
+  "iso": "KOS",
+  "cities": [
+    {
+      "id": "prishtina",
+      "city": "Prishtina",
+      "coordinates": [
+        21.1655,
+        42.6629
+      ],
+      "institutions": [
+        {
+          "name": "University of Prishtina (FSHMN) & Astronomy Club of Kosova (Prishtina Observatory)",
+          "url": "https://www.uni-pr.edu/"
+        }
+      ]
+    }
+  ]
+}

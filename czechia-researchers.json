@@ -1,0 +1,1433 @@
+{
+  "checked": "2026-11-21",
+  "scope": "Các cơ quan nghiên cứu thiên văn, vật lý thiên văn, vũ trụ học, vật lý hạt thiên văn và vật lý không gian tại Cộng hòa Séc (ASU CAS, ĐH Charles, FZU CAS, UFA CAS, ĐH Masaryk, ĐH Silesian Opava, ĐH Palacký Olomouc). Loại trừ nhân sự hành chính, kỹ thuật thuần tuý; tách giảng viên thỉnh giảng và giáo sư danh dự.",
+  "units": {
+    "Astronomical Institute of the Czech Academy of Sciences (ASU CAS)::Physics of Hot Stars": {
+      "sources": [
+        "https://stel.asu.cas.cz/en/hotstars/"
+      ],
+      "people": [
+        {
+          "name": "Michaela Kraus",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#kraus"
+        },
+        {
+          "name": "Jiří Kubát",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#kubat"
+        },
+        {
+          "name": "Brankica Kubátová",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#kubatova"
+        },
+        {
+          "name": "Olga Maryeva",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#maryeva"
+        },
+        {
+          "name": "Michalis Kourniotis",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#michalis"
+        },
+        {
+          "name": "Martin Jelínek",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#jelinek"
+        },
+        {
+          "name": "Vojtěch Šimon",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#simon"
+        },
+        {
+          "name": "Péter Németh",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#nemeth"
+        },
+        {
+          "name": "Julieta Sánchez Arias",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#julieta"
+        },
+        {
+          "name": "Alex Camilo Gormaz Matamala",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members/#matamala"
+        },
+        {
+          "name": "Shilpa Sarkar",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members/#sarkar"
+        },
+        {
+          "name": "Suryani Guha",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#suryani"
+        },
+        {
+          "name": "Kateřina Pivoňková",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#pivonkova"
+        },
+        {
+          "name": "Radoslava Bodnarová",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/hotstars/"
+        },
+        {
+          "name": "Nilesh Pandey",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#pandey"
+        },
+        {
+          "name": "Filip Novotný",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#fnovotny"
+        },
+        {
+          "name": "Shubh Mittal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#mittal"
+        }
+      ],
+      "external": [
+        {
+          "name": "Pavel Koubský",
+          "role": "Nghiên cứu viên danh dự (emeritus)",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#koubsky"
+        },
+        {
+          "name": "René Hudec",
+          "role": "Nghiên cứu viên danh dự (emeritus)",
+          "url": "https://stel.asu.cas.cz/en/hotstars/physics-of-hot-stars-members#hudec"
+        }
+      ],
+      "note": ""
+    },
+    "Astronomical Institute of the Czech Academy of Sciences (ASU CAS)::Extrasolar Planet Research": {
+      "sources": [
+        "https://stel.asu.cas.cz/en/extrasolar-planet-research/"
+      ],
+      "people": [
+        {
+          "name": "Petr Kabáth",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#kabath"
+        },
+        {
+          "name": "Marek Skarka",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#skarka"
+        },
+        {
+          "name": "Marie Karjalainen",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#karjalainen_m"
+        },
+        {
+          "name": "Petr Škoda",
+          "role": "Nghiên cứu viên",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members/#skoda"
+        },
+        {
+          "name": "Ján Šubjak",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#subjak"
+        },
+        {
+          "name": "Jiří Žák",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#zak"
+        },
+        {
+          "name": "Michaela Vítková",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#vitkova"
+        },
+        {
+          "name": "Zuzana Balkóová",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#balkoova"
+        },
+        {
+          "name": "Josef Lipták",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#liptak"
+        },
+        {
+          "name": "Mathis Ludwig",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#ludwig"
+        },
+        {
+          "name": "Alessandro Matteo Rossi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/extrasolar-members#rossi"
+        }
+      ],
+      "external": [],
+      "note": ""
+    },
+    "Astronomical Institute of the Czech Academy of Sciences (ASU CAS)::Meteor Physics Group": {
+      "sources": [
+        "https://meteor.asu.cas.cz/en/about/"
+      ],
+      "people": [
+        {
+          "name": "Jiří Borovička",
+          "role": "Trưởng khoa Vật chất liên hành tinh",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Pavel Koten",
+          "role": "Trưởng nhóm Vật lý sao băng",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Pavel Spurný",
+          "role": "Nghiên cứu viên",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Lukáš Shrbený",
+          "role": "Nghiên cứu viên",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "David Čapek",
+          "role": "Nghiên cứu viên",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Tomáš Henych",
+          "role": "Nghiên cứu viên",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Vlastimil Vojáček",
+          "role": "Nghiên cứu viên",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Rostislav Štork",
+          "role": "Nghiên cứu viên",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Adriana Pisarčíková",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Gabriel Borderes Motta",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        },
+        {
+          "name": "Ariane Courtot",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://meteor.asu.cas.cz/en/about/"
+        }
+      ],
+      "external": [],
+      "note": ""
+    },
+    "Astronomical Institute of the Czech Academy of Sciences (ASU CAS)::Czech ALMA Regional Centre (ARC) Node": {
+      "sources": [
+        "https://www.asu.cas.cz/en/departments/solar-department/staff"
+      ],
+      "people": [
+        {
+          "name": "Pavel Jáchym",
+          "role": "Trưởng trung tâm ARC Séc",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        },
+        {
+          "name": "Miroslav Bárta",
+          "role": "Phó trưởng trung tâm ARC Séc",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        },
+        {
+          "name": "Abhijeet Borkar",
+          "role": "Thành viên khoa học ARC",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        },
+        {
+          "name": "Rhys Taylor",
+          "role": "Thành viên khoa học ARC",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        },
+        {
+          "name": "Wenjuan Liu",
+          "role": "Thành viên khoa học ARC",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        },
+        {
+          "name": "Aashiya Anitha Shaji",
+          "role": "Thành viên khoa học ARC",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        },
+        {
+          "name": "Yi Chai",
+          "role": "Thành viên khoa học ARC",
+          "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+        }
+      ],
+      "external": [],
+      "note": ""
+    },
+    "Charles University — Faculty of Mathematics and Physics (MFF UK)::Astronomical Institute of Charles University (AÚ UK)": {
+      "sources": [
+        "https://astro.troja.mff.cuni.cz/pracovnici.html",
+        "https://astro.troja.mff.cuni.cz/doktorandi.html",
+        "https://astro.troja.mff.cuni.cz/externiste.html"
+      ],
+      "people": [
+        {
+          "name": "Alicia Moranchel Basurto",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Miroslav Brož",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Pavel Doležal",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Josef Ďurech",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Jaroslav Haas",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Josef Hanuš",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Petr Harmanec",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Raúl Ortega Chametla",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Ondřej Chrenko",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Daniela Korčáková",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Pavel Kroupa",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Jaroslav Merc",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Ladislav Šubr",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Michal Švanda",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "David Vokrouhlický",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Marek Wolf",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Petr Zasche",
+          "role": "Giảng viên / Nghiên cứu viên",
+          "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+        },
+        {
+          "name": "Iris Bermejo Lozano",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Dominik Černý",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Robin Eappen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Daniela Ernestová",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Elena Gol",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Dan McLachlan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Myank Singhal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        },
+        {
+          "name": "Jana Švrčková",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.troja.mff.cuni.cz/doktorandi.html"
+        }
+      ],
+      "external": [
+        {
+          "name": "Miroslav Bárta",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Soňa Ehlerová",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Petr Heinzel",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Bruno Jungwiert",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Petr Kabáth",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Vladimír Karas",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Jan Palouš",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Jiří Svoboda",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        },
+        {
+          "name": "Richard Wünsch",
+          "role": "Giảng viên thỉnh giảng (ASU CAS / ngoài viện)",
+          "url": "https://astro.troja.mff.cuni.cz/externiste.html"
+        }
+      ],
+      "note": ""
+    },
+    "Charles University — Faculty of Mathematics and Physics (MFF UK)::Institute of Theoretical Physics (ÚTF) — Relativity, Gravitation & Astrophysics": {
+      "sources": [
+        "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci"
+      ],
+      "people": [
+        {
+          "name": "Pavel Krtouš",
+          "role": "Giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Krtous-Pavel"
+        },
+        {
+          "name": "David Kubizňák",
+          "role": "Giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Kubiznak-David"
+        },
+        {
+          "name": "Jiří Podolský",
+          "role": "Giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Podolsky-Jiri"
+        },
+        {
+          "name": "David Heyrovský",
+          "role": "Phó giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Heyrovsky-David"
+        },
+        {
+          "name": "Tomáš Ledvinka",
+          "role": "Phó giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Ledvinka-Tomas"
+        },
+        {
+          "name": "Ondřej Pejcha",
+          "role": "Phó giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Pejcha-Ondrej"
+        },
+        {
+          "name": "Oldřich Semerák",
+          "role": "Phó giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Semerak-Oldrich"
+        },
+        {
+          "name": "Robert Švarc",
+          "role": "Phó giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Svarc-Robert"
+        },
+        {
+          "name": "Martin Žofka",
+          "role": "Phó giáo sư",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Zofka-Martin"
+        },
+        {
+          "name": "David Kofroň",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Kofron-David"
+        },
+        {
+          "name": "Ivan Kolář",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Kolar-Ivan"
+        },
+        {
+          "name": "Vojtěch Witzany , Dr. rer. nat.",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci/Witzany-Vojtech"
+        }
+      ],
+      "external": [],
+      "note": "Lọc các giảng viên/nghiên cứu viên mảng thuyết tương đối rộng, lỗ đen và vật lý thiên văn từ danh bạ toàn viện ÚTF."
+    },
+    "Institute of Physics of the Czech Academy of Sciences (FZU CAS)::Department of Astroparticle Physics": {
+      "sources": [
+        "https://www.fzu.cz/en/research/divisions-and-departments/division-1/department-16/people/grid"
+      ],
+      "people": [
+        {
+          "name": "Anabella Teresa Araudo",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/dr-anabella-teresa-araudo"
+        },
+        {
+          "name": "Alena Bakalová",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ing-alena-bakalova-phd"
+        },
+        {
+          "name": "Kunal Bhardwaj",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/kunal-bhardwaj-msc"
+        },
+        {
+          "name": "Jiří Blažek",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-jiri-blazek-phd"
+        },
+        {
+          "name": "Martina Boháčová",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/rndr-martina-bohacova-phd"
+        },
+        {
+          "name": "Patrik Čechvala",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-patrik-cechvala-phd"
+        },
+        {
+          "name": "Asen Christov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-asen-christov-phd"
+        },
+        {
+          "name": "Ronan Cunniffe",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ronan-cunniffe-bsc"
+        },
+        {
+          "name": "Nikolas Denner",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/ing-nikolas-denner"
+        },
+        {
+          "name": "Jan Ebr",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-jan-ebr-phd"
+        },
+        {
+          "name": "Ivana Ebrová",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ivana-ebrova-phd"
+        },
+        {
+          "name": "Jiří Eliášek",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-jiri-eliasek-phd"
+        },
+        {
+          "name": "Jakub Gazdoš",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/mgr-jakub-gazdos"
+        },
+        {
+          "name": "Jiří Grygar",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/rndr-jiri-grygar-csc"
+        },
+        {
+          "name": "Matěj Havelka",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/mgr-matej-havelka"
+        },
+        {
+          "name": "David Hlaváček",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ing-david-hlavacek-phd"
+        },
+        {
+          "name": "Petr Janeček",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-petr-janecek-phd"
+        },
+        {
+          "name": "Miguel Alexandre Jesus da Silva Martins",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fzu.cz/en/people/dr-miguel-alexandre-jesus-da-silva-martins"
+        },
+        {
+          "name": "Jakub Juryšek",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ing-mgr-jakub-jurysek-phd"
+        },
+        {
+          "name": "Sergey Karpov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/sergey-karpov-phd"
+        },
+        {
+          "name": "Margita Kubátová",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/ing-margita-kubatova"
+        },
+        {
+          "name": "Eva Maria Martins dos Santos",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/dr-eva-maria-martins-dos-santos"
+        },
+        {
+          "name": "Martin Mašek",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/mgr-martin-masek"
+        },
+        {
+          "name": "Kamila Matušů",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/ing-kamila-matusu"
+        },
+        {
+          "name": "Ana Laura Müller",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ana-laura-muller-phd"
+        },
+        {
+          "name": "Srija Reddy Muthyala",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/srija-reddy-muthyala-msc"
+        },
+        {
+          "name": "Shefali Negi",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/shefali-negi-msc"
+        },
+        {
+          "name": "Vladimír Novotný",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/mgr-vladimir-novotny-phd"
+        },
+        {
+          "name": "Leo Östman",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/leo-ostman-msc"
+        },
+        {
+          "name": "Jan Řídký",
+          "role": "Giáo sư",
+          "url": "https://www.fzu.cz/en/people/prof-jan-ridky-drsc"
+        },
+        {
+          "name": "Tobias Schulz, Dr.rer.nat",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/tobias-schulz-drrernat"
+        },
+        {
+          "name": "Thomas Tavernier",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/thomas-tavernier-phd"
+        },
+        {
+          "name": "Olena Tkachenko",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/olena-tkachenko-phd"
+        },
+        {
+          "name": "Petr Tobiška",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/rndr-petr-tobiska-phd"
+        },
+        {
+          "name": "Petr Trávníček",
+          "role": "Trưởng khoa / Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/rndr-petr-travnicek-phd"
+        },
+        {
+          "name": "Michelle Tsirou",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/michelle-tsirou-phd"
+        },
+        {
+          "name": "Jordi Tuneu Serra",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/jordi-tuneu-serra-phd"
+        },
+        {
+          "name": "Arman Tursunov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/rndr-arman-tursunov-phd-dsc"
+        },
+        {
+          "name": "Jakub Vícha",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ing-jakub-vicha-phd"
+        },
+        {
+          "name": "Jhansi Bhavani Vuta",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/jhansi-bhavani-vuta-dr"
+        },
+        {
+          "name": "Alexey Yushkov",
+          "role": "Phó trưởng khoa / Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/dr-alexey-yushkov"
+        }
+      ],
+      "external": [],
+      "note": ""
+    },
+    "Institute of Physics of the Czech Academy of Sciences (FZU CAS)::Department of Cosmology and Gravitational Physics": {
+      "sources": [
+        "https://www.fzu.cz/en/research/divisions-and-departments/division-1/department-39/people/grid"
+      ],
+      "people": [
+        {
+          "name": "Rodrigo Calderón Bruni",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/rodrigo-calderon-bruni-phd"
+        },
+        {
+          "name": "Oyvind Christiansen",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/oyvind-christiansen-phd"
+        },
+        {
+          "name": "Valentina Danieli",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/valentina-danieli-phd"
+        },
+        {
+          "name": "Josef Dvořáček",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/ing-josef-dvoracek"
+        },
+        {
+          "name": "Atabak Fathe Jalali",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/atabak-fathe-jalali-msc"
+        },
+        {
+          "name": "Justin Christopher Feng",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/justin-christopher-feng-phd"
+        },
+        {
+          "name": "Alberto Gálvez Urena",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/alberto-galvez-urena-phd"
+        },
+        {
+          "name": "Petr Hořava",
+          "role": "Giáo sư",
+          "url": "https://www.fzu.cz/en/people/prof-rndr-petr-horava-csc"
+        },
+        {
+          "name": "Ankit Kumar",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/ankit-kumar-phd"
+        },
+        {
+          "name": "Nicolas Agenor Loayza Romero",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/nicolas-agenor-loayza-romero-phd"
+        },
+        {
+          "name": "Jessica Nayely Lopez Sanchez",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/jessica-nayely-lopez-sanchez-phd"
+        },
+        {
+          "name": "Paola Carolina Moreira Delgado",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/paola-carolina-moreira-delgado-phd"
+        },
+        {
+          "name": "Erick Munive Villa",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/erick-munive-villa-phd"
+        },
+        {
+          "name": "Shayoni Panja",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/shayoni-panja-msc"
+        },
+        {
+          "name": "Orestis Sarras, M.Sc.",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/orestis-sarras-msc"
+        },
+        {
+          "name": "Constantinos Skordis",
+          "role": "Trưởng khoa / Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/dr-constantinos-skordis"
+        },
+        {
+          "name": "Federico Urban",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/federico-urban-phd"
+        },
+        {
+          "name": "Alexander Vikman",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/dr-alexander-vikman"
+        },
+        {
+          "name": "David Vokrouhlický",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.fzu.cz/en/people/mgr-david-vokrouhlicky"
+        },
+        {
+          "name": "Ignacy Wolak-Sawicki",
+          "role": "Phó trưởng khoa / Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/dr-ignacy-wolak-sawicki"
+        },
+        {
+          "name": "Hongyi Zhang",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.fzu.cz/en/people/hongyi-zhang-phd"
+        }
+      ],
+      "external": [],
+      "note": ""
+    },
+    "Institute of Atmospheric Physics of the Czech Academy of Sciences (UFA CAS)::Department of Space Physics": {
+      "sources": [
+        "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+      ],
+      "people": [
+        {
+          "name": "Radka Balková",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Kateřina Barotová",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Praveen Kumar Basuvaraj",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Adam Boudouma",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Tomáš Formánek",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Niklas Grimmich",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Benjamin Grison",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Mychajlo Hajoš",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Miroslav Hanzelka",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Petr Hellinger",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "David Herčík",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Pavel Houfek",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Samia Ijaz",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Masafumi Imai",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Jiří Jánský",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Michaela Jírová",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Petr Kašpar",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Vavřinec Kavan",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Andrea Kolínská",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Ivana Kolmašová",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Radek Lán",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Ján Mičko",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Shunsuke Miyashita",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "David Píša",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Martin Popek",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Kateřina Rosická",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Ondřej Santolík",
+          "role": "Giáo sư",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Jan Souček",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Štěpán Štverák",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Koki Tachi",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Ulrich Taubenschuss",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Luděk Uhlíř",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        },
+        {
+          "name": "Jaroslav Vojta",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+        }
+      ],
+      "external": [],
+      "note": "Bao gồm cả nhóm mô phỏng số plasma nhật quyển (đã sáp nhập vào khoa từ đầu năm 2026)."
+    },
+    "Masaryk University — Department of Theoretical Physics and Astrophysics (ÚTFA)::Astrophysics & High-Energy Astrophysics (ÚTFA)": {
+      "sources": [
+        "https://www.physics.muni.cz/ustavy/utfa-new"
+      ],
+      "people": [
+        {
+          "name": "Jiří Krtička",
+          "role": "Giáo sư",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        },
+        {
+          "name": "Zdeněk Mikulášek",
+          "role": "Giáo sư",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        },
+        {
+          "name": "Norbert Werner",
+          "role": "Giáo sư",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        },
+        {
+          "name": "Filip Hroch",
+          "role": "Nghiên cứu viên / Giảng viên",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        },
+        {
+          "name": "Jan Janík",
+          "role": "Nghiên cứu viên / Giảng viên",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        },
+        {
+          "name": "Tereza Jeřábková",
+          "role": "Nghiên cứu viên / Giảng viên",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        },
+        {
+          "name": "Michal Zajaček",
+          "role": "Nghiên cứu viên / Giảng viên",
+          "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+        }
+      ],
+      "external": [],
+      "note": "Mới có các giáo sư và giảng viên chủ chốt mảng vật lý thiên văn."
+    },
+    "Silesian University in Opava — Institute of Physics::Research Centre for Theoretical Physics and Astrophysics": {
+      "sources": [
+        "https://www.slu.cz/phys/en/"
+      ],
+      "people": [
+        {
+          "name": "Gabriel Török",
+          "role": "Phó giáo sư; Viện trưởng",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Zdeněk Stuchlík",
+          "role": "Giáo sư; Chủ tịch Hội đồng khoa học",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Ivan Hubač",
+          "role": "Giáo sư; Trưởng bộ môn",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Peter Lichard",
+          "role": "Giáo sư",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Stanislav Hledík",
+          "role": "Phó giáo sư",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Jiří Kovář",
+          "role": "Phó giáo sư",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Jan Schee",
+          "role": "Phó giáo sư",
+          "url": "https://www.slu.cz/phys/en/"
+        },
+        {
+          "name": "Petr Slaný",
+          "role": "Phó giáo sư",
+          "url": "https://www.slu.cz/phys/en/"
+        }
+      ],
+      "external": [],
+      "note": "Mới có lãnh đạo viện và các giảng viên chủ chốt (slu.cz yêu cầu kiểm tra trình duyệt tự động)."
+    },
+    "Palacký University Olomouc — Joint Laboratory of Optics (SLO)::Joint Laboratory of Optics (SLO)": {
+      "sources": [
+        "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+      ],
+      "people": [
+        {
+          "name": "Ievgen Arkhipov",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Anna Aronová",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Bořil",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Fraser Bradfield",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Otakar Bucek",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Buchníček",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Martin Čada",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Antonín Černoch",
+          "role": "Phó giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Karel Černý",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Hana Chmelíčková",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Ladislav Chytka",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Ondřej Haderka",
+          "role": "Trưởng phòng thí nghiệm (SLO); Giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Hamal",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Martina Havelková",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Pavel Horváth",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Miroslav Hrabovský",
+          "role": "Giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "František Hrubý",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Zdeněk Hubička",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Vlastimil Jílek",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Josef Kadlec",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Martin Kittler",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jakub Kmec",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jaromír Křepelka",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jiří Kvita",
+          "role": "Phó giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Karel Lemr",
+          "role": "Phó giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Antonín Lukš",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Radek Machulka",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Dušan Mandát",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Milan Marek",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Stanislav Michal",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Václav Michálek",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Robert Mosoči",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Robert Myška",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Javid Ahmad Naikoo",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Libor Nožka",
+          "role": "Phó giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Kamil Odstrčil",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Miroslav Palatka",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Pavel Pavlíček",
+          "role": "Phó giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Miroslav Pech",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jan Peřina",
+          "role": "Giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Písařík",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Aneta Písaříková",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Miroslava Plaštiaková",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Marie Princová",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Radek Přívara",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jan Řídký",
+          "role": "Giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Schovánek",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Šmíd",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jan Soubusta",
+          "role": "Giáo sư",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jan Straka",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Zuzana Svozilíková",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Kishore Thapliyal",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jan Tomáštík",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Petr Trávníček",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Lukáš Václavek",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Martin Vacula",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Jiří Záhora",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Martin Zeman",
+          "role": "Nghiên cứu viên / Nghiên cứu sinh",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        },
+        {
+          "name": "Artem Zirka",
+          "role": "Nghiên cứu viên",
+          "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+        }
+      ],
+      "external": [],
+      "note": ""
+    }
+  }
+}

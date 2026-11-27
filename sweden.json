@@ -1,0 +1,105 @@
+{
+ "country": "SWE",
+ "checked": "2026-11-22",
+ "viewBox": "140 0 480 460",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ). Stockholm và Uppsala được dịch nhẹ ghim kèm đường nối để không che nhau; Onsala Space Observatory đặt gần Göteborg; IRF đặt trụ sở chính tại Kiruna (có phân ban tại Uppsala, Umeå, Lund).",
+ "listSource": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation",
+ "cities": [
+  {
+   "id": "stockholm",
+   "city": "Stockholm",
+   "coordinates": [
+    18.07,
+    59.33
+   ],
+   "offset": [
+    10,
+    6
+   ],
+   "institutions": [
+    {
+     "name": "Stockholm University — Department of Astronomy & Institute for Solar Physics (ISP)",
+     "type": "university",
+     "research": "Siêu tân tinh và hiện tượng quá độ, vũ trụ học và tái ion hoá, tiến hoá thiên hà, hành tinh ngoài Hệ Mặt Trời, khí quyển sao và vật lý Mặt Trời (kính thiên văn Mặt Trời Thụy Điển SST).",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "KTH Royal Institute of Technology — Particle Physics, Astrophysics and Medical Imaging",
+     "type": "university",
+     "research": "Vật lý hạt thiên văn (tia gamma, thiết bị trên vệ tinh/khinh khí cầu), vật lý neutrino, vật chất tối, vũ trụ học và tiến hoá sao khối lượng lớn.",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    }
+   ]
+  },
+  {
+   "id": "uppsala",
+   "city": "Uppsala",
+   "coordinates": [
+    17.64,
+    59.86
+   ],
+   "offset": [
+    -10,
+    -8
+   ],
+   "institutions": [
+    {
+     "name": "Uppsala University — Department of Physics and Astronomy (Astronomy and Space Physics)",
+     "type": "university",
+     "research": "Vật lý sao và quang phổ chính xác cao, từ trường sao, thiên hà và vũ trụ học, hành tinh ngoài Hệ Mặt Trời và vật lý plasma không gian.",
+     "url": "https://www.uu.se/en/contact-and-organisation/organisation?query=X208:1"
+    }
+   ]
+  },
+  {
+   "id": "lund",
+   "city": "Lund",
+   "coordinates": [
+    13.19,
+    55.7
+   ],
+   "institutions": [
+    {
+     "name": "Lund University — Division of Astrophysics (Lund Observatory)",
+     "type": "university",
+     "research": "Động lực học và tiến hoá Ngân Hà (Gaia), quần thể sao, hình thành hành tinh và phát triển thiết bị quang học/giao thoa kế thiên văn.",
+     "url": "https://www.astro.lu.se/peoplelist"
+    }
+   ]
+  },
+  {
+   "id": "goteborg",
+   "city": "Göteborg",
+   "coordinates": [
+    11.97,
+    57.71
+   ],
+   "institutions": [
+    {
+     "name": "Chalmers University of Technology & Onsala Space Observatory (OSO)",
+     "type": "university",
+     "research": "Thiên văn vô tuyến milimet và dưới milimet (ALMA, APEX, SKA, VLBI), hoá học thiên văn, hình thành sao, nhân thiên hà hoạt động và vật lý plasma.",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    }
+   ]
+  },
+  {
+   "id": "kiruna",
+   "city": "Kiruna",
+   "coordinates": [
+    20.23,
+    67.86
+   ],
+   "institutions": [
+    {
+     "name": "Swedish Institute of Space Physics (IRF)",
+     "type": "non-university institute",
+     "research": "Vật lý Hệ Mặt Trời và thiết bị cho sứ mệnh vũ trụ (Juice, Solar Orbiter, BepiColombo), plasma không gian, cực quang, tầng điện ly và từ quyển hành tinh.",
+     "url": "https://www.irf.se/en/om-irf/organisation/",
+     "note": "Trụ sở chính tại Kiruna; có nhóm nghiên cứu tại Uppsala, Umeå và Lund."
+    }
+   ]
+  }
+ ]
+}

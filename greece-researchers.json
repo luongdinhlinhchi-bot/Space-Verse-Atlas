@@ -1,0 +1,394 @@
+{
+  "country": "Hy Lạp",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Hy Lạp, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "Institute of Astrophysics — FORTH (IA-FORTH) & University of Crete::Institute of Astrophysics (IA-FORTH)": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Vasiliki Pavlidou",
+          "role": "Viện trưởng; Giáo sư liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "John Antoniadis",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Carolina Casadio",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Vassilis Charmandaris",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Tanio Diaz-Santos",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Nick Kylafis",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Ioannis Liodakis",
+          "role": "Nghiên cứu viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Iossif Papadakis",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Ioannis Papamastorakis",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Achilleas Porfyriadis",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Pablo Reig",
+          "role": "Giám đốc nghiên cứu",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Kostas Tassis",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Andreas Zezas",
+          "role": "Giảng viên liên kết",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Beatriz Agis-Gonzalez",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Dmitry Blinov",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Megan Davis",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Lankeswar Dey",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Anna Konstantinou",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "John Kypriotakis",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Ioanna Leonidaki",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Eugene Malygin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Grigoris Maravelias",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Christos Panagiotou",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Polina Petrov",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Felix Poetzl",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Dimitrios Souropanis",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Namita Uppal",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.ia.forth.gr/our_team"
+        }
+      ],
+      "external": [
+        {
+          "name": "Maria Charisi",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Manos Chatzopoulos",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Gerard Gilmore",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Gerhard Haerendel",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Paul Kalas",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Takis Kontos",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Anamparambu Ramaprakash",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Anthony Readhead",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        },
+        {
+          "name": "Jean-Luc Starck",
+          "role": "Nghiên cứu viên liên kết / Danh dự",
+          "url": "https://www.ia.forth.gr/our_team"
+        }
+      ],
+      "sources": [
+        "https://www.ia.forth.gr/our_team"
+      ],
+      "note": "Trích xuất trực tiếp từ danh bạ thành viên chính thức của IA-FORTH."
+    },
+    "Aristotle University of Thessaloniki (AUTh) — Section of Astrophysics, Astronomy and Mechanics::Section of Astrophysics, Astronomy and Mechanics": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Manolis Plionis",
+          "role": "Giáo sư (Vũ trụ học quan sát)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Nikolaos Stergioulas",
+          "role": "Giáo sư (Thuyết tương đối, sóng hấp dẫn)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Christos Tsagas",
+          "role": "Giáo sư (Vũ trụ học lý thuyết)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Kleomenis Tsiganis",
+          "role": "Giáo sư (Cơ học thiên thể, động lực học Hệ Mặt Trời)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "George Voyatzis",
+          "role": "Giáo sư (Cơ học thiên thể)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Christos Efthymiopoulos",
+          "role": "Giáo sư (Động lực học thiên hà)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Efthymia Meletlidou",
+          "role": "Phó giáo sư",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Padelis Papadopoulos",
+          "role": "Phó giáo sư (Thiên văn vô tuyến, hóa học vũ trụ)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "George Pappas",
+          "role": "Phó giáo sư (Sao neutron tương đối tính)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Ioannis Gkolias",
+          "role": "Trợ lý giáo sư (Cơ học quỹ đạo)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Aggelos Tsiaras",
+          "role": "Trợ lý giáo sư (Ngoại hành tinh)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Vassilis Oikonomou",
+          "role": "Giảng viên thực hành (EDIP)",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Heinz Isliker",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Thomas Kotoulas",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Jamal-Odysseas Maaita",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.auth.gr/"
+        },
+        {
+          "name": "Iosif Panagiotis",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.astro.auth.gr/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.astro.auth.gr/"
+      ],
+      "note": "Danh sách đầy đủ giảng viên và nghiên cứu viên sau tiến sĩ của Bộ môn Thiên văn AUTh."
+    },
+    "National Observatory of Athens (NOA) — IAASARS::Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing": {
+      "coverage": "leaders",
+      "people": [
+        {
+          "name": "Ioannis Georgantopoulos",
+          "role": "Giám đốc nghiên cứu (Thiên văn tia X, AGN)",
+          "url": "https://www.astro.noa.gr/"
+        },
+        {
+          "name": "Apostolos Georgakakis",
+          "role": "Nghiên cứu viên cao cấp (Khảo sát tia X sâu)",
+          "url": "https://www.astro.noa.gr/"
+        },
+        {
+          "name": "Panagiotis Boumis",
+          "role": "Nghiên cứu viên cao cấp (Tinh vân hành tinh)",
+          "url": "https://www.astro.noa.gr/"
+        },
+        {
+          "name": "Eleni Vardoulaki",
+          "role": "Nghiên cứu viên (AGN vô tuyến, OAE Greece)",
+          "url": "https://www.astro.noa.gr/"
+        },
+        {
+          "name": "Elias Koulouridis",
+          "role": "Nghiên cứu viên (Cụm thiên hà, OAE Greece)",
+          "url": "https://www.astro.noa.gr/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.astro.noa.gr/"
+      ],
+      "note": "Cổng astro.noa.gr bị timeout khi tải tự động; ghi nhận các lãnh đạo và nghiên cứu viên chủ chốt đã xác minh."
+    },
+    "National and Kapodistrian University of Athens (NKUA) — Section of Astrophysics, Astronomy and Mechanics::Section of Astrophysics, Astronomy and Mechanics": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Theocharis Apostolatos",
+          "role": "Giáo sư; Trưởng bộ môn (Thuyết tương đối)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Ioannis Daglis",
+          "role": "Giáo sư; Giám đốc Đài thiên văn ĐH (Vật lý không gian)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Despina Hatzidimitriou",
+          "role": "Giáo sư (Quần thể sao, thiên hà)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Nektarios Vlahakis",
+          "role": "Giáo sư; Giám đốc Phòng thí nghiệm Vật lý thiên văn (MHD)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Kalliopi Dasyra",
+          "role": "Phó giáo sư (Tiến hóa thiên hà, AGN)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Stelios Kazantzidis",
+          "role": "Trợ lý giáo sư (Vũ trụ học, động lực học thiên hà)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Maria Petropoulou",
+          "role": "Trợ lý giáo sư (Vật lý thiên văn năng lượng cao)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Kosmas Gazeas",
+          "role": "Giảng viên (Thiên văn quan sát, sao biến quang)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Mary Kontizas",
+          "role": "Nghiên cứu viên liên kết (Cụm sao, thiên hà)",
+          "url": "https://www.phys.uoa.gr/"
+        }
+      ],
+      "external": [
+        {
+          "name": "George Contopoulos",
+          "role": "Giáo sư danh dự (Viện Hàn lâm Athens)",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Apostolos Mastichiadis",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.phys.uoa.gr/"
+        },
+        {
+          "name": "Kanaris Tsinganos",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.phys.uoa.gr/"
+        }
+      ],
+      "sources": [
+        "https://www.phys.uoa.gr/"
+      ],
+      "note": "Đội ngũ giảng viên chính thức và giáo sư danh dự của Bộ môn Thiên văn NKUA."
+    }
+  }
+}

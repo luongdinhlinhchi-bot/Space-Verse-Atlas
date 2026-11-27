@@ -1,0 +1,915 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn và vật lý thiên văn tại Ukraina (MAO NASU Kyiv, Viện Thiên văn ĐH Karazin Kharkiv, IRA NASU, Đài Lviv, Đài Odesa, Đài Mykolaiv).",
+ "units": {
+  "Main Astronomical Observatory of the NAS of Ukraine (MAO NASU)::MAO NASU (toàn viện)": {
+   "sources": [
+    "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+   ],
+   "people": [
+    {
+     "name": "Maksim Andreev",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuriy Andriyiv",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vitaliy Andruk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Tetyana Artemenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuriy Babyk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Peter Berczik",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Iryna Bondarenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Serhiy Borysenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Tamara Bulba",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vasyl Choliy",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Svetlana Chornogor",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vasyl Danylevsky",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Tetiana Davydovska",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Alexandr Delets",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Zhanna Dlugach",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Daria Dobrycheva",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Andrii Elyiv",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuriy Fedorov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nataliya Gladkih",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Larissa Gladkohata",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Marina Gladkohata",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuriy Glushchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Anna Goncharenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Marina Ishchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Daniel Ivanov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuri Ivanov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Aleksandra Ivanova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Oseksiy Ivanyuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuriy Ivashchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Inna Izvekova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Bogdan Kaminskiy",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Valentyna Karachentseva",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Victor Karbivskiy",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Oleg Khoda",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Lyubov Kisyun",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olga Klymenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Volodymyr Klymenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Sergiy Kolesnikov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuriy Kolesnyk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olena Kompaniets",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nina Kondrashova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Roman Kostik",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Valeriy Kostyuchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "George Kovalchuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Sergei Kravchuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Victoria Krushevska",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Ivan Kryachko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Irina Kulyk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Juliana Kuznetzova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yurij Kyzyurov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olga Laptienko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Mykhaylo Lashko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Galina Lazorenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Petro Lazorenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Valentyn Lobortas",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yuri Lyubchik",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Volodymyr Masliukh",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Mikhail Medvedsky",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Gennadiy Milinevsky",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nina Mykhailytska",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Kateryna Nenakhova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Tetiana Nykytyuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Stanislav Onipchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Sergei Osipov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Roman Osypenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Oleksandr Ovsak",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Lyudmila Pakuliak",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Victor Pap",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Grigoriy Parusimov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nina Parusimova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Margarita Pasechnik",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olena Pastoven",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nataliya Pecheroga",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vladymyr Petukhov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Leonid Pilyugin",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Mykola Pishkalo",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Sergii Pokhvala",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nadiya Pulatova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yaroslav Romanyuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vera Rosenbush",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vyacheslav Semenenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Volodymyr Semikhov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olga Sergienko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Svetlana Shatokhina",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vitalij Shavlovskij",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Nataliya Shchukina",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Valentina Sheminova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Oleksandr Shevchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olena Shubina",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Valentyna Skvortsova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Oleksandr Sobodar",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Margarita Sobolenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Mikhail Sosonkin",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Andriy Sukhorukov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Lidiya Svachii",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Ivan Syniavskyi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olena Torbaniuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Irina Vasiljeva",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Anatoliy Vasylenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Maksym Vasylenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Irina Vavilova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Irina Vedenicheva",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Alex Veles",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Irina Verlyuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Anatoliy Vidmachenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Kateryna Vovk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yaroslav Yatskiv",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olena Yizhakevych",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Yulia Yukhymchuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Volodymyr Yushchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Olga Zakhozhay",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Vitaliy Zhaborovsky",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Boris Zhilyaev",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Igor Zinchenko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Anastasia Zolotukhina",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    },
+    {
+     "name": "Mao Nasu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "V. N. Karazin Kharkiv National University — Institute of Astronomy::Institute of Astronomy (Karazin Kharkiv University)": {
+   "sources": [
+    "https://www.astron.kharkov.ua/staff/"
+   ],
+   "people": [
+    {
+     "name": "Kaydash Vadym Grigor'evich",
+     "role": "Viện trưởng; Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Akhmetov Volodymyr S.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "http://www.astron.kharkov.ua/astrometry/html/AkhmetV_en.html"
+    },
+    {
+     "name": "Bannikova Elena Yu",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "http://physics.karazin.ua/en/pers_pages/bannikova_e_y.html"
+    },
+    {
+     "name": "Belskaya Irina Nikolayevna",
+     "role": "Trưởng bộ môn / phòng",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Chiorny Vasilij Grigor'evich",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Fedorov Peter Nikolaevich",
+     "role": "Trưởng bộ môn / phòng",
+     "url": "http://www.astron.kharkov.ua/astrometry/html/FedorovP_en.html"
+    },
+    {
+     "name": "Golubov Oleksiy",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Hromakina Tetiana",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Konichek Vladimir V.",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Korokhin Viktor Valentinovich",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Krugly Yurij Nikolajevich",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Lupishko Dmitrij Fedorovich",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Marchenko Gennagy Petrovich",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Mikhalchenko Olga Ivanovna",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Opanasenko Nikolay Viktorovich",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Psarev Vladimir Alexandrovich",
+     "role": "Viện trưởng; Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Rohachova Larysa V.",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Sergeyev Alexey V.",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Sinelnikov Igor Ye.",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Shevchenko Vasilij Grigor'evich",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Shkuratov Yuriy Grigor'evich",
+     "role": "Trưởng bộ môn / phòng",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Slyusarev Ivan Grigor'evich",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Velichko Anna Borysivna",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Velichko Sergey Fedorovich",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Zheleznyak Alexander P.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Starukhina Larisa V.",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Velikodsky Yuri Ivanovich",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Institute of Radio Astronomy of the NAS of Ukraine (IRA NASU)::Institute of Radio Astronomy NASU": {
+   "sources": [
+    "https://www.nas.gov.ua/"
+   ],
+   "people": [
+    {
+     "name": "Viacheslav Zakharenko",
+     "role": "Viện trưởng IRA NASU",
+     "url": "https://www.nas.gov.ua/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Ivan Franko National University of Lviv — Astronomical Observatory::Astronomical Observatory (Lviv University)": {
+   "sources": [
+    "https://astro.lnu.edu.ua/staff/"
+   ],
+   "people": [
+    {
+     "name": "Гірняк М. Б.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Баран О. А.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Присяжний А. І.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Карнаушенко В.О.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Чорнодольський Я.М.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Сорока О.С.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Вовчик Є. Б.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Сорока К. О.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Шпирка Л. Ю.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Новосядлий Б. С.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Апуневич С. Є.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Неоменко Р. Г.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Ціж М. Б.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Патрій М.В.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Мелех Б. Я.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Бугаєнко О. С.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Берікашвілі М. Ш.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Кошмак І. О.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Чудик С. В.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Кузьо Т. В.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Тишко Н. Л.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Ваврух М. В.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Дзіковський Д. В.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Петрук О. Л.",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    },
+    {
+     "name": "Сальніков І. В.",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Odesa I. I. Mechnikov National University — Astronomical Observatory::Odesa Astronomical Observatory": {
+   "sources": [
+    "https://onu.edu.ua/"
+   ],
+   "people": [
+    {
+     "name": "Sergey Andrievsky",
+     "role": "Giám đốc Đài thiên văn Odesa",
+     "url": "https://onu.edu.ua/"
+    }
+   ],
+   "external": [],
+   "note": "Cần rà soát lại danh bạ nhân sự chi tiết trên trang mới của onu.edu.ua."
+  },
+  "Mykolaiv Astronomical Observatory (MAO)::Mykolaiv Astronomical Observatory": {
+   "sources": [
+    "https://www.mao.mk.ua/"
+   ],
+   "people": [
+    {
+     "name": "Oleksandr Shulga",
+     "role": "Giám đốc Đài thiên văn Mykolaiv",
+     "url": "https://www.mao.mk.ua/"
+    }
+   ],
+   "external": [],
+   "note": "Trang mao.mk.ua không công bố danh bạ thành viên tĩnh."
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Serbia",
+  "checked": "2026-11-22",
+  "institutions": {
+    "Astronomical Observatory of Belgrade (AOB)": {
+      "city": "Belgrade",
+      "coverage": "partial",
+      "structure": "Viện nghiên cứu thiên văn quốc gia hàng đầu của Serbia (vận hành trạm quan sát Vidojevica)",
+      "structureUrl": "https://www.aob.rs/",
+      "units": [
+        {
+          "name": "Astronomical Observatory of Belgrade (Nhân sự chủ chốt)",
+          "kind": "Viện nghiên cứu quốc gia",
+          "parent": "Ministry of Science, Technological Development and Innovation of Serbia",
+          "topics": "Vật lý thiên văn sao và Mặt Trời, quang phổ thiên văn, thiên hà, vũ trụ học, sinh học vũ trụ, động lực học",
+          "url": "https://www.aob.rs/",
+          "coverage": "partial",
+          "sources": [
+            "https://www.aob.rs/"
+          ],
+          "note": "Trang danh bạ chi tiết trả 404 khi truy cập tự động; ghi nhận ban lãnh đạo và các nghiên cứu viên chủ chốt đã xác minh."
+        }
+      ]
+    },
+    "University of Belgrade — Faculty of Mathematics (Department of Astronomy)": {
+      "city": "Belgrade",
+      "coverage": "leaders",
+      "structure": "Khoa Thiên văn học thuộc Khoa Toán (ĐH Belgrade), đồng xuất bản Serbian Astronomical Journal",
+      "structureUrl": "https://astro.matf.bg.ac.rs/",
+      "units": [
+        {
+          "name": "Department of Astronomy",
+          "kind": "Khoa đào tạo & nghiên cứu",
+          "parent": "Faculty of Mathematics, University of Belgrade",
+          "topics": "Thiên văn học, vật lý thiên văn, nhân thiên hà hoạt động (AGN), tàn tích siêu tân tinh, cơ học thiên thể",
+          "url": "https://astro.matf.bg.ac.rs/",
+          "coverage": "leaders",
+          "sources": [
+            "https://astro.matf.bg.ac.rs/"
+          ],
+          "note": "Danh sách các giáo sư và giảng viên chủ chốt của Khoa Thiên văn MATF Belgrade."
+        }
+      ]
+    }
+  }
+}

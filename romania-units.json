@@ -1,0 +1,84 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Astronomical Institute of the Romanian Academy (AIRA) — București": {
+   "coverage": "full",
+   "structure": "Romanian Academy → AIRA (Bucharest Observatory)",
+   "structureUrl": "https://www.astro.ro:8080/ro/articles/Staff",
+   "scopeNote": "Lấy từ danh bạ Personal chính thức của AIRA (mục București); loại trừ kế toán và kỹ thuật.",
+   "units": [
+    {
+     "name": "Bucharest Astronomical Observatory (AIRA)",
+     "kind": "Viện nghiên cứu viện hàn lâm",
+     "parent": "Romanian Academy",
+     "topics": "Vật lý Mặt Trời, tiểu hành tinh, trắc lượng thiên văn và vật lý sao.",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    }
+   ],
+   "networks": []
+  },
+  "Institute of Space Science (ISS Romania)": {
+   "coverage": "partial",
+   "structure": "INFLPR → Institute of Space Science (Lab 1010, Lab 1020, Lab 1040)",
+   "structureUrl": "https://www.spacescience.ro/laboratoare/",
+   "scopeNote": "Đã có danh sách đầy đủ cho Lab 1010 (High Energy Physics) và Lab 1040 (Space Plasma & Magnetometry); trang Lab 1020 (Astrophysics, Cosmology & Theoretical Physics) không công khai danh sách thành viên tĩnh.",
+   "units": [
+    {
+     "name": "Lab 1010 — High Energy Physics",
+     "kind": "Phòng thí nghiệm nghiên cứu",
+     "parent": "Institute of Space Science",
+     "topics": "Vật lý năng lượng cao (CERN/ALICE), tia vũ trụ và hạt cơ bản.",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Lab 1020 — Astrophysics, Cosmology and Theoretical Physics",
+     "kind": "Phòng thí nghiệm nghiên cứu",
+     "parent": "Institute of Space Science",
+     "topics": "Tia vũ trụ năng lượng cực cao (Pierre Auger), thiên văn vô tuyến, tiến hoá thiên hà và sóng hấp dẫn.",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1020-astrofizica-cosmologie-si-fizica-teoretica/"
+    },
+    {
+     "name": "Lab 1040 — Space Plasma and Magnetometry (GPSM)",
+     "kind": "Phòng thí nghiệm nghiên cứu",
+     "parent": "Institute of Space Science",
+     "topics": "Vật lý plasma không gian, thời tiết không gian, hoạt động Mặt Trời và sứ mệnh Cluster.",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    }
+   ],
+   "networks": []
+  },
+  "Astronomical Institute of the Romanian Academy (AIRA) — Cluj-Napoca": {
+   "coverage": "full",
+   "structure": "AIRA → Filiala Cluj-Napoca",
+   "structureUrl": "https://www.astro.ro:8080/ro/articles/ClujNapoca",
+   "scopeNote": "Lấy từ danh bạ Personal chính thức của chi nhánh Cluj-Napoca.",
+   "units": [
+    {
+     "name": "Cluj-Napoca Observatory (AIRA)",
+     "kind": "Chi nhánh viện nghiên cứu",
+     "parent": "AIRA",
+     "topics": "Sao biến quang, cơ học thiên thể và thiên văn quan sát.",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    }
+   ],
+   "networks": []
+  },
+  "Astronomical Institute of the Romanian Academy (AIRA) — Timișoara": {
+   "coverage": "full",
+   "structure": "AIRA → Filiala Timișoara",
+   "structureUrl": "https://www.astro.ro:8080/ro/articles/Staff",
+   "scopeNote": "Lấy từ danh bạ Personal chính thức của AIRA (mục Timișoara).",
+   "units": [
+    {
+     "name": "Timișoara Observatory (AIRA)",
+     "kind": "Chi nhánh viện nghiên cứu",
+     "parent": "AIRA",
+     "topics": "Thiên văn quan sát và hệ sao đôi.",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

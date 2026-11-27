@@ -1,0 +1,24 @@
+{
+  "country": "Serbia",
+  "iso": "SRB",
+  "cities": [
+    {
+      "id": "belgrade",
+      "city": "Belgrade",
+      "coordinates": [
+        20.4489,
+        44.7866
+      ],
+      "institutions": [
+        {
+          "name": "Astronomical Observatory of Belgrade (AOB)",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "University of Belgrade — Faculty of Mathematics (Department of Astronomy)",
+          "url": "https://astro.matf.bg.ac.rs/"
+        }
+      ]
+    }
+  ]
+}

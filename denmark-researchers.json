@@ -1,0 +1,496 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn, vật lý thiên văn, vũ trụ học và công nghệ không gian tại Đan Mạch (Niels Bohr Institute — DAWN/DARK/NBIA, DTU Space, Đại học Aarhus). Loại trừ nhân sự hành chính, kỹ thuật thuần tuý; tách giáo sư danh dự và thành viên liên kết.",
+ "units": {
+  "University of Copenhagen — Niels Bohr Institute (NBI)::Cosmic Dawn Center (DAWN)": {
+   "sources": [
+    "https://cosmicdawn.dk/staff/"
+   ],
+   "people": [
+    {
+     "name": "Sune Toft",
+     "role": "Giám đốc trung tâm (DAWN); Giáo sư",
+     "url": "https://orcid.org/0000-0003-3631-7176"
+    },
+    {
+     "name": "Thomas R. Greve",
+     "role": "Đồng giám đốc (DAWN); Giáo sư",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Georgios Magdis",
+     "role": "Phó giám đốc (DAWN); Phó giáo sư",
+     "url": "https://www.georgiosmagdis.com/"
+    },
+    {
+     "name": "Johan Fynbo",
+     "role": "Giáo sư",
+     "url": "https://nbi.dk/~jfynbo"
+    },
+    {
+     "name": "Charlotte Mason",
+     "role": "Phó giáo sư",
+     "url": "https://charlottenosam.github.io"
+    },
+    {
+     "name": "Darach Jafar Watson",
+     "role": "Phó giáo sư",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Gabriel Brammer",
+     "role": "Phó giáo sư",
+     "url": "https://www.github.com/gbrammer"
+    },
+    {
+     "name": "Francesco Valentino",
+     "role": "Nghiên cứu viên",
+     "url": "https://orcid.org/0000-0001-6477-4011"
+    },
+    {
+     "name": "Allan Hornstrup",
+     "role": "Phó giáo sư",
+     "url": "https://space.dtu.dk"
+    },
+    {
+     "name": "Lise Christensen",
+     "role": "Phó giáo sư",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Koki Kakiichi",
+     "role": "Trợ lý giáo sư",
+     "url": "https://kakiichi.github.io/"
+    },
+    {
+     "name": "Kasper Elm Heintz",
+     "role": "Trợ lý giáo sư",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Steven Gillman",
+     "role": "Nghiên cứu viên",
+     "url": "https://stevengillman.github.io"
+    },
+    {
+     "name": "Conor McPartland",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.conormcp.com"
+    },
+    {
+     "name": "Kei Ito",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://sites.google.com/view/keiito/home"
+    },
+    {
+     "name": "Minju Lee",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Anton Norup-Sørensen",
+     "role": "Nghiên cứu viên",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Bo Milvang-Jensen",
+     "role": "Nghiên cứu viên",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Peter Laursen",
+     "role": "Nghiên cứu viên",
+     "url": "https://github.com/anisotropela/"
+    },
+    {
+     "name": "Katherine E. Whitaker",
+     "role": "Phó giáo sư",
+     "url": "https://astrowhit.com"
+    },
+    {
+     "name": "Daniele Bjørn Malesani",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://dmalesani"
+    },
+    {
+     "name": "Pascal Oesch",
+     "role": "Phó giáo sư",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Joris Witstok",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://github.com/joriswitstok"
+    },
+    {
+     "name": "Shuowen Jin",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Aayush Arya",
+     "role": "Nghiên cứu sinh",
+     "url": "https://github.com/aayusharyaa"
+    },
+    {
+     "name": "Nikolaj Bjerregaard Sillassen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://%C2%A0https://github.com/Nikolaj-B-Sillassen/"
+    },
+    {
+     "name": "Joonas Kari Markku Viuho",
+     "role": "Nghiên cứu sinh",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Clara Pollock",
+     "role": "Nghiên cứu sinh",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Pengpei Zhu",
+     "role": "Nghiên cứu sinh",
+     "url": "https://github.com/PengpeiZhu"
+    },
+    {
+     "name": "Natalie Allen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Simone Vejlgaard Nielsen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://github.com/svejlgaard"
+    },
+    {
+     "name": "Viola Gelli",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Rashmi Gottumukkala",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://github.com/RashmiGot"
+    },
+    {
+     "name": "Kimi Cardoso Kreilgaard",
+     "role": "Nghiên cứu sinh",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Guozhen Ma",
+     "role": "Nghiên cứu sinh",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Marko Shuntov",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Bitten Gullberg",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Zihao Li",
+     "role": "Nghiên cứu sinh",
+     "url": "https://lizihao1008.github.io/"
+    },
+    {
+     "name": "Zuyi Chen",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Ivan Nikolić",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://orcid.org/0000-0001-9125-7415"
+    },
+    {
+     "name": "Alex Cameron",
+     "role": "Nghiên cứu viên",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Yi Xu",
+     "role": "Nghiên cứu viên",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Desika Narayanan",
+     "role": "Nghiên cứu viên",
+     "url": "https://desikanarayanan.cmo"
+    },
+    {
+     "name": "James Arcidiacono",
+     "role": "Nghiên cứu viên",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Antonio Pensabene",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://sites.google.com/view/antonio-pensabene/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Peter Jakobsen",
+     "role": "Giáo sư",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "Birgitta Nordström",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://astro.ku.dk/~birgitta"
+    }
+   ],
+   "note": ""
+  },
+  "University of Copenhagen — Niels Bohr Institute (NBI)::DARK (Dark Cosmology Centre) & Planetary Science": {
+   "sources": [
+    "https://nbi.ku.dk/english/research/astrophysics/"
+   ],
+   "people": [
+    {
+     "name": "Marianne Vestergaard",
+     "role": "Trưởng trung tâm DARK; Giáo sư",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Christa Gall",
+     "role": "Phó giáo sư",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Steen Harle Hansen",
+     "role": "Phó giáo sư",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Sarah Pearson",
+     "role": "Trợ lý giáo sư",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Thomas Berlok",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Jes Kristian Jørgensen",
+     "role": "Giáo sư (Astrophysics & Planetary Science)",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Troels Haugbølle",
+     "role": "Phó giáo sư (Astrophysics & Planetary Science)",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Johan Georg Mulvad Samsing",
+     "role": "Trợ lý giáo sư",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    }
+   ],
+   "external": [],
+   "note": "Máy chủ nbi.ku.dk hết thời gian chờ khi tải trực tiếp nên mới có giảng viên/nhà nghiên cứu chủ chốt đã xác minh."
+  },
+  "University of Copenhagen — Niels Bohr Institute (NBI)::Niels Bohr International Academy (NBIA) — Center of Gravity": {
+   "sources": [
+    "https://nbia.nbi.ku.dk/"
+   ],
+   "people": [
+    {
+     "name": "Vitor Cardoso",
+     "role": "Trưởng trung tâm (Center of Gravity); Giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Emil Bjerrum-Bohr",
+     "role": "Giảng viên / Nghiên cứu viên",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Jose Maria Ezquiaga",
+     "role": "Phó giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Troels Harmark",
+     "role": "Phó giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Niels Obers",
+     "role": "Giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Marta Orselli",
+     "role": "Nghiên cứu viên liên kết",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Alessia Platania",
+     "role": "Phó giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Maarten van de Meent",
+     "role": "Phó giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    },
+    {
+     "name": "Ziqi Yan",
+     "role": "Trợ lý giáo sư",
+     "url": "https://nbia.nbi.ku.dk/"
+    }
+   ],
+   "external": [],
+   "note": "Máy chủ nbia.nbi.ku.dk hết thời gian chờ khi tải trực tiếp nên mới có giảng viên chủ chốt mảng hấp dẫn và sóng hấp dẫn."
+  },
+  "DTU Space — National Space Institute (Technical University of Denmark)::Division of Astrophysics and Atmospheric Physics": {
+   "sources": [
+    "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics",
+    "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+   ],
+   "people": [
+    {
+     "name": "Desiree Della Monica Ferreira",
+     "role": "Trưởng bộ phận (Head of Division)",
+     "url": "https://www.dtu.dk/english/person/desiree-della-monica-ferreira?id=66820&cpid=87065"
+    },
+    {
+     "name": "Lars A. Buchhave",
+     "role": "Giáo sư (Exoplanets)",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Lise Christensen",
+     "role": "Phó giáo sư (DAWN)",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Victoria Laura Antoci",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Olivier Arnaud Chanrion",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Pablo Andrés Araya Araya",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Jonas Kazem Andersen",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Miranda Kiran Husted Andersen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Jens Hammershøj Beck",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    }
+   ],
+   "external": [
+    {
+     "name": "Søren Kristian Brandt",
+     "role": "Phó giáo sư danh dự (emeritus)",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    },
+    {
+     "name": "Carl Budtz-Jørgensen",
+     "role": "Nhà khoa học cao cấp danh dự (emeritus)",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    }
+   ],
+   "note": "Trang nhân sự tải động bằng JavaScript nên mới có lãnh đạo và một phần nhà khoa học đã xác minh."
+  },
+  "Aarhus University — Department of Physics and Astronomy::Astronomy, Astrophysics & Cosmology": {
+   "sources": [
+    "https://phys.au.dk/en/research/research-areas",
+    "https://phys.au.dk/en/staff/"
+   ],
+   "people": [
+    {
+     "name": "Hans Otto Uldall Fynbo",
+     "role": "Giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/b9575550-04ab-483a-bf0b-66ccd62413b4"
+    },
+    {
+     "name": "Frank Grundahl",
+     "role": "Phó giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/5d13cd07-6bd7-46cf-b8a5-10716913e22e"
+    },
+    {
+     "name": "Steen Hannestad",
+     "role": "Giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/b5e17f89-07fa-4885-9bf5-0771eaeda99c"
+    },
+    {
+     "name": "Hans Kjeldsen",
+     "role": "Giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/0272db8a-dcc7-48ad-aa2f-aba53183d76f"
+    },
+    {
+     "name": "Maximilian Stritzinger",
+     "role": "Phó giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/09b5baea-2a13-4148-81d6-3f2a1e0a73fc"
+    },
+    {
+     "name": "Thomas Tram",
+     "role": "Phó giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/6f7bda73-d8ce-4d05-a027-d7a4553d61bd"
+    },
+    {
+     "name": "Simon Albrecht",
+     "role": "Phó giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/6f03a5ca-7041-4070-8b51-db7bd583f522"
+    },
+    {
+     "name": "Liv Hornekær",
+     "role": "Giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/c485201b-cc29-4535-8cb3-0d577469a2f4"
+    },
+    {
+     "name": "Mie Andersen",
+     "role": "Phó giáo sư",
+     "url": "https://phys.au.dk/en/staff/show/person/3952f13d-2a87-4ad1-a525-d87e442eb1ed"
+    },
+    {
+     "name": "Anlaug Amanda Djupvik",
+     "role": "Nhà thiên văn học (Nordic Optical Telescope)",
+     "url": "https://phys.au.dk/en/staff/"
+    },
+    {
+     "name": "Tapio Pursimo",
+     "role": "Nhà thiên văn học (Nordic Optical Telescope)",
+     "url": "https://phys.au.dk/en/staff/"
+    },
+    {
+     "name": "John Telting",
+     "role": "Nhà thiên văn học (Nordic Optical Telescope)",
+     "url": "https://phys.au.dk/en/staff/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Jørgen Christensen-Dalsgaard",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://phys.au.dk/en/staff/show/person/213d6869-8852-44a3-8674-641ade304985"
+    }
+   ],
+   "note": "Trích xuất giảng viên chủ chốt mảng thiên văn/vũ trụ học từ trang Research Areas và đội ngũ Nordic Optical Telescope từ bảng Staff."
+  }
+ }
+}

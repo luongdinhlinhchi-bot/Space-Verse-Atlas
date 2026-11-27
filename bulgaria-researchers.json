@@ -1,0 +1,222 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn và vật lý thiên văn tại Bulgaria (IA-NAO BAS tại Sofia & Rozhen, ĐH Sofia, ĐH Shumen).",
+ "units": {
+  "Institute of Astronomy and NAO — Bulgarian Academy of Sciences (IA-NAO BAS)::IA-NAO BAS (Ban lãnh đạo & Giáo sư chủ chốt)": {
+   "sources": [
+    "https://www.bas.bg/"
+   ],
+   "people": [
+    {
+     "name": "Kamen Kozarev",
+     "role": "Viện trưởng; Giáo sư (Mặt Trời & Hệ Mặt Trời)",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Rositsa Miteva",
+     "role": "Phó viện trưởng; Giáo sư",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Yanko Nikolov",
+     "role": "Phó viện trưởng; Phó giáo sư",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Nikola Petrov",
+     "role": "Phó giám đốc tại NAO Rozhen; Phó giáo sư",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Momchil Dechev",
+     "role": "Thư ký khoa học; Phó giáo sư",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Galin Borisov",
+     "role": "Trưởng khoa Mặt Trời & Hệ Mặt Trời",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Ivanka Stateva",
+     "role": "Trưởng khoa Sao & Hệ sao",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Boyko Mihov",
+     "role": "Trưởng khoa Thiên hà & Vũ trụ học; Giáo sư",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Daniela Kirilova",
+     "role": "Giáo sư (Vũ trụ học)",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Rumen Bachev",
+     "role": "Giáo sư (Thiên hà & AGN)",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Renada Konstantinova-Antova",
+     "role": "Giáo sư (Từ trường sao)",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Radoslav Zamanov",
+     "role": "Giáo sư (Hệ sao đôi tia X)",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Rosita Kokotanekova",
+     "role": "Phó giáo sư (Vật thể nhỏ Hệ Mặt Trời)",
+     "url": "https://www.bas.bg/"
+    },
+    {
+     "name": "Anton Strigachev",
+     "role": "Giám đốc Đài thiên văn Belogradchik",
+     "url": "https://www.bas.bg/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Sofia University — Department of Astronomy::Department of Astronomy (Sofia University)": {
+   "sources": [
+    "https://astro.phys.uni-sofia.bg/staff/"
+   ],
+   "people": [
+    {
+     "name": "Евгени Овчаров",
+     "role": "Trưởng khoa; Phó giáo sư",
+     "url": "https://astro.phys.uni-sofia.bg/evgeni-ovcharov"
+    },
+    {
+     "name": "Тодор Велчев",
+     "role": "Phó giáo sư",
+     "url": "https://astro.phys.uni-sofia.bg/todor-veltchev"
+    },
+    {
+     "name": "Петко Недялков",
+     "role": "Phó giáo sư",
+     "url": "https://astro.phys.uni-sofia.bg/petko-nedialkov"
+    },
+    {
+     "name": "Антония Вълчева",
+     "role": "Phó giáo sư",
+     "url": "https://astro.phys.uni-sofia.bg/antoniya-valcheva"
+    },
+    {
+     "name": "Владимир Божилов",
+     "role": "Phó giáo sư",
+     "url": "https://astro.phys.uni-sofia.bg/vladimir-bozhilov"
+    },
+    {
+     "name": "Георги Петров",
+     "role": "Trợ lý giáo sư / Nghiên cứu viên",
+     "url": "https://astro.phys.uni-sofia.bg/georgi-petrov"
+    },
+    {
+     "name": "Орлин Станчев",
+     "role": "Trợ lý giáo sư / Nghiên cứu viên",
+     "url": "https://astro.phys.uni-sofia.bg/orlin-stanchev"
+    },
+    {
+     "name": "Александър Тодоров",
+     "role": "Nhà vật lý / Nghiên cứu viên",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    },
+    {
+     "name": "Деница Стоева",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/denitsa-stoeva"
+    },
+    {
+     "name": "Евелина Захариева",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    },
+    {
+     "name": "Христо Георгиев",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    },
+    {
+     "name": "Християн Михайлов",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    },
+    {
+     "name": "Стефан Стефанов",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    },
+    {
+     "name": "Мария Петкова",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    },
+    {
+     "name": "Джемма Русева",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "National Astronomical Observatory Rozhen (NAO Rozhen)::NAO Rozhen": {
+   "sources": [
+    "https://www.bas.bg/"
+   ],
+   "people": [
+    {
+     "name": "Nikola Petrov",
+     "role": "Phó giám đốc tại NAO Rozhen; Phó giáo sư",
+     "url": "https://www.bas.bg/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Shumen University — Astronomical Center 'Prof. Vladimir Shkodrov'::Astronomical Center (Shumen University)": {
+   "sources": [
+    "https://astro.shu.bg/staff.php"
+   ],
+   "people": [
+    {
+     "name": "Драгомир Марчев",
+     "role": "Giáo sư",
+     "url": "https://astro.shu.bg/staff.php"
+    },
+    {
+     "name": "Борислав Борисов",
+     "role": "Phó giáo sư",
+     "url": "https://astro.shu.bg/staff.php"
+    },
+    {
+     "name": "Доротея Василева",
+     "role": "Phó giáo sư",
+     "url": "https://astro.shu.bg/staff.php"
+    },
+    {
+     "name": "Сунай Ибрямов",
+     "role": "Phó giáo sư",
+     "url": "https://astro.shu.bg/staff.php"
+    },
+    {
+     "name": "Теодора Атанасова",
+     "role": "Trợ lý giáo sư / Nghiên cứu viên",
+     "url": "https://astro.shu.bg/staff.php"
+    },
+    {
+     "name": "Алекс Георгиев",
+     "role": "Trợ lý giáo sư / Nghiên cứu viên",
+     "url": "https://astro.shu.bg/staff.php"
+    }
+   ],
+   "external": [],
+   "note": ""
+  }
+ }
+}

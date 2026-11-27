@@ -1,0 +1,26 @@
+{
+ "country": "MDA",
+ "checked": "2026-11-22",
+ "viewBox": "140 0 480 460",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố Chișinău. Moldova hiện không có viện nghiên cứu thiên văn độc lập quy mô lớn; Đài thiên văn UTM chủ yếu phục vụ đào tạo và phổ biến khoa học.",
+ "listSource": "https://utm.md/en/",
+ "cities": [
+  {
+   "id": "chisinau",
+   "city": "Chișinău",
+   "coordinates": [
+    28.86,
+    47.01
+   ],
+   "institutions": [
+    {
+     "name": "Technical University of Moldova (UTM) — Astronomical Observatory & Planetarium",
+     "type": "university",
+     "research": "Quan sát thiên văn học phục vụ đào tạo, giáo dục STEM và phổ biến khoa học vũ trụ tại Moldova.",
+     "url": "https://utm.md/en/"
+    }
+   ]
+  }
+ ]
+}

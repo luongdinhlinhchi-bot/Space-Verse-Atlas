@@ -1,0 +1,22 @@
+{
+  "country": "Albania",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Albania, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "University of Tirana — Faculty of Natural Sciences (FSHN)::Department of Physics (Astrophysics & Cosmology)": {
+      "coverage": "leaders",
+      "people": [
+        {
+          "name": "Mimoza Hafizi",
+          "role": "Giáo sư Vật lý thiên văn; Thành viên IAU",
+          "url": "https://fshn.edu.al/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://fshn.edu.al/"
+      ],
+      "note": "Giáo sư chủ chốt về Vật lý thiên văn tại ĐH Tirana."
+    }
+  }
+}

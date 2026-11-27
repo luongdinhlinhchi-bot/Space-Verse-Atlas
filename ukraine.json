@@ -1,0 +1,95 @@
+{
+ "country": "UKR",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (Kyiv, Kharkiv, Lviv, Odesa, Mykolaiv).",
+ "listSource": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem",
+ "cities": [
+  {
+   "id": "kyiv",
+   "city": "Kyiv",
+   "coordinates": [
+    30.52,
+    50.45
+   ],
+   "institutions": [
+    {
+     "name": "Main Astronomical Observatory of the NAS of Ukraine (MAO NASU)",
+     "type": "non-university institute",
+     "research": "Trắc lượng thiên văn và địa động lực không gian, vật lý Mặt Trời, vật lý sao và thiên hà, vũ trụ học và quang học khí quyển.",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    }
+   ]
+  },
+  {
+   "id": "kharkiv",
+   "city": "Kharkiv",
+   "coordinates": [
+    36.23,
+    49.99
+   ],
+   "institutions": [
+    {
+     "name": "V. N. Karazin Kharkiv National University — Institute of Astronomy",
+     "type": "university",
+     "research": "Vật lý tiểu hành tinh và sao chổi, phân cực kế hành tinh, vật lý thiên văn (thấu kính hấp dẫn, thiên hà) và trắc lượng thiên văn.",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    },
+    {
+     "name": "Institute of Radio Astronomy of the NAS of Ukraine (IRA NASU)",
+     "type": "non-university institute",
+     "research": "Thiên văn vô tuyến tần số thấp (kính UTR-2 và mạng lưới URAN): phát xạ Mặt Trời, hành tinh, pulsar và vũ trụ sơ khai.",
+     "url": "https://www.nas.gov.ua/"
+    }
+   ]
+  },
+  {
+   "id": "lviv",
+   "city": "Lviv",
+   "coordinates": [
+    24.03,
+    49.84
+   ],
+   "institutions": [
+    {
+     "name": "Ivan Franko National University of Lviv — Astronomical Observatory",
+     "type": "university",
+     "research": "Vật lý Mặt Trời, khí quyển sao và thành phần hoá học sao, vật lý thiên văn tương đối tính và vũ trụ học, vật lý cận Trái Đất.",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    }
+   ]
+  },
+  {
+   "id": "odesa",
+   "city": "Odesa",
+   "coordinates": [
+    30.73,
+    46.48
+   ],
+   "institutions": [
+    {
+     "name": "Odesa I. I. Mechnikov National University — Astronomical Observatory",
+     "type": "university",
+     "research": "Sao biến quang, hệ sao đôi, sao chủ hành tinh ngoài Hệ Mặt Trời và kho ảnh kính thiên văn lịch sử.",
+     "url": "https://onu.edu.ua/"
+    }
+   ]
+  },
+  {
+   "id": "mykolaiv",
+   "city": "Mykolaiv",
+   "coordinates": [
+    31.99,
+    46.97
+   ],
+   "institutions": [
+    {
+     "name": "Mykolaiv Astronomical Observatory (MAO)",
+     "type": "non-university institute",
+     "research": "Động lực học vật thể Hệ Mặt Trời, vật thể gần Trái Đất, theo dõi mảnh vỡ không gian và trắc lượng thiên văn.",
+     "url": "https://www.mao.mk.ua/"
+    }
+   ]
+  }
+ ]
+}

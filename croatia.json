@@ -1,0 +1,48 @@
+{
+  "country": "Croatia",
+  "iso": "HRV",
+  "cities": [
+    {
+      "id": "zagreb",
+      "city": "Zagreb",
+      "coordinates": [
+        15.9819,
+        45.815
+      ],
+      "institutions": [
+        {
+          "name": "Ruđer Bošković Institute (IRB) — Laboratory for Astroparticle Physics and Astrophysics",
+          "url": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+        }
+      ]
+    },
+    {
+      "id": "hvar",
+      "city": "Hvar",
+      "coordinates": [
+        16.4411,
+        43.1725
+      ],
+      "institutions": [
+        {
+          "name": "Hvar Observatory — Faculty of Geodesy, University of Zagreb",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        }
+      ]
+    },
+    {
+      "id": "rijeka",
+      "city": "Rijeka",
+      "coordinates": [
+        14.4422,
+        45.3271
+      ],
+      "institutions": [
+        {
+          "name": "University of Rijeka — Faculty of Physics (Division of Theoretical Physics and Astrophysics)",
+          "url": "https://www.phy.uniri.hr/en/"
+        }
+      ]
+    }
+  ]
+}

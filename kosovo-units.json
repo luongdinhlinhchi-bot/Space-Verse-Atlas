@@ -1,0 +1,26 @@
+{
+  "country": "Kosovo",
+  "checked": "2026-11-22",
+  "institutions": {
+    "University of Prishtina (FSHMN) & Astronomy Club of Kosova (Prishtina Observatory)": {
+      "city": "Prishtina",
+      "coverage": "leaders",
+      "structure": "Khoa Toán & Khoa học Tự nhiên hợp tác vận hành Đài thiên văn Prishtina",
+      "structureUrl": "https://www.uni-pr.edu/",
+      "units": [
+        {
+          "name": "Prishtina Observatory & Physics Cooperation",
+          "kind": "Đài thiên văn & hợp tác đại học",
+          "parent": "University of Prishtina / Astronomy Club of Kosova",
+          "topics": "Quan sát thiên văn thực hành cho sinh viên vật lý và phổ biến kiến thức vũ trụ",
+          "url": "https://www.uni-pr.edu/",
+          "coverage": "leaders",
+          "sources": [
+            "https://www.uni-pr.edu/"
+          ],
+          "note": "Ghi nhận đại diện điều phối hợp tác quan sát thiên văn giữa ĐH Prishtina và Đài thiên văn Prishtina."
+        }
+      ]
+    }
+  }
+}

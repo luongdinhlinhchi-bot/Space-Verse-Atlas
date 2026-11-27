@@ -1,0 +1,80 @@
+{
+ "checked": "2026-11-22",
+ "networks": {
+  "dawn": {
+   "name": "Cosmic Dawn Center (DAWN)",
+   "kind": "Trung tâm Xuất sắc Quốc gia Đan Mạch (DNRF)",
+   "topics": "Sự hình thành các ngôi sao, lỗ đen và thiên hà đầu tiên trong vũ trụ sơ khai với JWST, ALMA và Euclid.",
+   "url": "https://cosmicdawn.dk/",
+   "note": "Đồng chủ trì bởi Viện Niels Bohr (ĐH Copenhagen) và DTU Space (ĐH Kỹ thuật Đan Mạch)."
+  }
+ },
+ "institutions": {
+  "University of Copenhagen — Niels Bohr Institute (NBI)": {
+   "coverage": "partial",
+   "structure": "Faculty of Science → Niels Bohr Institute → Cosmic Dawn Center (DAWN), DARK (Dark Cosmology Centre), Niels Bohr International Academy (NBIA / Center of Gravity) & Astrophysics and Planetary Science",
+   "structureUrl": "https://cosmicdawn.dk/staff/",
+   "scopeNote": "Đã có danh sách đầy đủ cho Cosmic Dawn Center (DAWN); máy chủ nbi.ku.dk bị hết thời gian chờ (timeout) khi tải trực tiếp nên các trung tâm DARK và NBIA/Center of Gravity hiện ghi các giảng viên/nhà nghiên cứu chủ chốt đã xác minh.",
+   "units": [
+    {
+     "name": "Cosmic Dawn Center (DAWN)",
+     "kind": "Trung tâm Xuất sắc Quốc gia (NBI & DTU Space)",
+     "parent": "Niels Bohr Institute & DTU Space",
+     "topics": "Vũ trụ sơ khai, kỷ nguyên tái ion hoá, hình thành thiên hà đầu tiên và khảo sát JWST/ALMA/Euclid.",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "DARK (Dark Cosmology Centre) & Planetary Science",
+     "kind": "Trung tâm & nhóm nghiên cứu",
+     "parent": "Niels Bohr Institute, University of Copenhagen",
+     "topics": "Vật chất tối, năng lượng tối, lỗ đen siêu khối lượng, siêu tân tinh, nguồn quá độ và hình thành sao/hành tinh.",
+     "url": "https://nbi.ku.dk/english/research/astrophysics/"
+    },
+    {
+     "name": "Niels Bohr International Academy (NBIA) — Center of Gravity",
+     "kind": "Viện lý thuyết & trung tâm nghiên cứu",
+     "parent": "Niels Bohr Institute, University of Copenhagen",
+     "topics": "Vật lý sóng hấp dẫn, lỗ đen, hấp dẫn lượng tử và vật lý thiên văn lý thuyết.",
+     "url": "https://nbia.nbi.ku.dk/"
+    }
+   ],
+   "networks": [
+    "dawn"
+   ]
+  },
+  "DTU Space — National Space Institute (Technical University of Denmark)": {
+   "coverage": "partial",
+   "structure": "Technical University of Denmark → DTU Space → Division of Astrophysics and Atmospheric Physics",
+   "structureUrl": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics",
+   "scopeNote": "Trang danh bạ nhân sự của DTU Space tải danh sách động bằng JavaScript nên hiện ghi ban lãnh đạo bộ phận và các nhà nghiên cứu/nghiên cứu sinh đã xác minh (cộng tác chặt chẽ qua trung tâm liên viện DAWN).",
+   "units": [
+    {
+     "name": "Division of Astrophysics and Atmospheric Physics",
+     "kind": "Bộ phận nghiên cứu viện quốc gia",
+     "parent": "DTU Space, Technical University of Denmark",
+     "topics": "Vật lý thiên văn năng lượng cao (NuSTAR, ATHENA), hành tinh ngoài Hệ Mặt Trời, vũ trụ học quan sát (DAWN) và thiết bị không gian.",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics/employees"
+    }
+   ],
+   "networks": [
+    "dawn"
+   ]
+  },
+  "Aarhus University — Department of Physics and Astronomy": {
+   "coverage": "partial",
+   "structure": "Faculty of Natural Sciences → Department of Physics and Astronomy (nhóm Astronomy / Stellar Astrophysics & Cosmology)",
+   "structureUrl": "https://phys.au.dk/en/research/research-areas",
+   "scopeNote": "Trang danh bạ tổng của khoa (phys.au.dk/en/staff/) gộp chung toàn bộ ngành Vật lý và Thiên văn không gắn thẻ bộ môn; đã đối chiếu theo trang Research Areas để trích xuất giảng viên chủ chốt mảng thiên văn học, vũ trụ học, hành tinh ngoài Hệ Mặt Trời và đội ngũ Nordic Optical Telescope (có thể chưa bao gồm toàn bộ nghiên cứu sinh).",
+   "units": [
+    {
+     "name": "Astronomy, Astrophysics & Cosmology",
+     "kind": "Nhóm nghiên cứu thuộc khoa",
+     "parent": "Department of Physics and Astronomy, Aarhus University",
+     "topics": "Chấn động học sao (Kepler, TESS, PLATO), hành tinh ngoài Hệ Mặt Trời, vũ trụ học lý thuyết, hoá học thiên văn bề mặt bụi liên sao và Nordic Optical Telescope.",
+     "url": "https://phys.au.dk/en/research/research-areas"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

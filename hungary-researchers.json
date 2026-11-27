@@ -1,0 +1,920 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn và vật lý thiên văn tại Hungary (Konkoly Observatory, ELTE Budapest, ĐH Szeged).",
+ "units": {
+  "Konkoly Observatory (HUN-REN CSFK)::Konkoly Observatory (toàn viện)": {
+   "sources": [
+    "https://konkoly.hu/en/staff-members",
+    "https://konkoly.hu/en/visiting-researchers"
+   ],
+   "people": [
+    {
+     "name": "Róbert Szabó",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/szabo-robert"
+    },
+    {
+     "name": "László Kiss",
+     "role": "Tổng giám đốc (CSFK); Giáo sư nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/kiss-laszlo"
+    },
+    {
+     "name": "Jenő Megyes",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/megyes-jeno"
+    },
+    {
+     "name": "Ágnes Pahocsa",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/pahocsa-agnes"
+    },
+    {
+     "name": "Kitti Szamosvölgyi",
+     "role": "Tổng giám đốc (CSFK); Giáo sư nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/szamosvolgyi-kitti"
+    },
+    {
+     "name": "Péter Ábrahám",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/abraham-peter"
+    },
+    {
+     "name": "József Benkő",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/benko-jozsef"
+    },
+    {
+     "name": "Ramon Brasser",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/brasser-ramon"
+    },
+    {
+     "name": "Zsolt Frei",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/frei-zsolt"
+    },
+    {
+     "name": "Sándor Frey",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/frey-sandor"
+    },
+    {
+     "name": "Ákos Kereszturi",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/kereszturi-akos"
+    },
+    {
+     "name": "Csaba Kiss",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/kiss-csaba"
+    },
+    {
+     "name": "Ágnes Kóspál",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/kospal-agnes"
+    },
+    {
+     "name": "Zsolt Kővári",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/kovari-zsolt"
+    },
+    {
+     "name": "Levente Kriskovics",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kriskovics-levente"
+    },
+    {
+     "name": "Maria Lugaro",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/lugaro-maria"
+    },
+    {
+     "name": "Gábor Marton",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/marton-gabor"
+    },
+    {
+     "name": "Szabolcs Mészáros",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/meszaros-szabolcs"
+    },
+    {
+     "name": "László Molnár",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/molnar-laszlo"
+    },
+    {
+     "name": "Attila Moór",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/moor-attila"
+    },
+    {
+     "name": "András Pál",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/pal-andras"
+    },
+    {
+     "name": "Marco Pignatari",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/pignatari-marco"
+    },
+    {
+     "name": "Emese Plachy",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/plachy-emese"
+    },
+    {
+     "name": "Zsolt Regály",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/regaly-zsolt"
+    },
+    {
+     "name": "Ádám Sódor",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/sodor-adam"
+    },
+    {
+     "name": "Zsófia Sódorné Bognár",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/sodorne-bognar-zsofia"
+    },
+    {
+     "name": "Krisztián Vida",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/vida-krisztian"
+    },
+    {
+     "name": "József Vinkó",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/vinko-jozsef"
+    },
+    {
+     "name": "José Ramon Bermejo Climent",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/bermejo-climent-jose-ramon"
+    },
+    {
+     "name": "Attila Bódi",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/bodi-attila"
+    },
+    {
+     "name": "Prachi Chavan",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/chavan-prachi"
+    },
+    {
+     "name": "Mami Deka",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/deka-mami"
+    },
+    {
+     "name": "Judit Fogasy",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/fogasy-judit"
+    },
+    {
+     "name": "Tímea Juhász",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/juhasz-timea"
+    },
+    {
+     "name": "Alexander James Kemp",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kemp-alexander-james"
+    },
+    {
+     "name": "András Kovács",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kovacs-andras"
+    },
+    {
+     "name": "Gábor Kovács",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kovacs-gabor"
+    },
+    {
+     "name": "Réka Könyves-Tóth",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/konyves-toth-reka"
+    },
+    {
+     "name": "Máté Krezinger",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/krezinger-mate"
+    },
+    {
+     "name": "Emma Kun",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kun-emma"
+    },
+    {
+     "name": "Foteini (Claire) Lykou",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/lykou-foteini-claire"
+    },
+    {
+     "name": "Marta Molero",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/molero-marta"
+    },
+    {
+     "name": "Zsófia Nagy",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/nagy-zsofia"
+    },
+    {
+     "name": "Bernadett Pál",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/pal-bernadett"
+    },
+    {
+     "name": "Krisztina Perger",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/perger-krisztina"
+    },
+    {
+     "name": "Enikő Regős",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/regos-eniko"
+    },
+    {
+     "name": "Martin Rodríguez Monroy",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/rodriguez-monroy-martin"
+    },
+    {
+     "name": "Vilmos Steinmann",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/steinmann-vilmos"
+    },
+    {
+     "name": "Róbert Szakáts",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/szakats-robert"
+    },
+    {
+     "name": "Balázs Szányi",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/szanyi-balazs"
+    },
+    {
+     "name": "Dóra Tarczay-Nehéz",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/tarczay-nehez-dora"
+    },
+    {
+     "name": "József Varga",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/varga-jozsef"
+    },
+    {
+     "name": "Zsófia Réka Bodola",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/bodola-zsofia-reka"
+    },
+    {
+     "name": "Zsófia Bora",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/bora-zsofia"
+    },
+    {
+     "name": "Borbála Cseh",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/cseh-borbala"
+    },
+    {
+     "name": "Mina Ghodsi",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/ghodsi-mina"
+    },
+    {
+     "name": "Anna Görgei",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/gorgei-anna"
+    },
+    {
+     "name": "Ágoston Horti-Dávid",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/horti-david-agoston"
+    },
+    {
+     "name": "András Péter Joó",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/joo-andras-peter"
+    },
+    {
+     "name": "Csilla Kalup",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kalup-csilla"
+    },
+    {
+     "name": "Máté Madarász",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/madarasz-mate"
+    },
+    {
+     "name": "Anna Medvegy",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/medvegy-anna"
+    },
+    {
+     "name": "Patrik Németh",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/nemeth-patrik"
+    },
+    {
+     "name": "Bálint Seli",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/seli-balint"
+    },
+    {
+     "name": "Domonkos Szabó",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/szabo-domonkos"
+    },
+    {
+     "name": "Norton Szabó",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/szabo-norton"
+    },
+    {
+     "name": "Richárd Tomka",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/tomka-richard"
+    },
+    {
+     "name": "Nóra Takács",
+     "role": "Nghiên cứu sinh",
+     "url": "https://konkoly.hu/en/staff-members/takacs-nora"
+    },
+    {
+     "name": "Lis Zwicky",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/zwicky-lis"
+    },
+    {
+     "name": "Zoltán Kuli",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/kuli-zoltan"
+    },
+    {
+     "name": "Imre Tóth",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/toth-imre"
+    },
+    {
+     "name": "Lídia van Driel-Gesztelyi",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/van-driel-gesztelyi-lidia"
+    },
+    {
+     "name": "Lei Chen",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/chen-lei"
+    },
+    {
+     "name": "Zoltán Csubry",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/csubry-zoltan"
+    },
+    {
+     "name": "András Frontó",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/fronto-andras"
+    },
+    {
+     "name": "Gábor Fűrész",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/furesz-gabor"
+    },
+    {
+     "name": "Attila Grandpierre",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/grandpierre-attila"
+    },
+    {
+     "name": "Markus Hareter",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/hareter-markus"
+    },
+    {
+     "name": "Zoltán Kolláth",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/kollath-zoltan"
+    },
+    {
+     "name": "Judit Muraközy",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/murakozy-judit"
+    },
+    {
+     "name": "Andrea Nagy",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/nagy-andrea"
+    },
+    {
+     "name": "Attila Simon",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/simon-attila"
+    },
+    {
+     "name": "Marek Skarka",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/skarka-marek"
+    },
+    {
+     "name": "Katalin Barlai",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/barlai-katalin"
+    },
+    {
+     "name": "János Kelemen",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/kelemen-janos"
+    },
+    {
+     "name": "Tünde Ludmányné Baranyi",
+     "role": "Nghiên cứu viên cao cấp",
+     "url": "https://konkoly.hu/en/staff-members/ludmanyne-baranyi-tunde"
+    },
+    {
+     "name": "Béla Szeidl",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/szeidl-bela"
+    },
+    {
+     "name": "Magda Vargha",
+     "role": "Nghiên cứu viên",
+     "url": "https://konkoly.hu/en/staff-members/vargha-magda"
+    },
+    {
+     "name": "Zsuzsanna Repiczki",
+     "role": "Viện trưởng; Cố vấn nghiên cứu",
+     "url": "https://konkoly.hu/en/staff-members/repiczki-zsuzsanna"
+    }
+   ],
+   "external": [
+    {
+     "name": "Lajos G. Balázs",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/balazs-lajos-g"
+    },
+    {
+     "name": "Géza Kovács",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/kovacs-geza"
+    },
+    {
+     "name": "Mária Kun",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/kun-maria"
+    },
+    {
+     "name": "Katalin Oláh",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/olah-katalin"
+    },
+    {
+     "name": "Margit Paparó",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/paparo-margit"
+    },
+    {
+     "name": "László Szabados",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/szabados-laszlo"
+    },
+    {
+     "name": "Iván Almár",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/almar-ivan"
+    },
+    {
+     "name": "János Nuspl",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/nuspl-janos"
+    },
+    {
+     "name": "Hedieh Abdollahi",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/abdollahi-hedieh"
+    },
+    {
+     "name": "Poojan Agrawal",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/agrawal-poojan"
+    },
+    {
+     "name": "Nestor Arsenov",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/arsenov-nestor"
+    },
+    {
+     "name": "Rozália Ádám",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/adam-rozalia"
+    },
+    {
+     "name": "Eszter Bianka Bartucz",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/bartucz-eszter-bianka"
+    },
+    {
+     "name": "John Bienias",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/bienias-john"
+    },
+    {
+     "name": "Tamás Borkovits",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/borkovits-tamas"
+    },
+    {
+     "name": "Nefeli Chatziioannou",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/chatziioannou-nefeli"
+    },
+    {
+     "name": "Anna Császár",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/csaszar-anna"
+    },
+    {
+     "name": "Zoltán Dencs",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/dencs-zoltan"
+    },
+    {
+     "name": "Alíz Derekas",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/derekas-aliz"
+    },
+    {
+     "name": "István Tamás Dienes",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/dienes-istvan-tamas"
+    },
+    {
+     "name": "Bálint Dobák",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/dobak-balint"
+    },
+    {
+     "name": "Panni Elekes",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/elekes-panni"
+    },
+    {
+     "name": "Dániel Estók",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/estok-daniel"
+    },
+    {
+     "name": "Zoltan Fockter",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/fockter-zoltan"
+    },
+    {
+     "name": "Viktória Fröhlich",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/frohlich-viktoria"
+    },
+    {
+     "name": "Eszter Füszfás",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/fuszfas-eszter"
+    },
+    {
+     "name": "Panna Gelle",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/gelle-panna"
+    },
+    {
+     "name": "Tamás Hajdu",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/hajdu-tamas"
+    },
+    {
+     "name": "Henrik Hargitai",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/hargitai-henrik"
+    },
+    {
+     "name": "Gergő Hegedűs",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/hegedus-gergo"
+    },
+    {
+     "name": "Antal Igaz",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/igaz-antal"
+    },
+    {
+     "name": "Taoyu Jiao",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/jiao-taoyu"
+    },
+    {
+     "name": "Meridith Joyce",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/joyce-meridith"
+    },
+    {
+     "name": "Soma Botond Kersánszi",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/kersanszi-soma-botond"
+    },
+    {
+     "name": "Dávid Koller",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/koller-david"
+    },
+    {
+     "name": "Gábor Kreinicker",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/kreinicker-gabor"
+    },
+    {
+     "name": "Tamás Maróti",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/maroti-tamas"
+    },
+    {
+     "name": "Csongor Milbik",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/milbik-csongor"
+    },
+    {
+     "name": "Andor Csaba Mile",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/mile-andor-csaba"
+    },
+    {
+     "name": "Stephen Mojzsis",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/mojzsis-stephen"
+    },
+    {
+     "name": "Borbála Nagy",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/nagy-borbala"
+    },
+    {
+     "name": "Boróka Rózsa Nagy",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/nagy-boroka-rozsa"
+    },
+    {
+     "name": "Nándor Opitz",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/opitz-nandor"
+    },
+    {
+     "name": "Gábor Orosz",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/orosz-gabor"
+    },
+    {
+     "name": "Nicole Pawellek",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/pawellek-nicole"
+    },
+    {
+     "name": "Boróka Hanga Pál",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/pal-boroka-hanga"
+    },
+    {
+     "name": "János Pető",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/peto-janos"
+    },
+    {
+     "name": "Susan Pyne",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/pyne-susan"
+    },
+    {
+     "name": "Lorenzo Roberti",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/roberti-lorenzo"
+    },
+    {
+     "name": "Petra Sági",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/sagi-petra"
+    },
+    {
+     "name": "Zsolt Sándor",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/sandor-zsolt"
+    },
+    {
+     "name": "Michal Siwak",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/siwak-michal"
+    },
+    {
+     "name": "Zsófia Stermeczky",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/stermeczky-zsofia"
+    },
+    {
+     "name": "Áron Süli",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/suli-aron"
+    },
+    {
+     "name": "Hanga Szabó",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/szabo-hanga"
+    },
+    {
+     "name": "Szabó M. Gyula",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/szabo-m-gyula"
+    },
+    {
+     "name": "Krisztina Szentirmayné Gabányi",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/szentirmayne-gabanyi-krisztina"
+    },
+    {
+     "name": "Máté Szilágyi",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/szilagyi-mate"
+    },
+    {
+     "name": "Anikó Takácsné Farkas",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/takacsne-farkas-aniko"
+    },
+    {
+     "name": "Thomas Trueman",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/trueman-thomas"
+    },
+    {
+     "name": "Petra Várkonyi",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/varkonyi-petra"
+    },
+    {
+     "name": "Blanka Világos",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/vilagos-blanka"
+    },
+    {
+     "name": "Gerard Williger",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/williger-gerard"
+    },
+    {
+     "name": "Wancheng Xu",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/xu-wancheng"
+    },
+    {
+     "name": "Xi Yan",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/yan-xi"
+    },
+    {
+     "name": "János Zsargo",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/zsargo-janos"
+    },
+    {
+     "name": "Gáspár Bakos",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/bakos-gaspar"
+    },
+    {
+     "name": "Zeljko Ivezic",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/ivezic-zeljko"
+    },
+    {
+     "name": "Béla Kálmán",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/kalman-bela"
+    },
+    {
+     "name": "László Patkós",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/patkos-laszlo"
+    },
+    {
+     "name": "Miklós Rácz",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/racz-miklos"
+    },
+    {
+     "name": "Endre Zsoldos",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/zsoldos-endre"
+    },
+    {
+     "name": "Szabolcs Barcza",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/barcza-szabolcs"
+    },
+    {
+     "name": "Erzsébet Illés",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/illes-erzsebet"
+    },
+    {
+     "name": "András Ludmány",
+     "role": "Giáo sư / Nghiên cứu viên danh dự",
+     "url": "https://konkoly.hu/en/staff-members/ludmany-andras"
+    }
+   ],
+   "note": ""
+  },
+  "Eötvös Loránd University (ELTE) — Department of Astronomy::Department of Astronomy (ELTE)": {
+   "sources": [
+    "https://www.elte.hu/"
+   ],
+   "people": [
+    {
+     "name": "Zsolt Sándor",
+     "role": "Trưởng khoa; Phó giáo sư",
+     "url": "https://www.elte.hu/"
+    },
+    {
+     "name": "Kristóf Petrovay",
+     "role": "Giáo sư",
+     "url": "https://www.elte.hu/"
+    },
+    {
+     "name": "Viktor L. Tóth",
+     "role": "Phó giáo sư",
+     "url": "https://www.elte.hu/"
+    },
+    {
+     "name": "Emese Forgács-Dajka",
+     "role": "Trợ lý giáo sư",
+     "url": "https://www.elte.hu/"
+    },
+    {
+     "name": "Áron Süli",
+     "role": "Trợ lý giáo sư",
+     "url": "https://www.elte.hu/"
+    },
+    {
+     "name": "Krisztina Éva Szentirmayné Gabányi",
+     "role": "Trợ lý giáo sư",
+     "url": "https://www.elte.hu/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "University of Szeged (SZTE) — Institute of Physics (Astrophysics Group)::Astrophysics Group (SZTE)": {
+   "sources": [
+    "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+   ],
+   "people": [
+    {
+     "name": "Czavalinga Donát",
+     "role": "Nghiên cứu viên (Nhóm Vật lý sao)",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    },
+    {
+     "name": "Mitnyan Tibor",
+     "role": "Nghiên cứu viên (Nhóm Vật lý sao)",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    },
+    {
+     "name": "Nagy Andrea",
+     "role": "Trợ lý giáo sư (Vật lý thiên văn)",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    },
+    {
+     "name": "Szalai Tamás",
+     "role": "Phó giáo sư (Vật lý thiên văn)",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    },
+    {
+     "name": "Truszek Márton",
+     "role": "Nghiên cứu sinh tiền tiến sĩ",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    },
+    {
+     "name": "Vinkó József",
+     "role": "Nghiên cứu viên cao cấp (Vật lý thiên văn)",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    },
+    {
+     "name": "Zsíros Szanna",
+     "role": "Trợ lý giảng dạy (Vật lý thiên văn)",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    }
+   ],
+   "external": [],
+   "note": ""
+  }
+ }
+}

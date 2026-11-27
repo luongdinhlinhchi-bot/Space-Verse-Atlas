@@ -1,0 +1,27 @@
+{
+  "country": "Bắc Macedonia",
+  "checked": "2026-11-22",
+  "institutions": {
+    "Ss. Cyril and Methodius University (UKIM) — Institute of Physics (PMF)": {
+      "city": "Skopje",
+      "coverage": "full",
+      "structure": "Nhóm giảng dạy và nghiên cứu Thiên văn học tại Viện Vật lý (PMF UKIM)",
+      "structureUrl": "https://astronomy.pmf.ukim.mk/",
+      "units": [
+        {
+          "name": "Astronomy Group (Institute of Physics)",
+          "kind": "Nhóm nghiên cứu & giảng dạy",
+          "parent": "Faculty of Natural Sciences and Mathematics, UKIM Skopje",
+          "topics": "Thiên văn Mặt Trời, tiểu hành tinh và vật thể nhỏ Hệ Mặt Trời, ngoại hành tinh, quan trắc hợp tác Rozhen/Vidojevica",
+          "url": "https://astronomy.pmf.ukim.mk/",
+          "coverage": "full",
+          "sources": [
+            "https://astronomy.pmf.ukim.mk/",
+            "https://if.pmf.ukim.edu.mk/"
+          ],
+          "note": "Đầy đủ đội ngũ giảng viên và nhà nghiên cứu thiên văn tại Viện Vật lý PMF UKIM."
+        }
+      ]
+    }
+  }
+}

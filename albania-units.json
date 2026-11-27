@@ -1,0 +1,26 @@
+{
+  "country": "Albania",
+  "checked": "2026-11-22",
+  "institutions": {
+    "University of Tirana — Faculty of Natural Sciences (FSHN)": {
+      "city": "Tirana",
+      "coverage": "leaders",
+      "structure": "Khoa Vật lý — giảng dạy và nghiên cứu Vật lý thiên văn & Vũ trụ học",
+      "structureUrl": "https://fshn.edu.al/",
+      "units": [
+        {
+          "name": "Department of Physics (Astrophysics & Cosmology)",
+          "kind": "Khoa vật lý",
+          "parent": "Faculty of Natural Sciences, University of Tirana",
+          "topics": "Thấu kính hấp dẫn, vật chất tối, chớp tia gamma (GRB), vũ trụ học",
+          "url": "https://fshn.edu.al/",
+          "coverage": "leaders",
+          "sources": [
+            "https://fshn.edu.al/"
+          ],
+          "note": "Giáo sư chủ chốt về Vật lý thiên văn tại ĐH Tirana."
+        }
+      ]
+    }
+  }
+}

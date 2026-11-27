@@ -1,0 +1,57 @@
+{
+ "country": "SVK",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng. Đài thiên văn Skalnaté Pleso và Lomnický Štít thuộc Viện Thiên văn SAV tại Tatranská Lomnica.",
+ "listSource": "https://www.astro.sk/en/research/staff-members/",
+ "cities": [
+  {
+   "id": "tatranska-lomnica",
+   "city": "Tatranská Lomnica",
+   "coordinates": [
+    20.28,
+    49.17
+   ],
+   "institutions": [
+    {
+     "name": "Astronomical Institute of the Slovak Academy of Sciences (AsÚ SAV)",
+     "type": "non-university institute",
+     "research": "Vật lý Mặt Trời (nhật hoa, bùng phát Mặt Trời), vật chất liên hành tinh (sao chổi, tiểu hành tinh, thiên thạch) và vật lý sao biến quang / hệ sao đôi.",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    }
+   ]
+  },
+  {
+   "id": "bratislava",
+   "city": "Bratislava",
+   "coordinates": [
+    17.11,
+    48.15
+   ],
+   "institutions": [
+    {
+     "name": "Comenius University — Department of Astronomy, Physics of the Earth, and Meteorology (FMFI UK)",
+     "type": "university",
+     "research": "Động lực học vật thể nhỏ Hệ Mặt Trời (tiểu hành tinh, bụi liên hành tinh), động học Ngân Hà (Gaia) và quan sát tại Đài AGO Modra.",
+     "url": "https://fmph.uniba.sk/"
+    }
+   ]
+  },
+  {
+   "id": "kosice",
+   "city": "Košice",
+   "coordinates": [
+    21.26,
+    48.72
+   ],
+   "institutions": [
+    {
+     "name": "Pavol Jozef Šafárik University (UPJŠ) — Department of Theoretical Physics and Astrophysics",
+     "type": "university",
+     "research": "Hệ sao đôi tương tác, đĩa bồi tụ, khí quyển sao và vật lý thống kê / lý thuyết.",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Astronomical Institute of the Slovak Academy of Sciences (AsÚ SAV)": {
+   "coverage": "full",
+   "structure": "Viện Hàn lâm Khoa học Slovakia (SAV) → 3 khoa nghiên cứu (Solar Physics, Interplanetary Matter, Stellar Physics)",
+   "structureUrl": "https://www.astro.sk/en/research/staff-members/",
+   "scopeNote": "Lấy từ danh bạ nhân sự chính thức của AsÚ SAV; lọc giữ nhân sự có học vị/chức danh nghiên cứu khoa học.",
+   "units": [
+    {
+     "name": "Astronomical Institute SAV (toàn viện)",
+     "kind": "Viện nghiên cứu viện hàn lâm",
+     "parent": "Slovak Academy of Sciences",
+     "topics": "Vật lý Mặt Trời, vật chất liên hành tinh và vật lý sao.",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    }
+   ],
+   "networks": []
+  },
+  "Comenius University — Department of Astronomy, Physics of the Earth, and Meteorology (FMFI UK)": {
+   "coverage": "leaders",
+   "structure": "Faculty of Mathematics, Physics and Informatics → Department of Astronomy, Physics of the Earth, and Meteorology",
+   "structureUrl": "https://fmph.uniba.sk/",
+   "scopeNote": "Đường dẫn cũ trên fmph.uniba.sk trả mã 404 nên hiện ghi các giảng viên chủ chốt mảng thiên văn đã xác minh.",
+   "units": [
+    {
+     "name": "Astronomy & Astrophysics Division (KAFZM)",
+     "kind": "Bộ môn đại học",
+     "parent": "Comenius University in Bratislava",
+     "topics": "Cơ học thiên thể, bụi liên hành tinh, tiểu hành tinh và động lực học Ngân Hà.",
+     "url": "https://fmph.uniba.sk/"
+    }
+   ],
+   "networks": []
+  },
+  "Pavol Jozef Šafárik University (UPJŠ) — Department of Theoretical Physics and Astrophysics": {
+   "coverage": "leaders",
+   "structure": "Faculty of Science → Institute of Physics → Department of Theoretical Physics and Astrophysics",
+   "structureUrl": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/",
+   "scopeNote": "Đường dẫn cũ trên upjs.sk trả mã 404 nên hiện ghi trưởng bộ môn và các giảng viên chủ chốt đã xác minh.",
+   "units": [
+    {
+     "name": "Department of Theoretical Physics and Astrophysics (KTFA)",
+     "kind": "Bộ môn đại học",
+     "parent": "Pavol Jozef Šafárik University in Košice",
+     "topics": "Hệ sao đôi tương tác, vật lý sao và vật lý lý thuyết.",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

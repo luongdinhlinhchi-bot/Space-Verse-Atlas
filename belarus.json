@@ -1,0 +1,25 @@
+{
+ "country": "BLR",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố Minsk.",
+ "listSource": "https://physics.bsu.by/en/departments/theoretical-physics-and-astrophysics",
+ "cities": [
+  {
+   "id": "minsk",
+   "city": "Minsk",
+   "coordinates": [
+    27.57,
+    53.9
+   ],
+   "institutions": [
+    {
+     "name": "Belarusian State University (BSU) — Department of Theoretical Physics and Astrophysics",
+     "type": "university",
+     "research": "Vật lý thiên văn lý thuyết, nhân thiên hà hoạt động (AGN), từ quyển lỗ đen siêu khối lượng, vật chất tối và vũ trụ học.",
+     "url": "https://physics.bsu.by/en/departments/theoretical-physics-and-astrophysics"
+    }
+   ]
+  }
+ ]
+}

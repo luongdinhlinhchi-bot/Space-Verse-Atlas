@@ -1,0 +1,20 @@
+{
+  "country": "Montenegro",
+  "iso": "MNE",
+  "cities": [
+    {
+      "id": "podgorica",
+      "city": "Podgorica",
+      "coordinates": [
+        19.2594,
+        42.4304
+      ],
+      "institutions": [
+        {
+          "name": "University of Montenegro — Faculty of Natural Sciences and Mathematics (PMF UCG)",
+          "url": "https://www.ucg.ac.me/"
+        }
+      ]
+    }
+  ]
+}

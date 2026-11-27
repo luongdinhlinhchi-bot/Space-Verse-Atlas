@@ -1,0 +1,27 @@
+{
+  "country": "Bosnia và Herzegovina",
+  "checked": "2026-11-22",
+  "institutions": {
+    "University of Sarajevo — Faculty of Science (PMF UNSA) & AD Orion": {
+      "city": "Sarajevo",
+      "coverage": "leaders",
+      "structure": "Bộ môn Thiên văn học và Vật lý thiên văn (Khoa Vật lý, thành lập 2023) phối hợp Hội Thiên văn Orion",
+      "structureUrl": "https://pmf.unsa.ba/",
+      "units": [
+        {
+          "name": "Subdepartment for Astronomy and Astrophysics",
+          "kind": "Bộ môn đào tạo & nghiên cứu",
+          "parent": "Department of Physics, Faculty of Science, University of Sarajevo",
+          "topics": "Thiên văn học đại cương, vật lý sao, hệ hành tinh, phục hồi Đài thiên văn Trebević",
+          "url": "https://pmf.unsa.ba/",
+          "coverage": "leaders",
+          "sources": [
+            "https://pmf.unsa.ba/",
+            "http://adorion.ba/"
+          ],
+          "note": "Bộ môn mới thành lập (2023) chưa công bố danh bạ nhân sự riêng trực tuyến; ghi nhận lãnh đạo tiêu biểu."
+        }
+      ]
+    }
+  }
+}

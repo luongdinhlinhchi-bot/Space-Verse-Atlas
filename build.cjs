@@ -64,6 +64,73 @@ const countryData = {FIN:finland, DEU:germany};
 if(fs.existsSync('countries')) for(const f of fs.readdirSync('countries').filter(f=>/^[A-Z]{3}\.json$/.test(f))){
  const c=JSON.parse(fs.readFileSync('countries/'+f,'utf8')); c.autoView=!c.viewBox; countryData[c.country]=c;
 }
+/** Load, validate, attach unit/researcher rosters, and write the Markdown report for a 3-file country dataset. */
+function loadStandardCountry(prefix, reportTitle, reportFile){
+ const country = JSON.parse(fs.readFileSync(`${prefix}.json`,'utf8'));
+ const unitData = JSON.parse(fs.readFileSync(`${prefix}-units.json`,'utf8'));
+ const researcherData = JSON.parse(fs.readFileSync(`${prefix}-researchers.json`,'utf8'));
+ country.networks = unitData.networks || {};
+ const instNames = new Set(country.cities.flatMap(c => c.institutions.map(i => i.name)));
+ for(const name of Object.keys(unitData.institutions)) if(!instNames.has(name)) throw new Error(`Unknown institution in ${prefix}: ${name}`);
+ const report = [`# ${reportTitle} — đơn vị và nhà nghiên cứu`, `\nNgày kiểm tra nguồn: ${researcherData.checked}. ${researcherData.scope||''}\n`];
+ for(const city of country.cities) for(const institution of city.institutions){
+  institution.units = institution.units||[];
+  institution.networks = institution.networks||[];
+  const details = unitData.institutions[institution.name];
+  if(!details) throw new Error(`Missing units for ${institution.name}`);
+  for(const key of details.networks||[]) if(!country.networks[key]) throw new Error(`Unknown network: ${key}`);
+  report.push(`## ${institution.name} — ${city.city}\n\n[Cơ cấu](${details.structureUrl}): ${details.structure}\n\n${details.scopeNote||''}\n`);
+  for(const unit of details.units){
+   const roster = researcherData.units[institution.name+'::'+unit.name];
+   if(!roster?.sources?.length) throw new Error(`Missing researcher record: ${institution.name} / ${unit.name}`);
+   const names = new Set();
+   for(const person of [...(roster.people||[]), ...(roster.external||[])]){
+    if(!person.name?.trim() || !/^https?:\/\//.test(person.url||'')) throw new Error(`Invalid researcher in ${unit.name}`);
+    const key = person.name.normalize('NFC').toLowerCase();
+    if(names.has(key)) throw new Error(`Duplicate researcher ${person.name} in ${unit.name}`);
+    names.add(key);
+   }
+   unit.researchers = {people:roster.people||[], external:roster.external||[], sources:roster.sources, note:roster.note, checked:researcherData.checked};
+   report.push(`### [${unit.name}](${unit.url})\n\n${unit.kind}${unit.parent?'. Trực thuộc: '+unit.parent:''}.\n\n${unit.topics}\n${unit.note?'\n'+unit.note+'\n':''}`);
+   for(const p of roster.people||[]) report.push(`- ${p.name} — ${p.role}`);
+   if((roster.external||[]).length){ report.push('\nKhách mời / thành viên liên kết:\n'); for(const p of roster.external) report.push(`- ${p.name} — ${p.role}`); }
+   report.push(`\nNguồn: ${roster.sources.map((u,i)=>`[${i+1}](${u})`).join(', ')}.\n`);
+  }
+  if((details.networks||[]).length) report.push(`Liên kết: ${details.networks.map(key=>country.networks[key].name).join('; ')}.\n`);
+  Object.assign(institution, details);
+ }
+ if(Object.keys(country.networks).length){
+  report.push('## Quan hệ liên đại học và liên viện\n');
+  for(const network of Object.values(country.networks)) report.push(`### [${network.name}](${network.url})\n\n${network.kind}. ${network.topics}\n\n${network.note||''}\n`);
+ }
+ fs.writeFileSync(reportFile, report.join('\n'));
+ return country;
+}
+for(const [iso, prefix, title, reportFile] of [
+ ['CZE','czechia','Cộng hòa Séc','CZECHIA-RESEARCHERS.md'],
+ ['POL','poland','Ba Lan','POLAND-RESEARCHERS.md'],
+ ['SWE','sweden','Thụy Điển','SWEDEN-RESEARCHERS.md'],
+ ['DNK','denmark','Đan Mạch','DENMARK-RESEARCHERS.md'],
+ ['NOR','norway','Na Uy','NORWAY-RESEARCHERS.md'],
+ ['SVK','slovakia','Slovakia','SLOVAKIA-RESEARCHERS.md'],
+ ['HUN','hungary','Hungary','HUNGARY-RESEARCHERS.md'],
+ ['ROU','romania','Romania','ROMANIA-RESEARCHERS.md'],
+ ['BGR','bulgaria','Bulgaria','BULGARIA-RESEARCHERS.md'],
+ ['UKR','ukraine','Ukraina','UKRAINE-RESEARCHERS.md'],
+ ['BLR','belarus','Belarus','BELARUS-RESEARCHERS.md'],
+ ['MDA','moldova','Moldova','MOLDOVA-RESEARCHERS.md'],
+ ['SVN','slovenia','Slovenia','SLOVENIA-RESEARCHERS.md'],
+ ['HRV','croatia','Croatia','CROATIA-RESEARCHERS.md'],
+ ['BIH','bosnia','Bosnia và Herzegovina','BOSNIA-RESEARCHERS.md'],
+ ['SRB','serbia','Serbia','SERBIA-RESEARCHERS.md'],
+ ['MNE','montenegro','Montenegro','MONTENEGRO-RESEARCHERS.md'],
+ ['KOS','kosovo','Kosovo','KOSOVO-RESEARCHERS.md'],
+ ['ALB','albania','Albania','ALBANIA-RESEARCHERS.md'],
+ ['MKD','macedonia','Bắc Macedonia','MACEDONIA-RESEARCHERS.md'],
+ ['GRC','greece','Hy Lạp','GREECE-RESEARCHERS.md'],
+]){
+ if(!countryData[iso]) countryData[iso] = loadStandardCountry(prefix, title, reportFile);
+}
 // Link cá nhân: url chỉ dùng cho đúng một người (hoặc được đánh dấu profile:true). Link dùng chung là trang danh sách.
 {const people=[];const walk=o=>{if(Array.isArray(o))o.forEach(walk);else if(o&&typeof o==='object'){for(const k of ['people','external'])if(Array.isArray(o[k]))o[k].forEach(p=>{if(p&&p.name&&p.url)people.push(p)});Object.values(o).forEach(walk)}};walk(countryData);
  const n={};people.forEach(p=>n[p.url]=(n[p.url]||0)+1);people.forEach(p=>{if(p.profile===undefined)p.profile=n[p.url]===1});

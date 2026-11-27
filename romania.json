@@ -1,0 +1,63 @@
+{
+ "country": "ROU",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng. AIRA có trụ sở chính tại București và hai chi nhánh tại Cluj-Napoca, Timișoara; ISS đặt tại Măgurele (vùng București).",
+ "listSource": "https://www.astro.ro:8080/ro/articles/Staff",
+ "cities": [
+  {
+   "id": "bucuresti",
+   "city": "București",
+   "coordinates": [
+    26.1,
+    44.43
+   ],
+   "institutions": [
+    {
+     "name": "Astronomical Institute of the Romanian Academy (AIRA) — București",
+     "type": "non-university institute",
+     "research": "Vật lý Mặt Trời, tiểu hành tinh và vật thể gần Trái Đất (EURONEAR), trắc lượng thiên văn (Gaia), vật lý sao và động lực học thiên hà.",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Institute of Space Science (ISS Romania)",
+     "type": "non-university institute",
+     "research": "Vật lý thiên văn năng lượng cao (Pierre Auger, ALICE), vũ trụ học và sóng hấp dẫn (LISA), vật lý plasma không gian và từ trường (Cluster).",
+     "url": "https://www.spacescience.ro/laboratoare/"
+    }
+   ]
+  },
+  {
+   "id": "cluj-napoca",
+   "city": "Cluj-Napoca",
+   "coordinates": [
+    23.6,
+    46.77
+   ],
+   "institutions": [
+    {
+     "name": "Astronomical Institute of the Romanian Academy (AIRA) — Cluj-Napoca",
+     "type": "non-university institute",
+     "research": "Sao biến quang, cơ học thiên thể, quỹ đạo vệ tinh và thiên văn quan sát.",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    }
+   ]
+  },
+  {
+   "id": "timisoara",
+   "city": "Timișoara",
+   "coordinates": [
+    21.23,
+    45.75
+   ],
+   "institutions": [
+    {
+     "name": "Astronomical Institute of the Romanian Academy (AIRA) — Timișoara",
+     "type": "non-university institute",
+     "research": "Thiên văn quan sát, sao đôi và hợp tác nghiên cứu thiên văn khu vực.",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    }
+   ]
+  }
+ ]
+}

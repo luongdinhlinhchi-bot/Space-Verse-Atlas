@@ -1,0 +1,717 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn, vật lý thiên văn, vật lý hạt thiên văn và vật lý không gian tại Thụy Điển (ĐH Stockholm, KTH, ĐH Uppsala, ĐH Lund, Chalmers & OSO, IRF). Loại trừ nhân sự hành chính, kỹ thuật thuần tuý; tách giáo sư danh dự và khách mời.",
+ "units": {
+  "Stockholm University — Department of Astronomy & Institute for Solar Physics (ISP)::Department of Astronomy & Institute for Solar Physics (ISP)": {
+   "sources": [
+    "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+   ],
+   "people": [
+    {
+     "name": "Garrelt Mellema",
+     "role": "Trưởng khoa; Giáo sư",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Jesper Sollerman",
+     "role": "Phó trưởng khoa; Giáo sư",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Jorrit Leenaarts",
+     "role": "Giám đốc Viện Vật lý Mặt Trời (ISP); Giáo sư",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Angela Adamo",
+     "role": "Giảng viên / Nghiên cứu viên",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Göran Östlin",
+     "role": "Giáo sư",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Dan Kiselman",
+     "role": "Giảng viên / Nghiên cứu viên (ISP)",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Karin Lind",
+     "role": "Giảng viên / Nghiên cứu viên",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Ragnhild Lunnan",
+     "role": "Giảng viên / Nghiên cứu viên",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Jaime de la Cruz Rodriguez",
+     "role": "Giảng viên / Nghiên cứu viên (ISP)",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Markus Janson",
+     "role": "Giáo sư",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Anders Jerkstrand",
+     "role": "Nghiên cứu viên / Giảng viên",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Adélaïde Claeyssens",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Beatriz Villarroel",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Mingli Jian",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Anamaria Gkini",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Gloria Canocchi",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Oliver Eggenberger Andersen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Giacomo Bortolini",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    },
+    {
+     "name": "Cis Lagae",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.su.se/english/divisions/department-of-astronomy/about-the-department/organisation"
+    }
+   ],
+   "external": [],
+   "note": "Mới gồm ban lãnh đạo, hội đồng khoa và các thành viên đã xác minh từ trang Organisation (tổng quy mô khoa khoảng 80 người)."
+  },
+  "KTH Royal Institute of Technology — Particle Physics, Astrophysics and Medical Imaging::Particle Physics, Astrophysics and Medical Imaging": {
+   "sources": [
+    "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+   ],
+   "people": [
+    {
+     "name": "Mark Pearce",
+     "role": "Trưởng bộ môn; Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Mattias Blennow",
+     "role": "Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Sandhya Choubey",
+     "role": "Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Mats Danielsson",
+     "role": "Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Josefin Larsson",
+     "role": "Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Tommy Ohlsson",
+     "role": "Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Christian Ohm",
+     "role": "Phó giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Felix Ryde",
+     "role": "Giáo sư",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Filip Alamaa",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Mózsi Kiss",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Alexander Leopold",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Christina Dimitriadi",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Filip af Malmborg",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Julia Ahlvind",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Alexandra Alain-Beaudoin",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Rickard Brunskog",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Ruihan Huang",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Karin Larsson",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Andreas Lund",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    }
+   ],
+   "external": [
+    {
+     "name": "Per Johan Fritz Carlson",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Thomas Lindblad",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Erik Fredenberg",
+     "role": "Giáo sư liên kết",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    },
+    {
+     "name": "Rolf Karl Otto Behling",
+     "role": "Nhà nghiên cứu khách mời",
+     "url": "https://www.kth.se/en/sci/inst/fysik/avdelningar/particle-and-astroparticle-physics"
+    }
+   ],
+   "note": ""
+  },
+  "Uppsala University — Department of Physics and Astronomy (Astronomy and Space Physics)::Division of Astronomy and Space Physics": {
+   "sources": [
+    "https://www.uu.se/en/contact-and-organisation/organisation?query=X208:1"
+   ],
+   "people": [
+    {
+     "name": "Anish Amarsi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N17-517"
+    },
+    {
+     "name": "Irene Amateis",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N24-1935"
+    },
+    {
+     "name": "Paul Barklem",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N99-425"
+    },
+    {
+     "name": "Simon Barton",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N22-2945"
+    },
+    {
+     "name": "Bengt Edvardsson",
+     "role": "Phó giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=XX3069"
+    },
+    {
+     "name": "Kjell Eriksson",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=XX2133"
+    },
+    {
+     "name": "Diane Feuillet",
+     "role": "Phó giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N24-1450"
+    },
+    {
+     "name": "Bernd Freytag",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N0-755"
+    },
+    {
+     "name": "Ulrike Heiter",
+     "role": "Phó giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N3-1488"
+    },
+    {
+     "name": "Susanne Höfner",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N99-874"
+    },
+    {
+     "name": "Yuri Khotyaintsev",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N99-918"
+    },
+    {
+     "name": "Konstantin Kim",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N22-72"
+    },
+    {
+     "name": "Oleg Kochukhov",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N96-6309"
+    },
+    {
+     "name": "Apostolos Kolokotronis",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N23-1843"
+    },
+    {
+     "name": "Andreas Korn",
+     "role": "Phó giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N3-1080"
+    },
+    {
+     "name": "Ishaan Kothiyal",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N26-708"
+    },
+    {
+     "name": "Katherine Lee",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N25-2846"
+    },
+    {
+     "name": "Thomas Marquart",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N3-1490"
+    },
+    {
+     "name": "Nicola Jane Miller",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N24-1299"
+    },
+    {
+     "name": "Oskar Mlakar",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N26-661"
+    },
+    {
+     "name": "Thomas Nordlander",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N11-1758"
+    },
+    {
+     "name": "Nikolai Piskunov",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N96-773"
+    },
+    {
+     "name": "Deboki Reja",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N25-390"
+    },
+    {
+     "name": "Martin Sahlén",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N16-1139"
+    },
+    {
+     "name": "Emelie Sandved",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N25-2030"
+    },
+    {
+     "name": "Emelie Siderud",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N19-2802"
+    },
+    {
+     "name": "Atlas Silverhult",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N22-2874"
+    },
+    {
+     "name": "Eric Stempels",
+     "role": "Trưởng bộ môn; Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N96-2835"
+    },
+    {
+     "name": "Iñaki Vigo Vidal",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N24-2554"
+    },
+    {
+     "name": "Alice Wallner",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N24-2199"
+    },
+    {
+     "name": "Fábio Wanderley",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N26-1928"
+    },
+    {
+     "name": "Michael Way",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N10-875"
+    },
+    {
+     "name": "Kaitlin Webber",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N26-2138"
+    },
+    {
+     "name": "Jack White",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N23-2569"
+    },
+    {
+     "name": "Joachim Wiegert",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N22-314"
+    },
+    {
+     "name": "Ka Tat Wong",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N22-1015"
+    },
+    {
+     "name": "Erik Zackrisson",
+     "role": "Giáo sư",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N0-351"
+    },
+    {
+     "name": "Danielle de Brito Silva",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N24-2208"
+    }
+   ],
+   "external": [
+    {
+     "name": "Linn Boldt-Christmas",
+     "role": "Nhà nghiên cứu khách mời / liên kết",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N20-1800"
+    },
+    {
+     "name": "Francesco Gabrielli",
+     "role": "Nhà nghiên cứu khách mời / liên kết",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N25-2284"
+    },
+    {
+     "name": "Bengt Gustafsson",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=XX1303"
+    },
+    {
+     "name": "Vladimir P. Pavlenko",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N96-3305"
+    },
+    {
+     "name": "Hans Rickman",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=XX2277"
+    },
+    {
+     "name": "Christer Wahlberg",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N96-3307"
+    }
+   ],
+   "note": ""
+  },
+  "Lund University — Division of Astrophysics (Lund Observatory)::Division of Astrophysics (Lund Observatory)": {
+   "sources": [
+    "https://www.astro.lu.se/peoplelist"
+   ],
+   "people": [
+    {
+     "name": "Oscar Agertz",
+     "role": "Phó giáo sư",
+     "url": "https://sites.google.com/view/oscaragertz/oscar-agertz"
+    },
+    {
+     "name": "Anna Arnadottir",
+     "role": "Viện trưởng / Giám đốc",
+     "url": "https://www.astro.lu.se/~anna"
+    },
+    {
+     "name": "Raghav Arora",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.astro.lu.se/raghav-arora"
+    },
+    {
+     "name": "Thomas Bensby",
+     "role": "Phó giáo sư",
+     "url": "https://www.astro.lu.se/~tbensby"
+    },
+    {
+     "name": "Madeleine Burheim",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.lu.se/madeleine-burheim"
+    },
+    {
+     "name": "Valeria Cerqui",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.astro.lu.se/valeria-cerqui"
+    },
+    {
+     "name": "Ross Church",
+     "role": "Phó giáo sư",
+     "url": "https://www.astro.lu.se/~ross"
+    },
+    {
+     "name": "Natsuki Funakoshi",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.astro.lu.se/natsuki-funakoshi"
+    },
+    {
+     "name": "Henrik Hartman",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.lu.se/~henrikh"
+    },
+    {
+     "name": "Dylan Hebrail",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.lu.se/dylan-hebrail"
+    },
+    {
+     "name": "Kai Hendriks",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.astro.lu.se/kai-hendriks"
+    },
+    {
+     "name": "Isabella Henum",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.lu.se/isabella-henum"
+    },
+    {
+     "name": "David Hobbs",
+     "role": "Giáo sư",
+     "url": "https://www.astro.lu.se/~david"
+    },
+    {
+     "name": "Jens Hoeijmakers",
+     "role": "Phó giáo sư",
+     "url": "https://www.astro.lu.se/jens-hoeijmakers"
+    },
+    {
+     "name": "Klaudia Jaworska",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.lu.se/klaudia-jaworska"
+    },
+    {
+     "name": "Óscar Jiménez Arranz",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.astro.lu.se/oscar-jimenez-arranz"
+    }
+   ],
+   "external": [
+    {
+     "name": "Torben Andersen",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astro.lu.se/torben-andersen"
+    },
+    {
+     "name": "Arne Ardeberg",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astro.lu.se/arne-ardeberg"
+    },
+    {
+     "name": "Colin Carlile",
+     "role": "Nhà nghiên cứu khách mời / liên kết",
+     "url": "https://www.astro.lu.se/colin-carlile-0"
+    },
+    {
+     "name": "Dainis Dravins",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astro.lu.se/~dainis"
+    }
+   ],
+   "note": ""
+  },
+  "Chalmers University of Technology & Onsala Space Observatory (OSO)::Division of Astronomy and Plasma Physics (APP)": {
+   "sources": [
+    "https://www.chalmers.se/en/departments/see/research/app/"
+   ],
+   "people": [
+    {
+     "name": "Jouni Kainulainen",
+     "role": "Trưởng bộ môn; Giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Kirsten Knudsen",
+     "role": "Trưởng đơn vị; Giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Elvire De Beck",
+     "role": "Phó trưởng khoa; Phó giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Susanne Aalto",
+     "role": "Giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Pär Strand",
+     "role": "Giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Eva Wirström",
+     "role": "Phó giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Tünde-Maria Fülöp",
+     "role": "Giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Johan Anderson",
+     "role": "Phó giáo sư liên kết",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    },
+    {
+     "name": "Miora Andriantsaralaza",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.chalmers.se/en/departments/see/research/app/"
+    }
+   ],
+   "external": [],
+   "note": "Mới có lãnh đạo và các giáo sư/nhà khoa học chủ chốt."
+  },
+  "Chalmers University of Technology & Onsala Space Observatory (OSO)::Onsala Space Observatory (OSO)": {
+   "sources": [
+    "https://www.chalmers.se/en/departments/see/research/oso/"
+   ],
+   "people": [
+    {
+     "name": "John Conway",
+     "role": "Giám đốc đài quan sát; Giáo sư",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Vincent Desmaris",
+     "role": "Trưởng bộ phận Onsala Space Observatory",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Michael Lindqvist",
+     "role": "Trưởng nhóm Hỗ trợ Quan sát",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Kelley Michelle Hess",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Per Bergman",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Tobia Carozzi",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Franz Kirsten",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Sabine König",
+     "role": "Nhà khoa học cao cấp",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    },
+    {
+     "name": "Jan Johansson",
+     "role": "Giáo sư liên kết",
+     "url": "https://www.chalmers.se/en/departments/see/research/oso/"
+    }
+   ],
+   "external": [],
+   "note": "Mới có lãnh đạo và các nhà khoa học cao cấp."
+  },
+  "Swedish Institute of Space Physics (IRF)::IRF Executive & Research Programme Leadership": {
+   "sources": [
+    "https://www.irf.se/en/om-irf/organisation/"
+   ],
+   "people": [
+    {
+     "name": "Olle Norberg",
+     "role": "Tổng giám đốc IRF",
+     "url": "https://www.irf.se/en/person/olle-norberg/"
+    },
+    {
+     "name": "Stas Barabash",
+     "role": "Phó tổng giám đốc; Trưởng chương trình Hệ Mặt Trời",
+     "url": "https://www.irf.se/en/person/stas-barabash/"
+    },
+    {
+     "name": "Johan Kero",
+     "role": "Trưởng chương trình Mặt Trời–Trái Đất & Khí quyển",
+     "url": "https://www.irf.se/en/person/johan-kero/"
+    },
+    {
+     "name": "Yuri Khotyaintsev",
+     "role": "Trưởng chương trình Vật lý Plasma Không gian",
+     "url": "https://www.irf.se/en/person/yuri-khotyaintsev/"
+    },
+    {
+     "name": "Urban Brändström",
+     "role": "Trưởng nhóm Vận hành Đài quan sát",
+     "url": "https://www.irf.se/en/person/urban-brandstrom/"
+    }
+   ],
+   "external": [],
+   "note": "Trang Organisation chỉ công bố ban giám đốc và trưởng các chương trình khoa học."
+  }
+ }
+}

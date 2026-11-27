@@ -1,0 +1,97 @@
+{
+  "country": "Serbia",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Serbia, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "Astronomical Observatory of Belgrade (AOB)::Astronomical Observatory of Belgrade (Nhân sự chủ chốt)": {
+      "coverage": "partial",
+      "people": [
+        {
+          "name": "Luka Č. Popović",
+          "role": "Giám đốc viện; Giáo sư",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Milan S. Dimitrijević",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Darko Jevremović",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Predrag Jovanović",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Milan Ćirković",
+          "role": "Nghiên cứu viên cao cấp (Vũ trụ học, Sinh học vũ trụ)",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Monika Jurković Malagurski",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Ana Lalović",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.aob.rs/"
+        },
+        {
+          "name": "Ivana Milić Žitnik",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.aob.rs/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.aob.rs/"
+      ],
+      "note": "Trang danh bạ chi tiết trả 404 khi truy cập tự động; ghi nhận ban lãnh đạo và các nghiên cứu viên chủ chốt đã xác minh."
+    },
+    "University of Belgrade — Faculty of Mathematics (Department of Astronomy)::Department of Astronomy": {
+      "coverage": "leaders",
+      "people": [
+        {
+          "name": "Dragana Ilić",
+          "role": "Giáo sư (AGN; Chủ tịch nhóm IAU OAE Serbia)",
+          "url": "https://astro.matf.bg.ac.rs/"
+        },
+        {
+          "name": "Bojan Arbutina",
+          "role": "Giáo sư (Tàn tích siêu tân tinh)",
+          "url": "https://astro.matf.bg.ac.rs/"
+        },
+        {
+          "name": "Andjelka Kovačević",
+          "role": "Giáo sư (Chủ tịch Ủy ban Thiên văn Quốc gia Serbia)",
+          "url": "https://astro.matf.bg.ac.rs/"
+        },
+        {
+          "name": "Olga Atanacković",
+          "role": "Giáo sư (Truyền bức xạ sao)",
+          "url": "https://astro.matf.bg.ac.rs/"
+        },
+        {
+          "name": "Dušan Marčeta",
+          "role": "Giáo sư (Cơ học thiên thể)",
+          "url": "https://astro.matf.bg.ac.rs/"
+        },
+        {
+          "name": "Dušan Onić",
+          "role": "Phó giáo sư / Tiến sĩ",
+          "url": "https://astro.matf.bg.ac.rs/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://astro.matf.bg.ac.rs/"
+      ],
+      "note": "Danh sách các giáo sư và giảng viên chủ chốt của Khoa Thiên văn MATF Belgrade."
+    }
+  }
+}

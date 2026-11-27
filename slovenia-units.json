@@ -1,0 +1,47 @@
+{
+  "country": "Slovenia",
+  "checked": "2026-11-22",
+  "institutions": {
+    "University of Ljubljana — Faculty of Mathematics and Physics (UL FMF)": {
+      "city": "Ljubljana",
+      "coverage": "partial",
+      "structure": "Nhóm Thiên văn học thuộc Khoa Vật lý (FMF) và Đài thiên văn Golovec",
+      "structureUrl": "https://astro.fmf.uni-lj.si/",
+      "units": [
+        {
+          "name": "Astronomy Group (Katedra za astronomijo)",
+          "kind": "Nhóm nghiên cứu & đào tạo",
+          "parent": "Faculty of Mathematics and Physics, University of Ljubljana",
+          "topics": "Vũ trụ học quan sát (JWST), thấu kính hấp dẫn, quang phổ sao (RAVE, GALAH, 4MOST), vật lý thiên văn lý thuyết",
+          "url": "https://astro.fmf.uni-lj.si/",
+          "coverage": "partial",
+          "sources": [
+            "https://astro.fmf.uni-lj.si/",
+            "https://www.fmf.uni-lj.si/"
+          ],
+          "note": "Danh sách giảng viên và nghiên cứu viên chủ chốt của Nhóm Thiên văn UL FMF."
+        }
+      ]
+    },
+    "University of Nova Gorica (UNG) — Center for Astrophysics and Cosmology": {
+      "city": "Nova Gorica",
+      "coverage": "full",
+      "structure": "Trung tâm nghiên cứu vật lý thiên văn hạt, tia gamma (CTAO) và thiên văn miền thời gian (Rubin/LSST)",
+      "structureUrl": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/",
+      "units": [
+        {
+          "name": "Center for Astrophysics and Cosmology (CAC)",
+          "kind": "Trung tâm nghiên cứu",
+          "parent": "University of Nova Gorica",
+          "topics": "Vật lý hạt thiên văn, tia gamma năng lượng cao (CTAO), chớp tia gamma, vật chất tối, LSST",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/",
+          "coverage": "full",
+          "sources": [
+            "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+          ],
+          "note": "Đầy đủ đội ngũ giảng viên, nghiên cứu sau tiến sĩ SMASH và trợ lý nghiên cứu của CAC UNG."
+        }
+      ]
+    }
+  }
+}

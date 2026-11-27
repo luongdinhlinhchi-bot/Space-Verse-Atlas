@@ -1,0 +1,53 @@
+{
+  "country": "Hy Lạp",
+  "iso": "GRC",
+  "cities": [
+    {
+      "id": "heraklion",
+      "city": "Heraklion",
+      "coordinates": [
+        25.1442,
+        35.3387
+      ],
+      "institutions": [
+        {
+          "name": "Institute of Astrophysics — FORTH (IA-FORTH) & University of Crete",
+          "url": "https://www.ia.forth.gr/"
+        }
+      ]
+    },
+    {
+      "id": "thessaloniki",
+      "city": "Thessaloniki",
+      "coordinates": [
+        22.9444,
+        40.6401
+      ],
+      "institutions": [
+        {
+          "name": "Aristotle University of Thessaloniki (AUTh) — Section of Astrophysics, Astronomy and Mechanics",
+          "url": "https://www.astro.auth.gr/"
+        }
+      ]
+    },
+    {
+      "id": "athens",
+      "city": "Athens",
+      "coordinates": [
+        23.7275,
+        37.9838
+      ],
+      "institutions": [
+        {
+          "name": "National Observatory of Athens (NOA) — IAASARS",
+          "url": "https://www.astro.noa.gr/"
+        },
+        {
+          "name": "National and Kapodistrian University of Athens (NKUA) — Section of Astrophysics, Astronomy and Mechanics",
+          "url": "https://www.phys.uoa.gr/"
+        }
+      ]
+    }
+  ],
+  "viewBox": "140 0 480 460"
+}

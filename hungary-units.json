@@ -1,0 +1,54 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Konkoly Observatory (HUN-REN CSFK)": {
+   "coverage": "full",
+   "structure": "HUN-REN Research Centre for Astronomy and Earth Sciences → Konkoly Thege Miklós Astronomical Institute",
+   "structureUrl": "https://konkoly.hu/en/staff-members",
+   "scopeNote": "Lấy từ danh bạ chính thức staff-members và visiting-researchers của Konkoly Observatory; loại trừ nhân sự hành chính, quản lý dự án và kỹ thuật thuần tuý.",
+   "units": [
+    {
+     "name": "Konkoly Observatory (toàn viện)",
+     "kind": "Viện nghiên cứu quốc gia",
+     "parent": "HUN-REN CSFK",
+     "topics": "Vật lý sao, hành tinh ngoài Hệ Mặt Trời, vật lý hạt nhân thiên văn, thiên hà, cấu trúc lớn và thiết bị không gian.",
+     "url": "https://konkoly.hu/en/staff-members"
+    }
+   ],
+   "networks": []
+  },
+  "Eötvös Loránd University (ELTE) — Department of Astronomy": {
+   "coverage": "leaders",
+   "structure": "Faculty of Science → Institute of Physics and Astronomy → Department of Astronomy",
+   "structureUrl": "https://www.elte.hu/",
+   "scopeNote": "Máy chủ astro.elte.hu hết thời gian chờ khi tải trực tiếp nên hiện ghi trưởng khoa và các giảng viên cơ hữu đã xác minh.",
+   "units": [
+    {
+     "name": "Department of Astronomy (ELTE)",
+     "kind": "Khoa nghiên cứu đại học",
+     "parent": "Eötvös Loránd University",
+     "topics": "Động lực học hành tinh, vật lý Mặt Trời, môi trường liên sao và thiên văn vô tuyến.",
+     "url": "https://www.elte.hu/"
+    }
+   ],
+   "networks": []
+  },
+  "University of Szeged (SZTE) — Institute of Physics (Astrophysics Group)": {
+   "coverage": "partial",
+   "structure": "Faculty of Science and Informatics → Institute of Physics → Astrophysics & Astronomical Observatory",
+   "structureUrl": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok",
+   "scopeNote": "Lọc giảng viên và nhà nghiên cứu mảng thiên văn/vật lý thiên văn từ danh bạ giảng viên của Institute of Physics.",
+   "units": [
+    {
+     "name": "Astrophysics Group (SZTE)",
+     "kind": "Nhóm nghiên cứu đại học",
+     "parent": "Institute of Physics, University of Szeged",
+     "topics": "Siêu tân tinh, sao biến quang, hệ sao đôi và hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

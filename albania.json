@@ -1,0 +1,21 @@
+{
+  "country": "Albania",
+  "iso": "ALB",
+  "cities": [
+    {
+      "id": "tirana",
+      "city": "Tirana",
+      "coordinates": [
+        19.8187,
+        41.3275
+      ],
+      "institutions": [
+        {
+          "name": "University of Tirana — Faculty of Natural Sciences (FSHN)",
+          "url": "https://fshn.edu.al/"
+        }
+      ]
+    }
+  ],
+  "viewBox": "140 0 480 460"
+}

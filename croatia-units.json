@@ -1,0 +1,66 @@
+{
+  "country": "Croatia",
+  "checked": "2026-11-22",
+  "institutions": {
+    "Ruđer Bošković Institute (IRB) — Laboratory for Astroparticle Physics and Astrophysics": {
+      "city": "Zagreb",
+      "coverage": "full",
+      "structure": "Phòng thí nghiệm Vật lý hạt thiên văn và Vật lý thiên văn (Ban Vật lý Thực nghiệm, IRB)",
+      "structureUrl": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics",
+      "units": [
+        {
+          "name": "Laboratory for Astroparticle Physics and Astrophysics (LAPA)",
+          "kind": "Phòng thí nghiệm nghiên cứu",
+          "parent": "Division of Experimental Physics, Ruđer Bošković Institute",
+          "topics": "Thiên văn vô tuyến tần số thấp (LOFAR, SKA), môi trường liên sao, khảo sát biến thiên (Gaia, LSST), tia gamma (MAGIC)",
+          "url": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics",
+          "coverage": "full",
+          "sources": [
+            "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+          ],
+          "note": "Đội ngũ nghiên cứu chính thức của LAPA (IRB)."
+        }
+      ]
+    },
+    "Hvar Observatory — Faculty of Geodesy, University of Zagreb": {
+      "city": "Hvar",
+      "coverage": "full",
+      "structure": "Đài thiên văn quốc gia chuyên về vật lý Mặt Trời, thời tiết vũ trụ và sao biến quang",
+      "structureUrl": "https://oh.geof.unizg.hr/index.php/en/staff",
+      "units": [
+        {
+          "name": "Hvar Observatory (toàn đài)",
+          "kind": "Đài thiên văn nghiên cứu",
+          "parent": "Faculty of Geodesy, University of Zagreb",
+          "topics": "Vật lý Mặt Trời, bùng phát Mặt Trời, CME, thời tiết vũ trụ, trắc quang sao",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff",
+          "coverage": "full",
+          "sources": [
+            "https://oh.geof.unizg.hr/index.php/en/staff"
+          ],
+          "note": "Danh sách nhân sự chính thức trên trang Staff của Đài thiên văn Hvar."
+        }
+      ]
+    },
+    "University of Rijeka — Faculty of Physics (Division of Theoretical Physics and Astrophysics)": {
+      "city": "Rijeka",
+      "coverage": "full",
+      "structure": "Ban Vật lý lý thuyết & Vật lý thiên văn và Phòng thí nghiệm Vật lý hạt thiên văn",
+      "structureUrl": "https://www.phy.uniri.hr/en/",
+      "units": [
+        {
+          "name": "Division of Theoretical Physics and Astrophysics",
+          "kind": "Khoa / Nhóm nghiên cứu",
+          "parent": "Faculty of Physics, University of Rijeka",
+          "topics": "Thiên văn tia gamma (MAGIC, CTAO, SWGO), vật lý sao, vật lý Mặt Trời, LSST",
+          "url": "https://www.phy.uniri.hr/en/",
+          "coverage": "full",
+          "sources": [
+            "https://www.phy.uniri.hr/en/"
+          ],
+          "note": "Danh sách đầy đủ giảng viên, postdoc và nghiên cứu sinh nhóm Vật lý thiên văn tại ĐH Rijeka."
+        }
+      ]
+    }
+  }
+}

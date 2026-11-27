@@ -1,0 +1,64 @@
+{
+ "country": "BGR",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng. Đài thiên văn Quốc gia NAO Rozhen đặt tại dãy Rhodope gần Smolyan (trụ sở chính của IA-NAO BAS tại Sofia).",
+ "listSource": "https://astro.phys.uni-sofia.bg/staff/",
+ "cities": [
+  {
+   "id": "sofia",
+   "city": "Sofia",
+   "coordinates": [
+    23.32,
+    42.7
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Astronomy and NAO — Bulgarian Academy of Sciences (IA-NAO BAS)",
+     "type": "non-university institute",
+     "research": "Vật lý Mặt Trời và Hệ Mặt Trời (LOFAR-BG), vật lý sao và từ trường sao, thiên hà hoạt động (AGN) và vũ trụ học.",
+     "url": "https://www.bas.bg/",
+     "note": "Vận hành Đài thiên văn Quốc gia Rozhen (kính 2 m) và Đài Belogradchik."
+    },
+    {
+     "name": "Sofia University — Department of Astronomy",
+     "type": "university",
+     "research": "Vật lý sao và thiên hà, sao đôi, thiên văn quan sát (Đài Plana) và đào tạo đại học/sau đại học về vật lý thiên văn.",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    }
+   ]
+  },
+  {
+   "id": "smolyan",
+   "city": "Smolyan (NAO Rozhen)",
+   "coordinates": [
+    24.74,
+    41.69
+   ],
+   "institutions": [
+    {
+     "name": "National Astronomical Observatory Rozhen (NAO Rozhen)",
+     "type": "non-university institute",
+     "research": "Đài quan sát quang học lớn nhất Đông Nam Âu (kính phản xạ 2 m RCC, trạm LOFAR-BG), trực thuộc IA-NAO BAS.",
+     "url": "https://www.bas.bg/"
+    }
+   ]
+  },
+  {
+   "id": "shumen",
+   "city": "Shumen",
+   "coordinates": [
+    26.92,
+    43.27
+   ],
+   "institutions": [
+    {
+     "name": "Shumen University — Astronomical Center 'Prof. Vladimir Shkodrov'",
+     "type": "university",
+     "research": "Quan sát sao biến quang, vật thể nhỏ Hệ Mặt Trời và đào tạo thiên văn học.",
+     "url": "https://astro.shu.bg/staff.php"
+    }
+   ]
+  }
+ ]
+}

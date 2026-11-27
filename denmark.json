@@ -1,0 +1,48 @@
+{
+ "country": "DNK",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ). DTU Space đặt tại Kongens Lyngby (vùng thủ đô København) nên được gộp chung vào mục København trên bản đồ.",
+ "listSource": "https://cosmicdawn.dk/staff/",
+ "cities": [
+  {
+   "id": "kobenhavn",
+   "city": "København",
+   "coordinates": [
+    12.57,
+    55.68
+   ],
+   "institutions": [
+    {
+     "name": "University of Copenhagen — Niels Bohr Institute (NBI)",
+     "type": "university",
+     "research": "Vũ trụ sơ khai và tái ion hoá (DAWN), vật chất tối, lỗ đen và hiện tượng quá độ (DARK), sóng hấp dẫn (Center of Gravity / NBIA), hình thành sao và hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://cosmicdawn.dk/staff/"
+    },
+    {
+     "name": "DTU Space — National Space Institute (Technical University of Denmark)",
+     "type": "university",
+     "research": "Vật lý thiên văn tia X và năng lượng cao, hành tinh ngoài Hệ Mặt Trời, vũ trụ học quan sát (đồng chủ trì DAWN), thiết bị cho các sứ mệnh vũ trụ ESA/NASA.",
+     "url": "https://www.space.dtu.dk/english/research-divisions/astrophysics-and-atmospheric-physics",
+     "note": "Khuôn viên đặt tại Kongens Lyngby (vùng thủ đô København)."
+    }
+   ]
+  },
+  {
+   "id": "aarhus",
+   "city": "Aarhus",
+   "coordinates": [
+    10.2,
+    56.16
+   ],
+   "institutions": [
+    {
+     "name": "Aarhus University — Department of Physics and Astronomy",
+     "type": "university",
+     "research": "Chấn động học sao (Stellar Astrophysics Centre, Kepler/TESS/PLATO), hành tinh ngoài Hệ Mặt Trời, hoá học thiên văn phòng thí nghiệm, vũ trụ học và vận hành kính thiên văn Nordic Optical Telescope.",
+     "url": "https://phys.au.dk/en/research/research-areas"
+    }
+   ]
+  }
+ ]
+}

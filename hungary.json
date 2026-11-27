@@ -1,0 +1,47 @@
+{
+ "country": "HUN",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng. Konkoly Observatory đặt tại Budapest (có trạm quan sát núi Piszkéstető).",
+ "listSource": "https://konkoly.hu/en/staff-members",
+ "cities": [
+  {
+   "id": "budapest",
+   "city": "Budapest",
+   "coordinates": [
+    19.04,
+    47.5
+   ],
+   "institutions": [
+    {
+     "name": "Konkoly Observatory (HUN-REN CSFK)",
+     "type": "non-university institute",
+     "research": "Chấn động học sao và hành tinh ngoài Hệ Mặt Trời, hình thành sao/hành tinh, vật lý hạt nhân thiên văn (RADIOSTAR), siêu tân tinh, cấu trúc lớn vũ trụ và thiên văn đa thông điệp.",
+     "url": "https://konkoly.hu/en/staff-members"
+    },
+    {
+     "name": "Eötvös Loránd University (ELTE) — Department of Astronomy",
+     "type": "university",
+     "research": "Động lực học hành tinh và Hệ Mặt Trời, vật lý Mặt Trời (MHD), môi trường liên sao, thiên văn vô tuyến và AGN.",
+     "url": "https://www.elte.hu/"
+    }
+   ]
+  },
+  {
+   "id": "szeged",
+   "city": "Szeged",
+   "coordinates": [
+    20.15,
+    46.25
+   ],
+   "institutions": [
+    {
+     "name": "University of Szeged (SZTE) — Institute of Physics (Astrophysics Group)",
+     "type": "university",
+     "research": "Siêu tân tinh, sao biến quang, hệ sao đôi, hành tinh ngoài Hệ Mặt Trời và quang học thiên văn (Đài quan sát Baja).",
+     "url": "https://www.physx.u-szeged.hu/intezet/munkatarsak/oktatok-kutatok"
+    }
+   ]
+  }
+ ]
+}

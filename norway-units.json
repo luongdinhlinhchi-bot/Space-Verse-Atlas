@@ -1,0 +1,87 @@
+{
+ "checked": "2026-11-22",
+ "networks": {
+  "rocs": {
+   "name": "Rosseland Centre for Solar Physics (RoCS)",
+   "kind": "Trung tâm Xuất sắc Na Uy (RCN CoE)",
+   "topics": "Giải mã cấu trúc và động lực học khí quyển Mặt Trời (sắc cầu, nhật hoa) bằng mô phỏng số và quan sát SST, IRIS, Solar Orbiter.",
+   "url": "https://www.mn.uio.no/rocs/english/people/allpeople/",
+   "note": "Đặt tại Viện Vật lý thiên văn Lý thuyết (ITA), Đại học Oslo."
+  }
+ },
+ "institutions": {
+  "University of Oslo — Institute of Theoretical Astrophysics (ITA) & RoCS": {
+   "coverage": "full",
+   "structure": "Faculty of Mathematics and Natural Sciences → Institute of Theoretical Astrophysics (ITA) & Rosseland Centre for Solar Physics (RoCS)",
+   "structureUrl": "https://www.mn.uio.no/astro/english/people/aca/",
+   "scopeNote": "Gồm toàn bộ danh bạ Academic staff của ITA (4 trang) và danh bạ All affiliated people của RoCS (2 trang); loại trừ nhân sự hành chính, kỹ thuật thuần tuý, tách khách mời và giáo sư danh dự.",
+   "units": [
+    {
+     "name": "Institute of Theoretical Astrophysics (ITA)",
+     "kind": "Viện nghiên cứu đại học",
+     "parent": "University of Oslo",
+     "topics": "Vũ trụ học quan sát và lý thuyết (CMB, Planck, Euclid, Cosmoglobe), thiên văn ngoài thiên hà và vật lý Mặt Trời.",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/"
+    },
+    {
+     "name": "Rosseland Centre for Solar Physics (RoCS)",
+     "kind": "Trung tâm Xuất sắc quốc gia",
+     "parent": "Institute of Theoretical Astrophysics, University of Oslo",
+     "topics": "Vật lý khí quyển Mặt Trời, từ thuỷ động lực học (MHD), bùng phát Mặt Trời và quan sát SST / IRIS / Solar Orbiter.",
+     "url": "https://www.mn.uio.no/rocs/english/people/allpeople/"
+    }
+   ],
+   "networks": [
+    "rocs"
+   ]
+  },
+  "University of Bergen — Space Physics Group (BCSS)": {
+   "coverage": "full",
+   "structure": "Department of Physics and Technology → Space Physics Group / Birkeland Centre for Space Science (BCSS)",
+   "structureUrl": "https://birkeland.uib.no/people/",
+   "scopeNote": "Lấy từ danh bạ chính thức birkeland.uib.no/people/; loại trừ điều phối viên hành chính.",
+   "units": [
+    {
+     "name": "Space Physics Group / Birkeland Centre for Space Science (BCSS)",
+     "kind": "Nhóm nghiên cứu & trung tâm chuyên đề",
+     "parent": "Department of Physics and Technology, University of Bergen",
+     "topics": "Vật lý địa không gian, tương tác Mặt Trời–Trái Đất, mưa hạt năng lượng cao và tia gamma từ dông bão.",
+     "url": "https://birkeland.uib.no/people/"
+    }
+   ],
+   "networks": []
+  },
+  "NTNU — Department of Physics (Astrophysics and Theoretical Physics)": {
+   "coverage": "leaders",
+   "structure": "Faculty of Natural Sciences → Department of Physics (IFY) → Section of Astrophysics and Theoretical Physics",
+   "structureUrl": "https://www.ntnu.edu/physics",
+   "scopeNote": "Trang nhân sự của bộ môn Astrophysics and Theoretical Physics trên ntnu.edu trả mã 404 khi tải tĩnh nên hiện ghi ban lãnh đạo bộ môn đã xác minh.",
+   "units": [
+    {
+     "name": "Section of Astrophysics and Theoretical Physics",
+     "kind": "Bộ môn đại học",
+     "parent": "Department of Physics, NTNU",
+     "topics": "Vật lý thiên văn năng lượng cao (sao neutron, lỗ đen, hệ sao đôi tia X), vật lý hạt thiên văn và vật lý lý thuyết.",
+     "url": "https://www.ntnu.edu/physics"
+    }
+   ],
+   "networks": []
+  },
+  "UiT The Arctic University of Norway — Space Physics Group": {
+   "coverage": "leaders",
+   "structure": "Department of Physics and Technology (IFT) → Space Physics Group",
+   "structureUrl": "https://uit.no/enhet/ift",
+   "scopeNote": "Trang nhóm nghiên cứu trên uit.no trả lỗi máy chủ 503 khi tải tĩnh nên hiện ghi trưởng nhóm và các giáo sư chủ chốt đã xác minh.",
+   "units": [
+    {
+     "name": "Space Physics Group",
+     "kind": "Nhóm nghiên cứu đại học",
+     "parent": "Department of Physics and Technology, UiT",
+     "topics": "Cực quang, tầng điện ly vùng cực, radar EISCAT / EISCAT_3D, bụi vũ trụ và vật lý plasma.",
+     "url": "https://uit.no/enhet/ift"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

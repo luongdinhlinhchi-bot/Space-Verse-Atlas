@@ -1,0 +1,370 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn, vật lý thiên văn và khoa học không gian tại Romania (AIRA tại București, Cluj-Napoca, Timișoara; Institute of Space Science tại București/Măgurele).",
+ "units": {
+  "Astronomical Institute of the Romanian Academy (AIRA) — București::Bucharest Astronomical Observatory (AIRA)": {
+   "sources": [
+    "https://www.astro.ro:8080/ro/articles/Staff"
+   ],
+   "people": [
+    {
+     "name": "Mirel Birlan",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Dan Alin Nedelcu",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Cristina Carmen Popescu",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Octavian Mihai Bădescu",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Diana Beșliu-Ionescu",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Dumitru Pricopi",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Mark Rushton",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Simon Anghel",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Diana Rodica Constantin",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Liliana Dumitru",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Adrian Bruno Șonka",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Octavian Blagoi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Adrian Sabin Popescu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Ioana Lucia Boacă",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Cristian Dănescu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Ionuț-Cătălin Sandu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Mirela Mădălina Trelia",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    },
+    {
+     "name": "Ruxandra Toma",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Institute of Space Science (ISS Romania)::Lab 1010 — High Energy Physics": {
+   "sources": [
+    "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+   ],
+   "people": [
+    {
+     "name": "Andrea Danu",
+     "role": "Trưởng phòng thí nghiệm; Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Mădălin Ilie Cherciu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Radu Dobre",
+     "role": "Nghiên cứu sinh / Trợ lý nghiên cứu",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Alexandru Florin Dobrin",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Bogdan Dumitru",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Elena Firu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Veta Ghenescu",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Andra Maria Ionescu",
+     "role": "Nghiên cứu sinh / Trợ lý nghiên cứu",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Alexandru Manea",
+     "role": "Nghiên cứu sinh / Trợ lý nghiên cứu",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Ciprian Mihai Mitu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Alina Tania Neagu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Marcel M. Popescu",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Petru Mihai Potlog",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Titi Preda",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Cătălin Lucian Ristea",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Adrian Sevcenco",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Nicolae Gabriel Simion",
+     "role": "Nghiên cứu sinh / Trợ lý nghiên cứu",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Emil Stan",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    },
+    {
+     "name": "Ionel Stan",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1010-fizica-energiilor-inalte/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Institute of Space Science (ISS Romania)::Lab 1020 — Astrophysics, Cosmology and Theoretical Physics": {
+   "sources": [
+    "https://www.spacescience.ro/laboratoare/laboratorul-1020-astrofizica-cosmologie-si-fizica-teoretica/"
+   ],
+   "people": [
+    {
+     "name": "Laurențiu Ionuț Caramete",
+     "role": "Nghiên cứu viên (Vật lý thiên văn & Sóng hấp dẫn)",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1020-astrofizica-cosmologie-si-fizica-teoretica/"
+    }
+   ],
+   "external": [],
+   "note": "Trang Lab 1020 không công khai danh sách thành viên tĩnh."
+  },
+  "Institute of Space Science (ISS Romania)::Lab 1040 — Space Plasma and Magnetometry (GPSM)": {
+   "sources": [
+    "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+   ],
+   "people": [
+    {
+     "name": "Marius Echim",
+     "role": "Trưởng phòng thí nghiệm; Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Adrian Blăgău",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Costel Bunescu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Mircea Iuliu Ciobanu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Horia Comisel",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Dragos Constantinescu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Vlad Ion Constantinescu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Daniel Dumitru",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Gabriel Paul Filipciuc",
+     "role": "Nghiên cứu sinh / Trợ lý nghiên cứu",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Octav Marghitu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Costel Munteanu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Cătălin Negrea",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Eliza Teodorescu",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Maximilian Vlad Teodorescu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    },
+    {
+     "name": "Gabriel Voitcu",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.spacescience.ro/laboratoare/laboratorul-1040-plasma-spatiala-si-magnetometrie-gpsm/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Astronomical Institute of the Romanian Academy (AIRA) — Cluj-Napoca::Cluj-Napoca Observatory (AIRA)": {
+   "sources": [
+    "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+   ],
+   "people": [
+    {
+     "name": "Alexandru Pop",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Vlad Turcu",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Gabriela Blaga",
+     "role": "Nghiên cứu viên cao cấp II",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Iharka Csillik",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Nelu Dan Moldovan",
+     "role": "Nghiên cứu viên cao cấp III",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Dana Ficuț-Vicaș",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Bogdan Dănilă",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    },
+    {
+     "name": "Teodora Matei",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.ro:8080/ro/articles/ClujNapoca"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Astronomical Institute of the Romanian Academy (AIRA) — Timișoara::Timișoara Observatory (AIRA)": {
+   "sources": [
+    "https://www.astro.ro:8080/ro/articles/Staff"
+   ],
+   "people": [
+    {
+     "name": "Remus Boată",
+     "role": "Nghiên cứu viên cao cấp I",
+     "url": "https://www.astro.ro:8080/ro/articles/Staff"
+    }
+   ],
+   "external": [],
+   "note": ""
+  }
+ }
+}

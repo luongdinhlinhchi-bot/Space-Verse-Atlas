@@ -1,0 +1,102 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Main Astronomical Observatory of the NAS of Ukraine (MAO NASU)": {
+   "coverage": "full",
+   "structure": "National Academy of Sciences of Ukraine → Main Astronomical Observatory (7 khoa nghiên cứu)",
+   "structureUrl": "https://www.mao.kiev.ua/index.php/en/observatory/departments",
+   "scopeNote": "Lấy toàn bộ danh bạ staffitem của MAO NASU (117 nhân sự).",
+   "units": [
+    {
+     "name": "MAO NASU (toàn viện)",
+     "kind": "Viện nghiên cứu viện hàn lâm",
+     "parent": "National Academy of Sciences of Ukraine",
+     "topics": "Trắc lượng thiên văn, vật lý Mặt Trời, sao, thiên hà, vũ trụ học và plasma vũ trụ.",
+     "url": "https://www.mao.kiev.ua/index.php/en/observatory/staffitem"
+    }
+   ],
+   "networks": []
+  },
+  "V. N. Karazin Kharkiv National University — Institute of Astronomy": {
+   "coverage": "full",
+   "structure": "V. N. Karazin Kharkiv National University → Institute of Astronomy",
+   "structureUrl": "https://www.astron.kharkov.ua/staff/",
+   "scopeNote": "Lấy từ danh bạ chính thức astron.kharkov.ua/staff/; loại trừ kỹ thuật viên và nhân sự hành chính.",
+   "units": [
+    {
+     "name": "Institute of Astronomy (Karazin Kharkiv University)",
+     "kind": "Viện nghiên cứu đại học",
+     "parent": "V. N. Karazin Kharkiv National University",
+     "topics": "Tiểu hành tinh, sao chổi, vật lý thiên văn và trắc lượng thiên văn.",
+     "url": "https://www.astron.kharkov.ua/staff/"
+    }
+   ],
+   "networks": []
+  },
+  "Institute of Radio Astronomy of the NAS of Ukraine (IRA NASU)": {
+   "coverage": "leaders",
+   "structure": "National Academy of Sciences of Ukraine → Institute of Radio Astronomy",
+   "structureUrl": "https://www.nas.gov.ua/",
+   "scopeNote": "Máy chủ rian.kharkov.ua từ chối kết nối khi tải trực tiếp nên hiện ghi viện trưởng đã xác minh từ nas.gov.ua.",
+   "units": [
+    {
+     "name": "Institute of Radio Astronomy NASU",
+     "kind": "Viện nghiên cứu viện hàn lâm",
+     "parent": "NAS of Ukraine",
+     "topics": "Thiên văn vô tuyến decamet (UTR-2, URAN), hành tinh, Mặt Trời và vũ trụ sơ khai.",
+     "url": "https://www.nas.gov.ua/"
+    }
+   ],
+   "networks": []
+  },
+  "Ivan Franko National University of Lviv — Astronomical Observatory": {
+   "coverage": "full",
+   "structure": "Ivan Franko National University of Lviv → Astronomical Observatory (4 khoa nghiên cứu)",
+   "structureUrl": "https://astro.lnu.edu.ua/staff/",
+   "scopeNote": "Lấy từ trang nhân sự chính thức astro.lnu.edu.ua/staff/; loại trừ kỹ sư và thư ký.",
+   "units": [
+    {
+     "name": "Astronomical Observatory (Lviv University)",
+     "kind": "Đài thiên văn đại học",
+     "parent": "Ivan Franko National University of Lviv",
+     "topics": "Vật lý Mặt Trời, sao, vật lý thiên văn tương đối tính và vũ trụ học.",
+     "url": "https://astro.lnu.edu.ua/staff/"
+    }
+   ],
+   "networks": []
+  },
+  "Odesa I. I. Mechnikov National University — Astronomical Observatory": {
+   "coverage": "leaders",
+   "structure": "Odesa I. I. Mechnikov National University → Astronomical Observatory",
+   "structureUrl": "https://onu.edu.ua/",
+   "scopeNote": "Trang chi tiết trên onu.edu.ua trả lỗi 404 khi tải trực tiếp; ghi thông tin tổng hợp từ cổng onu.edu.ua.",
+   "units": [
+    {
+     "name": "Odesa Astronomical Observatory",
+     "kind": "Đài thiên văn đại học",
+     "parent": "Odesa I. I. Mechnikov National University",
+     "topics": "Sao biến quang, hệ sao đôi và hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://onu.edu.ua/"
+    }
+   ],
+   "networks": []
+  },
+  "Mykolaiv Astronomical Observatory (MAO)": {
+   "coverage": "leaders",
+   "structure": "MAO NASU → Mykolaiv Astronomical Observatory",
+   "structureUrl": "https://www.mao.mk.ua/",
+   "scopeNote": "Trang chủ mao.mk.ua không công khai danh bạ nhân sự tĩnh.",
+   "units": [
+    {
+     "name": "Mykolaiv Astronomical Observatory",
+     "kind": "Đài thiên văn nghiên cứu",
+     "parent": "MAO NASU",
+     "topics": "Động lực học vật thể gần Trái Đất và theo dõi mảnh vỡ không gian.",
+     "url": "https://www.mao.mk.ua/"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

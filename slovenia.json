@@ -1,0 +1,34 @@
+{
+  "country": "Slovenia",
+  "iso": "SVN",
+  "cities": [
+    {
+      "id": "ljubljana",
+      "city": "Ljubljana",
+      "coordinates": [
+        14.5058,
+        46.0569
+      ],
+      "institutions": [
+        {
+          "name": "University of Ljubljana — Faculty of Mathematics and Physics (UL FMF)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        }
+      ]
+    },
+    {
+      "id": "nova-gorica",
+      "city": "Nova Gorica",
+      "coordinates": [
+        13.6484,
+        45.956
+      ],
+      "institutions": [
+        {
+          "name": "University of Nova Gorica (UNG) — Center for Astrophysics and Cosmology",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        }
+      ]
+    }
+  ]
+}

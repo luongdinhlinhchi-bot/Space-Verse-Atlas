@@ -1,0 +1,102 @@
+{
+ "country": "CZE",
+ "checked": "2026-11-21",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Trụ sở chính của Viện Thiên văn Viện Hàn lâm Khoa học Séc (ASU CAS) đặt tại Ondřejov (có chi nhánh tại Praha).",
+ "listSource": "https://www.asu.cas.cz/en/about/about-the-institute",
+ "cities": [
+  {
+   "id": "ondrejov",
+   "city": "Ondřejov",
+   "coordinates": [
+    14.78,
+    49.91
+   ],
+   "institutions": [
+    {
+     "name": "Astronomical Institute of the Czech Academy of Sciences (ASU CAS)",
+     "type": "non-university institute",
+     "research": "Vật lý Mặt Trời, vật lý sao nóng và hành tinh ngoài Hệ Mặt Trời (kính thiên văn Perek 2 m), sao băng và tiểu hành tinh (mạng lưới quả cầu lửa châu Âu), thiên hà và hệ hành tinh, cùng nút ALMA khu vực Séc.",
+     "url": "https://www.asu.cas.cz/en/about/about-the-institute",
+     "note": "Trụ sở chính tại đài thiên văn Ondřejov và có chi nhánh tại Praha (Spořilov)."
+    }
+   ]
+  },
+  {
+   "id": "praha",
+   "city": "Praha",
+   "coordinates": [
+    14.44,
+    50.08
+   ],
+   "institutions": [
+    {
+     "name": "Charles University — Faculty of Mathematics and Physics (MFF UK)",
+     "type": "university",
+     "research": "Động lực học tiểu hành tinh và Hệ Mặt Trời, cụm sao và Ngân Hà, sao đôi và đĩa bồi tụ (AÚ UK); thuyết tương đối rộng, lỗ đen, sóng hấp dẫn và vật lý thiên văn tương đối tính (ÚTF).",
+     "url": "https://astro.troja.mff.cuni.cz/"
+    },
+    {
+     "name": "Institute of Physics of the Czech Academy of Sciences (FZU CAS)",
+     "type": "non-university institute",
+     "research": "Vật lý hạt thiên văn thực nghiệm và lý thuyết (Pierre Auger, CTA, Vera C. Rubin/LSST, plasma phi nhiệt) cùng vũ trụ học và vật lý hấp dẫn.",
+     "url": "https://www.fzu.cz/en/research/divisions-and-departments/division-1/department-16"
+    },
+    {
+     "name": "Institute of Atmospheric Physics of the Czech Academy of Sciences (UFA CAS)",
+     "type": "non-university institute",
+     "research": "Vật lý không gian: plasma gió Mặt Trời, từ quyển hành tinh, sóng plasma không gian và mô phỏng số plasma nhật quyển.",
+     "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/"
+    }
+   ]
+  },
+  {
+   "id": "brno",
+   "city": "Brno",
+   "coordinates": [
+    16.61,
+    49.2
+   ],
+   "institutions": [
+    {
+     "name": "Masaryk University — Department of Theoretical Physics and Astrophysics (ÚTFA)",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao (cụm thiên hà tia X, lỗ đen siêu khối lượng), vật lý sao nóng và môi trường liên sao, cụm sao và quang trắc thiên văn.",
+     "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+    }
+   ]
+  },
+  {
+   "id": "opava",
+   "city": "Opava",
+   "coordinates": [
+    17.9,
+    49.94
+   ],
+   "institutions": [
+    {
+     "name": "Silesian University in Opava — Institute of Physics",
+     "type": "university",
+     "research": "Vật lý thiên văn tương đối tính: lỗ đen, sao neutron, đĩa bồi tụ trong trường hấp dẫn mạnh, dao động chuẩn tuần hoàn tia X, lý thuyết hấp dẫn mở rộng và vũ trụ học.",
+     "url": "https://www.slu.cz/phys/en/"
+    }
+   ]
+  },
+  {
+   "id": "olomouc",
+   "city": "Olomouc",
+   "coordinates": [
+    17.25,
+    49.59
+   ],
+   "institutions": [
+    {
+     "name": "Palacký University Olomouc — Joint Laboratory of Optics (SLO)",
+     "type": "university",
+     "research": "Vật lý hạt thiên văn (Pierre Auger, CTA, SWGO, Vera C. Rubin/LSST), hiệu chuẩn khí quyển và quang học lượng tử ứng dụng cho thiên văn học.",
+     "url": "https://jointlab.upol.cz/jlo/en"
+    }
+   ]
+  }
+ ]
+}

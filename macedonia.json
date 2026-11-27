@@ -1,0 +1,20 @@
+{
+  "country": "Bắc Macedonia",
+  "iso": "MKD",
+  "cities": [
+    {
+      "id": "skopje",
+      "city": "Skopje",
+      "coordinates": [
+        21.4254,
+        41.9981
+      ],
+      "institutions": [
+        {
+          "name": "Ss. Cyril and Methodius University (UKIM) — Institute of Physics (PMF)",
+          "url": "https://if.pmf.ukim.edu.mk/"
+        }
+      ]
+    }
+  ]
+}

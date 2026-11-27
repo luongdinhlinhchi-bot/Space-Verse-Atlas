@@ -1,0 +1,1537 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn, vật lý thiên văn, vật lý hạt thiên văn và vật lý không gian tại Ba Lan (CAMK PAN, OAUW, CBK PAN, IA UMK, OA UJ, IA UWr, IAO AMU). Loại trừ nhân sự hành chính, kỹ thuật thuần tuý; tách giáo sư danh dự và cộng tác viên vào mục external.",
+ "units": {
+  "Nicolaus Copernicus Astronomical Center (CAMK PAN)::Nicolaus Copernicus Astronomical Center (CAMK PAN)": {
+   "sources": [
+    "https://www.camk.edu.pl/en/people/"
+   ],
+   "people": [
+    {
+     "name": "Marek Abramowicz",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/1/"
+    },
+    {
+     "name": "Arthur Alencastro Puls",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/572/"
+    },
+    {
+     "name": "Rita Antonietti",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/574/"
+    },
+    {
+     "name": "Abbas Askar",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/292/"
+    },
+    {
+     "name": "Michał Bejger",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/2/"
+    },
+    {
+     "name": "Thibault Boulet",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/569/"
+    },
+    {
+     "name": "Rolf Chini",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/514/"
+    },
+    {
+     "name": "Michał Chodorowski",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/3/"
+    },
+    {
+     "name": "Thais Caroline de Almeida da Silva",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/603/"
+    },
+    {
+     "name": "Deepak Deepak",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/548/"
+    },
+    {
+     "name": "Jarosław Dyks",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/81/"
+    },
+    {
+     "name": "Heitor Ernandes",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/588/"
+    },
+    {
+     "name": "Przemysław Figura",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/507/"
+    },
+    {
+     "name": "Piotr Gawron",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/415/"
+    },
+    {
+     "name": "Mirosław Giersz",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/6/"
+    },
+    {
+     "name": "Marek Górski",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/428/"
+    },
+    {
+     "name": "Dariusz Graczyk",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/332/"
+    },
+    {
+     "name": "Pawan Kumar Gupta",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/601/"
+    },
+    {
+     "name": "Paweł Haensel",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/7/"
+    },
+    {
+     "name": "Gergely Hajdu",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/413/"
+    },
+    {
+     "name": "Gerald Handler",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/8/"
+    },
+    {
+     "name": "Sree Kanth Hari Kumar",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/573/"
+    },
+    {
+     "name": "Brynmor Haskell",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/327/"
+    },
+    {
+     "name": "Kristian Haverson",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/596/"
+    },
+    {
+     "name": "Krzysztof Hełminiak",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/100/"
+    },
+    {
+     "name": "Krystian Iłkiewicz",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/311/"
+    },
+    {
+     "name": "Raj Kishor Joshi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/556/"
+    },
+    {
+     "name": "Tomasz Kamiński",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/103/"
+    },
+    {
+     "name": "Paulina Karczmarek",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/457/"
+    },
+    {
+     "name": "Mirosław Kicia",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/518/"
+    },
+    {
+     "name": "Włodzimierz Kluźniak",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/11/"
+    },
+    {
+     "name": "Maciej Konacki",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/83/"
+    },
+    {
+     "name": "Marcin Kuźniak",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/402/"
+    },
+    {
+     "name": "Marek Lewicki",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/584/"
+    },
+    {
+     "name": "Ewa L. Łokas",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/15/"
+    },
+    {
+     "name": "Miroslav Macko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/583/"
+    },
+    {
+     "name": "Alex Markowitz",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.camk.edu.pl/en/staff/349/"
+    },
+    {
+     "name": "Parikshit Partha Biswas",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/519/"
+    },
+    {
+     "name": "Punit Dubey",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/616/"
+    },
+    {
+     "name": "Samuel Habtemariam",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/566/"
+    },
+    {
+     "name": "Aheesh Chandrakant Hegde",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/581/"
+    },
+    {
+     "name": "Alexander Lucas Hellström",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/484/"
+    },
+    {
+     "name": "Tanja Sara Kaister",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/550/"
+    },
+    {
+     "name": "Anish Kalsi",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/589/"
+    },
+    {
+     "name": "Marios Kouzis",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/579/"
+    },
+    {
+     "name": "John Eduard Martínez Fernández",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/481/"
+    },
+    {
+     "name": "Anirudh Nemmani",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.camk.edu.pl/en/staff/553/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Andrzej Krasiński",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.camk.edu.pl/en/staff/13/"
+    },
+    {
+     "name": "Alexey Pamyatnykh",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.camk.edu.pl/en/staff/20/"
+    },
+    {
+     "name": "Michał Różyczka",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.camk.edu.pl/en/staff/22/"
+    },
+    {
+     "name": "Bronisław Rudak",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.camk.edu.pl/en/staff/80/"
+    },
+    {
+     "name": "Marek Sarna",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.camk.edu.pl/en/staff/23/"
+    },
+    {
+     "name": "Aleksander Schwarzenberg-Czerny",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.camk.edu.pl/en/staff/24/"
+    },
+    {
+     "name": "David Abarca",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/310/"
+    },
+    {
+     "name": "Peter Bertsyk",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/533/"
+    },
+    {
+     "name": "Tomasz Bulik",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/96/"
+    },
+    {
+     "name": "Miljenko Cemeljic",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/160/"
+    },
+    {
+     "name": "Bożena Czerny",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/4/"
+    },
+    {
+     "name": "Valeria Maria Dinis Carvalho",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/585/"
+    },
+    {
+     "name": "Christian Eze",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/483/"
+    },
+    {
+     "name": "Arkadiusz Hypki",
+     "role": "Cộng tác viên khoa học",
+     "url": "https://www.camk.edu.pl/en/staff/58/"
+    }
+   ],
+   "note": "Gồm cả cơ sở chính tại Warszawa và phân viện tại Toruń."
+  },
+  "Nicolaus Copernicus Astronomical Center (CAMK PAN)::AstroCeNT — Particle Astrophysics Science and Technology Centre": {
+   "sources": [
+    "https://astrocent.camk.edu.pl/?page_id=1728"
+   ],
+   "people": [
+    {
+     "name": "Leszek Roszkowski",
+     "role": "Giám đốc; Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=professor-leszek-roszkowski"
+    },
+    {
+     "name": "Marcin Kuźniak",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-marcin-kuzniak"
+    },
+    {
+     "name": "Mariusz Suchenek",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-mariusz-suchenek-2"
+    },
+    {
+     "name": "Masayuki Wada",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-masayuki-wada-2"
+    },
+    {
+     "name": "Sebastian Trojanowski",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-sebastian-trojanowski"
+    },
+    {
+     "name": "Michał Olszewski",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-michal-olszewski"
+    },
+    {
+     "name": "Andre Filipe Ventura Cortez",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=andre-filipe-ventura-cortez"
+    },
+    {
+     "name": "Rita Antonietti",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=rita-antonietti"
+    },
+    {
+     "name": "Miroslav Macko",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-miroslav-macko"
+    },
+    {
+     "name": "Pedro Silva",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=pedro-silva"
+    },
+    {
+     "name": "Marek Lewicki",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-marek-lewicki"
+    },
+    {
+     "name": "Bibhushan Shakya",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-bibhushan-shakya"
+    },
+    {
+     "name": "Marcin Ziembicki",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=marcin-ziembicki-2"
+    },
+    {
+     "name": "Azam Zabihi",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=3680-2"
+    },
+    {
+     "name": "Mateusz Pietrzak",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=mateusz-pietrzak"
+    },
+    {
+     "name": "Sarthak Choudhary",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=sarthak-choudhary"
+    },
+    {
+     "name": "Clea Sunny",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=clea-sunny"
+    },
+    {
+     "name": "Diego Rodas Rodríguez",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=diego-rodas-rodriguez"
+    },
+    {
+     "name": "Samuel Belayneh Habtemariam",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=samuel-belayneh-habtemariam"
+    },
+    {
+     "name": "Vladyslav Yankovskyi",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=vladyslav-yankovskyi"
+    },
+    {
+     "name": "Grzegorz Nieradka",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-grzegorz-nieradka"
+    },
+    {
+     "name": "Tadeusz Sworobowicz",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=tadeusz-sworobowicz"
+    },
+    {
+     "name": "Maciej Kuźwa",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=maciej-kuzwa"
+    },
+    {
+     "name": "Marta Borowiec",
+     "role": "Giám đốc; Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=dr-marta-borowiec"
+    },
+    {
+     "name": "Magdalena Marczyńska",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=magdalena-marczynska"
+    },
+    {
+     "name": "Magda Jakubiak",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=magda-jakubiak"
+    },
+    {
+     "name": "Adam Kaźmierczak",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=adam-kazmierczak"
+    },
+    {
+     "name": "Elżbieta Popławska",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=elzbieta-poplawska"
+    },
+    {
+     "name": "Yuliya Hoika",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=yuliya-hoika"
+    },
+    {
+     "name": "Maciej Sołek",
+     "role": "Trưởng nhóm nghiên cứu",
+     "url": "https://astrocent.camk.edu.pl/?team=maciej-solek"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "University of Warsaw — Astronomical Observatory (OAUW)::Astronomical Observatory of the University of Warsaw (OAUW)": {
+   "sources": [
+    "https://www.astrouw.edu.pl/en/research-staff/",
+    "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+   ],
+   "people": [
+    {
+     "name": "Tomasz Bulik",
+     "role": "Viện trưởng; Giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Szymon Kozłowski",
+     "role": "Phó viện trưởng; Giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Jerzy Madej",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Paweł Pietrukowicz",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Grzegorz Pojmański",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Radosław Poleski",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Dorota Rosińska",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Dorota Skowron",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Igor Soszyński",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Michał Szymański",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Andrzej Udalski",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Łukasz Wyrzykowski",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Marcin Kiraga",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Jan Skowron",
+     "role": "Phó giáo sư",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Mateusz Bronikowski",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Mariusz Gromadzki",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Patryk Iwanek",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Piotr Kołaczek-Szymański",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Przemysław Mróz",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Raphael Oliveira",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Milena Ratajczak",
+     "role": "Phó viện trưởng",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Krzysztof Rybicki",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Zuzanna Janusz",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Alicja Pucek",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Joysankar Majumdar",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Michał Małkowski",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Sakshi Maurya",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Zofia Budzik",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Davide Dionese",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Pratul Manna",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Mauritz Wicker",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Pinaki Roy",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Sreeta Roy",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Maciej Urbanowicz",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Maksymilian Głowacki",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Nada Ihanec",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Mateusz Mróz",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    },
+    {
+     "name": "Algita Stankevičiūtė",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astrouw.edu.pl/en/list-of-phd-students/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Michał Jaroszyński",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Andrzej Kruszewski",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Marcin Kubiak",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Kazimierz Stępień",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    }
+   ],
+   "note": ""
+  },
+  "Space Research Centre of the Polish Academy of Sciences (CBK PAN)::Solar Physics Division (SPD) & Institute Leadership": {
+   "sources": [
+    "https://cbkpan.pl/en/"
+   ],
+   "people": [
+    {
+     "name": "Piotr Orleański",
+     "role": "Viện trưởng CBK PAN",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Mirosław Kowaliński",
+     "role": "Trưởng phân ban Vật lý Mặt Trời (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Jarosław Bąkała",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Szymon Gburek",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Anna Kępa",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Elżbieta Konopka",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Tomasz Mrozek",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Piotr Podgórski",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Daniel Ścisłowski",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Marek Stęślicki",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Barbara Sylwester",
+     "role": "Giáo sư / Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Janusz Sylwester",
+     "role": "Giáo sư / Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Żaneta Szaforz",
+     "role": "Nghiên cứu viên (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Stefan Płocieniak",
+     "role": "Nghiên cứu viên đã nghỉ hưu (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    },
+    {
+     "name": "Marek Siarkowski",
+     "role": "Nghiên cứu viên đã nghỉ hưu (SPD)",
+     "url": "https://cbkpan.pl/en/"
+    }
+   ],
+   "note": "Chứng chỉ SSL trung gian của cbkpan.pl lỗi khi đọc tự động từ Python nên mới có lãnh đạo viện và danh sách đầy đủ phân ban Solar Physics (Wrocław)."
+  },
+  "Nicolaus Copernicus University — Institute of Astronomy (IA UMK)::Institute of Astronomy (IA UMK)": {
+   "sources": [
+    "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/",
+    "https://astro.umk.pl/en/institute/staff/phd-students/",
+    "https://astro.umk.pl/en/institute/staff/retired-staff/"
+   ],
+   "people": [
+    {
+     "name": "Anna Bartkiewicz",
+     "role": "Phó giáo sư",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Karolina Bąkowska",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Marcin Gawroński",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Krzysztof Goździewski",
+     "role": "Phó giáo sư",
+     "url": "https://gozdziewski.prac.umk.pl"
+    },
+    {
+     "name": "Michał Hanasz",
+     "role": "Phó giáo sư",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Agata Karska",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Krzysztof Katarzyński",
+     "role": "Phó giáo sư",
+     "url": "https://galaxy.astro.uni.torun.pl/%7Ekat/"
+    },
+    {
+     "name": "Agnieszka Kobak",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Maciej Koprowski",
+     "role": "Phó giáo sư",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Magdalena Kunert-Bajraszewska",
+     "role": "Phó giáo sư",
+     "url": "https://www.astro.uni.torun.pl/%7Emagda/"
+    },
+    {
+     "name": "Gracjan Maciejewski",
+     "role": "Phó giáo sư",
+     "url": "https://www.home.umk.pl/~gmac/"
+    },
+    {
+     "name": "Ruchi Mishra",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Andrzej Niedzielski",
+     "role": "Phó giáo sư",
+     "url": "https://www.home.umk.pl/~aniedzi/"
+    },
+    {
+     "name": "Grzegorz Nowak",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Sudeshna Patra",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Boudewijn Roukema",
+     "role": "Phó giáo sư",
+     "url": "https://adjani.astro.uni.torun.pl/%7Eboud/"
+    },
+    {
+     "name": "Prasad Sawant",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Agnieszka Słowikowska",
+     "role": "Phó giáo sư",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Dorottya Szécsi",
+     "role": "Phó giáo sư",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Mariusz Tarnopolski",
+     "role": "Phó giáo sư",
+     "url": "https://wwwold.astro.umk.pl/~mtarnopolski/"
+    },
+    {
+     "name": "Paweł Zieliński",
+     "role": "Nghiên cứu viên",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    },
+    {
+     "name": "Sohaib Ali",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Antoine Baldacchino-Jordan",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Justyna Borkowska",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Jan Golonka",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Agnieszka Gurgul",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Dawid Jankowski",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Robert Jaros",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Bartosz Kirpluk",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Klaudia Kowalczyk",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Aleksandra Krauze",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Mateusz Motyliński",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Weronika Puchalska",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Rafia Sarwar",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Julia Sierzputowska",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Divyansh Srivastava",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Hanno Stinshoff",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    },
+    {
+     "name": "Ashwin Varma",
+     "role": "Nghiên cứu sinh",
+     "url": "https://astro.umk.pl/en/institute/staff/phd-students/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Krzysztof Gęsicki",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://www.home.umk.pl/~kmgesicki/"
+    },
+    {
+     "name": "Andrzej Kępa",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://astro.umk.pl/en/institute/staff/retired-staff/"
+    },
+    {
+     "name": "Jacek Krełowski",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://www.home.umk.pl/~jacek/"
+    },
+    {
+     "name": "Andrzej Kus",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://www.astro.uni.torun.pl/~ajk/"
+    },
+    {
+     "name": "Maciej Mikołajewski",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://astro.umk.pl/en/institute/staff/retired-staff/"
+    },
+    {
+     "name": "Eugeniusz Pazderski",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://epsrv.astro.uni.torun.pl/"
+    },
+    {
+     "name": "Andrzej Strobel",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://astro.umk.pl/en/institute/staff/retired-staff/"
+    },
+    {
+     "name": "Marian Szymczak",
+     "role": "Giáo sư / Nghiên cứu viên danh dự (emeritus)",
+     "url": "https://cosmos.astro.uni.torun.pl/%7Emsz/"
+    }
+   ],
+   "note": ""
+  },
+  "Jagiellonian University — Astronomical Observatory (OA UJ)::Astronomical Observatory of the Jagiellonian University (OA UJ)": {
+   "sources": [
+    "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+   ],
+   "people": [
+    {
+     "name": "Krzysztof Chyży",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Grzegorz Michałek",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Stanisław Zoła",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Marek Jamrozy",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Jerzy Krzesiński",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Orleański Piotr",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Agnieszka Pollo",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Marian Soida",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Łukasz Stawarz",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Sebastian Szybka",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Zdzisław Golda",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Arti Goyal",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Dorota Kozieł-Wierzbowska",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Agnieszka Kuźmicz",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Wacław Waniak",
+     "role": "Phó giáo sư",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Michał Drahus",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Gourab Giri",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Krzysztof Głód",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Piotr Guzik",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Dominika Hunik",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Oleh Kobzar",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Iwona Kotko",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Król Dominika",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Urszula Pajdosz-Śmierciak",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Szymon Sikora",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Marek Weżgowiec",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Anna Wójtowicz",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Vasanth Veluchamy",
+     "role": "Nghiên cứu viên",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Kurowski Sebastian",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Mikołaj Sabat",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    }
+   ],
+   "external": [
+    {
+     "name": "Jerzy Machalski",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Michał Ostrowski",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    },
+    {
+     "name": "Marek Urbanik",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    }
+   ],
+   "note": ""
+  },
+  "University of Wrocław — Astronomical Institute (IA UWr)::Astronomical Institute of the University of Wrocław (IA UWr)": {
+   "sources": [
+    "https://wfa.uwr.edu.pl/en/institute-of-astronomy/management-and-personnel/"
+   ],
+   "people": [
+    {
+     "name": "Urszula Bąk-Stęślicka",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRa6dae7d9830f47e1839b3e46cf05a41a"
+    },
+    {
+     "name": "Kamil Bicz",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR0170a588edaf4179a9ebc14359642da4"
+    },
+    {
+     "name": "Barbara Cader-Sroka",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRaf97d9c42e26432b9d8b85183e7db12a"
+    },
+    {
+     "name": "Jadwiga Daszyńska-Daszkiewicz",
+     "role": "Phó giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR5f2b5bf0ebd04f4e82b6ab0f918ef2f1"
+    },
+    {
+     "name": "Robert Falewicz",
+     "role": "Viện trưởng; Phó giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRdf056aa26a4e4b34932c204937585c74"
+    },
+    {
+     "name": "Piotr Kołaczek-Szymański",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRe4aaa4294adc49f990f1b35278dd7b49"
+    },
+    {
+     "name": "Sylwester Kołomański",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRde2810f1e01c459c849daa6dc03cad66"
+    },
+    {
+     "name": "Grzegorz Kopacki",
+     "role": "Phó viện trưởng; Phó giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR02f6394bd4104c58b38613f8bcd14ece"
+    },
+    {
+     "name": "Adam Markiewicz",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRdb6318661884470cafcdfcb823edeb3c"
+    },
+    {
+     "name": "Gabriela Michalska",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRe8f783ea7f38427b9ae22edf869e6278"
+    },
+    {
+     "name": "Przemysław Mikołajczyk",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR61085ecdc02a403aa670dcae82be6080"
+    },
+    {
+     "name": "Joanna Molenda-Żakowicz",
+     "role": "Phó giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR3e65744849224ac58111337d7f229571"
+    },
+    {
+     "name": "Dawid Moździerski",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR1be4eb69ceef483d9d36f2a18a686812"
+    },
+    {
+     "name": "Ewa Niemczura",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRbd935a66554f4e5a93b57a5aaa6fc115"
+    },
+    {
+     "name": "Andrzej Pigulski",
+     "role": "Trưởng bộ môn (DAPaCA); Giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR4b67f635e03d45a69c448bef3011aa12"
+    },
+    {
+     "name": "Paweł Preś",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR1d7bbb9e577e42cfae7c7957288264db"
+    },
+    {
+     "name": "Krzysztof Radziszewski",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR9e499b35e0d54ec7ae07ae1373dee546"
+    },
+    {
+     "name": "Paweł Rudawy",
+     "role": "Phó viện trưởng; Giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRd3a484e04dff4a3fbfcff2dfdd7bbc5d"
+    },
+    {
+     "name": "Wojciech Szewczuk",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR751f164cba3e4e2f9d8d9147051fb8d5"
+    },
+    {
+     "name": "Michał Tomczak",
+     "role": "Phó giáo sư",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWRd2bc9df38a554abcaf67ade552de4382"
+    },
+    {
+     "name": "Przemysław Walczak",
+     "role": "Nghiên cứu viên",
+     "url": "https://wfa.uwr.edu.pl/lista-pracownikow?omegaId=UWR2c7fe329db5241c491eb1188875a027f"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Adam Mickiewicz University — Astronomical Observatory Institute (IAO AMU)::Astronomical Observatory Institute (IAO AMU)": {
+   "sources": [
+    "https://www.astro.amu.edu.pl/en/about-us/staff/"
+   ],
+   "people": [
+    {
+     "name": "Agnieszka Kryszczyńska",
+     "role": "Viện trưởng; Giáo sư",
+     "url": "https://www.iau.org/administration/membership/individual/11644/"
+    },
+    {
+     "name": "Justyna Gołębiewska",
+     "role": "Phó viện trưởng",
+     "url": "https://jg.home.amu.edu.pl"
+    },
+    {
+     "name": "Sławomir Breiter",
+     "role": "Giáo sư",
+     "url": "https://vesta.astro.amu.edu.pl/~breiter/"
+    },
+    {
+     "name": "Michał Michałowski",
+     "role": "Giáo sư",
+     "url": "https://www.astro.amu.edu.pl/~michu/en"
+    },
+    {
+     "name": "Przemysław Bartczak",
+     "role": "Giáo sư",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Wojciech Dimitrow",
+     "role": "Giáo sư",
+     "url": "https://www.astro.amu.edu.pl/~voyager/"
+    },
+    {
+     "name": "Anna Marciniak",
+     "role": "Giáo sư",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Tomasz Kwiatkowski",
+     "role": "Giáo sư",
+     "url": "https://vesta.astro.amu.edu.pl/Staff/Tkastr/"
+    },
+    {
+     "name": "Dagmara Oszkiewicz",
+     "role": "Giáo sư",
+     "url": "https://sites.google.com/site/dagmaraoszkiewicz4/"
+    },
+    {
+     "name": "Karolina Dziadura",
+     "role": "Nghiên cứu viên",
+     "url": "https://karolinadziadura.github.io/"
+    },
+    {
+     "name": "Krzysztof Kamiński",
+     "role": "Nghiên cứu viên",
+     "url": "https://pallas.astro.amu.edu.pl/~chrisk/moja/"
+    },
+    {
+     "name": "Krzysztof Langner",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Jakub Nadolny",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Magdalena Otulakowska-Hypka",
+     "role": "Nghiên cứu viên",
+     "url": "https://otulakowska.hypka.net/"
+    },
+    {
+     "name": "Edyta Podlewska-Gaca",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Magdalena Polińska",
+     "role": "Nghiên cứu viên",
+     "url": "https://sites.google.com/view/magdalena-polinska"
+    },
+    {
+     "name": "Bruno Šlaus",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Jason Alexander",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Paweł Białobłocki",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Jakub Derkowski",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Karolina Dombek",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Patrycja Ignaczak",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Fabian Kaczmarek",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Paweł Koleńczuk",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Iga Mieczkowska",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Sofiia Mikhailova",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Przemysław Nowaczyk",
+     "role": "Nghiên cứu sinh",
+     "url": "https://przemo.nowaczyk.info/"
+    },
+    {
+     "name": "Justyna Olszewska",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Julia Perła",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Julia Pietrzak",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Patrycja Poźniak",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Martin Solar",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Devang Somawanshi",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Maciej Sznajder",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Mateusz Witczak",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Tadeusz Jopek",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://pallas.astro.amu.edu.pl/~jopek/JopekTJ "
+    },
+    {
+     "name": "Tadeusz Michałowski",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Edwin Wnuk",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Milagros Colazo",
+     "role": "Thành viên hợp tác",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Aleksandra Leśniewska",
+     "role": "Thành viên hợp tác",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Toni Santana-Ros",
+     "role": "Thành viên hợp tác",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    },
+    {
+     "name": "Emil Wilawer",
+     "role": "Thành viên hợp tác",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

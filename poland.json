@@ -1,0 +1,103 @@
+{
+ "country": "POL",
+ "checked": "2026-11-22",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Trụ sở chính của CAMK PAN đặt tại Warszawa (có phân viện tại Toruń); trụ sở chính của CBK PAN đặt tại Warszawa (có phân ban Vật lý Mặt Trời tại Wrocław).",
+ "listSource": "https://www.camk.edu.pl/en/people/",
+ "cities": [
+  {
+   "id": "warszawa",
+   "city": "Warszawa",
+   "coordinates": [
+    21.01,
+    52.23
+   ],
+   "institutions": [
+    {
+     "name": "Nicolaus Copernicus Astronomical Center (CAMK PAN)",
+     "type": "non-university institute",
+     "research": "Vật lý thiên văn lý thuyết và quan sát (lỗ đen, sao neutron, đĩa bồi tụ, sóng hấp dẫn, tiến hoá sao, nhân thiên hà hoạt động) cùng vật lý hạt thiên văn tại trung tâm AstroCeNT.",
+     "url": "https://www.camk.edu.pl/en/people/",
+     "note": "Trụ sở chính tại Warszawa và có phân viện tại Toruń; bao gồm cả trung tâm quốc tế AstroCeNT."
+    },
+    {
+     "name": "University of Warsaw — Astronomical Observatory (OAUW)",
+     "type": "university",
+     "research": "Khảo sát bầu trời diện rộng và thấu kính hấp dẫn (dự án OGLE), sao biến quang, lỗ đen và thiên văn Gaia.",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    },
+    {
+     "name": "Space Research Centre of the Polish Academy of Sciences (CBK PAN)",
+     "type": "non-university institute",
+     "research": "Vật lý không gian, vật lý Mặt Trời, khoa học hành tinh, động lực học quỹ đạo và thiết bị cho các sứ mệnh vũ trụ ESA/NASA.",
+     "url": "https://cbkpan.pl/en/",
+     "note": "Trụ sở chính tại Warszawa và có phân ban Vật lý Mặt Trời tại Wrocław."
+    }
+   ]
+  },
+  {
+   "id": "torun",
+   "city": "Toruń",
+   "coordinates": [
+    18.6,
+    53.01
+   ],
+   "institutions": [
+    {
+     "name": "Nicolaus Copernicus University — Institute of Astronomy (IA UMK)",
+     "type": "university",
+     "research": "Thiên văn vô tuyến (kính thiên văn vô tuyến 32 m tại Piwnice), hành tinh ngoài Hệ Mặt Trời, quang phổ sao và vật lý thiên văn thiên hà.",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    }
+   ]
+  },
+  {
+   "id": "krakow",
+   "city": "Kraków",
+   "coordinates": [
+    19.94,
+    50.06
+   ],
+   "institutions": [
+    {
+     "name": "Jagiellonian University — Astronomical Observatory (OA UJ)",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao (tia gamma, tia vũ trụ, nhân thiên hà hoạt động), vật lý thiên văn tương đối tính, vũ trụ học và thiên văn vô tuyến.",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    }
+   ]
+  },
+  {
+   "id": "wroclaw",
+   "city": "Wrocław",
+   "coordinates": [
+    17.04,
+    51.11
+   ],
+   "institutions": [
+    {
+     "name": "University of Wrocław — Astronomical Institute (IA UWr)",
+     "type": "university",
+     "research": "Vật lý sao biến quang và chấn động học sao (DAPaCA), nhật vật lý, bùng phát Mặt Trời và vật lý không gian (DHPaSP).",
+     "url": "https://wfa.uwr.edu.pl/en/institute-of-astronomy/management-and-personnel/"
+    }
+   ]
+  },
+  {
+   "id": "poznan",
+   "city": "Poznań",
+   "coordinates": [
+    16.93,
+    52.41
+   ],
+   "institutions": [
+    {
+     "name": "Adam Mickiewicz University — Astronomical Observatory Institute (IAO AMU)",
+     "type": "university",
+     "research": "Động lực học tiểu hành tinh và vật thể gần Trái Đất, trắc lượng thiên văn, cơ học thiên thể và động lực học hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    }
+   ]
+  }
+ ]
+}

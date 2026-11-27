@@ -1,0 +1,125 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Nicolaus Copernicus Astronomical Center (CAMK PAN)": {
+   "coverage": "full",
+   "structure": "Viện Hàn lâm Khoa học Ba Lan (PAN) → CAMK (Warszawa & phân viện Toruń) và Trung tâm AstroCeNT",
+   "structureUrl": "https://www.camk.edu.pl/en/people/",
+   "scopeNote": "Gộp danh sách nhà nghiên cứu, nghiên cứu sinh, giáo sư danh dự và cộng tác viên từ trang nhân sự CAMK (loại trừ khối hành chính và kỹ thuật thuần tuý), cùng đội ngũ các nhóm nghiên cứu của AstroCeNT.",
+   "units": [
+    {
+     "name": "Nicolaus Copernicus Astronomical Center (CAMK PAN)",
+     "kind": "Viện nghiên cứu viện hàn lâm",
+     "parent": "Polish Academy of Sciences (Warszawa & Toruń)",
+     "topics": "Lỗ đen, sao neutron, đĩa bồi tụ, sóng hấp dẫn, tiến hoá sao và nhân thiên hà hoạt động.",
+     "url": "https://www.camk.edu.pl/en/people/"
+    },
+    {
+     "name": "AstroCeNT — Particle Astrophysics Science and Technology Centre",
+     "kind": "Trung tâm nghiên cứu quốc tế thuộc CAMK PAN",
+     "parent": "CAMK PAN (Warszawa)",
+     "topics": "Vật lý hạt thiên văn lý thuyết, tìm kiếm vật chất tối, thiết kế cảm biến cho kính thiên văn sóng hấp dẫn Einstein Telescope và quang tử học.",
+     "url": "https://astrocent.camk.edu.pl/?page_id=1728"
+    }
+   ],
+   "networks": []
+  },
+  "University of Warsaw — Astronomical Observatory (OAUW)": {
+   "coverage": "full",
+   "structure": "Faculty of Physics, University of Warsaw → Astronomical Observatory",
+   "structureUrl": "https://www.astrouw.edu.pl/en/research-staff/",
+   "scopeNote": "Gộp từ hai danh bạ chính thức Research staff và List of PhD students của OAUW.",
+   "units": [
+    {
+     "name": "Astronomical Observatory of the University of Warsaw (OAUW)",
+     "kind": "Đài thiên văn đại học",
+     "parent": "Faculty of Physics, University of Warsaw",
+     "topics": "Khảo sát thấu kính hấp dẫn OGLE, sao biến quang, thiên văn thời gian thực và dữ liệu sứ mệnh Gaia.",
+     "url": "https://www.astrouw.edu.pl/en/research-staff/"
+    }
+   ],
+   "networks": []
+  },
+  "Space Research Centre of the Polish Academy of Sciences (CBK PAN)": {
+   "coverage": "partial",
+   "structure": "Viện Hàn lâm Khoa học Ba Lan (PAN) → Ban lãnh đạo (Warszawa) và các phân ban nghiên cứu (gồm Solar Physics Division tại Wrocław)",
+   "structureUrl": "https://cbkpan.pl/en/",
+   "scopeNote": "Trang cbkpan.pl gặp lỗi thiếu chứng chỉ SSL trung gian khi truy cập trực tiếp từ Python nên hiện mới ghi lãnh đạo viện và danh sách đầy đủ của Solar Physics Division (Wrocław); các nhóm khoa học hành tinh và kỹ thuật vũ trụ tại Warszawa chưa lấy được danh sách đầy đủ.",
+   "units": [
+    {
+     "name": "Solar Physics Division (SPD) & Institute Leadership",
+     "kind": "Phân ban nghiên cứu viện hàn lâm",
+     "parent": "CBK PAN (Warszawa & Wrocław)",
+     "topics": "Vật lý Mặt Trời, tia X Mặt Trời (STIX / Solar Orbiter), bùng phát Mặt Trời và thiết bị quan sát không gian.",
+     "url": "https://cbkpan.pl/en/"
+    }
+   ],
+   "networks": []
+  },
+  "Nicolaus Copernicus University — Institute of Astronomy (IA UMK)": {
+   "coverage": "full",
+   "structure": "Faculty of Physics, Astronomy and Informatics → Institute of Astronomy (Toruń / Piwnice)",
+   "structureUrl": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/",
+   "scopeNote": "Gộp danh bạ Scientific and teaching staff, PhD students và Retired staff (đưa vào khách mời/danh dự); loại trừ khối kỹ thuật và phục vụ.",
+   "units": [
+    {
+     "name": "Institute of Astronomy (IA UMK)",
+     "kind": "Viện nghiên cứu đại học",
+     "parent": "Nicolaus Copernicus University in Toruń",
+     "topics": "Thiên văn vô tuyến VLBI/EVN, sao ngoài Hệ Mặt Trời, quang phổ sao và cấu trúc thiên hà.",
+     "url": "https://astro.umk.pl/en/institute/staff/scientific-and-teaching-staff/"
+    }
+   ],
+   "networks": []
+  },
+  "Jagiellonian University — Astronomical Observatory (OA UJ)": {
+   "coverage": "full",
+   "structure": "Faculty of Physics, Astronomy and Applied Computer Science → Astronomical Observatory (Department of Relativistic Astrophysics and Cosmology; Department of High Energy Astrophysics)",
+   "structureUrl": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/zaklady",
+   "scopeNote": "Lấy từ mục Faculty, Scientific Staff và Retired Professors trên trang nhân sự chính thức của OA UJ; loại trừ khối Technical, Administrative, and Other Staff.",
+   "units": [
+    {
+     "name": "Astronomical Observatory of the Jagiellonian University (OA UJ)",
+     "kind": "Đài thiên văn đại học",
+     "parent": "Jagiellonian University in Kraków",
+     "topics": "Vật lý thiên văn năng lượng cao (CTA, H.E.S.S., Hyper-Kamiokande), thiên văn vô tuyến (LOFAR), vật lý thiên văn tương đối tính và vũ trụ học.",
+     "url": "https://oa.fais.uj.edu.pl/en/obserwatorium/struktura/pracownicy"
+    }
+   ],
+   "networks": []
+  },
+  "University of Wrocław — Astronomical Institute (IA UWr)": {
+   "coverage": "full",
+   "structure": "Faculty of Physics and Astronomy → Astronomical Institute (DAPaCA & DHPaSP)",
+   "structureUrl": "https://wfa.uwr.edu.pl/en/institute-of-astronomy/management-and-personnel/",
+   "scopeNote": "Toàn bộ danh sách nhân sự trên trang Management and personnel chính thức của Viện Thiên văn UWr.",
+   "units": [
+    {
+     "name": "Astronomical Institute of the University of Wrocław (IA UWr)",
+     "kind": "Viện nghiên cứu đại học",
+     "parent": "University of Wrocław",
+     "topics": "Sao biến quang và chấn động học sao (DAPaCA), nhật vật lý, bùng phát Mặt Trời và vật lý không gian (DHPaSP).",
+     "url": "https://wfa.uwr.edu.pl/en/institute-of-astronomy/management-and-personnel/"
+    }
+   ],
+   "networks": []
+  },
+  "Adam Mickiewicz University — Astronomical Observatory Institute (IAO AMU)": {
+   "coverage": "full",
+   "structure": "Faculty of Physics and Astronomy → Astronomical Observatory Institute",
+   "structureUrl": "https://www.astro.amu.edu.pl/en/about-us/staff/",
+   "scopeNote": "Gồm Scientific staff, PhD students, Senior Professors và Cooperating people (hai nhóm sau tách vào mục external); loại trừ Administrative and Technical Staff.",
+   "units": [
+    {
+     "name": "Astronomical Observatory Institute (IAO AMU)",
+     "kind": "Viện nghiên cứu đại học",
+     "parent": "Adam Mickiewicz University in Poznań",
+     "topics": "Động lực học tiểu hành tinh, thiên thạch, trắc lượng thiên văn, cơ học thiên thể và hệ hành tinh ngoài Hệ Mặt Trời.",
+     "url": "https://www.astro.amu.edu.pl/en/about-us/staff/"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

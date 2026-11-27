@@ -1,0 +1,334 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn và vật lý thiên văn tại Slovakia (AsÚ SAV, ĐH Comenius Bratislava, ĐH P. J. Šafárik Košice).",
+ "units": {
+  "Astronomical Institute of the Slovak Academy of Sciences (AsÚ SAV)::Astronomical Institute SAV (toàn viện)": {
+   "sources": [
+    "https://www.astro.sk/en/research/staff-members/"
+   ],
+   "people": [
+    {
+     "name": "Ján Adamčák",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Jakub Ambróz",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Jaroslav Ambróz",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Martin Benko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Ján Budaj",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Jakub Cehula",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Vladimír Dubjel",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Silvia Ďurišová",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Milena Eccles",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Zoltán Garai",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Peter Gömöry",
+     "role": "Viện trưởng; Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Mária Hajduková",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Ľubomír Hambálek",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Marek Husárik",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Miroslav Hutár",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Oleksandra Ivanova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Marián Jakubík",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Zuzana Kaňuchová",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Richard Komžík",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Martina Kováčová",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Ján Kovalčík",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Július Koza",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Emil Kundra",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Sergo Lomineishvili",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Tomáš Moravčík",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Luboš Neslušan",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Daniel Novocký",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Dmytro Orikhovskyi",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Bibiána Pažická",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Zuzana Petrová",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Michal Pikler",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Theodor Pribulla",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Vojtech Rušin",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Ján Rybák",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Metod Saniga",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Andrea Sanigová",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Natalia Shagatova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Olena Shubina",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Sergey Shugarov",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Peter Sivanič",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Augustín Skopal",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Ján Svoreň",
+     "role": "Phó giáo sư / Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Dušan Tomko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Michal Trembáč",
+     "role": "Nghiên cứu viên / Nghiên cứu sinh",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Martin Vaňko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Zurab Vashalomidze",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Anhelina Voitko",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    },
+    {
+     "name": "Aneta Barbara Wiśniewska",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.astro.sk/en/research/staff-members/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Comenius University — Department of Astronomy, Physics of the Earth, and Meteorology (FMFI UK)::Astronomy & Astrophysics Division (KAFZM)": {
+   "sources": [
+    "https://fmph.uniba.sk/"
+   ],
+   "people": [
+    {
+     "name": "Jozef Klačka",
+     "role": "Phó giáo sư",
+     "url": "https://fmph.uniba.sk/"
+    },
+    {
+     "name": "Roman Nagy",
+     "role": "Giảng viên / Nghiên cứu viên",
+     "url": "https://fmph.uniba.sk/"
+    },
+    {
+     "name": "Karol Havrila",
+     "role": "Nghiên cứu viên (AGO Modra)",
+     "url": "https://fmph.uniba.sk/"
+    },
+    {
+     "name": "Pavol Zigo",
+     "role": "Nghiên cứu viên (AGO Modra)",
+     "url": "https://fmph.uniba.sk/"
+    }
+   ],
+   "external": [],
+   "note": ""
+  },
+  "Pavol Jozef Šafárik University (UPJŠ) — Department of Theoretical Physics and Astrophysics::Department of Theoretical Physics and Astrophysics (KTFA)": {
+   "sources": [
+    "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+   ],
+   "people": [
+    {
+     "name": "Štefan Parimucha",
+     "role": "Trưởng bộ môn; Phó giáo sư",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    },
+    {
+     "name": "Rudolf Gális",
+     "role": "Phó giáo sư",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    },
+    {
+     "name": "Milan Žukovič",
+     "role": "Giáo sư",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    },
+    {
+     "name": "Michal Jaščur",
+     "role": "Giáo sư",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    },
+    {
+     "name": "Jozef Strečka",
+     "role": "Phó giáo sư",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    },
+    {
+     "name": "Tomáš Lučivjanský",
+     "role": "Nghiên cứu viên / Giảng viên",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    },
+    {
+     "name": "Pavol Gajdoš",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Andrej Bobák",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://www.upjs.sk/en/faculty-of-science/institute-of-physics/"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

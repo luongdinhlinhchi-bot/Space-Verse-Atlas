@@ -1,0 +1,162 @@
+{
+  "country": "Croatia",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Croatia, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "Ruđer Bošković Institute (IRB) — Laboratory for Astroparticle Physics and Astrophysics::Laboratory for Astroparticle Physics and Astrophysics (LAPA)": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Vibor Jelić",
+          "role": "Trưởng phòng thí nghiệm; Nghiên cứu viên cao cấp",
+          "url": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+        },
+        {
+          "name": "Lovro Palaversa",
+          "role": "Nghiên cứu viên cao cấp (Gaia, LSST)",
+          "url": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+        },
+        {
+          "name": "Lovorka Gajović",
+          "role": "Trợ lý nghiên cứu cao cấp",
+          "url": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+        },
+        {
+          "name": "Carolin Janet Höfer",
+          "role": "Cộng tác viên dự án",
+          "url": "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.irb.hr/eng/Divisions/Division-of-Experimental-Physics/Laboratory-for-Astroparticle-Physics-and-Astrophysics"
+      ],
+      "note": "Đội ngũ nghiên cứu chính thức của LAPA (IRB)."
+    },
+    "Hvar Observatory — Faculty of Geodesy, University of Zagreb::Hvar Observatory (toàn đài)": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Roman Brajša",
+          "role": "Cố vấn khoa học thường trực",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Domagoj Ruždjak",
+          "role": "Trưởng đài thiên văn; Nghiên cứu viên",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Bojan Vršnak",
+          "role": "Cố vấn khoa học thường trực",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Davor Sudar",
+          "role": "Cố vấn khoa học",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Jaša Čalogović",
+          "role": "Nghiên cứu viên",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Mateja Dumbović",
+          "role": "Phó trưởng đài; Nghiên cứu viên cao cấp",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Toni Visković",
+          "role": "Nghiên cứu viên / Kỹ sư",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Filip Matković",
+          "role": "Nghiên cứu viên / Kỹ sư",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Akshay Kumar Remeshan",
+          "role": "Nghiên cứu viên / Kỹ sư",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Melike Tirnakci",
+          "role": "Nghiên cứu viên / Kỹ sư",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        },
+        {
+          "name": "Hrvoje Božić",
+          "role": "Nghiên cứu viên / Kỹ sư",
+          "url": "https://oh.geof.unizg.hr/index.php/en/staff"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://oh.geof.unizg.hr/index.php/en/staff"
+      ],
+      "note": "Danh sách nhân sự chính thức trên trang Staff của Đài thiên văn Hvar."
+    },
+    "University of Rijeka — Faculty of Physics (Division of Theoretical Physics and Astrophysics)::Division of Theoretical Physics and Astrophysics": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Tomislav Terzić",
+          "role": "Phó giáo sư; Trưởng ban",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Marina Manganaro",
+          "role": "Phó giáo sư; Trưởng phòng thí nghiệm Hạt thiên văn",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Dijana Dominis Prester",
+          "role": "Giáo sư",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Rajka Jurdana-Šepić",
+          "role": "Giáo sư",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Tomislav Jurkić",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Saša Mićanović",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Ivana Poljančić Beljan",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Mateo Paulišić",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Karlo Mrakovčić",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.phy.uniri.hr/en/"
+        },
+        {
+          "name": "Filip Reščić",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.phy.uniri.hr/en/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.phy.uniri.hr/en/"
+      ],
+      "note": "Danh sách đầy đủ giảng viên, postdoc và nghiên cứu sinh nhóm Vật lý thiên văn tại ĐH Rijeka."
+    }
+  }
+}

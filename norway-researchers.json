@@ -1,0 +1,825 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Các cơ quan nghiên cứu thiên văn, vật lý thiên văn, vật lý Mặt Trời và vật lý không gian tại Na Uy (ĐH Oslo ITA/RoCS, ĐH Bergen BCSS, NTNU, UiT Tromsø). Loại trừ nhân sự hành chính và kỹ thuật thuần tuý; tách giáo sư danh dự và khách mời.",
+ "units": {
+  "University of Oslo — Institute of Theoretical Astrophysics (ITA) & RoCS::Institute of Theoretical Astrophysics (ITA)": {
+   "sources": [
+    "https://www.mn.uio.no/astro/english/people/aca/"
+   ],
+   "people": [
+    {
+     "name": "Guillaume Aulanier",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/guillaau/index.html"
+    },
+    {
+     "name": "Abdolali Banihashemi",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/abdolalb/index.html"
+    },
+    {
+     "name": "Jonas Broe Bendtsen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/jonasbbe/index.html"
+    },
+    {
+     "name": "Leo Alessandro Bianchi",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/leoab/index.html"
+    },
+    {
+     "name": "Angela Bonato",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/angelbo/index.html"
+    },
+    {
+     "name": "Jakob Borg",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/jakobbor/index.html"
+    },
+    {
+     "name": "Aline Rangøy Brunvoll",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/alinerb/index.html"
+    },
+    {
+     "name": "Mats Carlsson",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/matsc/index.html"
+    },
+    {
+     "name": "Claudia Cicone",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/claudici/index.html"
+    },
+    {
+     "name": "José Ricardo Correia",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/joserco/index.html"
+    },
+    {
+     "name": "Bart Walter De Pontieu",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/bdp/index.html"
+    },
+    {
+     "name": "Pooja Devi",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/poojade/index.html"
+    },
+    {
+     "name": "Carlos José Díaz Baso",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/carlosjd/index.html"
+    },
+    {
+     "name": "Øystein Elgarøy",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oelgaroy/index.html"
+    },
+    {
+     "name": "Oddbjørn Engvold",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oengvold/index.html"
+    },
+    {
+     "name": "Hans Kristian Kamfjord Eriksen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/hke/index.html"
+    },
+    {
+     "name": "Lyndsay Fletcher",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/lyndsayf/index.html"
+    },
+    {
+     "name": "Oliver Flor",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oliveflo/index.html"
+    },
+    {
+     "name": "David Fonseca Mota",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/mota/index.html"
+    },
+    {
+     "name": "Dennis Fremstad",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/dennisfr/index.html"
+    },
+    {
+     "name": "Mathew Galloway",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/mathewg/index.html"
+    },
+    {
+     "name": "Eirik Gjerløw",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/eirikgje/index.html"
+    },
+    {
+     "name": "Katrine Glasscock",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/katrinag/index.html"
+    },
+    {
+     "name": "Boris Vilhelm Gudiksen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/boris/index.html"
+    },
+    {
+     "name": "Frode Kristian Hansen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/frodekh/index.html"
+    },
+    {
+     "name": "Viggo Haraldson Hansteen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/viggoh/index.html"
+    },
+    {
+     "name": "Farbod Hassani",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/hassanif/index.html"
+    },
+    {
+     "name": "Shahin Jafarzadeh",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/shahinj/index.html"
+    },
+    {
+     "name": "Reetika Joshi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/reetikaj/index.html"
+    },
+    {
+     "name": "Synne Sigstad Jørgensen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/synnesjo/index.html"
+    },
+    {
+     "name": "Reijo Keskitalo",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/reijotk/index.html"
+    },
+    {
+     "name": "Mats Kirkaune",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/matski/index.html"
+    },
+    {
+     "name": "Olav Elias Kjeldseth-Moe",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/olavm/index.html"
+    },
+    {
+     "name": "Petra Kohutova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/petrako/index.html"
+    },
+    {
+     "name": "Boy Lankhaar",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/boyl/index.html"
+    },
+    {
+     "name": "Akhil Ignatius Lasrado",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/akhill/index.html"
+    },
+    {
+     "name": "Egil Leer",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/egill/index.html"
+    },
+    {
+     "name": "Valeriia Liakh",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/valerili/index.html"
+    },
+    {
+     "name": "Per Barth Lilje",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/lilje/index.html"
+    },
+    {
+     "name": "Gaojian Liu",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/gaojianl/index.html"
+    },
+    {
+     "name": "Jonas Gahr Sturtzel Lunde",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/jonassl/index.html"
+    },
+    {
+     "name": "Jane Luu",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/janeluu/index.html"
+    },
+    {
+     "name": "Juan Martinez Sykora",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/juanms/index.html"
+    },
+    {
+     "name": "Ana Isabel Silva Martins",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/aimartin/index.html"
+    },
+    {
+     "name": "Harsh Mathur",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/harshm/index.html"
+    },
+    {
+     "name": "Stephen John Molyneux",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/stephjm/index.html"
+    },
+    {
+     "name": "Åke Nordlund",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/ake-nordlund/index.html"
+    },
+    {
+     "name": "Sigurd Kirkevold Næss",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/sigurdkn/index.html"
+    },
+    {
+     "name": "Marianne Gjestvold Omang",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/momang/index.html"
+    },
+    {
+     "name": "Tiago Pereira",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/tiago/index.html"
+    },
+    {
+     "name": "Andrius Popovas",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/andriusp/index.html"
+    },
+    {
+     "name": "Luc Rouppe van der Voort",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/rouppe/index.html"
+    },
+    {
+     "name": "Maryam Saberi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/maryasab/index.html"
+    },
+    {
+     "name": "Sijing Shen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/shens/index.html"
+    },
+    {
+     "name": "Herman Sletmoen",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/hermasl/index.html"
+    },
+    {
+     "name": "Oscar Soler",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oscarso/index.html"
+    },
+    {
+     "name": "Ignasi Josep Soler Poquet",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/ijpoquet/index.html"
+    },
+    {
+     "name": "Nils-Ole Stutzer",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/nilsoles/index.html"
+    },
+    {
+     "name": "Tong Su",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/tongsu/index.html"
+    },
+    {
+     "name": "Raelyn Sullivan",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/raelynsu/index.html"
+    },
+    {
+     "name": "Andrius Tamosiunas",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/andriust/index.html"
+    },
+    {
+     "name": "Jan Karsten Trulsen",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/jtrulsen/index.html"
+    },
+    {
+     "name": "Semya Amouche Tønnessen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/semyaat/index.html"
+    },
+    {
+     "name": "Vetle Amundsen Vikenes",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/vetleav/index.html"
+    },
+    {
+     "name": "Duncan Watts",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/duncanwa/index.html"
+    },
+    {
+     "name": "Sven Wedemeyer",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/svenwe/index.html"
+    },
+    {
+     "name": "Ingunn Kathrine Wehus",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/ingunnkw/index.html"
+    },
+    {
+     "name": "Hans Arnold Winther",
+     "role": "Phó giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/hansw/index.html"
+    },
+    {
+     "name": "Robert Bleckert Nils Håkan Wissing",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/robertwi/index.html"
+    },
+    {
+     "name": "Yixiao Zhou",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/yixiaoz/index.html"
+    }
+   ],
+   "external": [
+    {
+     "name": "Guoyin Chen",
+     "role": "Nhà nghiên cứu khách mời",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/guoyinc/index.html"
+    },
+    {
+     "name": "Daniel Elias Nóbrega Siverio",
+     "role": "Nhà nghiên cứu khách mời",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/desiveri/index.html"
+    },
+    {
+     "name": "Johannes Røsok Eskilt",
+     "role": "Nhà nghiên cứu khách mời",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/johanres/index.html"
+    }
+   ],
+   "note": ""
+  },
+  "University of Oslo — Institute of Theoretical Astrophysics (ITA) & RoCS::Rosseland Centre for Solar Physics (RoCS)": {
+   "sources": [
+    "https://www.mn.uio.no/rocs/english/people/allpeople/"
+   ],
+   "people": [
+    {
+     "name": "Guillaume Aulanier",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/guillaau/index.html"
+    },
+    {
+     "name": "Souvik Bose",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/personer/vit/souvikb/index.html"
+    },
+    {
+     "name": "Aline Rangøy Brunvoll",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/alinerb/index.html"
+    },
+    {
+     "name": "Mats Carlsson",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/matsc/index.html"
+    },
+    {
+     "name": "Bart Walter De Pontieu",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/bdp/index.html"
+    },
+    {
+     "name": "Pooja Devi",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/poojade/index.html"
+    },
+    {
+     "name": "Carlos José Díaz Baso",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/carlosjd/index.html"
+    },
+    {
+     "name": "Oddbjørn Engvold",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oengvold/index.html"
+    },
+    {
+     "name": "Lyndsay Fletcher",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/lyndsayf/index.html"
+    },
+    {
+     "name": "Oliver Flor",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oliveflo/index.html"
+    },
+    {
+     "name": "Boris Vilhelm Gudiksen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/boris/index.html"
+    },
+    {
+     "name": "Viggo Haraldson Hansteen",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/viggoh/index.html"
+    },
+    {
+     "name": "Shahin Jafarzadeh",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/shahinj/index.html"
+    },
+    {
+     "name": "Reetika Joshi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/reetikaj/index.html"
+    },
+    {
+     "name": "Mats Kirkaune",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/matski/index.html"
+    },
+    {
+     "name": "Olav Elias Kjeldseth-Moe",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/olavm/index.html"
+    },
+    {
+     "name": "Petra Kohutova",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/petrako/index.html"
+    },
+    {
+     "name": "Egil Leer",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/egill/index.html"
+    },
+    {
+     "name": "Valeriia Liakh",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/valerili/index.html"
+    },
+    {
+     "name": "Juan Martinez Sykora",
+     "role": "Phó giáo sư",
+     "url": "https://www.mn.uio.no/rocs/english/people/allpeople/scientific/juanms/index.html"
+    },
+    {
+     "name": "Harsh Mathur",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/harshm/index.html"
+    },
+    {
+     "name": "Åke Nordlund",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/ake-nordlund/index.html"
+    },
+    {
+     "name": "Marianne Gjestvold Omang",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/momang/index.html"
+    },
+    {
+     "name": "Tiago Pereira",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/tiago/index.html"
+    },
+    {
+     "name": "Luc Rouppe van der Voort",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/rouppe/index.html"
+    },
+    {
+     "name": "Maryam Saberi",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/rocs/english/people/allpeople/scientific/maryasab/index.html"
+    },
+    {
+     "name": "Oscar Soler",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/oscarso/index.html"
+    },
+    {
+     "name": "Ignasi Josep Soler Poquet",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/ijpoquet/index.html"
+    },
+    {
+     "name": "Mikolaj Szydlarski",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/adm/mikolajs/index.html"
+    },
+    {
+     "name": "Jan Karsten Trulsen",
+     "role": "Nghiên cứu viên",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/jtrulsen/index.html"
+    },
+    {
+     "name": "Semya Amouche Tønnessen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/semyaat/index.html"
+    },
+    {
+     "name": "Sven Wedemeyer",
+     "role": "Giáo sư",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/svenwe/index.html"
+    },
+    {
+     "name": "Yixiao Zhou",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/yixiaoz/index.html"
+    }
+   ],
+   "external": [
+    {
+     "name": "Guoyin Chen",
+     "role": "Nhà nghiên cứu khách mời",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/guoyinc/index.html"
+    }
+   ],
+   "note": ""
+  },
+  "University of Bergen — Space Physics Group (BCSS)::Space Physics Group / Birkeland Centre for Space Science (BCSS)": {
+   "sources": [
+    "https://birkeland.uib.no/people/"
+   ],
+   "people": [
+    {
+     "name": "Nikolai Østgaard",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Lisa Baddeley",
+     "role": "Phó giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Ingrid Bjørge-Engeland",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Margot Decotte",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Reham Elhawary",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Nina Kristine Eriksen",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Patrick Espy",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Anders Nødland Fuglestad",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Sara Gasparini",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Spencer Hatch",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Katie Herlingshaw",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Jens Christian Hessen",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Robert Hibbins",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Jia Jia",
+     "role": "Nghiên cứu sau tiến sĩ",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Karl M. Laundal",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Nikolai Lehtinen",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Dag Lorentzen",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Michael Madelaire",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Martino Marisaldi",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Andrey Mezentsev",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Hilde Nesse",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Kjellmar Oksavik",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Kjartan Olafsson",
+     "role": "Phó giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Yvan Orsolini",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Kavitha Østgaard",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Noora Partamies",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Bilal Hasan Qureshi",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Jone Reistad",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Maja Rostad",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Josephine Salice",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "David Sarria",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Fred Sigernes",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Mikko Syrjäsuo",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Kjetil Ullaland",
+     "role": "Giáo sư",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Charlotte van Hazendonk",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Simon James Walker",
+     "role": "Nghiên cứu sinh",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Shiming Yang",
+     "role": "Nghiên cứu viên",
+     "url": "https://birkeland.uib.no/people/"
+    }
+   ],
+   "external": [
+    {
+     "name": "Finn Søraas",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://birkeland.uib.no/people/"
+    },
+    {
+     "name": "Johan Stadsnes",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://birkeland.uib.no/people/"
+    }
+   ],
+   "note": ""
+  },
+  "NTNU — Department of Physics (Astrophysics and Theoretical Physics)::Section of Astrophysics and Theoretical Physics": {
+   "sources": [
+    "https://www.ntnu.edu/physics"
+   ],
+   "people": [
+    {
+     "name": "Jens Oluf Andersen",
+     "role": "Trưởng bộ môn; Giáo sư",
+     "url": "https://www.ntnu.edu/physics"
+    },
+    {
+     "name": "Manuel Linares Alegret",
+     "role": "Phó trưởng bộ môn; Giáo sư",
+     "url": "https://www.ntnu.edu/physics"
+    }
+   ],
+   "external": [],
+   "note": "Trang danh bạ chi tiết của nhóm trên ntnu.edu trả lỗi 404 nên mới ghi lãnh đạo bộ môn."
+  },
+  "UiT The Arctic University of Norway — Space Physics Group::Space Physics Group": {
+   "sources": [
+    "https://uit.no/enhet/ift"
+   ],
+   "people": [
+    {
+     "name": "Andres Spicher",
+     "role": "Trưởng nhóm nghiên cứu; Giáo sư",
+     "url": "https://uit.no/enhet/ift"
+    },
+    {
+     "name": "Ingrid Mann",
+     "role": "Giáo sư",
+     "url": "https://uit.no/enhet/ift"
+    },
+    {
+     "name": "Björn Johan Gustavsson",
+     "role": "Giáo sư",
+     "url": "https://uit.no/enhet/ift"
+    },
+    {
+     "name": "Patrick Guio",
+     "role": "Giáo sư / Nghiên cứu viên",
+     "url": "https://uit.no/enhet/ift"
+    },
+    {
+     "name": "Juha Vierinen",
+     "role": "Giáo sư",
+     "url": "https://uit.no/enhet/ift"
+    }
+   ],
+   "external": [
+    {
+     "name": "Asgeir Brekke",
+     "role": "Giáo sư danh dự (emeritus)",
+     "url": "https://uit.no/enhet/ift"
+    }
+   ],
+   "note": "Trang nhóm nghiên cứu trên uit.no trả lỗi 503 nên mới ghi trưởng nhóm và các giáo sư chủ chốt."
+  }
+ }
+}

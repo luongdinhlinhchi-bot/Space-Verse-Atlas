@@ -1,0 +1,22 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Belarusian State University (BSU) — Department of Theoretical Physics and Astrophysics": {
+   "coverage": "leaders",
+   "structure": "Faculty of Physics → Department of Theoretical Physics and Astrophysics",
+   "structureUrl": "https://physics.bsu.by/en/departments/theoretical-physics-and-astrophysics",
+   "scopeNote": "Máy chủ physics.bsu.by hết thời gian chờ khi tải trực tiếp nên hiện ghi đại diện giảng viên mảng vật lý thiên văn đã xác minh.",
+   "units": [
+    {
+     "name": "Department of Theoretical Physics and Astrophysics",
+     "kind": "Bộ môn đại học",
+     "parent": "Faculty of Physics, BSU",
+     "topics": "Vật lý thiên văn lý thuyết, lỗ đen, AGN và vũ trụ học.",
+     "url": "https://physics.bsu.by/en/departments/theoretical-physics-and-astrophysics"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

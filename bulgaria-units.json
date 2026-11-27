@@ -1,0 +1,70 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Institute of Astronomy and NAO — Bulgarian Academy of Sciences (IA-NAO BAS)": {
+   "coverage": "leaders",
+   "structure": "Bulgarian Academy of Sciences → IA-NAO (3 khoa: Sun & Solar System, Stars & Stellar Systems, Galaxies & Cosmology)",
+   "structureUrl": "https://www.bas.bg/",
+   "scopeNote": "Máy chủ astro.bas.bg hết thời gian chờ khi tải trực tiếp nên hiện ghi ban giám đốc, trưởng 3 khoa và các giáo sư chủ chốt đã xác minh từ bas.bg.",
+   "units": [
+    {
+     "name": "IA-NAO BAS (Ban lãnh đạo & Giáo sư chủ chốt)",
+     "kind": "Viện nghiên cứu viện hàn lâm",
+     "parent": "Bulgarian Academy of Sciences",
+     "topics": "Vật lý Mặt Trời, sao, thiên hà, vũ trụ học và vận hành NAO Rozhen.",
+     "url": "https://www.bas.bg/"
+    }
+   ],
+   "networks": []
+  },
+  "Sofia University — Department of Astronomy": {
+   "coverage": "full",
+   "structure": "Faculty of Physics → Department of Astronomy",
+   "structureUrl": "https://astro.phys.uni-sofia.bg/staff/",
+   "scopeNote": "Lấy toàn bộ giảng viên và nghiên cứu sinh trên trang Състав của khoa; loại trừ nhân sự kỹ thuật.",
+   "units": [
+    {
+     "name": "Department of Astronomy (Sofia University)",
+     "kind": "Khoa nghiên cứu đại học",
+     "parent": "Sofia University 'St. Kliment Ohridski'",
+     "topics": "Vật lý sao, thiên hà, vũ trụ học và quan sát tại Đài Plana.",
+     "url": "https://astro.phys.uni-sofia.bg/staff/"
+    }
+   ],
+   "networks": []
+  },
+  "National Astronomical Observatory Rozhen (NAO Rozhen)": {
+   "coverage": "leaders",
+   "structure": "IA-NAO BAS → National Astronomical Observatory Rozhen",
+   "structureUrl": "https://www.bas.bg/",
+   "scopeNote": "Cơ sở quan sát chính của IA-NAO BAS tại dãy Rhodope; ghi đại diện ban giám đốc phụ trách NAO Rozhen.",
+   "units": [
+    {
+     "name": "NAO Rozhen",
+     "kind": "Đài quan sát quốc gia",
+     "parent": "IA-NAO BAS",
+     "topics": "Quan sát quang học (kính 2 m), phổ học và thiên văn vô tuyến (LOFAR-BG).",
+     "url": "https://www.bas.bg/"
+    }
+   ],
+   "networks": []
+  },
+  "Shumen University — Astronomical Center 'Prof. Vladimir Shkodrov'": {
+   "coverage": "full",
+   "structure": "Faculty of Natural Sciences → Astronomical Center",
+   "structureUrl": "https://astro.shu.bg/staff.php",
+   "scopeNote": "Lấy toàn bộ danh sách giảng viên và nghiên cứu viên trên astro.shu.bg/staff.php.",
+   "units": [
+    {
+     "name": "Astronomical Center (Shumen University)",
+     "kind": "Trung tâm nghiên cứu đại học",
+     "parent": "Shumen University",
+     "topics": "Sao biến quang, vật thể nhỏ Hệ Mặt Trời và thiên văn quan sát.",
+     "url": "https://astro.shu.bg/staff.php"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "checked": "2026-11-21",
+ "networks": {
+  "czech-arc": {
+   "name": "Czech ALMA Regional Centre (ARC) Node",
+   "kind": "Nút hạ tầng thiên văn vô tuyến cấp quốc gia",
+   "topics": "Hỗ trợ quan sát, hiệu chuẩn và phân tích dữ liệu giao thoa kế ALMA (đặc biệt về Mặt Trời và thiên hà) cho cộng đồng thiên văn Séc và Trung Âu.",
+   "url": "https://www.asu.cas.cz/en/departments/solar-department/staff",
+   "note": "Đặt tại Viện Thiên văn Viện Hàn lâm Khoa học Séc (ASU CAS)."
+  },
+  "slo-upol-fzu": {
+   "name": "Joint Laboratory of Optics (UPOL & FZU CAS)",
+   "kind": "Phòng thí nghiệm liên kết giữa đại học và viện hàn lâm",
+   "topics": "Hợp tác nghiên cứu chung giữa Đại học Palacký Olomouc và Viện Vật lý (FZU CAS) về vật lý hạt thiên văn (Pierre Auger, CTA, Rubin/LSST) và quang học hiện đại.",
+   "url": "https://jointlab.upol.cz/jlo/en",
+   "note": "Kết nối trực tiếp đội ngũ nghiên cứu tại Olomouc và Praha."
+  }
+ },
+ "institutions": {
+  "Astronomical Institute of the Czech Academy of Sciences (ASU CAS)": {
+   "coverage": "partial",
+   "structure": "Viện Hàn lâm Khoa học Séc (CAS) → 4 khoa nghiên cứu (Solar Physics, Stellar Physics, Interplanetary Matter, Galaxies and Planetary Systems) và nút Czech ALMA Regional Centre",
+   "structureUrl": "https://www.asu.cas.cz/en/departments",
+   "scopeNote": "Đã có danh sách đầy đủ cho 4 đơn vị có trang thành viên công khai (Physics of Hot Stars, Extrasolar Planet Research, Meteor Physics Group, Czech ARC Node). Khoa Solar Physics (ngoài nhóm ARC) và Galaxies Department chưa có trang danh bạ nhân sự công khai riêng.",
+   "units": [
+    {
+     "name": "Physics of Hot Stars",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Department of Stellar Physics (ASU CAS)",
+     "topics": "Khí quyển và gió sao nóng, sao khối lượng lớn ở giai đoạn chuyển tiếp ngắn, sao B[e] và vật lý thiên văn năng lượng cao.",
+     "url": "https://stel.asu.cas.cz/en/hotstars/"
+    },
+    {
+     "name": "Extrasolar Planet Research",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Department of Stellar Physics (ASU CAS)",
+     "topics": "Phát hiện và đặc trưng hoá hành tinh ngoài Hệ Mặt Trời (kính thiên văn Perek 2 m, PLATOSpec, sứ mệnh PLATO).",
+     "url": "https://stel.asu.cas.cz/en/extrasolar-planet-research/"
+    },
+    {
+     "name": "Meteor Physics Group",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Department of Interplanetary Matter (ASU CAS)",
+     "topics": "Vật lý sao băng, thiên thạch, dòng thiên thạch và vận hành trung tâm điều phối Mạng lưới Quả cầu lửa châu Âu (European Fireball Network).",
+     "url": "https://meteor.asu.cas.cz/en/about/"
+    },
+    {
+     "name": "Czech ALMA Regional Centre (ARC) Node",
+     "kind": "Nhóm nghiên cứu & hỗ trợ khoa học",
+     "parent": "ASU CAS (Solar & Galaxies Departments)",
+     "topics": "Thiên văn vô tuyến milimet/dưới milimet (ALMA), thiên hà, vùng trung tâm Ngân Hà và vật lý bùng phát Mặt Trời.",
+     "url": "https://www.asu.cas.cz/en/departments/solar-department/staff"
+    }
+   ],
+   "networks": [
+    "czech-arc"
+   ]
+  },
+  "Charles University — Faculty of Mathematics and Physics (MFF UK)": {
+   "coverage": "full",
+   "structure": "Faculty of Mathematics and Physics (Matfyz) → Astronomical Institute of Charles University (AÚ UK) & Institute of Theoretical Physics (ÚTF)",
+   "structureUrl": "https://astro.troja.mff.cuni.cz/pracovnici.html",
+   "scopeNote": "Gồm toàn bộ giảng viên, nghiên cứu sinh và giảng viên thỉnh giảng của AÚ UK, cùng nhóm thuyết tương đối rộng, lỗ đen và vật lý thiên văn thuộc ÚTF (không đưa vào các nhóm vật lý phân tử và vật chất ngưng tụ của ÚTF).",
+   "units": [
+    {
+     "name": "Astronomical Institute of Charles University (AÚ UK)",
+     "kind": "Viện nghiên cứu thuộc khoa",
+     "parent": "Faculty of Mathematics and Physics, Charles University",
+     "topics": "Động lực học tiểu hành tinh (Asteroids@home), hình thành hành tinh và đĩa tiền hành tinh, động lực học cụm sao và Ngân Hà, sao đôi và vật lý Mặt Trời.",
+     "url": "https://astro.troja.mff.cuni.cz/pracovnici.html"
+    },
+    {
+     "name": "Institute of Theoretical Physics (ÚTF) — Relativity, Gravitation & Astrophysics",
+     "kind": "Nhóm nghiên cứu",
+     "parent": "Institute of Theoretical Physics, Charles University",
+     "topics": "Thuyết tương đối rộng, nghiệm chính xác không-thời gian, lỗ đen, sóng hấp dẫn, thấu kính hấp dẫn và vật lý thiên văn tương đối tính.",
+     "url": "https://www.mff.cuni.cz/cs/utf/lide-na-utf/zamestnanci"
+    }
+   ],
+   "networks": []
+  },
+  "Institute of Physics of the Czech Academy of Sciences (FZU CAS)": {
+   "coverage": "full",
+   "structure": "Division of Elementary Particle Physics → Department of Astroparticle Physics (Dept. 16) & Department of Cosmology and Gravitational Physics (Dept. 39)",
+   "structureUrl": "https://www.fzu.cz/en/research/divisions-and-departments",
+   "scopeNote": "Lấy toàn bộ danh bạ nhân sự khoa học của hai khoa thuộc Ban Vật lý Hạt cơ bản (loại trừ nhân sự hành chính, thư ký); không đưa vào các khoa vật lý máy gia tốc LHC hay vật lý chất rắn.",
+   "units": [
+    {
+     "name": "Department of Astroparticle Physics",
+     "kind": "Khoa nghiên cứu viện hàn lâm",
+     "parent": "Division of Elementary Particle Physics, FZU CAS",
+     "topics": "Tia vũ trụ năng lượng cực cao (Pierre Auger), tia gamma năng lượng cao (CTA, SWGO), hiệu chuẩn khí quyển, cảm biến quang học cho Vera C. Rubin/LSST và plasma vật lý thiên văn phi nhiệt.",
+     "url": "https://www.fzu.cz/en/research/divisions-and-departments/division-1/department-16/people/grid"
+    },
+    {
+     "name": "Department of Cosmology and Gravitational Physics",
+     "kind": "Khoa nghiên cứu viện hàn lâm",
+     "parent": "Division of Elementary Particle Physics, FZU CAS",
+     "topics": "Vũ trụ học lý thuyết và quan sát, năng lượng tối, vật chất tối, thuyết hấp dẫn mở rộng và lực hấp dẫn lượng tử.",
+     "url": "https://www.fzu.cz/en/research/divisions-and-departments/division-1/department-39/people/grid"
+    }
+   ],
+   "networks": [
+    "slo-upol-fzu"
+   ]
+  },
+  "Institute of Atmospheric Physics of the Czech Academy of Sciences (UFA CAS)": {
+   "coverage": "full",
+   "structure": "Institute of Atmospheric Physics CAS → Department of Space Physics (đã sáp nhập Group of Numerical Simulations of Heliospheric Plasmas từ đầu 2026)",
+   "structureUrl": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/",
+   "scopeNote": "Chỉ đưa vào Department of Space Physics (bỏ qua các khoa khí tượng, khí hậu học và tầng điện ly thuần khí quyển Trái Đất).",
+   "units": [
+    {
+     "name": "Department of Space Physics",
+     "kind": "Khoa nghiên cứu viện hàn lâm",
+     "parent": "Institute of Atmospheric Physics CAS",
+     "topics": "Plasma không gian, gió Mặt Trời, từ quyển Trái Đất và các hành tinh, sóng điện từ trong plasma và mô phỏng số plasma nhật quyển.",
+     "url": "https://www.ufa.cas.cz/en/institute-structure/department-of-space-physics/space-physics-staff/"
+    }
+   ],
+   "networks": []
+  },
+  "Masaryk University — Department of Theoretical Physics and Astrophysics (ÚTFA)": {
+   "coverage": "leaders",
+   "structure": "Faculty of Science → Department of Theoretical Physics and Astrophysics (ÚTFA)",
+   "structureUrl": "https://www.physics.muni.cz/ustavy/utfa-new",
+   "scopeNote": "Danh bạ nhân sự đầy đủ của ÚTFA không hiển thị tĩnh trên trang khoa nên hiện ghi các giáo sư và giảng viên chủ chốt mảng vật lý thiên văn đã xác minh từ physics.muni.cz.",
+   "units": [
+    {
+     "name": "Astrophysics & High-Energy Astrophysics (ÚTFA)",
+     "kind": "Khoa nghiên cứu đại học",
+     "parent": "Faculty of Science, Masaryk University",
+     "topics": "Vật lý thiên văn năng lượng cao (cụm thiên hà tia X, AGN), khí quyển và gió sao nóng, môi trường liên sao, cụm sao và quang trắc.",
+     "url": "https://www.physics.muni.cz/ustavy/utfa-new"
+    }
+   ],
+   "networks": []
+  },
+  "Silesian University in Opava — Institute of Physics": {
+   "coverage": "leaders",
+   "structure": "Institute of Physics in Opava → Research Centre for Theoretical Physics and Astrophysics",
+   "structureUrl": "https://www.slu.cz/phys/en/",
+   "scopeNote": "Trang web slu.cz chặn truy cập tự động bằng bước kiểm tra trình duyệt nên hiện ghi ban lãnh đạo và các thành viên hội đồng khoa học/đào tạo tiến sĩ ngành Vật lý lý thuyết và Vật lý thiên văn đã xác minh.",
+   "units": [
+    {
+     "name": "Research Centre for Theoretical Physics and Astrophysics",
+     "kind": "Trung tâm nghiên cứu đại học",
+     "parent": "Institute of Physics in Opava, Silesian University",
+     "topics": "Vật lý thiên văn tương đối tính, lỗ đen, sao neutron, đĩa bồi tụ, dao động chuẩn tuần hoàn tia X, lý thuyết hấp dẫn mở rộng và vũ trụ học.",
+     "url": "https://www.slu.cz/phys/en/"
+    }
+   ],
+   "networks": []
+  },
+  "Palacký University Olomouc — Joint Laboratory of Optics (SLO)": {
+   "coverage": "full",
+   "structure": "Faculty of Science (Palacký University) & FZU CAS → Joint Laboratory of Optics (SLO)",
+   "structureUrl": "https://jointlab.upol.cz/jlo/en",
+   "scopeNote": "Danh bạ công khai của SLO liệt kê chung các nhóm nghiên cứu (gồm Particle & Astroparticle Physics tham gia Pierre Auger/CTA/Rubin và các nhóm quang học lượng tử/phi tuyến); đã lọc giữ nhân sự có học vị/chức danh học thuật.",
+   "units": [
+    {
+     "name": "Joint Laboratory of Optics (SLO)",
+     "kind": "Phòng thí nghiệm liên kết đại học – viện hàn lâm",
+     "parent": "Palacký University Olomouc & FZU CAS",
+     "topics": "Vật lý hạt thiên văn (Pierre Auger, CTA, SWGO, Vera C. Rubin/LSST), quang học thiên văn, hiệu chuẩn khí quyển và quang học lượng tử.",
+     "url": "https://jointlab.upol.cz/jlo/cs/content/zamestnanci-spolecne-laboratore-optiky"
+    }
+   ],
+   "networks": [
+    "slo-upol-fzu"
+   ]
+  }
+ }
+}

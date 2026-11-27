@@ -1,0 +1,22 @@
+{
+ "checked": "2026-11-22",
+ "networks": {},
+ "institutions": {
+  "Technical University of Moldova (UTM) — Astronomical Observatory & Planetarium": {
+   "coverage": "leaders",
+   "structure": "Technical University of Moldova → Astronomical Observatory & Planetarium",
+   "structureUrl": "https://utm.md/en/",
+   "scopeNote": "Trang utm.md/en/ chặn tải tự động (403) và không công khai danh bạ nhân sự nghiên cứu riêng; giữ một đầu mối đại diện để thể hiện cơ sở thiên văn duy nhất đang hoạt động tại Chișinău.",
+   "units": [
+    {
+     "name": "Astronomical Observatory & Planetarium (UTM)",
+     "kind": "Đài quan sát đại học",
+     "parent": "Technical University of Moldova",
+     "topics": "Quan sát thiên văn học và đào tạo khoa học vũ trụ.",
+     "url": "https://utm.md/en/"
+    }
+   ],
+   "networks": []
+  }
+ }
+}

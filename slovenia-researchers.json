@@ -1,0 +1,173 @@
+{
+  "country": "Slovenia",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Slovenia, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "University of Ljubljana — Faculty of Mathematics and Physics (UL FMF)::Astronomy Group (Katedra za astronomijo)": {
+      "coverage": "partial",
+      "people": [
+        {
+          "name": "Tomaž Zwitter",
+          "role": "Giáo sư (Quang phổ sao, RAVE/GALAH)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Maruša Bradač",
+          "role": "Giáo sư (Vũ trụ học, JWST, thấu kính hấp dẫn)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Dunja Fabjan",
+          "role": "Trợ lý giáo sư (Vật lý thiên văn lý thuyết)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Gregor Traven",
+          "role": "Nghiên cứu viên (4MOST)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Janez Kos",
+          "role": "Nghiên cứu viên (Khảo sát bầu trời)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Sonja Jejčič",
+          "role": "Nghiên cứu viên / Giảng viên",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Herman Mikuž",
+          "role": "Nhà quan sát viên",
+          "url": "https://astro.fmf.uni-lj.si/"
+        },
+        {
+          "name": "Gregor Rihtaršič",
+          "role": "Nghiên cứu viên (JWST, vật chất tối)",
+          "url": "https://astro.fmf.uni-lj.si/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://astro.fmf.uni-lj.si/",
+        "https://www.fmf.uni-lj.si/"
+      ],
+      "note": "Danh sách giảng viên và nghiên cứu viên chủ chốt của Nhóm Thiên văn UL FMF."
+    },
+    "University of Nova Gorica (UNG) — Center for Astrophysics and Cosmology::Center for Astrophysics and Cosmology (CAC)": {
+      "coverage": "full",
+      "people": [
+        {
+          "name": "Samo Stanič",
+          "role": "Giáo sư; Giám đốc trung tâm",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Danilo Zavrtanik",
+          "role": "Giáo sư",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Andrej Filipčič",
+          "role": "Giáo sư",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Andreja Gomboc",
+          "role": "Giáo sư (Chớp tia gamma, thiên văn miền thời gian)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Gabrijela Zaharijaš",
+          "role": "Giáo sư (Vật lý thiên văn năng lượng cao, vật chất tối)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Marko Zavrtanik",
+          "role": "Giáo sư",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Boštjan Golob",
+          "role": "Giáo sư",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Serguei Vorobiov",
+          "role": "Phó giáo sư",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Tanja Petrushevska",
+          "role": "Trợ lý giáo sư (Siêu tân tinh, sóng hấp dẫn)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Saptashwa Bhattacharyya",
+          "role": "Trợ lý nghiên cứu tiến sĩ",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Taj Jankovič",
+          "role": "Trợ lý nghiên cứu tiến sĩ",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Emilio Bellini",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Pooja Bhattacharjee",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Saqib Hussain",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Oleksandra Razim",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Ilia Musco",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Konstantinos Tanidis",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Pieternella Nikki Arendse",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Carina Fian",
+          "role": "Nghiên cứu sau tiến sĩ (SMASH Fellow)",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Shima Ujjani Shivashankara",
+          "role": "Trợ lý nghiên cứu",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        },
+        {
+          "name": "Mario Aguilar Faúndez",
+          "role": "Trợ lý nghiên cứu / Giảng viên",
+          "url": "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.ung.si/en/research/center-for-astrophysics-and-cosmology/"
+      ],
+      "note": "Đầy đủ đội ngũ giảng viên, nghiên cứu sau tiến sĩ SMASH và trợ lý nghiên cứu của CAC UNG."
+    }
+  }
+}

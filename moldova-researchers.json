@@ -1,0 +1,20 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Cơ sở thiên văn học tại Moldova (Đài thiên văn Đại học Kỹ thuật Moldova UTM, Chișinău).",
+ "units": {
+  "Technical University of Moldova (UTM) — Astronomical Observatory & Planetarium::Astronomical Observatory & Planetarium (UTM)": {
+   "sources": [
+    "https://utm.md/en/"
+   ],
+   "people": [
+    {
+     "name": "Vitalie Chistol",
+     "role": "Giám đốc Đài thiên văn UTM",
+     "url": "https://utm.md/en/"
+    }
+   ],
+   "external": [],
+   "note": "Chủ yếu hoạt động quan sát giáo dục và đào tạo; không có viện nghiên cứu thiên văn độc lập."
+  }
+ }
+}

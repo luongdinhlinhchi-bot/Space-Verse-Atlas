@@ -1,0 +1,22 @@
+{
+  "country": "Kosovo",
+  "checked": "2026-11-22",
+  "scope": "Danh sách nhà nghiên cứu thiên văn, vật lý thiên văn và khoa học vũ trụ tại Kosovo, trích từ nguồn chính thức của các cơ quan.",
+  "units": {
+    "University of Prishtina (FSHMN) & Astronomy Club of Kosova (Prishtina Observatory)::Prishtina Observatory & Physics Cooperation": {
+      "coverage": "leaders",
+      "people": [
+        {
+          "name": "Suhel Ahmeti",
+          "role": "Đại diện lãnh đạo Astronomy Club of Kosova / Đài thiên văn Prishtina",
+          "url": "https://www.uni-pr.edu/"
+        }
+      ],
+      "external": [],
+      "sources": [
+        "https://www.uni-pr.edu/"
+      ],
+      "note": "Ghi nhận đại diện điều phối hợp tác quan sát thiên văn giữa ĐH Prishtina và Đài thiên văn Prishtina."
+    }
+  }
+}

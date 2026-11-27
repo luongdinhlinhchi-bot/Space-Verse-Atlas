@@ -1,0 +1,20 @@
+{
+ "checked": "2026-11-22",
+ "scope": "Cơ sở đào tạo và nghiên cứu vật lý thiên văn lý thuyết tại Belarus (ĐH Quốc gia Belarus BSU, Minsk).",
+ "units": {
+  "Belarusian State University (BSU) — Department of Theoretical Physics and Astrophysics::Department of Theoretical Physics and Astrophysics": {
+   "sources": [
+    "https://physics.bsu.by/en/departments/theoretical-physics-and-astrophysics"
+   ],
+   "people": [
+    {
+     "name": "Alexander L. Poplavsky",
+     "role": "Giảng viên / Nghiên cứu viên",
+     "url": "https://physics.bsu.by/en/departments/theoretical-physics-and-astrophysics"
+    }
+   ],
+   "external": [],
+   "note": "Máy chủ physics.bsu.by hết thời gian chờ khi tải trực tiếp."
+  }
+ }
+}

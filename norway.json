@@ -1,0 +1,74 @@
+{
+ "country": "NOR",
+ "checked": "2026-11-22",
+ "viewBox": "140 0 480 460",
+ "pin": 6,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ). Bốn trung tâm Oslo, Bergen, Trondheim và Tromsø tách biệt rõ trên bản đồ.",
+ "listSource": "https://www.mn.uio.no/astro/english/people/aca/",
+ "cities": [
+  {
+   "id": "oslo",
+   "city": "Oslo",
+   "coordinates": [
+    10.75,
+    59.91
+   ],
+   "institutions": [
+    {
+     "name": "University of Oslo — Institute of Theoretical Astrophysics (ITA) & RoCS",
+     "type": "university",
+     "research": "Vũ trụ học (Planck, Euclid, LiteBIRD, Cosmoglobe), vật lý thiên văn ngoài thiên hà (AtLAST), vật lý Mặt Trời tại trung tâm Xuất sắc RoCS (SST, IRIS, Solar Orbiter) và vật lý thiên văn tính toán.",
+     "url": "https://www.mn.uio.no/astro/english/people/aca/"
+    }
+   ]
+  },
+  {
+   "id": "bergen",
+   "city": "Bergen",
+   "coordinates": [
+    5.32,
+    60.39
+   ],
+   "institutions": [
+    {
+     "name": "University of Bergen — Space Physics Group (BCSS)",
+     "type": "university",
+     "research": "Vật lý không gian, động lực học địa không gian bất đối xứng, mưa hạt năng lượng cao, bức xạ cứng từ dông bão khí quyển (ASIM) và thời tiết không gian.",
+     "url": "https://birkeland.uib.no/people/"
+    }
+   ]
+  },
+  {
+   "id": "trondheim",
+   "city": "Trondheim",
+   "coordinates": [
+    10.4,
+    63.43
+   ],
+   "institutions": [
+    {
+     "name": "NTNU — Department of Physics (Astrophysics and Theoretical Physics)",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao (sao neutron, lỗ đen, hệ sao đôi tia X), vật lý hạt thiên văn, vũ trụ học và vật lý lý thuyết.",
+     "url": "https://www.ntnu.edu/physics"
+    }
+   ]
+  },
+  {
+   "id": "tromso",
+   "city": "Tromsø",
+   "coordinates": [
+    18.96,
+    69.65
+   ],
+   "institutions": [
+    {
+     "name": "UiT The Arctic University of Norway — Space Physics Group",
+     "type": "university",
+     "research": "Vật lý cực quang, tầng điện ly vùng cực, radar tán xạ không kết hợp EISCAT / EISCAT_3D, bụi vũ trụ và plasma không gian.",
+     "url": "https://uit.no/enhet/ift"
+    }
+   ]
+  }
+ ]
+}
