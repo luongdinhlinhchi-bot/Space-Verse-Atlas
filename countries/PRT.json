@@ -1,0 +1,445 @@
+{
+ "cities": [
+  {
+   "id": "lisboa",
+   "city": "Lisboa",
+   "coordinates": [
+    -9.14,
+    38.72
+   ],
+   "institutions": [
+    {
+     "name": "CENTRA — Centro de Astrofísica e Gravitação, Instituto Superior Técnico (Universidade de Lisboa)",
+     "type": "institute",
+     "research": "Vật lý lỗ đen và sóng hấp dẫn (LIGO-Virgo, LISA, Einstein Telescope), tương đối số, Big Bang và vũ trụ lạm phát, siêu tân tinh, vật lý sao và Mặt Trời, thiên hà và vật chất tối, thiết bị khoa học và không gian.",
+     "url": "https://centra.tecnico.ulisboa.pt/",
+     "coverage": "leaders",
+     "structure": "Đơn vị nghiên cứu của IST với ba nhóm: Gravitation in Técnico (GRIT), Cosmos and Stars (COSTAR), Scientific and Space Instrumentation and Modeling (SIM); thành viên ở IST và FEUP.",
+     "structureUrl": "https://centra.tecnico.ulisboa.pt/about",
+     "scopeNote": "Danh sách thành viên trên Técnico Scholar tải bằng JavaScript nên không đọc được (11/2026); chỉ ghi Ban điều hành CENTRA 2022–2025 và trưởng dự án tiêu biểu.",
+     "units": [
+      {
+       "name": "Ban điều hành CENTRA",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CENTRA",
+       "topics": "GRIT, COSTAR, SIM.",
+       "url": "https://centra.tecnico.ulisboa.pt/about",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ilídio Lopes (chủ tịch)",
+          "role": "Ban điều hành 2022–2025",
+          "url": "https://centra.tecnico.ulisboa.pt/about"
+         },
+         {
+          "name": "José Pizarro de Sande e Lemos (phó chủ tịch)",
+          "role": "Ban điều hành 2022–2025",
+          "url": "https://centra.tecnico.ulisboa.pt/about"
+         },
+         {
+          "name": "David Hilditch (ủy viên)",
+          "role": "Ban điều hành 2022–2025",
+          "url": "https://centra.tecnico.ulisboa.pt/about"
+         },
+         {
+          "name": "Vítor Cardoso",
+          "role": "GS, điều phối consortium châu Âu về vật lý thiên văn sóng hấp dẫn",
+          "url": "https://tecnico.ulisboa.pt/en/tag/consortium"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://centra.tecnico.ulisboa.pt/about"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "porto",
+   "city": "Porto",
+   "coordinates": [
+    -8.61,
+    41.15
+   ],
+   "institutions": [
+    {
+     "name": "Instituto de Astrofísica e Ciências do Espaço (IA)",
+     "type": "institute",
+     "research": "Ngoại hành tinh (ESPRESSO, PLATO, CHEOPS, Ariel), địa chấn sao và vật lý sao, thiên hà và vũ trụ học (Euclid, MOONS), vật lý cơ bản và hằng số tự nhiên, Hệ Mặt Trời và khí quyển hành tinh, thiết bị thiên văn và vũ trụ.",
+     "url": "https://www.iastro.pt/",
+     "coverage": "partial",
+     "structure": "Đơn vị nghiên cứu quốc gia hình thành năm 2015 từ việc hợp nhất Centro de Astrofísica da Universidade do Porto (CAUP) và Centro de Astronomia e Astrofísica da Universidade de Lisboa (CAAUL); có các cực ở ĐH Porto, ĐH Lisboa và ĐH Coimbra; nhiều nhóm nghiên cứu theo chủ đề.",
+     "structureUrl": "https://www.iastro.pt/research/index.html",
+     "scopeNote": "Đủ 67 nhà nghiên cứu tiến sĩ theo trang Team của IA (11/2026); trang không ghi chức danh, cực (Porto/Lisboa/Coimbra) hay nhóm, và không liệt kê postdoc/NCS. Đặt ở Porto vì đây là trụ sở chính, dù nhiều người làm ở Lisboa và Coimbra.",
+     "units": [
+      {
+       "name": "Nhà nghiên cứu (Team)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "IA",
+       "topics": "Mọi nhóm nghiên cứu của IA: ngoại hành tinh, sao, thiên hà, vũ trụ học, Hệ Mặt Trời, thiết bị.",
+       "url": "https://www.iastro.pt/ia/researchers.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alberto Negrão",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Alexandre Cabral",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Ana S. Paulino Afonso",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "André Miguel A. C. V. Silva",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Andrew R. Liddle",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Anna Morozova",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "António C. da Silva",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Bachar Wehbe",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Cédric P. Pereira",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Carlos J. A. P. Martins",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Catarina Lobo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Ciro Pappalardo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Clara Sousa Silva",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Daniel F. M. Folha",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "David Castro Alves",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Eduardo A. S. Cristo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Elena Duarte",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Francisco S. N. Lobo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Ilídio André P. M. Costa",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Ismael Tereno",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Israel Matute",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "João Coelho",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "João Dinis",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "João J. G. Lima",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "João L. Yun",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Joana Marques",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Jorge Filipe Gameiro",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Jorge H. C. Martins",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "José Fonseca",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "José Afonso",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "José M. Rebordão",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "José Pedro Mimoso",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Khaled Al Moulla",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Koraljka Muzic",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "L. Filipe Pereira",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Lara G. Sousa",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Mário J. P. F. G. Monteiro",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "M. S. Nanda Kumar",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Manuel Abreu",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Margarida S. Cunha",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Maria Teresa Barata",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Marina Cortês",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Marta Cortesão",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Nelson J. Nunes",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Nuno Barros e Sá",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Nuno Peixinho",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Nuno C. Santos",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Olivier D. S. Demangeon",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Paulo Crawford",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Paulo Maurício de Carvalho",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Pedro Machado",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Pedro Moreno",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Pedro B. Lacerda",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Pedro P. Avelino",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Pedro T. P. Viana",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Polychronis Papaderos",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Raul Cerveira Lima",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Ricardo Jorge Gafeira",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Rui Agostinho",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Sílvia Vicente",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Sérgio A. G. Sousa",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Susana C. C. Barros",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Tiago Barreiro",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Tiago J. L. C. E. Campante",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Vardan Zh. Adibekyan",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "William Dethier",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         },
+         {
+          "name": "Yolanda Frensch",
+          "role": "Nhà nghiên cứu",
+          "url": "https://www.iastro.pt/ia/researchers.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.iastro.pt/ia/researchers.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "PRT",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Bản đồ chỉ gồm lục địa Bồ Đào Nha, không gồm Açores và Madeira.",
+ "listSource": "https://www.iastro.pt/ia"
+}

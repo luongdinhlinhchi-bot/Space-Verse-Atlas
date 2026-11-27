@@ -1,0 +1,5 @@
+@country PRT
+checked: 2026-11-28
+pin: 5
+coordinateNote: Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà. Bản đồ chỉ gồm lục địa Bồ Đào Nha, không gồm Açores và Madeira.
+listSource: https://www.iastro.pt/ia

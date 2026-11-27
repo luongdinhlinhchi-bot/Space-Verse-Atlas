@@ -1,0 +1,19 @@
+@city lisboa | Lisboa | -9.14, 38.72
+
+@inst CENTRA — Centro de Astrofísica e Gravitação, Instituto Superior Técnico (Universidade de Lisboa)
+city: lisboa
+type: institute
+url: https://centra.tecnico.ulisboa.pt/
+research: Vật lý lỗ đen và sóng hấp dẫn (LIGO-Virgo, LISA, Einstein Telescope), tương đối số, Big Bang và vũ trụ lạm phát, siêu tân tinh, vật lý sao và Mặt Trời, thiên hà và vật chất tối, thiết bị khoa học và không gian.
+coverage: leaders
+structure: Đơn vị nghiên cứu của IST với ba nhóm: Gravitation in Técnico (GRIT), Cosmos and Stars (COSTAR), Scientific and Space Instrumentation and Modeling (SIM); thành viên ở IST và FEUP.
+structureUrl: https://centra.tecnico.ulisboa.pt/about
+scope: Danh sách thành viên trên Técnico Scholar tải bằng JavaScript nên không đọc được (11/2026); chỉ ghi Ban điều hành CENTRA 2022–2025 và trưởng dự án tiêu biểu.
+
+#unit Ban điều hành CENTRA
+parent: CENTRA
+topics: GRIT, COSTAR, SIM.
+url: https://centra.tecnico.ulisboa.pt/about
+src: https://centra.tecnico.ulisboa.pt/about
+pp: Ban điều hành 2022–2025 | Ilídio Lopes (chủ tịch); José Pizarro de Sande e Lemos (phó chủ tịch); David Hilditch (ủy viên)
+p: Vítor Cardoso | GS, điều phối consortium châu Âu về vật lý thiên văn sóng hấp dẫn | https://tecnico.ulisboa.pt/en/tag/consortium

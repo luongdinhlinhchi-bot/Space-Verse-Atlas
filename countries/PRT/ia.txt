@@ -1,0 +1,18 @@
+@city porto | Porto | -8.61, 41.15
+
+@inst Instituto de Astrofísica e Ciências do Espaço (IA)
+city: porto
+type: institute
+url: https://www.iastro.pt/
+research: Ngoại hành tinh (ESPRESSO, PLATO, CHEOPS, Ariel), địa chấn sao và vật lý sao, thiên hà và vũ trụ học (Euclid, MOONS), vật lý cơ bản và hằng số tự nhiên, Hệ Mặt Trời và khí quyển hành tinh, thiết bị thiên văn và vũ trụ.
+coverage: partial
+structure: Đơn vị nghiên cứu quốc gia hình thành năm 2015 từ việc hợp nhất Centro de Astrofísica da Universidade do Porto (CAUP) và Centro de Astronomia e Astrofísica da Universidade de Lisboa (CAAUL); có các cực ở ĐH Porto, ĐH Lisboa và ĐH Coimbra; nhiều nhóm nghiên cứu theo chủ đề.
+structureUrl: https://www.iastro.pt/research/index.html
+scope: Đủ 67 nhà nghiên cứu tiến sĩ theo trang Team của IA (11/2026); trang không ghi chức danh, cực (Porto/Lisboa/Coimbra) hay nhóm, và không liệt kê postdoc/NCS. Đặt ở Porto vì đây là trụ sở chính, dù nhiều người làm ở Lisboa và Coimbra.
+
+#unit Nhà nghiên cứu (Team)
+parent: IA
+topics: Mọi nhóm nghiên cứu của IA: ngoại hành tinh, sao, thiên hà, vũ trụ học, Hệ Mặt Trời, thiết bị.
+url: https://www.iastro.pt/ia/researchers.html
+src: https://www.iastro.pt/ia/researchers.html
+pp: Nhà nghiên cứu | Alberto Negrão; Alexandre Cabral; Ana S. Paulino Afonso; André Miguel A. C. V. Silva; Andrew R. Liddle; Anna Morozova; António C. da Silva; Bachar Wehbe; Cédric P. Pereira; Carlos J. A. P. Martins; Catarina Lobo; Ciro Pappalardo; Clara Sousa Silva; Daniel F. M. Folha; David Castro Alves; Eduardo A. S. Cristo; Elena Duarte; Francisco S. N. Lobo; Ilídio André P. M. Costa; Ismael Tereno; Israel Matute; João Coelho; João Dinis; João J. G. Lima; João L. Yun; Joana Marques; Jorge Filipe Gameiro; Jorge H. C. Martins; José Fonseca; José Afonso; José M. Rebordão; José Pedro Mimoso; Khaled Al Moulla; Koraljka Muzic; L. Filipe Pereira; Lara G. Sousa; Mário J. P. F. G. Monteiro; M. S. Nanda Kumar; Manuel Abreu; Margarida S. Cunha; Maria Teresa Barata; Marina Cortês; Marta Cortesão; Nelson J. Nunes; Nuno Barros e Sá; Nuno Peixinho; Nuno C. Santos; Olivier D. S. Demangeon; Paulo Crawford; Paulo Maurício de Carvalho; Pedro Machado; Pedro Moreno; Pedro B. Lacerda; Pedro P. Avelino; Pedro T. P. Viana; Polychronis Papaderos; Raul Cerveira Lima; Ricardo Jorge Gafeira; Rui Agostinho; Sílvia Vicente; Sérgio A. G. Sousa; Susana C. C. Barros; Tiago Barreiro; Tiago J. L. C. E. Campante; Vardan Zh. Adibekyan; William Dethier; Yolanda Frensch
