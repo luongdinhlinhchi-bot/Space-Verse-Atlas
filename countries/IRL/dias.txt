@@ -1,0 +1,40 @@
+@city dublin | Dublin | -6.26, 53.35
+@city galway | Galway | -9.06, 53.28
+
+@inst Dublin Institute for Advanced Studies – Astronomy & Astrophysics Section (DIAS)
+city: dublin
+type: institute
+url: https://www.dunsink.dias.ie/
+research: Vật lý Mặt Trời và thời tiết không gian (LOFAR, I-LOFAR), từ quyển hành tinh, hình thành sao và sao trẻ, sao lùn nâu và ngoại hành tinh, thiên văn năng lượng cao và tia vũ trụ (H.E.S.S., CTA), detector MKID.
+coverage: leaders
+structure: Phân ban Thiên văn và Vật lý thiên văn thuộc Trường Vật lý Vũ trụ, Viện Nghiên cứu Cao cấp Dublin; hai cơ sở: Đài Dunsink và số 31 Fitzwilliam Place; thành viên liên minh Astronomical Observatories of Ireland.
+structureUrl: https://dias.ie/?p=5117
+scope: Chỉ trưởng phân ban và trưởng nhóm thấy được qua kết quả tìm kiếm; trang danh sách nhân sự của DIAS cần JavaScript nên không đọc được.
+
+#unit Lãnh đạo phân ban
+parent: DIAS
+topics: Mặt Trời, thời tiết không gian, từ quyển hành tinh, năng lượng cao.
+url: https://www.dunsink.dias.ie/
+src: https://dias.ie/category/astro/astro-staff/page/5
+p: Peter Gallagher | Giáo sư cao cấp; trưởng phân ban | https://dias.ie/category/astro/astro-staff/page/5
+pp: Giáo sư / trưởng nhóm | Felix Aharonian (năng lượng cao); Caitriona Jackman (trưởng nhóm Từ quyển hành tinh)
+
+@inst Centre for Astronomy (CfA), University of Galway
+city: galway
+type: university
+url: https://astro.universityofgalway.ie/
+research: Sao và hành tinh (sao lùn siêu lạnh, đĩa tiền hành tinh), thiết bị thiên văn (quang học thích ứng, camera tốc độ cao), thiên văn tia gamma (VERITAS, CTA).
+coverage: full
+structure: Trung tâm thành lập năm 2007 trong Bộ môn Vật lý, Trường Khoa học Tự nhiên; giám đốc Aaron Golden.
+structureUrl: https://www.universityofgalway.ie/astro/contact/
+scope: Đủ cán bộ theo trang Research của trung tâm (11/2026); chưa gồm postdoc và NCS.
+
+#unit Centre for Astronomy
+parent: CfA
+topics: Sao và hành tinh, thiết bị thiên văn, thiên văn tia gamma.
+url: https://astro.universityofgalway.ie/
+src: https://universityofgalway.ie/astro/research/
+p: Aaron Golden | Giám đốc; giáo sư vật lý liên ngành | https://www.universityofgalway.ie/astro/contact/
+pp: Sao và hành tinh | Ray Butler; Christian Ginski; Matt Redman
+pp: Thiết bị thiên văn | Nicholas Devaney; Alexander Goncharov; Niamh Fitzgerald
+pp: Thiên văn tia gamma | Gary Gillanders; Mark Lang

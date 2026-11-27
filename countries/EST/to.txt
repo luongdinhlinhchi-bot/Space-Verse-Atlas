@@ -1,0 +1,42 @@
+@city toravere | Tõravere (Tartu) | 26.47, 58.26
+
+@inst Tartu Observatory, University of Tartu
+city: toravere
+type: observatory
+url: https://kosmos.ut.ee/en
+research: Vật lý sao và sao đôi, sao biến quang; vật lý thiên hà, cấu trúc quy mô lớn và vũ trụ học (khảo sát 4MOST, Euclid); vật lý thiên văn năng lượng cao; công nghệ vũ trụ (vệ tinh ESTCube, thiết bị cho Comet Interceptor) và viễn thám.
+coverage: full
+structure: Đài thiên văn thuộc Đại học Tartu; giám đốc Antti Tamm; các bộ phận Thiên văn / vật lý thiên văn, Vật lý thiên hà và vũ trụ học (trưởng Elmo Tempel), Công nghệ vũ trụ (trưởng Mihkel Pajusalu), Viễn thám.
+structureUrl: https://kosmos.ut.ee/en/department-physics-galaxies-and-cosmology
+scope: Đủ nhân sự nghiên cứu thiên văn, vật lý thiên văn và công nghệ vũ trụ theo trang liên hệ của đài (11/2026); không gồm bộ phận viễn thám Trái Đất, kỹ sư, nhân viên hành chính và người làm bán thời gian dưới 0,5 vị trí.
+
+#unit Thiên văn và vật lý sao
+parent: Tartu Observatory
+topics: Sao, sao đôi, sao biến quang, vật lý thiên văn năng lượng cao.
+url: https://kosmos.ut.ee/en/tartu-observatory
+src: https://kosmos.ut.ee/en/tartu-observatory
+p: Antti Tamm | Giám đốc đài; phó giáo sư | https://kosmos.ut.ee/en/tartu-observatory
+p: Tiina Liimets | Trưởng văn phòng; nghiên cứu viên vật lý sao | https://kosmos.ut.ee/en/tartu-observatory
+pp: Giáo sư / phó giáo sư | Mihkel Kama (giáo sư thỉnh giảng); Indrek Kolka; Anna Aret; Rain Kipper; Laurits Leedjärv
+pp: Nghiên cứu viên | Tõnis Eenmäe; Heleri Ramler; Indrek Vurm; Jakub Cehula; Colin Peter Folsom (thỉnh giảng)
+pp: Nghiên cứu viên trẻ | Havva Bostan; Aikaterini Niovi Triantafyllaki; Ninad Bhagwan Khobrekar; Vitalii Checha; Kärt Soieva; Alexandra Lehtmets; Veronika Mitrokhina
+
+#unit Department of Physics of Galaxies and Cosmology
+parent: Tartu Observatory
+topics: Thiên hà, cấu trúc quy mô lớn, vũ trụ học, khảo sát 4MOST.
+url: https://kosmos.ut.ee/en/department-physics-galaxies-and-cosmology
+src: https://kosmos.ut.ee/en/tartu-observatory
+p: Elmo Tempel | Trưởng bộ phận; giáo sư thiên văn; viện sĩ | https://ut.ee/en/node/104237
+pp: Giáo sư / phó giáo sư | Jaan Einasto (viện sĩ); Peeter Tenjes; Maret Einasto
+pp: Nghiên cứu viên | Jaan Laur; Taavi Tuvikene; Lauri Juhan Liivamägi; Moorits Mihkel Muru; Teet Kuutma; Shishir Sankhyayan; Boris Zhivkov Deshev (thỉnh giảng); Luis Eduardo Suelves (thỉnh giảng)
+pp: Nghiên cứu viên trẻ | Mousumi Mahato; Jad-Alexandru Mansour; Kelly Kelder; Annaliina Sofia Aavik; Sumedh Ajit Ghamande; Zoe Rhiannon Jones
+
+#unit Space Technology
+parent: Tartu Observatory
+topics: Vệ tinh nhỏ, thiết bị không gian (Comet Interceptor), thám hiểm vũ trụ.
+url: https://tospexgroup.space/?p=74
+src: https://kosmos.ut.ee/en/tartu-observatory
+p: Mihkel Pajusalu | Trưởng bộ phận; phó giáo sư công nghệ vũ trụ | https://tospexgroup.space/?p=74
+pp: Giáo sư / phó giáo sư | Mart Noorma; Riho Vendt
+pp: Nghiên cứu viên | Viktor Vabson
+pp: Nghiên cứu viên trẻ | Ric Dengel; Mario Fernández Palos; Laila Kaasik; Rando Avarmaa; Silvar Muru; Hans Teras

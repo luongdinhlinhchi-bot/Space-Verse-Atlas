@@ -1,0 +1,22 @@
+@city vilnius | Vilnius | 25.28, 54.69
+
+@inst Institute of Theoretical Physics and Astronomy (ITPA), Vilnius University
+city: vilnius
+type: university
+url: https://www.ff.vu.lt/en/itpa/about-itpa
+research: Quang phổ sao và thành phần hóa học (Gaia-ESO, PLATO, TESS), tiến hóa thiên hà và cụm sao, khí quyển sao 3D, AGN và phản hồi, tiểu hành tinh và sao chổi; Đài thiên văn Molėtai với kính 1,65 m.
+coverage: partial
+structure: Một trong năm đơn vị của Khoa Vật lý, Đại học Vilnius, gồm cả vật lý lý thuyết và thiên văn; giám đốc Egidijus Anisimovas (từ 2023); sở hữu Đài thiên văn Molėtai.
+structureUrl: https://www.ff.vu.lt/en/itpa/about-itpa/general-information
+scope: Chỉ các nhà thiên văn trong mục nhân sự của báo cáo năm 2023 (tên viết tắt như trong báo cáo); báo cáo không tách riêng bộ phận thiên văn nên danh sách được lọc theo lĩnh vực, có thể sót hoặc lẫn người làm vật lý lý thuyết.
+
+#unit Thiên văn và vật lý thiên văn (ITPA)
+parent: ITPA
+topics: Quang phổ sao, Ngân Hà, cụm sao, thiên hà, AGN, vật thể nhỏ hệ Mặt Trời.
+url: https://mao.tfai.vu.lt/sci/en/about-observatory/history-of-observatory/
+src: https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf
+p: Gražina Tautvaišienė | Giáo sư; cựu giám đốc ITPA (2018–2023) | https://www.ff.vu.lt/en/itpa/staff/tautvaisiene
+pp: Giáo sư / giáo sư nghiên cứu | A. Kučinskas; V. Vansevičius; K. Černis; L. Pilyugin
+pp: Phó giáo sư / nghiên cứu viên cao cấp | A. Drazdauskas; Šarūnas Mikolaitis; D. Narbutis; E. Stonkutė; R. Stonkutė; K. Zubovas; A. Kazlauskas; J. Sperauskas; Renata Minkevičiūtė; Erika Pakštienė; J. Zdanavičius
+pp: Nghiên cứu viên | V. Dobrovolskas; J. Klevas; M. Maskoliūnas; Carlos Viscasillas Vázquez
+pp: Nghiên cứu viên trẻ / NCS | M. Ambrosch; E. Kolomiecas; R. Adomavičienė; V. Bagdonas

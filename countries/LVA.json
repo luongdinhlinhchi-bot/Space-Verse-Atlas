@@ -1,0 +1,77 @@
+{
+ "cities": [
+  {
+   "id": "riga",
+   "city": "Riga",
+   "coordinates": [
+    24.11,
+    56.95
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Astronomy, University of Latvia",
+     "type": "university",
+     "research": "Đo khoảng cách vệ tinh bằng laser (SLR) và GNSS, công nghệ quan sát vệ tinh; sao ở giai đoạn tiến hóa muộn và tiểu hành tinh (Đài Baldone, kính Schmidt 1,2 m); quang học phi tuyến và quang tử.",
+     "url": "https://www.lu.lv/en/astr/",
+     "coverage": "leaders",
+     "structure": "Viện thuộc Khoa Khoa học và Công nghệ, Đại học Latvia; hai đài: Baldone và Đài địa động lực cơ bản ở Riga.",
+     "structureUrl": "https://eztf.lu.lv/en/science/institutes/institute-of-astronomy",
+     "scopeNote": "Chỉ có quyền giám đốc; trang viện không công bố danh sách nhân sự nghiên cứu.",
+     "units": [
+      {
+       "name": "Ban giám đốc",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institute of Astronomy, University of Latvia",
+       "topics": "SLR, quan sát vệ tinh, tiểu hành tinh, sao tiến hóa muộn.",
+       "url": "https://www.lu.lv/en/astr/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Kalvis Salmiņš",
+          "role": "Quyền giám đốc",
+          "url": "https://www.lu.lv/en/about-us/governance/directors-of-institutes/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://eztf.lu.lv/en/science/institutes/institute-of-astronomy"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "ventspils",
+   "city": "Ventspils (Irbene)",
+   "coordinates": [
+    21.57,
+    57.39
+   ],
+   "institutions": [
+    {
+     "name": "Ventspils International Radio Astronomy Centre (VIRAC)",
+     "type": "observatory",
+     "research": "Thiên văn vô tuyến quan sát: kính vô tuyến RT-32 và RT-16 ở Irbene, trạm LOFAR, VLBI (thành viên JIVE); vật lý thiên văn lý thuyết, công nghệ vũ trụ và liên lạc không gian sâu.",
+     "url": "https://en.venta.lv/virac",
+     "coverage": "limited",
+     "structure": "Viện nghiên cứu kỹ thuật thuộc Đại học Khoa học Ứng dụng Ventspils; hơn 75 chuyên gia; trung tâm thiên văn vô tuyến duy nhất ở các nước Baltic.",
+     "structureUrl": "https://latviaspace.gov.lv/en/directory/ventspils-international-radio-astronomy-centre/",
+     "scopeNote": "Chưa có danh sách nhân sự; website không công bố danh bạ nhà nghiên cứu.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "LVA",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://www.lu.lv/en/astr/"
+}

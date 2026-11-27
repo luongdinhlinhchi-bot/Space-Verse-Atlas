@@ -1,0 +1,29 @@
+@city riga | Riga | 24.11, 56.95
+@city ventspils | Ventspils (Irbene) | 21.57, 57.39
+
+@inst Institute of Astronomy, University of Latvia
+city: riga
+type: university
+url: https://www.lu.lv/en/astr/
+research: Đo khoảng cách vệ tinh bằng laser (SLR) và GNSS, công nghệ quan sát vệ tinh; sao ở giai đoạn tiến hóa muộn và tiểu hành tinh (Đài Baldone, kính Schmidt 1,2 m); quang học phi tuyến và quang tử.
+coverage: leaders
+structure: Viện thuộc Khoa Khoa học và Công nghệ, Đại học Latvia; hai đài: Baldone và Đài địa động lực cơ bản ở Riga.
+structureUrl: https://eztf.lu.lv/en/science/institutes/institute-of-astronomy
+scope: Chỉ có quyền giám đốc; trang viện không công bố danh sách nhân sự nghiên cứu.
+
+#unit Ban giám đốc
+parent: Institute of Astronomy, University of Latvia
+topics: SLR, quan sát vệ tinh, tiểu hành tinh, sao tiến hóa muộn.
+url: https://www.lu.lv/en/astr/
+src: https://eztf.lu.lv/en/science/institutes/institute-of-astronomy
+p: Kalvis Salmiņš | Quyền giám đốc | https://www.lu.lv/en/about-us/governance/directors-of-institutes/
+
+@inst Ventspils International Radio Astronomy Centre (VIRAC)
+city: ventspils
+type: observatory
+url: https://en.venta.lv/virac
+research: Thiên văn vô tuyến quan sát: kính vô tuyến RT-32 và RT-16 ở Irbene, trạm LOFAR, VLBI (thành viên JIVE); vật lý thiên văn lý thuyết, công nghệ vũ trụ và liên lạc không gian sâu.
+coverage: limited
+structure: Viện nghiên cứu kỹ thuật thuộc Đại học Khoa học Ứng dụng Ventspils; hơn 75 chuyên gia; trung tâm thiên văn vô tuyến duy nhất ở các nước Baltic.
+structureUrl: https://latviaspace.gov.lv/en/directory/ventspils-international-radio-astronomy-centre/
+scope: Chưa có danh sách nhân sự; website không công bố danh bạ nhà nghiên cứu.

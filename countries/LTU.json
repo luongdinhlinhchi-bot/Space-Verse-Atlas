@@ -1,0 +1,170 @@
+{
+ "cities": [
+  {
+   "id": "vilnius",
+   "city": "Vilnius",
+   "coordinates": [
+    25.28,
+    54.69
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Theoretical Physics and Astronomy (ITPA), Vilnius University",
+     "type": "university",
+     "research": "Quang phổ sao và thành phần hóa học (Gaia-ESO, PLATO, TESS), tiến hóa thiên hà và cụm sao, khí quyển sao 3D, AGN và phản hồi, tiểu hành tinh và sao chổi; Đài thiên văn Molėtai với kính 1,65 m.",
+     "url": "https://www.ff.vu.lt/en/itpa/about-itpa",
+     "coverage": "partial",
+     "structure": "Một trong năm đơn vị của Khoa Vật lý, Đại học Vilnius, gồm cả vật lý lý thuyết và thiên văn; giám đốc Egidijus Anisimovas (từ 2023); sở hữu Đài thiên văn Molėtai.",
+     "structureUrl": "https://www.ff.vu.lt/en/itpa/about-itpa/general-information",
+     "scopeNote": "Chỉ các nhà thiên văn trong mục nhân sự của báo cáo năm 2023 (tên viết tắt như trong báo cáo); báo cáo không tách riêng bộ phận thiên văn nên danh sách được lọc theo lĩnh vực, có thể sót hoặc lẫn người làm vật lý lý thuyết.",
+     "units": [
+      {
+       "name": "Thiên văn và vật lý thiên văn (ITPA)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ITPA",
+       "topics": "Quang phổ sao, Ngân Hà, cụm sao, thiên hà, AGN, vật thể nhỏ hệ Mặt Trời.",
+       "url": "https://mao.tfai.vu.lt/sci/en/about-observatory/history-of-observatory/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Gražina Tautvaišienė",
+          "role": "Giáo sư; cựu giám đốc ITPA (2018–2023)",
+          "url": "https://www.ff.vu.lt/en/itpa/staff/tautvaisiene"
+         },
+         {
+          "name": "A. Kučinskas",
+          "role": "Giáo sư / giáo sư nghiên cứu",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "V. Vansevičius",
+          "role": "Giáo sư / giáo sư nghiên cứu",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "K. Černis",
+          "role": "Giáo sư / giáo sư nghiên cứu",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "L. Pilyugin",
+          "role": "Giáo sư / giáo sư nghiên cứu",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "A. Drazdauskas",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "Šarūnas Mikolaitis",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "D. Narbutis",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "E. Stonkutė",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "R. Stonkutė",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "K. Zubovas",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "A. Kazlauskas",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "J. Sperauskas",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "Renata Minkevičiūtė",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "Erika Pakštienė",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "J. Zdanavičius",
+          "role": "Phó giáo sư / nghiên cứu viên cao cấp",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "V. Dobrovolskas",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "J. Klevas",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "M. Maskoliūnas",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "Carlos Viscasillas Vázquez",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "M. Ambrosch",
+          "role": "Nghiên cứu viên trẻ / NCS",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "E. Kolomiecas",
+          "role": "Nghiên cứu viên trẻ / NCS",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "R. Adomavičienė",
+          "role": "Nghiên cứu viên trẻ / NCS",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         },
+         {
+          "name": "V. Bagdonas",
+          "role": "Nghiên cứu viên trẻ / NCS",
+          "url": "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.ff.vu.lt/external/ff/files/institutai/TFAI/apie_instituta/metines_ataskaitos/en/VU-ITPA-annual-report-2023.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "LTU",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://www.ff.vu.lt/en/itpa/about-itpa"
+}

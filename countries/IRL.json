@@ -1,0 +1,150 @@
+{
+ "cities": [
+  {
+   "id": "dublin",
+   "city": "Dublin",
+   "coordinates": [
+    -6.26,
+    53.35
+   ],
+   "institutions": [
+    {
+     "name": "Dublin Institute for Advanced Studies – Astronomy & Astrophysics Section (DIAS)",
+     "type": "institute",
+     "research": "Vật lý Mặt Trời và thời tiết không gian (LOFAR, I-LOFAR), từ quyển hành tinh, hình thành sao và sao trẻ, sao lùn nâu và ngoại hành tinh, thiên văn năng lượng cao và tia vũ trụ (H.E.S.S., CTA), detector MKID.",
+     "url": "https://www.dunsink.dias.ie/",
+     "coverage": "leaders",
+     "structure": "Phân ban Thiên văn và Vật lý thiên văn thuộc Trường Vật lý Vũ trụ, Viện Nghiên cứu Cao cấp Dublin; hai cơ sở: Đài Dunsink và số 31 Fitzwilliam Place; thành viên liên minh Astronomical Observatories of Ireland.",
+     "structureUrl": "https://dias.ie/?p=5117",
+     "scopeNote": "Chỉ trưởng phân ban và trưởng nhóm thấy được qua kết quả tìm kiếm; trang danh sách nhân sự của DIAS cần JavaScript nên không đọc được.",
+     "units": [
+      {
+       "name": "Lãnh đạo phân ban",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "DIAS",
+       "topics": "Mặt Trời, thời tiết không gian, từ quyển hành tinh, năng lượng cao.",
+       "url": "https://www.dunsink.dias.ie/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Peter Gallagher",
+          "role": "Giáo sư cao cấp; trưởng phân ban",
+          "url": "https://dias.ie/category/astro/astro-staff/page/5"
+         },
+         {
+          "name": "Felix Aharonian (năng lượng cao)",
+          "role": "Giáo sư / trưởng nhóm",
+          "url": "https://dias.ie/category/astro/astro-staff/page/5"
+         },
+         {
+          "name": "Caitriona Jackman (trưởng nhóm Từ quyển hành tinh)",
+          "role": "Giáo sư / trưởng nhóm",
+          "url": "https://dias.ie/category/astro/astro-staff/page/5"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://dias.ie/category/astro/astro-staff/page/5"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "galway",
+   "city": "Galway",
+   "coordinates": [
+    -9.06,
+    53.28
+   ],
+   "institutions": [
+    {
+     "name": "Centre for Astronomy (CfA), University of Galway",
+     "type": "university",
+     "research": "Sao và hành tinh (sao lùn siêu lạnh, đĩa tiền hành tinh), thiết bị thiên văn (quang học thích ứng, camera tốc độ cao), thiên văn tia gamma (VERITAS, CTA).",
+     "url": "https://astro.universityofgalway.ie/",
+     "coverage": "full",
+     "structure": "Trung tâm thành lập năm 2007 trong Bộ môn Vật lý, Trường Khoa học Tự nhiên; giám đốc Aaron Golden.",
+     "structureUrl": "https://www.universityofgalway.ie/astro/contact/",
+     "scopeNote": "Đủ cán bộ theo trang Research của trung tâm (11/2026); chưa gồm postdoc và NCS.",
+     "units": [
+      {
+       "name": "Centre for Astronomy",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "CfA",
+       "topics": "Sao và hành tinh, thiết bị thiên văn, thiên văn tia gamma.",
+       "url": "https://astro.universityofgalway.ie/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Aaron Golden",
+          "role": "Giám đốc; giáo sư vật lý liên ngành",
+          "url": "https://www.universityofgalway.ie/astro/contact/"
+         },
+         {
+          "name": "Ray Butler",
+          "role": "Sao và hành tinh",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Christian Ginski",
+          "role": "Sao và hành tinh",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Matt Redman",
+          "role": "Sao và hành tinh",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Nicholas Devaney",
+          "role": "Thiết bị thiên văn",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Alexander Goncharov",
+          "role": "Thiết bị thiên văn",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Niamh Fitzgerald",
+          "role": "Thiết bị thiên văn",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Gary Gillanders",
+          "role": "Thiên văn tia gamma",
+          "url": "https://universityofgalway.ie/astro/research/"
+         },
+         {
+          "name": "Mark Lang",
+          "role": "Thiên văn tia gamma",
+          "url": "https://universityofgalway.ie/astro/research/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://universityofgalway.ie/astro/research/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "IRL",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://dias.ie/?p=5117"
+}

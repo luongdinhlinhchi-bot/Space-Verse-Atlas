@@ -1,0 +1,319 @@
+{
+ "cities": [
+  {
+   "id": "toravere",
+   "city": "Tõravere (Tartu)",
+   "coordinates": [
+    26.47,
+    58.26
+   ],
+   "institutions": [
+    {
+     "name": "Tartu Observatory, University of Tartu",
+     "type": "observatory",
+     "research": "Vật lý sao và sao đôi, sao biến quang; vật lý thiên hà, cấu trúc quy mô lớn và vũ trụ học (khảo sát 4MOST, Euclid); vật lý thiên văn năng lượng cao; công nghệ vũ trụ (vệ tinh ESTCube, thiết bị cho Comet Interceptor) và viễn thám.",
+     "url": "https://kosmos.ut.ee/en",
+     "coverage": "full",
+     "structure": "Đài thiên văn thuộc Đại học Tartu; giám đốc Antti Tamm; các bộ phận Thiên văn / vật lý thiên văn, Vật lý thiên hà và vũ trụ học (trưởng Elmo Tempel), Công nghệ vũ trụ (trưởng Mihkel Pajusalu), Viễn thám.",
+     "structureUrl": "https://kosmos.ut.ee/en/department-physics-galaxies-and-cosmology",
+     "scopeNote": "Đủ nhân sự nghiên cứu thiên văn, vật lý thiên văn và công nghệ vũ trụ theo trang liên hệ của đài (11/2026); không gồm bộ phận viễn thám Trái Đất, kỹ sư, nhân viên hành chính và người làm bán thời gian dưới 0,5 vị trí.",
+     "units": [
+      {
+       "name": "Thiên văn và vật lý sao",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Tartu Observatory",
+       "topics": "Sao, sao đôi, sao biến quang, vật lý thiên văn năng lượng cao.",
+       "url": "https://kosmos.ut.ee/en/tartu-observatory",
+       "researchers": {
+        "people": [
+         {
+          "name": "Antti Tamm",
+          "role": "Giám đốc đài; phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Tiina Liimets",
+          "role": "Trưởng văn phòng; nghiên cứu viên vật lý sao",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Mihkel Kama (giáo sư thỉnh giảng)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Indrek Kolka",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Anna Aret",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Rain Kipper",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Laurits Leedjärv",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Tõnis Eenmäe",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Heleri Ramler",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Indrek Vurm",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Jakub Cehula",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Colin Peter Folsom (thỉnh giảng)",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Havva Bostan",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Aikaterini Niovi Triantafyllaki",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Ninad Bhagwan Khobrekar",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Vitalii Checha",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Kärt Soieva",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Alexandra Lehtmets",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Veronika Mitrokhina",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://kosmos.ut.ee/en/tartu-observatory"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Department of Physics of Galaxies and Cosmology",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Tartu Observatory",
+       "topics": "Thiên hà, cấu trúc quy mô lớn, vũ trụ học, khảo sát 4MOST.",
+       "url": "https://kosmos.ut.ee/en/department-physics-galaxies-and-cosmology",
+       "researchers": {
+        "people": [
+         {
+          "name": "Elmo Tempel",
+          "role": "Trưởng bộ phận; giáo sư thiên văn; viện sĩ",
+          "url": "https://ut.ee/en/node/104237"
+         },
+         {
+          "name": "Jaan Einasto (viện sĩ)",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Peeter Tenjes",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Maret Einasto",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Jaan Laur",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Taavi Tuvikene",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Lauri Juhan Liivamägi",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Moorits Mihkel Muru",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Teet Kuutma",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Shishir Sankhyayan",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Boris Zhivkov Deshev (thỉnh giảng)",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Luis Eduardo Suelves (thỉnh giảng)",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Mousumi Mahato",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Jad-Alexandru Mansour",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Kelly Kelder",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Annaliina Sofia Aavik",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Sumedh Ajit Ghamande",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Zoe Rhiannon Jones",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://kosmos.ut.ee/en/tartu-observatory"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Space Technology",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Tartu Observatory",
+       "topics": "Vệ tinh nhỏ, thiết bị không gian (Comet Interceptor), thám hiểm vũ trụ.",
+       "url": "https://tospexgroup.space/?p=74",
+       "researchers": {
+        "people": [
+         {
+          "name": "Mihkel Pajusalu",
+          "role": "Trưởng bộ phận; phó giáo sư công nghệ vũ trụ",
+          "url": "https://tospexgroup.space/?p=74"
+         },
+         {
+          "name": "Mart Noorma",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Riho Vendt",
+          "role": "Giáo sư / phó giáo sư",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Viktor Vabson",
+          "role": "Nghiên cứu viên",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Ric Dengel",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Mario Fernández Palos",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Laila Kaasik",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Rando Avarmaa",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Silvar Muru",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         },
+         {
+          "name": "Hans Teras",
+          "role": "Nghiên cứu viên trẻ",
+          "url": "https://kosmos.ut.ee/en/tartu-observatory"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://kosmos.ut.ee/en/tartu-observatory"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "EST",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố gần đúng (kinh độ, vĩ độ), không phải vị trí toà nhà.",
+ "listSource": "https://kosmos.ut.ee/en/tartu-observatory"
+}
