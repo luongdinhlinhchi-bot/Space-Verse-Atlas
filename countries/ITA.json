@@ -426,6 +426,481 @@
    ]
   },
   {
+   "id": "teramo",
+   "city": "Teramo",
+   "coordinates": [
+    13.7,
+    42.66
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico d'Abruzzo (OAAb)",
+     "type": "observatory",
+     "research": "Cấu trúc và tiến hóa sao, tổng hợp hạt nhân trong sao và kilonova, quần thể sao và cụm sao cầu, khoảng cách thiên hà (thăng giáng độ sáng bề mặt, khảo sát VEGAS), địa chất hành tinh (Sao Hỏa, Sao Thủy, Ganymede – JUICE); công nghệ thiên văn cho SKA, LOFAR2 và MAORY.",
+     "url": "https://www.oa-abruzzo.inaf.it/",
+     "coverage": "full",
+     "structure": "Viện INAF ở Teramo; giám đốc Mauro Dolci.",
+     "structureUrl": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en",
+     "scopeNote": "Đủ danh sách \"Research Staff\" của đài (11/2026), gồm cả nghiên cứu viên hợp đồng, NCS và nhân sự truyền thông được trang liệt kê; chức danh từng người không ghi, chỉ có chủ đề nghiên cứu.",
+     "units": [
+      {
+       "name": "Research Staff",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OAAb",
+       "topics": "Tiến hóa sao, tổng hợp hạt nhân, quần thể sao, khoa học hành tinh, công nghệ (SKA, LOFAR2, MAORY).",
+       "url": "https://www.oa-abruzzo.inaf.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Mauro Dolci",
+          "role": "Giám đốc",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Umberto Battino",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Michele Cantiello",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Santi Cassisi",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Sergio Cristallo",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Elisa Di Carlo",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Achille Fiore",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Rebecca Ann Habas",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Costanza Lauria",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Thomas Levasseur",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Marco Mirabile",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Luciano Piersanti",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Anna Piersimoni",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Adriano Pietrinferni",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Gabriella Raimondo",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Gabriele Riccio",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Oscar Straniero",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Leonardo Tartaglia",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Diego Vescovi",
+          "role": "Nhà nghiên cứu – sao và quần thể sao",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Gaetano Di Achille",
+          "role": "Nhà nghiên cứu – khoa học hành tinh",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Piero D'Incecco",
+          "role": "Nhà nghiên cứu – khoa học hành tinh",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Matteo Canzari",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Fiore De Luise",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Ivan Di Antonio",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Matteo Di Carlo",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Benedetta Di Francesco",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Stefano Di Frischia",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Gianluca Di Rico",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Elisa Portaluri",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Massimo Quintini",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Simone Sacquegna",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Gaetano Valentini",
+          "role": "Công nghệ thiên văn và phân tích dữ liệu",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Matteo Bezmalinovich",
+          "role": "Nghiên cứu viên hợp đồng (fellow)",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Yelena Caddeo",
+          "role": "Nghiên cứu viên hợp đồng (fellow)",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Marika Buccheri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Chiara Badia",
+          "role": "Truyền thông và phổ biến khoa học",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         },
+         {
+          "name": "Eleonora Ferroni",
+          "role": "Truyền thông và phổ biến khoa học",
+          "url": "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oa-abruzzo.inaf.it/research-staff/?lang=en"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "napoli",
+   "city": "Napoli",
+   "coordinates": [
+    14.25,
+    40.85
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Capodimonte (OACN)",
+     "type": "observatory",
+     "research": "Thiên hà gần và khảo sát độ sáng bề mặt thấp (VEGAS), sao biến quang và thang khoảng cách (Cepheid), vũ trụ học và cụm thiên hà (Euclid), thấu kính hấp dẫn mạnh, Mặt Trời (Solar Orbiter, Metis), tin học thiên văn và khoa học dữ liệu; thiết bị (VST, SOXS); lịch sử thiên văn.",
+     "url": "https://www.oacn.inaf.it/",
+     "coverage": "partial",
+     "structure": "Viện INAF ở Napoli; nhóm Astroinformatics and Data Science; vận hành kính VLT Survey Telescope (VST) tại Paranal.",
+     "structureUrl": "https://www.oacn.inaf.it/blog/info/pagine-personali",
+     "scopeNote": "Chỉ những người có trang cá nhân trên website OACN (2 trang, 11/2026); danh bạ đầy đủ nhân sự không đọc được.",
+     "units": [
+      {
+       "name": "Nhà nghiên cứu có trang cá nhân",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OACN",
+       "topics": "Thiên hà, sao biến quang, vũ trụ học, Mặt Trời, khoa học dữ liệu, thiết bị.",
+       "url": "https://www.oacn.inaf.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marcella Marconi",
+          "role": "Dirigente di ricerca / dirigente tecnologo",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Pietro Schipani",
+          "role": "Dirigente di ricerca / dirigente tecnologo",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Vincenzo Andretta",
+          "role": "Primo ricercatore",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Viola Allevato",
+          "role": "Ricercatore",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Enrichetta Iodice",
+          "role": "Ricercatore",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Ilaria Musella",
+          "role": "Ricercatore",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Agatino Rifatto",
+          "role": "Ricercatore",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Crescenzo Tortora",
+          "role": "Ricercatore",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Stefano Cavuoti",
+          "role": "Ricercatore – Astroinformatics and Data Science",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Giuseppe Riccio",
+          "role": "Ricercatore – Astroinformatics and Data Science",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Simone Silvestro",
+          "role": "Ricercatore – Astroinformatics and Data Science",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Maria Teresa Fulco",
+          "role": "Astronomo",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Mauro Gargano",
+          "role": "Astronomo",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Eleonora Fiorellino",
+          "role": "Nghiên cứu viên hợp đồng (assegnista)",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         },
+         {
+          "name": "Paolo Paura",
+          "role": "Thành viên liên kết (cựu tecnologo)",
+          "url": "https://www.oacn.inaf.it/blog/info/pagine-personali"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oacn.inaf.it/blog/info/pagine-personali"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "catania",
+   "city": "Catania",
+   "coordinates": [
+    15.09,
+    37.5
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astrofisico di Catania (OACT)",
+     "type": "observatory",
+     "research": "Hoạt động từ tính sao và vật lý Mặt Trời (trạm quan sát Mặt Trời), ngoại hành tinh (CHEOPS, PLATO, Ariel), quang phổ sao, vật lý thiên văn phòng thí nghiệm (LASP – băng vũ trụ), thiên văn gamma (ASTRI Mini-Array), cảm biến và vi điện tử (AMICO), quang học thích ứng MAORY; trạm quan sát Serra la Nave trên núi Etna.",
+     "url": "https://www.oact.inaf.it/",
+     "coverage": "leaders",
+     "structure": "Viện INAF, hai cơ sở: A. Riccò (trong Thành phố Đại học Catania) và M.G. Fracastoro (Serra la Nave, Etna); giám đốc Isabella Pagano. Năm 2024 có 58 nhân sự nghiên cứu cấp I–III, 16 nghiên cứu viên hợp đồng, 3 borsisti, 11 NCS và 20 thành viên liên kết.",
+     "structureUrl": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf",
+     "scopeNote": "Chỉ giám đốc và các nhà nghiên cứu phụ trách phòng thí nghiệm, trạm quan sát, thiết bị theo sơ đồ tổ chức 07/2024; danh sách đầy đủ 58 nhà nghiên cứu không được công bố trong tài liệu này.",
+     "units": [
+      {
+       "name": "Phụ trách phòng thí nghiệm, trạm và thiết bị",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OACT",
+       "topics": "Trạm Serra la Nave, trạm quan sát Mặt Trời, LASP, AMICO, phòng thí nghiệm detector và quang học.",
+       "url": "https://www.oact.inaf.it/the-catania-observatory",
+       "researchers": {
+        "people": [
+         {
+          "name": "Isabella Pagano",
+          "role": "Giám đốc",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoOrganigramma.pdf"
+         },
+         {
+          "name": "Giuseppe Leto (trạm Serra la Nave)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Paolo Romano (trạm quan sát Mặt Trời, truyền thông)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Matteo Munari (phòng thí nghiệm quang học, kính 91 cm)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Giovanni Occhipinti (xưởng cơ khí)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Sergio Billotta (phòng vi điện tử AMICO)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Salvatore Scuderi (phòng detector)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Giuseppe Baratta (LASP)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Francesco Schillirò (detector vô tuyến)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Salvatore Guglielmino (bảo tàng và thiết bị khoa học)",
+          "role": "Trưởng phòng / trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Giovanni Catanzaro",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Antonio Frasca",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Antonio Miccichè",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Ricardo Sánchez Castelán",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Santi Corsaro",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Pierfrancesco Costa",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Lidia Contarino",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Maria Elisabetta Palumbo",
+          "role": "Nhà khoa học thiết bị / nhân sự trạm",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         },
+         {
+          "name": "Francesco Leone",
+          "role": "Thành viên liên kết (UNICT)",
+          "url": "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "bologna",
    "city": "Bologna",
    "coordinates": [
@@ -1285,6 +1760,361 @@
         "external": [],
         "sources": [
          "https://www.oas.inaf.it/?p=819"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "pinotorinese",
+   "city": "Pino Torinese (Torino)",
+   "coordinates": [
+    7.77,
+    45.04
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astrofisico di Torino (OATo)",
+     "type": "observatory",
+     "research": "Đo sao chính xác và Gaia (trung tâm xử lý dữ liệu DPCT), ngoại hành tinh (HARPS-N, CHEOPS, PLATO, Ariel), vật lý Mặt Trời và nhật hoa (Solar Orbiter Metis), thiên văn ngoài thiên hà và plasma, vũ trụ học địa phương, vật lý thiên văn tương đối tính và hạt.",
+     "url": "https://www.oato.inaf.it/",
+     "coverage": "full",
+     "structure": "Viện INAF; 6 mảng nghiên cứu: Vật lý thiên văn ngoài thiên hà và plasma; Sao và ngoại hành tinh; Mặt Trời và hệ Mặt Trời; Công nghệ; Vũ trụ học địa phương; Vật lý thiên văn tương đối tính và hạt.",
+     "structureUrl": "https://www.oato.inaf.it/research/?lang=en",
+     "scopeNote": "Đủ nhân sự nghiên cứu theo trang \"Personale\" của OATo (11/2026): nhà nghiên cứu, tecnologi, nghiên cứu viên hợp đồng và borsisti; không gồm nhân viên kỹ thuật và hành chính. Trang không liệt kê NCS và thành viên liên kết.",
+     "units": [
+      {
+       "name": "Nhân sự nghiên cứu OATo",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "OATo",
+       "topics": "Gaia và đo sao, ngoại hành tinh, Mặt Trời, thiên hà và AGN, thiết bị không gian.",
+       "url": "https://www.oato.inaf.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Alessandro Capetti",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Antonella Castellina",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Mario Gilberto Lattanzi",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Claudia Raiteri",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Alessandro Sozzetti",
+          "role": "Dirigente di ricerca",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Alessandro Bemporad",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Aldo Bonomo",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Beatrice Bucciarelli",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Deborah Busonero",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Mariateresa Crosta",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Alberto Riva",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Alessandro Spagna",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Roberto Susino",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Daniele Telloni",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Diego Turrini",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Alberto Vecchiato",
+          "role": "Primo ricercatore",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Lucia Abbo",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Barbara Balmaverde",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Carlo Benna",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Stefano Bertone",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Agnese Costa",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Mario Damasso",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Federica Frassati",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Mario Gai",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Paolo Giacobbe",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Silvio Giordano",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Gloria Guilluy",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Sebastiano Ligori",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Salvatore Mancuso",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Andrea Molinario",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Matteo Pinamonti",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Eloisa Poggio",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Paola Re Fiorentin",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Paola Rossi",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Roberto Soria",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Claudia Travaglio",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Claudio Zanni",
+          "role": "Ricercatore / ricercatore astronomo",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Ummi Abbas",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Ronald Drimmel",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Daniele Gardiol",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Federico Landini",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Davide Loreggia",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Gianalfredo Nicolini",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Maurizio Pancrazzi",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Matteo Rago",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Richard Laurence Smart",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Donata Bonino",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Luciano Lanteri",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Danai Polychroni",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Luca Zangrilli",
+          "role": "Tecnologo (primo / tecnologo)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Volodymyr Akhmetov",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Francesco Amadori",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Benedict Konrad Wilhelm Bahr-Kalus",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Dario Barghini",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Giorgio Bergamin",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Ruggero Biondo",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Raffaella Buzzi",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Ilaria Carleo",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Chiara Casini",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Lorenzo Filipello",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Shourya Khanna",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Luca Naponiello",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         },
+         {
+          "name": "Sibilla Perina",
+          "role": "Nghiên cứu viên hợp đồng (assegnisti / borsisti)",
+          "url": "https://www.oato.inaf.it/personale/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.oato.inaf.it/personale/"
         ],
         "note": "",
         "checked": "2026-11-28"

@@ -1,0 +1,21 @@
+@city catania | Catania | 15.09, 37.50
+
+@inst INAF – Osservatorio Astrofisico di Catania (OACT)
+city: catania
+type: observatory
+url: https://www.oact.inaf.it/
+research: Hoạt động từ tính sao và vật lý Mặt Trời (trạm quan sát Mặt Trời), ngoại hành tinh (CHEOPS, PLATO, Ariel), quang phổ sao, vật lý thiên văn phòng thí nghiệm (LASP – băng vũ trụ), thiên văn gamma (ASTRI Mini-Array), cảm biến và vi điện tử (AMICO), quang học thích ứng MAORY; trạm quan sát Serra la Nave trên núi Etna.
+coverage: leaders
+structure: Viện INAF, hai cơ sở: A. Riccò (trong Thành phố Đại học Catania) và M.G. Fracastoro (Serra la Nave, Etna); giám đốc Isabella Pagano. Năm 2024 có 58 nhân sự nghiên cứu cấp I–III, 16 nghiên cứu viên hợp đồng, 3 borsisti, 11 NCS và 20 thành viên liên kết.
+structureUrl: https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf
+scope: Chỉ giám đốc và các nhà nghiên cứu phụ trách phòng thí nghiệm, trạm quan sát, thiết bị theo sơ đồ tổ chức 07/2024; danh sách đầy đủ 58 nhà nghiên cứu không được công bố trong tài liệu này.
+
+#unit Phụ trách phòng thí nghiệm, trạm và thiết bị
+parent: OACT
+topics: Trạm Serra la Nave, trạm quan sát Mặt Trời, LASP, AMICO, phòng thí nghiệm detector và quang học.
+url: https://www.oact.inaf.it/the-catania-observatory
+src: https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoAssettoOrganizzatiovoOrganigramma_AllegatoA.pdf
+p: Isabella Pagano | Giám đốc | https://www.oact.inaf.it/wp-content/uploads/2024/07/DD2024_315_AggiornamentoOrganigramma.pdf
+pp: Trưởng phòng / trạm | Giuseppe Leto (trạm Serra la Nave); Paolo Romano (trạm quan sát Mặt Trời, truyền thông); Matteo Munari (phòng thí nghiệm quang học, kính 91 cm); Giovanni Occhipinti (xưởng cơ khí); Sergio Billotta (phòng vi điện tử AMICO); Salvatore Scuderi (phòng detector); Giuseppe Baratta (LASP); Francesco Schillirò (detector vô tuyến); Salvatore Guglielmino (bảo tàng và thiết bị khoa học)
+pp: Nhà khoa học thiết bị / nhân sự trạm | Giovanni Catanzaro; Antonio Frasca; Antonio Miccichè; Ricardo Sánchez Castelán; Santi Corsaro; Pierfrancesco Costa; Lidia Contarino; Maria Elisabetta Palumbo
+pp: Thành viên liên kết (UNICT) | Francesco Leone

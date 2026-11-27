@@ -1,0 +1,24 @@
+@city teramo | Teramo | 13.70, 42.66
+
+@inst INAF – Osservatorio Astronomico d'Abruzzo (OAAb)
+city: teramo
+type: observatory
+url: https://www.oa-abruzzo.inaf.it/
+research: Cấu trúc và tiến hóa sao, tổng hợp hạt nhân trong sao và kilonova, quần thể sao và cụm sao cầu, khoảng cách thiên hà (thăng giáng độ sáng bề mặt, khảo sát VEGAS), địa chất hành tinh (Sao Hỏa, Sao Thủy, Ganymede – JUICE); công nghệ thiên văn cho SKA, LOFAR2 và MAORY.
+coverage: full
+structure: Viện INAF ở Teramo; giám đốc Mauro Dolci.
+structureUrl: https://www.oa-abruzzo.inaf.it/research-staff/?lang=en
+scope: Đủ danh sách "Research Staff" của đài (11/2026), gồm cả nghiên cứu viên hợp đồng, NCS và nhân sự truyền thông được trang liệt kê; chức danh từng người không ghi, chỉ có chủ đề nghiên cứu.
+
+#unit Research Staff
+parent: OAAb
+topics: Tiến hóa sao, tổng hợp hạt nhân, quần thể sao, khoa học hành tinh, công nghệ (SKA, LOFAR2, MAORY).
+url: https://www.oa-abruzzo.inaf.it/
+src: https://www.oa-abruzzo.inaf.it/research-staff/?lang=en
+p: Mauro Dolci | Giám đốc | https://www.oa-abruzzo.inaf.it/research-staff/?lang=en
+pp: Nhà nghiên cứu – sao và quần thể sao | Umberto Battino; Michele Cantiello; Santi Cassisi; Sergio Cristallo; Elisa Di Carlo; Achille Fiore; Rebecca Ann Habas; Costanza Lauria; Thomas Levasseur; Marco Mirabile; Luciano Piersanti; Anna Piersimoni; Adriano Pietrinferni; Gabriella Raimondo; Gabriele Riccio; Oscar Straniero; Leonardo Tartaglia; Diego Vescovi
+pp: Nhà nghiên cứu – khoa học hành tinh | Gaetano Di Achille; Piero D'Incecco
+pp: Công nghệ thiên văn và phân tích dữ liệu | Matteo Canzari; Fiore De Luise; Ivan Di Antonio; Matteo Di Carlo; Benedetta Di Francesco; Stefano Di Frischia; Gianluca Di Rico; Elisa Portaluri; Massimo Quintini; Simone Sacquegna; Gaetano Valentini
+pp: Nghiên cứu viên hợp đồng (fellow) | Matteo Bezmalinovich; Yelena Caddeo
+pp: NCS | Marika Buccheri
+pp: Truyền thông và phổ biến khoa học | Chiara Badia; Eleonora Ferroni

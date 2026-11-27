@@ -1,0 +1,24 @@
+@city napoli | Napoli | 14.25, 40.85
+
+@inst INAF – Osservatorio Astronomico di Capodimonte (OACN)
+city: napoli
+type: observatory
+url: https://www.oacn.inaf.it/
+research: Thiên hà gần và khảo sát độ sáng bề mặt thấp (VEGAS), sao biến quang và thang khoảng cách (Cepheid), vũ trụ học và cụm thiên hà (Euclid), thấu kính hấp dẫn mạnh, Mặt Trời (Solar Orbiter, Metis), tin học thiên văn và khoa học dữ liệu; thiết bị (VST, SOXS); lịch sử thiên văn.
+coverage: partial
+structure: Viện INAF ở Napoli; nhóm Astroinformatics and Data Science; vận hành kính VLT Survey Telescope (VST) tại Paranal.
+structureUrl: https://www.oacn.inaf.it/blog/info/pagine-personali
+scope: Chỉ những người có trang cá nhân trên website OACN (2 trang, 11/2026); danh bạ đầy đủ nhân sự không đọc được.
+
+#unit Nhà nghiên cứu có trang cá nhân
+parent: OACN
+topics: Thiên hà, sao biến quang, vũ trụ học, Mặt Trời, khoa học dữ liệu, thiết bị.
+url: https://www.oacn.inaf.it/
+src: https://www.oacn.inaf.it/blog/info/pagine-personali
+pp: Dirigente di ricerca / dirigente tecnologo | Marcella Marconi; Pietro Schipani
+pp: Primo ricercatore | Vincenzo Andretta
+pp: Ricercatore | Viola Allevato; Enrichetta Iodice; Ilaria Musella; Agatino Rifatto; Crescenzo Tortora
+pp: Ricercatore – Astroinformatics and Data Science | Stefano Cavuoti; Giuseppe Riccio; Simone Silvestro
+pp: Astronomo | Maria Teresa Fulco; Mauro Gargano
+pp: Nghiên cứu viên hợp đồng (assegnista) | Eleonora Fiorellino
+pp: Thành viên liên kết (cựu tecnologo) | Paolo Paura

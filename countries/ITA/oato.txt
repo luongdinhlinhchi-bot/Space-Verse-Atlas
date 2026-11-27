@@ -1,0 +1,22 @@
+@city pinotorinese | Pino Torinese (Torino) | 7.77, 45.04
+
+@inst INAF – Osservatorio Astrofisico di Torino (OATo)
+city: pinotorinese
+type: observatory
+url: https://www.oato.inaf.it/
+research: Đo sao chính xác và Gaia (trung tâm xử lý dữ liệu DPCT), ngoại hành tinh (HARPS-N, CHEOPS, PLATO, Ariel), vật lý Mặt Trời và nhật hoa (Solar Orbiter Metis), thiên văn ngoài thiên hà và plasma, vũ trụ học địa phương, vật lý thiên văn tương đối tính và hạt.
+coverage: full
+structure: Viện INAF; 6 mảng nghiên cứu: Vật lý thiên văn ngoài thiên hà và plasma; Sao và ngoại hành tinh; Mặt Trời và hệ Mặt Trời; Công nghệ; Vũ trụ học địa phương; Vật lý thiên văn tương đối tính và hạt.
+structureUrl: https://www.oato.inaf.it/research/?lang=en
+scope: Đủ nhân sự nghiên cứu theo trang "Personale" của OATo (11/2026): nhà nghiên cứu, tecnologi, nghiên cứu viên hợp đồng và borsisti; không gồm nhân viên kỹ thuật và hành chính. Trang không liệt kê NCS và thành viên liên kết.
+
+#unit Nhân sự nghiên cứu OATo
+parent: OATo
+topics: Gaia và đo sao, ngoại hành tinh, Mặt Trời, thiên hà và AGN, thiết bị không gian.
+url: https://www.oato.inaf.it/
+src: https://www.oato.inaf.it/personale/
+pp: Dirigente di ricerca | Alessandro Capetti; Antonella Castellina; Mario Gilberto Lattanzi; Claudia Raiteri; Alessandro Sozzetti
+pp: Primo ricercatore | Alessandro Bemporad; Aldo Bonomo; Beatrice Bucciarelli; Deborah Busonero; Mariateresa Crosta; Alberto Riva; Alessandro Spagna; Roberto Susino; Daniele Telloni; Diego Turrini; Alberto Vecchiato
+pp: Ricercatore / ricercatore astronomo | Lucia Abbo; Barbara Balmaverde; Carlo Benna; Stefano Bertone; Agnese Costa; Mario Damasso; Federica Frassati; Mario Gai; Paolo Giacobbe; Silvio Giordano; Gloria Guilluy; Sebastiano Ligori; Salvatore Mancuso; Andrea Molinario; Matteo Pinamonti; Eloisa Poggio; Paola Re Fiorentin; Paola Rossi; Roberto Soria; Claudia Travaglio; Claudio Zanni
+pp: Tecnologo (primo / tecnologo) | Ummi Abbas; Ronald Drimmel; Daniele Gardiol; Federico Landini; Davide Loreggia; Gianalfredo Nicolini; Maurizio Pancrazzi; Matteo Rago; Richard Laurence Smart; Donata Bonino; Luciano Lanteri; Danai Polychroni; Luca Zangrilli
+pp: Nghiên cứu viên hợp đồng (assegnisti / borsisti) | Volodymyr Akhmetov; Francesco Amadori; Benedict Konrad Wilhelm Bahr-Kalus; Dario Barghini; Giorgio Bergamin; Ruggero Biondo; Raffaella Buzzi; Ilaria Carleo; Chiara Casini; Lorenzo Filipello; Shourya Khanna; Luca Naponiello; Sibilla Perina
