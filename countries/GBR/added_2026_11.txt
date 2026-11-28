@@ -397,10 +397,23 @@ city: preston
 type: university
 url: https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute
 research: Vật lý Mặt Trời, thiên hà, sao; đài quan sát Alston.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Chỉ lấy người thuộc mảng thiên văn và vật lý Mặt Trời trong danh bạ JHI (11/2026); bỏ toán và vật lý vật liệu.
+
+#unit Jeremiah Horrocks Institute — nhóm thiên văn và vật lý Mặt Trời
+parent: University of Central Lancashire
+topics: Vật lý Mặt Trời và hạt năng lượng cao, động lực học thiên hà, bụi trong thiên hà, hình thành sao và hành tinh, sao biến quang.
+url: https://www.star.uclan.ac.uk/
+src: https://www.star.uclan.ac.uk/staff-directory/
+pp: Giáo sư | Silvia Dalla; Victor Debattista; Cristina Popescu; Dimitris Stamatellos; Robert Walsh; Derek Ward-Thompson; Don Kurtz
+pp: Giảng viên / Reader | Megan Argo; Danielle Bewsher; Daniel Brown; Jason Kirk; Mark Norris; Joanne Pledger; Anne Sansom
+pp: Nghiên cứu sau tiến sĩ (Research Fellow) | George Blaylock-Squibbs; Timo Laitinen; Alexia Lopez; Charlotte Proverbs
+pp: Nghiên cứu sinh | Stuart R. Anderson; Jamie Banister; Damini Bhagwath; Jake Brooks; Ethan Carter; Michael Drew; Alan Craggs; Graham Fleming; Steven Gough-Kelly; Ruth Hyndman; Christopher Inman; Gordon McKay; Aaron Mills; Björn Ólafsson; Amar Rambukwella-Gill; Anna Rankin; Joshua Stanway; Matthew Teasdale
+pp: Danh dự (emeritus) | Gordon Bromage; Roger Clowes
+pp: Nhân viên kỹ thuật | David Capstick; Jacqueline Fanner
+xx: Khách mời | Martin Birch; Flavio De Lorenzi; David Murphy; John Hargreaves; Mark Rushton; Gerard Williger
 
 
 @inst University of Surrey — Astrophysics Research Group

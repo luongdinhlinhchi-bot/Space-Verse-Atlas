@@ -3140,11 +3140,260 @@
      "type": "university",
      "research": "Vật lý Mặt Trời, thiên hà, sao; đài quan sát Alston.",
      "url": "https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Chỉ lấy người thuộc mảng thiên văn và vật lý Mặt Trời trong danh bạ JHI (11/2026); bỏ toán và vật lý vật liệu.",
+     "units": [
+      {
+       "name": "Jeremiah Horrocks Institute — nhóm thiên văn và vật lý Mặt Trời",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Central Lancashire",
+       "topics": "Vật lý Mặt Trời và hạt năng lượng cao, động lực học thiên hà, bụi trong thiên hà, hình thành sao và hành tinh, sao biến quang.",
+       "url": "https://www.star.uclan.ac.uk/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Silvia Dalla",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Victor Debattista",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Cristina Popescu",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Dimitris Stamatellos",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Robert Walsh",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Derek Ward-Thompson",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Don Kurtz",
+          "role": "Giáo sư",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Megan Argo",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Danielle Bewsher",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Daniel Brown",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Jason Kirk",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Mark Norris",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Joanne Pledger",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Anne Sansom",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "George Blaylock-Squibbs",
+          "role": "Nghiên cứu sau tiến sĩ (Research Fellow)",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Timo Laitinen",
+          "role": "Nghiên cứu sau tiến sĩ (Research Fellow)",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Alexia Lopez",
+          "role": "Nghiên cứu sau tiến sĩ (Research Fellow)",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Charlotte Proverbs",
+          "role": "Nghiên cứu sau tiến sĩ (Research Fellow)",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Stuart R. Anderson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Jamie Banister",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Damini Bhagwath",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Jake Brooks",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Ethan Carter",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Michael Drew",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Alan Craggs",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Graham Fleming",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Steven Gough-Kelly",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Ruth Hyndman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Christopher Inman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Gordon McKay",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Aaron Mills",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Björn Ólafsson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Amar Rambukwella-Gill",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Anna Rankin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Joshua Stanway",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Matthew Teasdale",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Gordon Bromage",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Roger Clowes",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "David Capstick",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Jacqueline Fanner",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         }
+        ],
+        "external": [
+         {
+          "name": "Martin Birch",
+          "role": "Khách mời",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Flavio De Lorenzi",
+          "role": "Khách mời",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "David Murphy",
+          "role": "Khách mời",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "John Hargreaves",
+          "role": "Khách mời",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Mark Rushton",
+          "role": "Khách mời",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         },
+         {
+          "name": "Gerard Williger",
+          "role": "Khách mời",
+          "url": "https://www.star.uclan.ac.uk/staff-directory/"
+         }
+        ],
+        "sources": [
+         "https://www.star.uclan.ac.uk/staff-directory/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
