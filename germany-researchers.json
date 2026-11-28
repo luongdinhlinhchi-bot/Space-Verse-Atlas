@@ -4323,7 +4323,8 @@
   "Max-Planck-Institut für extraterrestrische Physik::High-Energy Astrophysics": {
    "sources": [
     "https://www.mpe.mpg.de/1302618/heg-members",
-    "https://mpe.mpg.de/576280/structure"
+    "https://mpe.mpg.de/576280/structure",
+    "https://www.mpe.mpg.de/8043049/Stats2023_EN_11_11_2024.pdf"
    ],
    "people": [
     {
@@ -4335,362 +4336,434 @@
     {
      "name": "Alexander Altmann",
      "url": "https://www.mpe.mpg.de/mitarbeiter/113379",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Carolina Andonie",
      "url": "https://www.mpe.mpg.de/mitarbeiter/137822",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Robert Andritschke",
      "url": "https://www.mpe.mpg.de/mitarbeiter/18029",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Emmanuel Artis",
      "url": "https://www.mpe.mpg.de/mitarbeiter/125515",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Catarina Aydar",
      "url": "https://www.mpe.mpg.de/mitarbeiter/126009",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Pietro Baldini",
      "url": "https://www.mpe.mpg.de/mitarbeiter/130554",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Fabian Balzer",
      "url": "https://www.mpe.mpg.de/mitarbeiter/125005",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Werner Becker",
      "url": "https://www.mpe.mpg.de/mitarbeiter/18152",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Annika Behrens",
      "url": "https://www.mpe.mpg.de/person/51053/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Birgit Boller",
      "url": "https://www.mpe.mpg.de/person/17635/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thư ký (nhân viên hỗ trợ)"
     },
     {
      "name": "Thomas Boller",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17634",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Peter Boorman",
      "url": "https://www.mpe.mpg.de/mitarbeiter/150222",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Seán Brennan",
      "url": "https://www.mpe.mpg.de/mitarbeiter/144270",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Johannes Buchner",
      "url": "https://www.mpe.mpg.de/mitarbeiter/98741",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Surangkhana Buchner",
      "url": "https://www.mpe.mpg.de/person/126015/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Esra Bulbul",
      "url": "https://www.mpe.mpg.de/mitarbeiter/99226",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Vadim Burwitz",
      "url": "https://www.mpe.mpg.de/mitarbeiter/26839",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Werner Collmar",
      "url": "https://www.mpe.mpg.de/mitarbeiter/18154",
-     "profile": true
+     "profile": true,
+     "role": "Khách mời (danh sách khách 2023)"
     },
     {
      "name": "Konrad Dennerl",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17895",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Roland Diehl",
      "url": "https://www.mpe.mpg.de/mitarbeiter/18044",
-     "profile": true
+     "profile": true,
+     "role": "Khách mời (danh sách khách 2023)"
     },
     {
      "name": "Ziyu Ding",
      "url": "https://www.mpe.mpg.de/mitarbeiter/140673",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Clara Donat",
      "url": "https://www.mpe.mpg.de/mitarbeiter/161443",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Tom Dwelly",
      "url": "https://www.mpe.mpg.de/mitarbeiter/133584",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Valentin Emberger",
      "url": "https://www.mpe.mpg.de/person/18218/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Michael Freyberg",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17950",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Peter Friedrich",
      "url": "https://www.mpe.mpg.de/mitarbeiter/123905",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Susanne Friedrich",
      "url": "https://www.mpe.mpg.de/person/100985/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Efrain Gatuzz",
      "url": "https://www.mpe.mpg.de/mitarbeiter/100559",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Joel Gil Leon",
      "url": "https://www.mpe.mpg.de/mitarbeiter/136165",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Jochen Greiner",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17851",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Silvia Teresa Guida",
      "url": "https://www.mpe.mpg.de/mitarbeiter/147864",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Frank Haberl",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17748",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Gisela Hartner",
      "url": "https://www.mpe.mpg.de/person/17769/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Zoltán Hegedüs",
      "url": "https://www.mpe.mpg.de/mitarbeiter/171124",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "David Kaltenbrunner",
      "url": "https://www.mpe.mpg.de/person/106565/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Lars Kassler",
      "url": "https://www.mpe.mpg.de/person/128059/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Alena Khokhriakova",
      "url": "https://www.mpe.mpg.de/mitarbeiter/124499",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Andreas von Kienlin",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17616",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Matthias Kluge",
      "url": "https://www.mpe.mpg.de/mitarbeiter/42232",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Elif Kutdemir Öncü",
      "url": "https://www.mpe.mpg.de/person/154187/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Gabriella Loparco",
      "url": "https://www.mpe.mpg.de/person/138252/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Astrid Mayr",
      "url": "https://www.mpe.mpg.de/person/115233/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Norbert Meidinger",
      "url": "https://www.mpe.mpg.de/mitarbeiter/26841",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Apostolos Menis",
      "url": "https://www.mpe.mpg.de/person/173503/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Andrea Merloni",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17597",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Thomas Müller",
      "url": "https://www.mpe.mpg.de/person/106439/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Johannes Müller-Seidlitz",
      "url": "https://www.mpe.mpg.de/mitarbeiter/29714",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Yu Voon Ng",
      "url": "https://www.mpe.mpg.de/person/173506/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Qingling Ni",
      "url": "https://www.mpe.mpg.de/mitarbeiter/125407",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Efe Öztaban",
      "url": "https://www.mpe.mpg.de/person/173507/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Egehan Öztürk",
      "url": "https://www.mpe.mpg.de/person/149781/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Gabriele Ponti",
      "url": "https://www.mpe.mpg.de/mitarbeiter/104188",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Peter Predehl",
      "url": "https://www.mpe.mpg.de/mitarbeiter/104302",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Georgios Rachovitis",
      "url": "https://www.mpe.mpg.de/person/127947/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Miriam E. Ramos-Ceja",
      "url": "https://www.mpe.mpg.de/mitarbeiter/100341",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Arne Rau",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17604",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "William Roster",
      "url": "https://www.mpe.mpg.de/mitarbeiter/124780",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Mara Salvato",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17932",
-     "profile": true
+     "profile": true,
+     "role": "Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)"
     },
     {
      "name": "Jeremy Sanders",
      "url": "https://www.mpe.mpg.de/mitarbeiter/18191",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Raphael Shirley",
      "url": "https://www.mpe.mpg.de/mitarbeiter/128187",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Sebastian Splitthoff",
      "url": "https://www.mpe.mpg.de/person/173508/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Thomas Stanke",
      "url": "https://www.mpe.mpg.de/mitarbeiter/123858",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Ian Stewart",
      "url": "https://www.mpe.mpg.de/person/100501/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Veronika Stieglitz",
      "url": "https://www.mpe.mpg.de/person/51901/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)"
     },
     {
      "name": "Andrew Strong",
      "url": "https://www.mpe.mpg.de/mitarbeiter/17614",
-     "profile": true
+     "profile": true,
+     "role": "Khách mời (danh sách khách 2023)"
     },
     {
      "name": "Vittorio Tortorella",
      "url": "https://www.mpe.mpg.de/person/176745/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Thành viên (trang không ghi chức danh)"
     },
     {
      "name": "Joachim Trümper",
      "url": "https://www.mpe.mpg.de/mitarbeiter/19181",
-     "profile": true
+     "profile": true,
+     "role": "Giáo sư danh dự"
     },
     {
      "name": "Robert Willer",
      "url": "https://www.mpe.mpg.de/person/113380/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Michael Yeung",
      "url": "https://www.mpe.mpg.de/mitarbeiter/114629",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Silas Zelmer",
      "url": "https://www.mpe.mpg.de/person/129548/1302618",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     },
     {
      "name": "Xiaoyuan Zhang",
      "url": "https://www.mpe.mpg.de/mitarbeiter/124874",
-     "profile": true
+     "profile": true,
+     "role": "Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ"
     },
     {
      "name": "Xueying Zheng",
      "url": "https://www.mpe.mpg.de/mitarbeiter/109298",
-     "profile": true
+     "profile": true,
+     "role": "Nghiên cứu sinh"
     }
    ],
    "external": [],

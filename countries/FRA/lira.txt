@@ -15,51 +15,68 @@ parent: LIRA, Observatoire de Paris-PSL
 topics: Địa chấn học sao (PLATO), khảo cổ Ngân Hà (Gaia), quần thể sao, sao khối lượng lớn, môi trường liên sao 3D.
 url: https://lira.obspm.fr/-Poles-scientifiques-
 src: https://lira.obspm.fr/-Annuaire-?pole=ETGA
-p: Pierre Kervella | Thành viên pôle | http://lesia.obspm.fr/perso/pierre-kervella
-p: Benoît Mosser | Thành viên pôle | https://sites.lesia.obspm.fr/benoit-mosser/
-p: Coralie Neiner | Thành viên pôle | http://lesia.obspm.fr/perso/coralie-neiner
-p: Daniel Reese | Thành viên pôle | http://lesia.obspm.fr/perso/daniel-reese/
-pp: Thành viên pôle | Karim Abd El Dayem; Jannat Alazzawi; Caroline Barban; Kevin Belkacem; Tristan Boin; Piercarlo Bonifacio; Elisabetta Caffau; Laia Casamiquela Floriach; Paola Di Matteo; Patrick Francois; Lahoucine Ghouchou; Adrien Girardot; Ana Gomez; Marie-Jo Goupil; Francois Hammer; Misha Haywood; Blaise Jacob; David Katz; Wilma Kiviaho; Jonathan Labadie-Bartz; Rosine Lallement; Chervin Laporte; Yveline Lebreton; Ducheng Lu; Louis Manchon; Eric Michel; Richard Monier; Miguel Montargès; Niklas Moszczynski; Rhita-Maria Ouazzani; Zhaohang Peng; Jordan Philidet; Christian Renié; Noel Robichon; Frederic Royer; Davoud-Reza Samadi; Monique Spite; Didier Tiphène; Yanbin Yang
+src: https://lira.observatoiredeparis.psl.eu/Stars-and-Galaxies-Group-Composition
+p: Pierre Kervella | Nhà nghiên cứu / giảng viên biên chế | http://lesia.obspm.fr/perso/pierre-kervella
+p: Benoît Mosser | Nhà nghiên cứu / giảng viên biên chế | https://sites.lesia.obspm.fr/benoit-mosser/
+p: Coralie Neiner | Nhà nghiên cứu / giảng viên biên chế | http://lesia.obspm.fr/perso/coralie-neiner
+p: Daniel Reese | Nhà nghiên cứu / giảng viên biên chế | http://lesia.obspm.fr/perso/daniel-reese/
+pp: Nghiên cứu sinh | Karim Abd El Dayem; Tristan Boin; Adrien Girardot; Blaise Jacob; Wilma Kiviaho
+pp: Thành viên (trang không ghi chức danh) | Jannat Alazzawi; Lahoucine Ghouchou; Ducheng Lu; Niklas Moszczynski; Christian Renié; Monique Spite
+pp: Nhà nghiên cứu / giảng viên biên chế | Caroline Barban; Kevin Belkacem; Piercarlo Bonifacio; Elisabetta Caffau; Laia Casamiquela Floriach; Paola Di Matteo; Patrick Francois; Ana Gomez; Marie-Jo Goupil; Francois Hammer; Misha Haywood; David Katz; Rosine Lallement; Chervin Laporte; Yveline Lebreton; Eric Michel; Richard Monier; Miguel Montargès; Rhita-Maria Ouazzani; Jordan Philidet; Noel Robichon; Frederic Royer; Davoud-Reza Samadi; Didier Tiphène; Yanbin Yang
+pp: Nghiên cứu sau tiến sĩ | Jonathan Labadie-Bartz; Louis Manchon; Zhaohang Peng
 
 #unit Pôle Độ phân giải góc cao (HRAA)
 parent: LIRA, Observatoire de Paris-PSL
 topics: Quang học thích ứng, giao thoa kế (GRAVITY+), MICADO/ELT, lỗ đen trung tâm Ngân Hà.
 url: https://lira.obspm.fr/-Poles-scientifiques-
 src: https://lira.obspm.fr/-Annuaire-?pole=HRAA
-p: Johan Mazoyer | Thành viên pôle | http://johanmazoyer.com/
-p: Daniel Rouan | Thành viên pôle | http://www.lesia.obspm.fr/perso/daniel-rouan/
-pp: Thành viên pôle | Anton Afanasyev; Pierre Baudoz; Anthony Berdeu; Cyrille Blanchard; Garance Bras; Julien Brulé; Frédéric Chapron; Yann Clénet; Jean Commere; Vincent Coudé du Foresto; Roderick Dembet; Olivier Dupuis; Raphaël Galicher; Eric Gendron; Marie Glanc; Lucie Hamel; Elsa Huby; Sylvestre Lacour; Iva Laginja; Vincent Lapeyrere; Nicolas Levraud; Florian Moura Ferreira; Mathias Nowak; Thibaut Paumard; Guy Perrin; Ekaterina Sivkova; Irene Urso; Pierre Vermot; Fabrice Vidal; Frédéric Vincent
+src: https://lira.observatoiredeparis.psl.eu/Membres-du-Pole-HRAA
+p: Johan Mazoyer | Nhà nghiên cứu biên chế (astronome, DR, CR) | http://johanmazoyer.com/
+p: Daniel Rouan | Danh dự (émérite) | http://www.lesia.obspm.fr/perso/daniel-rouan/
+pp: Thành viên (trang không ghi chức danh) | Anton Afanasyev; Cyrille Blanchard; Vincent Coudé du Foresto; Olivier Dupuis; Raphaël Galicher
+pp: Nhà nghiên cứu biên chế (astronome, DR, CR) | Pierre Baudoz; Yann Clénet; Eric Gendron; Elsa Huby; Sylvestre Lacour; Mathias Nowak; Thibaut Paumard; Guy Perrin; Frédéric Vincent
+pp: Nghiên cứu sau tiến sĩ | Anthony Berdeu; Iva Laginja; Nicolas Levraud; Pierre Vermot
+pp: Nghiên cứu sinh | Garance Bras; Jean Commere; Lucie Hamel; Ekaterina Sivkova; Irene Urso
+pp: Kỹ sư / kỹ thuật viên | Julien Brulé; Frédéric Chapron; Roderick Dembet; Marie Glanc; Vincent Lapeyrere; Florian Moura Ferreira; Fabrice Vidal
 
 #unit Pôle Nhật quyển và Plasma thiên văn (HPA)
 parent: LIRA, Observatoire de Paris-PSL
 topics: Gió Mặt Trời, vô tuyến Mặt Trời và hành tinh (NenuFAR), Parker Solar Probe, Solar Orbiter, từ trường Mặt Trời.
 url: https://lira.obspm.fr/-Poles-scientifiques-
 src: https://lira.obspm.fr/-Annuaire-?pole=HPA
-p: Olga Alexandrova | Thành viên pôle | http://www.lesia.obspm.fr/perso/olga-alexandrova/
-p: Veronique Bommier | Thành viên pôle | http://lesia.obspm.fr/perso/veronique-bommier/
-p: Xavier Bonnin | Thành viên pôle | https://sites.lesia.obspm.fr/xavier-bonnin/
-p: Carine Briand | Thành viên pôle | http://www.lesia.obspm.fr/perso/carine-briand/
-p: Baptiste Cecconi | Thành viên pôle | http://www.lesia.obspm.fr/perso/baptiste-cecconi/
-p: Pascal Démoulin | Thành viên pôle | http://www.lesia.obspm.fr/perso/pascal-demoulin/
-p: Karine Issautier | Thành viên pôle | http://www.lesia.obspm.fr/perso/karine-issautier/
-p: Milan Maksimovic | Thành viên pôle | http://www.lesia.obspm.fr/perso/milan-maksimovic/
-p: Jean-Marie Malherbe | Thành viên pôle | http://www.lesia.obspm.fr/perso/jean-marie-malherbe/
-p: Nicole Meyer | Thành viên pôle | https://lira.obspm.fr/perso/nicole-meyer/
-p: Filippo Pantellini | Thành viên pôle | https://sites.lesia.obspm.fr/filippo-pantellini
-p: Philippe Zarka | Thành viên pôle | http://www.lesia.obspm.fr/perso/philippe-zarka/
-p: Arnaud Zaslavsky | Thành viên pôle | https://sites.lesia.obspm.fr/arnaud-zaslavsky/
-pp: Thành viên pôle | Jean Aboudarham; Shilpi Bhunia; Isabelle Buale; Florence Cornu; Daniel Crussaire; Laura Debisschop; Moustapha Dekkali; Quentin Duchene; Nicolas Fuller; Julien Girard; Léa Griton; Lucas Grosset; Ahmed Houeibib; Karl-Ludwig Klein; Laurent Lamy; Alain Lecacheux; Alan Loh; Corentin Louis; Emilie Mauduit; Quynh Nhu Nguyen; David Paipa Leon; Renaud Romagnan; Erwan Rouille; Pauline Teysseyre; Baptiste Verkampt; Nicole Vilmer; Jinge Zhang; Xiang Zhang
+src: https://lira.observatoiredeparis.psl.eu/Heliosphere-et-plasmas-astrophysiques-HPA
+p: Olga Alexandrova | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/olga-alexandrova/
+p: Veronique Bommier | Thành viên pôle (NCS, PD, danh dự hoặc kỹ sư — trang pôle chỉ ghi số lượng) | http://lesia.obspm.fr/perso/veronique-bommier/
+p: Xavier Bonnin | Thành viên pôle (NCS, PD, danh dự hoặc kỹ sư — trang pôle chỉ ghi số lượng) | https://sites.lesia.obspm.fr/xavier-bonnin/
+p: Carine Briand | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/carine-briand/
+p: Baptiste Cecconi | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/baptiste-cecconi/
+p: Pascal Démoulin | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/pascal-demoulin/
+p: Karine Issautier | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/karine-issautier/
+p: Milan Maksimovic | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/milan-maksimovic/
+p: Jean-Marie Malherbe | Thành viên pôle (NCS, PD, danh dự hoặc kỹ sư — trang pôle chỉ ghi số lượng) | http://www.lesia.obspm.fr/perso/jean-marie-malherbe/
+p: Nicole Meyer | Thành viên pôle (NCS, PD, danh dự hoặc kỹ sư — trang pôle chỉ ghi số lượng) | https://lira.obspm.fr/perso/nicole-meyer/
+p: Filippo Pantellini | Nhà nghiên cứu biên chế | https://sites.lesia.obspm.fr/filippo-pantellini
+p: Philippe Zarka | Nhà nghiên cứu biên chế | http://www.lesia.obspm.fr/perso/philippe-zarka/
+p: Arnaud Zaslavsky | Nhà nghiên cứu biên chế | https://sites.lesia.obspm.fr/arnaud-zaslavsky/
+pp: Thành viên pôle (NCS, PD, danh dự hoặc kỹ sư — trang pôle chỉ ghi số lượng) | Jean Aboudarham; Shilpi Bhunia; Isabelle Buale; Florence Cornu; Daniel Crussaire; Laura Debisschop; Moustapha Dekkali; Quentin Duchene; Nicolas Fuller; Lucas Grosset; Ahmed Houeibib; Karl-Ludwig Klein; Alain Lecacheux; Alan Loh; Emilie Mauduit; Quynh Nhu Nguyen; David Paipa Leon; Renaud Romagnan; Erwan Rouille; Pauline Teysseyre; Baptiste Verkampt; Nicole Vilmer; Jinge Zhang; Xiang Zhang
+pp: Nhà nghiên cứu biên chế | Julien Girard; Léa Griton; Laurent Lamy; Corentin Louis
 
 #unit Pôle Hành tinh học (PLT)
 parent: LIRA, Observatoire de Paris-PSL
 topics: Khí quyển hành tinh, sao chổi và thiên thể nhỏ, thiết bị dưới mm (JUICE/SWI), thiên văn phòng thí nghiệm, viễn thám Trái Đất.
 url: https://lira.obspm.fr/-Poles-scientifiques-
 src: https://lira.obspm.fr/-Annuaire-?pole=PLT
-p: Benjamin Charnay | Thành viên pôle | https://lesia.obspm.fr/perso/benjamin-charnay/
-p: Stéphane Erard | Thành viên pôle | http://www.lesia.obspm.fr/perso/stephane-erard/
-p: Philippe Thébault | Thành viên pôle | http://lesia.obspm.fr/perso/philippe-thebault/
-p: Thomas Widemann | Thành viên pôle | http://www.lesia.obspm.fr/perso/thomas-widemann/
-pp: Thành viên pôle | Filipe Aires; Bruno Bézard; Saoud Baouche; Deborah Bardet; Antonella Barucci; Tanguy Bertrand; Nicolas Biver; Dominique Bockelée-Morvan; Felipe Braga Ribas; Henda Chaabouni; Cassandre Chaudesaygues; Tanguy Chope; Vincent Cobut; Emanuele Congiu; Athéna Coustenis; Gael David; Yan Delorme; Daniéla Despan; Alain Doressoundiram; Francois Dulieu; Thérèse Encrenaz; Sara Falcionella; Alexandre Feret; Sonia Fornasier; Thierry Fouchet; Lina Gatilova; Basile Husquinet; Sophie Jacquinod; Carlos Jimenez; Lise Kilic; Quentin Kral; Jean-Michel Krieg; Emmanuel Lellouch; Cédric Leyrat; Michele Lissoni; Alain Maestrini; Frédéric Merlin; Raphael Moreno; Catherine Prigent; Françoise Roques; Valeriia Sokolova; Damya Souami; Robin Sultana; Titouan Teissieres; Catalina Torres; Jeanne Treuttel; Thibaut Vacelet; Jérôme Valentin; Sandrine Vinatier; Julie Vitorino; Antonin Wargnier; Martina Wiedner; Vladimir Zakharov
+src: https://lira.observatoiredeparis.psl.eu/Membres-du-pole-planetologie-1427
+p: Benjamin Charnay | Nhà nghiên cứu / giảng viên biên chế | https://lesia.obspm.fr/perso/benjamin-charnay/
+p: Stéphane Erard | Nhà nghiên cứu / giảng viên biên chế | http://www.lesia.obspm.fr/perso/stephane-erard/
+p: Philippe Thébault | Nhà nghiên cứu / giảng viên biên chế | http://lesia.obspm.fr/perso/philippe-thebault/
+p: Thomas Widemann | Nhà nghiên cứu / giảng viên biên chế | http://www.lesia.obspm.fr/perso/thomas-widemann/
+pp: Nhà nghiên cứu / giảng viên biên chế | Filipe Aires; Bruno Bézard; Antonella Barucci; Tanguy Bertrand; Nicolas Biver; Dominique Bockelée-Morvan; Emanuele Congiu; Athéna Coustenis; Daniéla Despan; Alain Doressoundiram; Francois Dulieu; Sonia Fornasier; Thierry Fouchet; Quentin Kral; Emmanuel Lellouch; Cédric Leyrat; Frédéric Merlin; Raphael Moreno; Catherine Prigent; Françoise Roques; Damya Souami; Sandrine Vinatier; Martina Wiedner
+pp: Kỹ sư / kỹ thuật viên biên chế | Saoud Baouche; Yan Delorme; Alexandre Feret; Lina Gatilova; Sophie Jacquinod; Jean-Michel Krieg; Jeanne Treuttel; Thibaut Vacelet; Jérôme Valentin
+pp: Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD) | Deborah Bardet; Tanguy Chope; Gael David; Robin Sultana; Vladimir Zakharov
+pp: Thành viên (trang không ghi chức danh) | Felipe Braga Ribas; Henda Chaabouni; Vincent Cobut; Carlos Jimenez; Lise Kilic; Alain Maestrini; Titouan Teissieres; Catalina Torres; Antonin Wargnier
+pp: Nghiên cứu sinh | Cassandre Chaudesaygues; Sara Falcionella; Basile Husquinet; Michele Lissoni; Valeriia Sokolova; Julie Vitorino
+pp: Danh dự (émérite) / thành viên liên kết | Thérèse Encrenaz
 
 #unit Pôle Hệ ngoại hành tinh (EXOPL)
 parent: LIRA, Observatoire de Paris-PSL

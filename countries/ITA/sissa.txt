@@ -13,8 +13,14 @@ parent: SISSA
 topics: Vũ trụ học, CMB và cấu trúc quy mô lớn, thiên hà, năng lượng cao, sao, sóng hấp dẫn.
 url: https://www.sissa.it/ap
 src: https://idman.web-services.sissa.it/organizationalUnitDetails/57
+src: https://www.sissa.it/ap/research/research.php
 p: Nicoletta Krachmalnicoff | Điều phối viên nhóm | https://idman.web-services.sissa.it/organizationalUnitDetails/57
-pp: Thành viên (biên chế, PD, NCS – không phân loại) | Alessandro Verganti; Aliza Mustafa; Athul Kuruvai Parambil Soman; Alessandro Bressan; Alessandro Carones; Alessandro Renzi; Annalisa Celotti; Antonio Lanza; Cristina Letizia Maddanu; Carlo Baccigalupi; Carlos Alonso Álvarez; Carmelita Carbone; Chi Thanh Nguyen; Claudio Ranucci; Cristiano Ugolini; Daniele Defrancesco; Davide Luchina; Elisabeth-Adelheid Keppler; Enrico Veraldi; Emma Dreas; Florie Carralot; Francesca Perrotta; Francesco Gabrielli; Francesco Longo; Giuliana Maria Claudia Travaglino; Gauri Sharma; Gayathri Gururajan; Giovanni Antinozzi; Giulio Fabbian; Irene Iorio; Ilia Musco; John Matthew Houghteling; John Miller; Karnchana Aroonrueang; Kavish Sardana; Kendall Gale Shepherd; Laura Silva; Luigi Danese; Margherita Imbriani; Marta Corioni; Marcella Massardi; Marco Raveri; Margherita De Toma; Maria Vittoria Zanchettin; Mario Spera; Martina Torsello; Matteo Costanzi; Mayurakshi Mukherjee; Michele Bosi; Milena Valentini; Olga Pietrosanti; Ritabik Banerjee; Rahul Srinivasan; Riccardo Valdarnini; Roberto Caiozzo; Samuele Marco Silveravalle; Serena Giardiello; Sijil Jose; Stefano Cristiani; Thomas George P; Tiziano Schiavone; Tommaso Ronconi; Xiaoting Fu; Yacer Boumechta; Yang Chen
+pp: Giảng viên / nghiên cứu viên biên chế | Alessandro Bressan; Annalisa Celotti; Antonio Lanza; Carlo Baccigalupi; Francesca Perrotta; Mario Spera
+pp: Nghiên cứu sau tiến sĩ | Alessandro Carones; Gayathri Gururajan; Samuele Marco Silveravalle; Tommaso Ronconi
+pp: Nghiên cứu sinh | Aliza Mustafa; Carlos Alonso Álvarez; Claudio Ranucci; Emma Dreas; Florie Carralot; Francesco Gabrielli; Giovanni Antinozzi; Martina Torsello; Michele Bosi; Milena Valentini; Sijil Jose
+pp: Giáo sư danh dự | Luigi Danese
+pp: Cộng tác viên ngoài SISSA (INAF) | Laura Silva; Marcella Massardi
+pp: Thành viên (danh bạ không ghi chức danh) | Alessandro Verganti; Athul Kuruvai Parambil Soman; Alessandro Renzi; Cristina Letizia Maddanu; Carmelita Carbone; Chi Thanh Nguyen; Cristiano Ugolini; Daniele Defrancesco; Davide Luchina; Elisabeth-Adelheid Keppler; Enrico Veraldi; Francesco Longo; Giuliana Maria Claudia Travaglino; Gauri Sharma; Giulio Fabbian; Irene Iorio; Ilia Musco; John Matthew Houghteling; John Miller; Karnchana Aroonrueang; Kavish Sardana; Kendall Gale Shepherd; Margherita Imbriani; Marta Corioni; Marco Raveri; Margherita De Toma; Maria Vittoria Zanchettin; Matteo Costanzi; Mayurakshi Mukherjee; Olga Pietrosanti; Ritabik Banerjee; Rahul Srinivasan; Riccardo Valdarnini; Roberto Caiozzo; Serena Giardiello; Stefano Cristiani; Thomas George P; Tiziano Schiavone; Xiaoting Fu; Yacer Boumechta; Yang Chen
 
 #unit Astroparticle and Gravitational Physics Group
 parent: SISSA

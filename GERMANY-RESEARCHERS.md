@@ -1683,80 +1683,80 @@ Thiên văn năng lượng cao (tia X và tia gamma).
 Trang thành viên không ghi chức danh và không tách nhà khoa học với nhân sự khác; danh sách là gần đúng, đã bỏ những người gắn nhãn IT, điện tử, cơ khí.
 
 - Kirpal Nandra — Giám đốc
-- Alexander Altmann — undefined
-- Carolina Andonie — undefined
-- Robert Andritschke — undefined
-- Emmanuel Artis — undefined
-- Catarina Aydar — undefined
-- Pietro Baldini — undefined
-- Fabian Balzer — undefined
-- Werner Becker — undefined
-- Annika Behrens — undefined
-- Birgit Boller — undefined
-- Thomas Boller — undefined
-- Peter Boorman — undefined
-- Seán Brennan — undefined
-- Johannes Buchner — undefined
-- Surangkhana Buchner — undefined
-- Esra Bulbul — undefined
-- Vadim Burwitz — undefined
-- Werner Collmar — undefined
-- Konrad Dennerl — undefined
-- Roland Diehl — undefined
-- Ziyu Ding — undefined
-- Clara Donat — undefined
-- Tom Dwelly — undefined
-- Valentin Emberger — undefined
-- Michael Freyberg — undefined
-- Peter Friedrich — undefined
-- Susanne Friedrich — undefined
-- Efrain Gatuzz — undefined
-- Joel Gil Leon — undefined
-- Jochen Greiner — undefined
-- Silvia Teresa Guida — undefined
-- Frank Haberl — undefined
-- Gisela Hartner — undefined
-- Zoltán Hegedüs — undefined
-- David Kaltenbrunner — undefined
-- Lars Kassler — undefined
-- Alena Khokhriakova — undefined
-- Andreas von Kienlin — undefined
-- Matthias Kluge — undefined
-- Elif Kutdemir Öncü — undefined
-- Gabriella Loparco — undefined
-- Astrid Mayr — undefined
-- Norbert Meidinger — undefined
-- Apostolos Menis — undefined
-- Andrea Merloni — undefined
-- Thomas Müller — undefined
-- Johannes Müller-Seidlitz — undefined
-- Yu Voon Ng — undefined
-- Qingling Ni — undefined
-- Efe Öztaban — undefined
-- Egehan Öztürk — undefined
-- Gabriele Ponti — undefined
-- Peter Predehl — undefined
-- Georgios Rachovitis — undefined
-- Miriam E. Ramos-Ceja — undefined
-- Arne Rau — undefined
-- William Roster — undefined
-- Mara Salvato — undefined
-- Jeremy Sanders — undefined
-- Raphael Shirley — undefined
-- Sebastian Splitthoff — undefined
-- Thomas Stanke — undefined
-- Ian Stewart — undefined
-- Veronika Stieglitz — undefined
-- Andrew Strong — undefined
-- Vittorio Tortorella — undefined
-- Joachim Trümper — undefined
-- Robert Willer — undefined
-- Michael Yeung — undefined
-- Silas Zelmer — undefined
-- Xiaoyuan Zhang — undefined
-- Xueying Zheng — undefined
+- Alexander Altmann — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Carolina Andonie — Thành viên (trang không ghi chức danh)
+- Robert Andritschke — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Emmanuel Artis — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Catarina Aydar — Nghiên cứu sinh
+- Pietro Baldini — Thành viên (trang không ghi chức danh)
+- Fabian Balzer — Thành viên (trang không ghi chức danh)
+- Werner Becker — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Annika Behrens — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Birgit Boller — Thư ký (nhân viên hỗ trợ)
+- Thomas Boller — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Peter Boorman — Thành viên (trang không ghi chức danh)
+- Seán Brennan — Thành viên (trang không ghi chức danh)
+- Johannes Buchner — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Surangkhana Buchner — Thành viên (trang không ghi chức danh)
+- Esra Bulbul — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Vadim Burwitz — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Werner Collmar — Khách mời (danh sách khách 2023)
+- Konrad Dennerl — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Roland Diehl — Khách mời (danh sách khách 2023)
+- Ziyu Ding — Nghiên cứu sinh
+- Clara Donat — Thành viên (trang không ghi chức danh)
+- Tom Dwelly — Thành viên (trang không ghi chức danh)
+- Valentin Emberger — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Michael Freyberg — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Peter Friedrich — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Susanne Friedrich — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Efrain Gatuzz — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Joel Gil Leon — Thành viên (trang không ghi chức danh)
+- Jochen Greiner — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Silvia Teresa Guida — Thành viên (trang không ghi chức danh)
+- Frank Haberl — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Gisela Hartner — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Zoltán Hegedüs — Thành viên (trang không ghi chức danh)
+- David Kaltenbrunner — Thành viên (trang không ghi chức danh)
+- Lars Kassler — Thành viên (trang không ghi chức danh)
+- Alena Khokhriakova — Nghiên cứu sinh
+- Andreas von Kienlin — Thành viên (trang không ghi chức danh)
+- Matthias Kluge — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Elif Kutdemir Öncü — Thành viên (trang không ghi chức danh)
+- Gabriella Loparco — Thành viên (trang không ghi chức danh)
+- Astrid Mayr — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Norbert Meidinger — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Apostolos Menis — Thành viên (trang không ghi chức danh)
+- Andrea Merloni — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Thomas Müller — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Johannes Müller-Seidlitz — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Yu Voon Ng — Thành viên (trang không ghi chức danh)
+- Qingling Ni — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Efe Öztaban — Thành viên (trang không ghi chức danh)
+- Egehan Öztürk — Thành viên (trang không ghi chức danh)
+- Gabriele Ponti — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Peter Predehl — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Georgios Rachovitis — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Miriam E. Ramos-Ceja — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Arne Rau — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- William Roster — Nghiên cứu sinh
+- Mara Salvato — Nhà khoa học biên chế; hướng dẫn nghiên cứu sinh (theo thống kê MPE 2023)
+- Jeremy Sanders — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Raphael Shirley — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Sebastian Splitthoff — Thành viên (trang không ghi chức danh)
+- Thomas Stanke — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Ian Stewart — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Veronika Stieglitz — Kỹ sư / nhân viên kỹ thuật (không có học vị Dr. trong danh sách)
+- Andrew Strong — Khách mời (danh sách khách 2023)
+- Vittorio Tortorella — Thành viên (trang không ghi chức danh)
+- Joachim Trümper — Giáo sư danh dự
+- Robert Willer — Nghiên cứu sinh
+- Michael Yeung — Nghiên cứu sinh
+- Silas Zelmer — Nghiên cứu sinh
+- Xiaoyuan Zhang — Tiến sĩ (Dr.) — nghiên cứu viên / sau tiến sĩ
+- Xueying Zheng — Nghiên cứu sinh
 
-Nguồn: [1](https://www.mpe.mpg.de/1302618/heg-members), [2](https://mpe.mpg.de/576280/structure).
+Nguồn: [1](https://www.mpe.mpg.de/1302618/heg-members), [2](https://mpe.mpg.de/576280/structure), [3](https://www.mpe.mpg.de/8043049/Stats2023_EN_11_11_2024.pdf).
 
 ### [Infrared and Submillimeter Astronomy](https://www.mpe.mpg.de/ir)
 
