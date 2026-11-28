@@ -137,6 +137,9 @@ i.k-data,i.k-full{background:var(--navy)}i.k-land{background:var(--land);box-sha
 .city-marker[aria-pressed="true"] .city-label,.city-marker.hl .city-label{fill:#111;stroke:var(--sel);stroke-width:7px;font-size:12px}
 .city-marker[aria-pressed="true"] line,.city-marker.hl line{stroke:var(--sel);stroke-width:2;stroke-dasharray:none}
 .city-chip[aria-pressed="true"]{box-shadow:0 0 0 3px color-mix(in srgb,var(--sel) 55%,transparent)}
+.country-label{cursor:pointer;pointer-events:auto}
+.country-label.out{fill:var(--navy);stroke:var(--bg);stroke-width:5px}
+.country-leader{stroke:var(--navy);stroke-width:.8;pointer-events:none}
 footer{border-top:1px solid var(--line);margin-top:36px;padding-top:16px;font-size:13px;color:var(--muted)}
 button:focus-visible{outline:2px solid var(--navy);outline-offset:3px}
 @media(max-width:720px){.masthead{grid-template-columns:1fr;align-items:start}.map-legend{display:none}}
@@ -151,7 +154,6 @@ button:focus-visible{outline:2px solid var(--navy);outline-offset:3px}
 <div class="map-top"><div class="tools"><button id="out" aria-label="Thu nhỏ">−</button><button id="reset" aria-label="Xem toàn bộ bản đồ">↺</button><button id="in" aria-label="Phóng to">+</button></div><p class="map-legend"><span><i class="k-data"></i>Đã có dữ liệu</span><span><i class="k-land"></i>Chưa làm</span></p></div>
 <div class="viewport"><svg id="map" viewBox="0 0 1200 760" aria-label="Các quốc gia và vùng lãnh thổ trên thế giới"><!-- MAP --></svg></div>
 </section>
-<nav id="country-list" class="country-list" aria-label="Danh sách quốc gia"></nav>
 <div class="bottom"><div id="name" class="selected-name" role="status" aria-live="polite"></div><div class="country-view"><div class="cv-map"><div id="detail" class="country-detail" hidden><svg id="detail-map" viewBox="0 0 760 460" role="group" aria-labelledby="name"><path id="detail-shape" class="detail-shape"/><g id="detail-labels"></g><g id="city-markers"></g></svg></div><p id="city-legend" class="legend-row" hidden><span><i class="k-full"></i>Đủ danh sách nhà nghiên cứu</span><span><i class="k-partial"></i>Có cơ quan chưa đủ danh sách / mới có trưởng nhóm</span><span><i class="k-todo"></i>Chưa làm</span></p></div><div id="city-list" class="city-list" aria-label="Danh sách thành phố"></div></div><section id="city-panel" class="city-panel" aria-live="polite" hidden><h2 id="city-name"></h2><ul id="institutions"></ul></section></div>
 <footer>Hub for Exploration Opportunities. Dữ liệu lấy từ trang chính thức của từng cơ quan; nguồn ghi ở từng nhóm.</footer>
 </main><script>
@@ -255,24 +257,23 @@ const defs=document.createElementNS(ns,'defs');defs.innerHTML='<linearGradient i
 }
 
 {
-const ns='http://www.w3.org/2000/svg',short={GBR:'Anh',CZE:'Séc',BIH:'Bosnia',MKD:'Bắc Macedonia',NLD:'Hà Lan',VAT:'Vatican'};
+const ns='http://www.w3.org/2000/svg',short={GBR:'Anh',IRL:'Ireland',CYP:'Síp',CZE:'Séc',BIH:'Bosnia',MKD:'Bắc Macedonia',NLD:'Hà Lan',VAT:'Vatican'};
 const lay=document.createElementNS(ns,'g');lay.setAttribute('class','country-labels');map.append(lay);
-const placed=[];const ov=b=>placed.some(o=>b.x<o.x+o.w&&b.x+b.w>o.x&&b.y<o.y+o.h&&b.y+b.h>o.y);
+const placed=[];const ov=b=>placed.some(o=>b.x<o.x+o.w+7&&b.x+b.w+7>o.x&&b.y<o.y+o.h+2&&b.y+b.h+2>o.y);
 const els=[...map.querySelectorAll('.country.has-data')].map(el=>({el,b:el.getBBox()})).sort((a,b)=>b.b.width*b.b.height-a.b.width*a.b.height);
 for(const {el,b} of els){const t=document.createElementNS(ns,'text');t.textContent=short[el.dataset.code]||el.dataset.name;t.setAttribute('class','country-label');lay.append(t);
  const w=t.getComputedTextLength(),h=11;let cx=b.x+b.width/2,cy=b.y+b.height/2;
  const adj={NOR:[-18,40],SWE:[0,25],FIN:[0,10],GBR:[8,10],FRA:[8,0],HRV:[-10,-6],GRC:[-6,-10],ITA:[-14,-28],DNK:[0,4]}[el.dataset.code];if(adj){cx+=adj[0];cy+=adj[1]}
  const box={x:cx-w/2-1,y:cy-h/2-1,w:w+2,h:h+2};
- if(w>b.width*1.05||h>b.height*.9||ov(box)){t.remove();continue}
- t.setAttribute('x',cx);t.setAttribute('y',cy+4);placed.push(box)}
-const nav=document.querySelector('#country-list');
-const all=[...map.querySelectorAll('.country.has-data')].sort((a,b)=>a.dataset.name.localeCompare(b.dataset.name,'vi'));
-const title=document.createElement('p');title.className='country-list-title';title.textContent='Chọn nhanh quốc gia ('+all.length+')';nav.append(title);
-const wrap=document.createElement('div');wrap.className='country-chips';
-for(const el of all){const b=document.createElement('button');b.type='button';b.className='country-chip';b.dataset.code=el.dataset.code;b.textContent=short[el.dataset.code]||el.dataset.name;
- b.addEventListener('mouseenter',()=>el.classList.add('hl'));b.addEventListener('mouseleave',()=>el.classList.remove('hl'));
- b.addEventListener('click',()=>{choose(el);document.querySelectorAll('.country-chip').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'})});wrap.append(b)}
-nav.append(wrap);
-map.addEventListener('click',e=>{const el=e.target.closest('.country');if(!el)return;document.querySelectorAll('.country-chip').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.code===el.dataset.code)));if(el.classList.contains('has-data'))requestAnimationFrame(()=>nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}))});
+ t.addEventListener('click',()=>{choose(el);requestAnimationFrame(()=>nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}))});
+ if(!(w>b.width*1.05||h>b.height*.9||ov(box))){t.setAttribute('x',cx);t.setAttribute('y',cy+4);placed.push(box);continue}
+ t.setAttribute('class','country-label out');const w2=t.getComputedTextLength();const ox=b.x+b.width/2,oy=b.y+b.height/2;let ok=false;
+ for(const d of [16,34,52])if(!ok)for(const [dx,dy,an] of [[1,0,'start'],[-1,0,'end'],[0,-1,'middle'],[0,1,'middle'],[1,1,'start'],[-1,1,'end'],[1,-1,'start'],[-1,-1,'end']]){
+  const lx=ox+dx*(b.width/2+d),ly=oy+dy*(b.height/2+d);const bx=an==='start'?lx:an==='end'?lx-w2:lx-w2/2;const bb={x:bx-2,y:ly-h/2-1,w:w2+4,h:h+2};
+  if(ov(bb))continue;const ln=document.createElementNS(ns,'line');ln.setAttribute('x1',ox+dx*b.width/2);ln.setAttribute('y1',oy+dy*b.height/2);ln.setAttribute('x2',lx-dx*3);ln.setAttribute('y2',ly-dy*3);ln.setAttribute('class','country-leader');lay.insertBefore(ln,t);
+  t.setAttribute('x',lx);t.setAttribute('y',ly+4);t.setAttribute('text-anchor',an);placed.push(bb);ok=true;break}
+ if(!ok){t.remove()}}
+
+map.addEventListener('click',e=>{const el=e.target.closest('.country');if(!el)return;if(el.classList.contains('has-data'))requestAnimationFrame(()=>nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}))});
 }
 </script></body></html>
