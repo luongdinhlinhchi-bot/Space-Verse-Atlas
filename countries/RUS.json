@@ -1,0 +1,218 @@
+{
+ "cities": [
+  {
+   "id": "moscow",
+   "city": "Moskva",
+   "coordinates": [
+    37.62,
+    55.75
+   ],
+   "institutions": [
+    {
+     "name": "Sternberg Astronomical Institute, Lomonosov Moscow State University (SAI MSU)",
+     "type": "university",
+     "research": "Viện thiên văn lớn nhất nước Nga trong một trường đại học: sao và sao biến quang, thiên hà, vũ trụ học, vật lý thiên văn tương đối tính, mạng kính robot MASTER, đài quan sát Kislovodsk.",
+     "url": "http://www.sai.msu.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "http://www.sai.msu.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Space Research Institute of the Russian Academy of Sciences (IKI RAS)",
+     "type": "institute",
+     "research": "Viện nghiên cứu không gian: vật lý thiên văn năng lượng cao (SRG/ART-XC, INTEGRAL), khoa học hành tinh (ExoMars), plasma không gian.",
+     "url": "https://iki.cosmos.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://iki.cosmos.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Institute of Astronomy of the Russian Academy of Sciences (INASAN)",
+     "type": "institute",
+     "research": "Sao và môi trường liên sao, thiên văn hoá học, vật thể gần Trái Đất, sứ mệnh tử ngoại Spektr-UF.",
+     "url": "https://www.inasan.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.inasan.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Lebedev Physical Institute — Astro Space Center (ASC LPI)",
+     "type": "institute",
+     "research": "Thiên văn vô tuyến và giao thoa vô tuyến cơ sở siêu dài (RadioAstron), pulsar, vũ trụ học lý thuyết.",
+     "url": "https://www.asc.rssi.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.asc.rssi.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "spb",
+   "city": "Sankt-Peterburg",
+   "coordinates": [
+    30.32,
+    59.94
+   ],
+   "institutions": [
+    {
+     "name": "Central (Pulkovo) Astronomical Observatory of the Russian Academy of Sciences",
+     "type": "institute",
+     "research": "Đo sao, cơ học thiên thể, vật lý Mặt Trời, sao đôi, thiên văn vô tuyến.",
+     "url": "http://www.gaoran.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "http://www.gaoran.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Ioffe Institute — Astrophysics Division",
+     "type": "institute",
+     "research": "Vật lý thiên văn lý thuyết: sao neutron, vật lý thiên văn năng lượng cao, tia vũ trụ, plasma Mặt Trời; thiết bị tia gamma (Konus-Wind).",
+     "url": "https://www.ioffe.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ioffe.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Saint Petersburg State University — Department of Astronomy",
+     "type": "university",
+     "research": "Cơ học thiên thể, vật lý thiên văn, động lực học thiên hà, thiên văn vô tuyến; đào tạo cử nhân – tiến sĩ thiên văn.",
+     "url": "https://english.spbu.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://english.spbu.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Institute of Applied Astronomy of the Russian Academy of Sciences (IAA RAS)",
+     "type": "institute",
+     "research": "Lịch thiên văn, đo sao vô tuyến, mạng VLBI Quasar.",
+     "url": "https://iaaras.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://iaaras.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "arkhyz",
+   "city": "Nizhny Arkhyz (SAO RAS)",
+   "coordinates": [
+    41.44,
+    43.65
+   ],
+   "institutions": [
+    {
+     "name": "Special Astrophysical Observatory of the Russian Academy of Sciences (SAO RAS)",
+     "type": "institute",
+     "research": "Kính quang học 6 m BTA và kính vô tuyến RATAN-600: thiên hà, AGN, sao, thiên văn vô tuyến.",
+     "url": "https://www.sao.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.sao.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "kazan",
+   "city": "Kazan",
+   "coordinates": [
+    49.12,
+    55.79
+   ],
+   "institutions": [
+    {
+     "name": "Kazan Federal University — Engelhardt Astronomical Observatory",
+     "type": "university",
+     "research": "Thiên văn và trắc địa vũ trụ: sao, thiên hà, quan sát vật thể gần Trái Đất, vật lý Mặt Trời.",
+     "url": "https://kpfu.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://kpfu.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "yekaterinburg",
+   "city": "Yekaterinburg",
+   "coordinates": [
+    60.6,
+    56.84
+   ],
+   "institutions": [
+    {
+     "name": "Ural Federal University — Kourovka Astronomical Observatory",
+     "type": "university",
+     "research": "Sao biến quang, cụm sao, thiên văn hoá học, khảo sát quang học.",
+     "url": "https://urfu.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://urfu.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "troitsk",
+   "city": "Troitsk (Moskva)",
+   "coordinates": [
+    37.3,
+    55.48
+   ],
+   "institutions": [
+    {
+     "name": "Institute for Nuclear Research of the Russian Academy of Sciences (INR RAS)",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt: kính neutrino Baikal-GVD, Đài quan sát neutrino Baksan, tia vũ trụ, vũ trụ học lý thuyết.",
+     "url": "https://www.inr.ru/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.inr.ru/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ],
+   "offset": [
+    12.0,
+    10.0
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "RUS",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Chỉ phần châu Âu của Nga (tới dãy Ural); toạ độ là tâm thành phố.",
+ "listSource": "https://www.inasan.ru/"
+}

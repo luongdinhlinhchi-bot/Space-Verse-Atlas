@@ -1,0 +1,87 @@
+@city ankara | Ankara | 32.85, 39.93
+@city istanbul | İstanbul | 28.96, 41.01
+@city izmir | İzmir | 27.14, 38.42
+@city antalya | Antalya (TUG) | 30.71, 36.90
+@city erzurum | Erzurum | 41.27, 39.90
+@city canakkale | Çanakkale | 26.41, 40.15
+
+@inst Ankara University — Department of Astronomy and Space Sciences & Kreiken Observatory
+city: ankara
+type: university
+url: https://astronomy.science.ankara.edu.tr/
+research: Khoa thiên văn lâu đời: sao đôi che khuất, sao biến quang, vật lý sao, ngoại hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://astronomy.science.ankara.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Middle East Technical University (METU) — Department of Physics (Astrophysics)
+city: ankara
+type: university
+url: https://physics.metu.edu.tr/
+research: Vật lý thiên văn năng lượng cao, sao neutron, vũ trụ học, tia gamma.
+coverage: partial
+structure: 
+structureUrl: https://physics.metu.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Istanbul University — Department of Astronomy and Space Sciences & Observatory
+city: istanbul
+type: university
+url: https://astronomi-fen.istanbul.edu.tr/
+research: Đài quan sát hiện đại đầu tiên của Thổ Nhĩ Kỳ (1936): sao, Mặt Trời, thiên hà; kính IST60.
+coverage: partial
+structure: 
+structureUrl: https://astronomi-fen.istanbul.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Boğaziçi University — Department of Physics (Astrophysics)
+city: istanbul
+type: university
+url: https://www.phys.boun.edu.tr/
+research: Sao neutron và pulsar, thiên văn tia X, vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://www.phys.boun.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Ege University — Department of Astronomy and Space Sciences & Observatory
+city: izmir
+type: university
+url: https://astronomi.ege.edu.tr/
+research: Sao đôi, sao biến quang, vật lý Mặt Trời; đài quan sát Ege.
+coverage: partial
+structure: 
+structureUrl: https://astronomi.ege.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst TÜBİTAK National Observatory (TUG)
+city: antalya
+type: institute
+url: https://tug.tubitak.gov.tr/
+research: Đài quan sát quốc gia: kính RTT150, T100; quan sát sao, ngoại hành tinh, sự kiện tạm thời.
+coverage: partial
+structure: 
+structureUrl: https://tug.tubitak.gov.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Atatürk University — Eastern Anatolia Observatory (DAG)
+city: erzurum
+type: university
+url: https://www.atauni.edu.tr/
+research: Đài thiên văn Đông Anatolia với kính 4 m DAG (quang học – hồng ngoại); quan sát sao, thiên hà.
+coverage: partial
+structure: 
+structureUrl: https://www.atauni.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Çanakkale Onsekiz Mart University — Department of Space Sciences and Technologies & Ulupınar Observatory
+city: canakkale
+type: university
+url: https://www.comu.edu.tr/
+research: Sao biến quang, sao đôi, quan sát quang học.
+coverage: partial
+structure: 
+structureUrl: https://www.comu.edu.tr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

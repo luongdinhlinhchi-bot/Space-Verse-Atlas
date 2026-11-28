@@ -194,7 +194,7 @@ const countries = data.features.map(f0 => {
   if(W/H<1.25) cd.viewBox=[L,T,W,H].map(v=>+v.toFixed(1)).join(' ');
   delete cd.autoView;
  }
- const worldD = path(f); if(!worldD) return ''; const lp = cd ? labelPoint(f) : null;
+ const worldD = path(f); if(!worldD) return ''; const LPO={RUS:[44,57]}; const lp = cd ? (LPO[f.properties.ADM0_A3] ? [...projection(LPO[f.properties.ADM0_A3]).map(v=>+v.toFixed(1)),40] : labelPoint(f)) : null;
  return `<path class="country${cd?' has-data':''}" d="${worldD}" data-code="${f.properties.ADM0_A3}" data-detail="${detailPath}" tabindex="0" role="button" aria-label="${esc(name)}" aria-pressed="false" data-name="${esc(name)}"${lp?` data-lp="${lp.join(',')}"`:''}><title>${esc(name)}</title></path>`;
 }).join('\n');
 const template = fs.readFileSync('template.html','utf8');

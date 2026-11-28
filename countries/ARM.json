@@ -1,0 +1,66 @@
+{
+ "cities": [
+  {
+   "id": "byurakan",
+   "city": "Byurakan",
+   "coordinates": [
+    44.27,
+    40.33
+   ],
+   "institutions": [
+    {
+     "name": "NAS RA V. Ambartsumian Byurakan Astrophysical Observatory (BAO)",
+     "type": "institute",
+     "research": "Đài thiên văn quốc gia Armenia do V. Ambartsumian lập năm 1946: thiên hà Markarian và AGN, sao trẻ, khảo sát phổ, thiên văn ảo.",
+     "url": "https://www.bao.am/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.bao.am/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "yerevan",
+   "city": "Yerevan",
+   "coordinates": [
+    44.51,
+    40.18
+   ],
+   "institutions": [
+    {
+     "name": "Yerevan State University — Department of Physics (Astrophysics)",
+     "type": "university",
+     "research": "Vật lý thiên văn lý thuyết, vũ trụ học, tia vũ trụ.",
+     "url": "https://www.ysu.am/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ysu.am/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "ICRANet-Armenia",
+     "type": "institute",
+     "research": "Vật lý thiên văn tương đối tính, chớp gamma, vũ trụ học (mạng ICRANet).",
+     "url": "https://www.icranet.org/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.icranet.org/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "ARM",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố / vị trí đài quan sát.",
+ "listSource": "https://www.bao.am/"
+}

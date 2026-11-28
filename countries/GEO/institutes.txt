@@ -1,0 +1,33 @@
+@city abastumani | Abastumani | 42.83, 41.75
+@city tbilisi | Tbilisi | 44.79, 41.72
+
+@inst E. Kharadze Abastumani Astrophysical Observatory, Ilia State University
+city: abastumani
+type: institute
+url: https://iliauni.edu.ge/
+research: Đài quan sát lâu đời nhất vùng Kavkaz: sao, tiểu hành tinh và vật thể gần Trái Đất, AGN năng lượng cao, vật lý Mặt Trời.
+coverage: partial
+structure: 
+structureUrl: https://iliauni.edu.ge/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Ilia State University — Center for Theoretical Astrophysics
+city: tbilisi
+type: university
+url: https://iliauni.edu.ge/
+research: Vật lý thiên văn lý thuyết: plasma và từ thủy động lực, sóng trong khí quyển Mặt Trời, đĩa bồi tụ.
+coverage: partial
+structure: 
+structureUrl: https://iliauni.edu.ge/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Ivane Javakhishvili Tbilisi State University — Astronomy and Space Physics
+city: tbilisi
+type: university
+url: https://www.tsu.ge/
+research: Vật lý không gian và Mặt Trời, khí quyển trên cao, thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.tsu.ge/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

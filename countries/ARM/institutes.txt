@@ -1,0 +1,33 @@
+@city byurakan | Byurakan | 44.27, 40.33
+@city yerevan | Yerevan | 44.51, 40.18
+
+@inst NAS RA V. Ambartsumian Byurakan Astrophysical Observatory (BAO)
+city: byurakan
+type: institute
+url: https://www.bao.am/
+research: Đài thiên văn quốc gia Armenia do V. Ambartsumian lập năm 1946: thiên hà Markarian và AGN, sao trẻ, khảo sát phổ, thiên văn ảo.
+coverage: partial
+structure: 
+structureUrl: https://www.bao.am/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Yerevan State University — Department of Physics (Astrophysics)
+city: yerevan
+type: university
+url: https://www.ysu.am/
+research: Vật lý thiên văn lý thuyết, vũ trụ học, tia vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.ysu.am/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst ICRANet-Armenia
+city: yerevan
+type: institute
+url: https://www.icranet.org/
+research: Vật lý thiên văn tương đối tính, chớp gamma, vũ trụ học (mạng ICRANet).
+coverage: partial
+structure: 
+structureUrl: https://www.icranet.org/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

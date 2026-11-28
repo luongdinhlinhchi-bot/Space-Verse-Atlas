@@ -1,0 +1,5 @@
+@country RUS
+checked: 2026-11-28
+pin: 5
+coordinateNote: Chỉ phần châu Âu của Nga (tới dãy Ural); toạ độ là tâm thành phố.
+listSource: https://www.inasan.ru/

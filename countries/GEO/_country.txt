@@ -1,0 +1,5 @@
+@country GEO
+checked: 2026-11-28
+pin: 5
+coordinateNote: Toạ độ là tâm thành phố / vị trí đài quan sát.
+listSource: https://iliauni.edu.ge/

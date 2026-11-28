@@ -1,0 +1,66 @@
+{
+ "cities": [
+  {
+   "id": "abastumani",
+   "city": "Abastumani",
+   "coordinates": [
+    42.83,
+    41.75
+   ],
+   "institutions": [
+    {
+     "name": "E. Kharadze Abastumani Astrophysical Observatory, Ilia State University",
+     "type": "institute",
+     "research": "Đài quan sát lâu đời nhất vùng Kavkaz: sao, tiểu hành tinh và vật thể gần Trái Đất, AGN năng lượng cao, vật lý Mặt Trời.",
+     "url": "https://iliauni.edu.ge/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://iliauni.edu.ge/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "tbilisi",
+   "city": "Tbilisi",
+   "coordinates": [
+    44.79,
+    41.72
+   ],
+   "institutions": [
+    {
+     "name": "Ilia State University — Center for Theoretical Astrophysics",
+     "type": "university",
+     "research": "Vật lý thiên văn lý thuyết: plasma và từ thủy động lực, sóng trong khí quyển Mặt Trời, đĩa bồi tụ.",
+     "url": "https://iliauni.edu.ge/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://iliauni.edu.ge/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Ivane Javakhishvili Tbilisi State University — Astronomy and Space Physics",
+     "type": "university",
+     "research": "Vật lý không gian và Mặt Trời, khí quyển trên cao, thiên văn.",
+     "url": "https://www.tsu.ge/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.tsu.ge/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "GEO",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố / vị trí đài quan sát.",
+ "listSource": "https://iliauni.edu.ge/"
+}

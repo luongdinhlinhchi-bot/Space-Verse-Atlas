@@ -1,0 +1,166 @@
+{
+ "cities": [
+  {
+   "id": "ankara",
+   "city": "Ankara",
+   "coordinates": [
+    32.85,
+    39.93
+   ],
+   "institutions": [
+    {
+     "name": "Ankara University — Department of Astronomy and Space Sciences & Kreiken Observatory",
+     "type": "university",
+     "research": "Khoa thiên văn lâu đời: sao đôi che khuất, sao biến quang, vật lý sao, ngoại hành tinh.",
+     "url": "https://astronomy.science.ankara.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://astronomy.science.ankara.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Middle East Technical University (METU) — Department of Physics (Astrophysics)",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao, sao neutron, vũ trụ học, tia gamma.",
+     "url": "https://physics.metu.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://physics.metu.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "istanbul",
+   "city": "İstanbul",
+   "coordinates": [
+    28.96,
+    41.01
+   ],
+   "institutions": [
+    {
+     "name": "Istanbul University — Department of Astronomy and Space Sciences & Observatory",
+     "type": "university",
+     "research": "Đài quan sát hiện đại đầu tiên của Thổ Nhĩ Kỳ (1936): sao, Mặt Trời, thiên hà; kính IST60.",
+     "url": "https://astronomi-fen.istanbul.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://astronomi-fen.istanbul.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Boğaziçi University — Department of Physics (Astrophysics)",
+     "type": "university",
+     "research": "Sao neutron và pulsar, thiên văn tia X, vũ trụ học.",
+     "url": "https://www.phys.boun.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.phys.boun.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "izmir",
+   "city": "İzmir",
+   "coordinates": [
+    27.14,
+    38.42
+   ],
+   "institutions": [
+    {
+     "name": "Ege University — Department of Astronomy and Space Sciences & Observatory",
+     "type": "university",
+     "research": "Sao đôi, sao biến quang, vật lý Mặt Trời; đài quan sát Ege.",
+     "url": "https://astronomi.ege.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://astronomi.ege.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "antalya",
+   "city": "Antalya (TUG)",
+   "coordinates": [
+    30.71,
+    36.9
+   ],
+   "institutions": [
+    {
+     "name": "TÜBİTAK National Observatory (TUG)",
+     "type": "institute",
+     "research": "Đài quan sát quốc gia: kính RTT150, T100; quan sát sao, ngoại hành tinh, sự kiện tạm thời.",
+     "url": "https://tug.tubitak.gov.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://tug.tubitak.gov.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "erzurum",
+   "city": "Erzurum",
+   "coordinates": [
+    41.27,
+    39.9
+   ],
+   "institutions": [
+    {
+     "name": "Atatürk University — Eastern Anatolia Observatory (DAG)",
+     "type": "university",
+     "research": "Đài thiên văn Đông Anatolia với kính 4 m DAG (quang học – hồng ngoại); quan sát sao, thiên hà.",
+     "url": "https://www.atauni.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.atauni.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "canakkale",
+   "city": "Çanakkale",
+   "coordinates": [
+    26.41,
+    40.15
+   ],
+   "institutions": [
+    {
+     "name": "Çanakkale Onsekiz Mart University — Department of Space Sciences and Technologies & Ulupınar Observatory",
+     "type": "university",
+     "research": "Sao biến quang, sao đôi, quan sát quang học.",
+     "url": "https://www.comu.edu.tr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.comu.edu.tr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "TUR",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Toạ độ là tâm thành phố.",
+ "listSource": "https://tug.tubitak.gov.tr/"
+}

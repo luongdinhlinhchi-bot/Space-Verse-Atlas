@@ -261,7 +261,7 @@ const defs=document.createElementNS(ns,'defs');defs.innerHTML='<linearGradient i
 
 {
 const ns='http://www.w3.org/2000/svg',short={GBR:'Anh',IRL:'Ireland',CYP:'Síp',CZE:'Séc',BIH:'Bosnia',MKD:'Bắc Macedonia',NLD:'Hà Lan',VAT:'Vatican'};
-const TLD={ALB:'AL',AUT:'AT',BEL:'BE',BGR:'BG',BIH:'BA',BLR:'BY',CHE:'CH',CYP:'CY',CZE:'CZ',DEU:'DE',DNK:'DK',ESP:'ES',EST:'EE',FIN:'FI',FRA:'FR',GBR:'UK',GRC:'GR',HRV:'HR',HUN:'HU',IRL:'IE',ISL:'IS',ITA:'IT',KOS:'XK',LTU:'LT',LUX:'LU',LVA:'LV',MDA:'MD',MKD:'MK',MLT:'MT',MNE:'ME',NLD:'NL',NOR:'NO',POL:'PL',PRT:'PT',ROU:'RO',SRB:'RS',SVK:'SK',SVN:'SI',SWE:'SE',UKR:'UA',VAT:'VA'};
+const TLD={ALB:'AL',AUT:'AT',ARM:'AM',GEO:'GE',RUS:'RU',TUR:'TR',BEL:'BE',BGR:'BG',BIH:'BA',BLR:'BY',CHE:'CH',CYP:'CY',CZE:'CZ',DEU:'DE',DNK:'DK',ESP:'ES',EST:'EE',FIN:'FI',FRA:'FR',GBR:'UK',GRC:'GR',HRV:'HR',HUN:'HU',IRL:'IE',ISL:'IS',ITA:'IT',KOS:'XK',LTU:'LT',LUX:'LU',LVA:'LV',MDA:'MD',MKD:'MK',MLT:'MT',MNE:'ME',NLD:'NL',NOR:'NO',POL:'PL',PRT:'PT',ROU:'RO',SRB:'RS',SVK:'SK',SVN:'SI',SWE:'SE',UKR:'UA',VAT:'VA'};
 const lay=document.createElementNS(ns,'g');lay.setAttribute('class','country-labels');map.append(lay);
 const placed=[];const ov=b=>placed.some(o=>b.x<o.x+o.w+7&&b.x+b.w+7>o.x&&b.y<o.y+o.h+2&&b.y+b.h+2>o.y);
 const wet=bb=>{for(const fx of [0,.5,1])for(const fy of [0,.5,1]){const pt=new DOMPoint(bb.x+bb.w*fx,bb.y+bb.h*fy);if(els.some(e=>e.el.isPointInFill(pt)))return true}return false};
