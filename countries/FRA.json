@@ -1,6 +1,138 @@
 {
  "cities": [
   {
+   "id": "rennes",
+   "city": "Rennes",
+   "coordinates": [
+    -1.68,
+    48.11
+   ],
+   "institutions": [
+    {
+     "name": "Institut de Physique de Rennes (IPR, UMR 6251) — Département de Physique Moléculaire",
+     "type": "institute",
+     "research": "Vật lý thiên văn phòng thí nghiệm: phản ứng hoá học ở nhiệt độ rất thấp (CRESU) mô phỏng mây giữa các sao, va chạm phân tử cho môi trường liên sao và sao chổi, phổ phân tử cho khí quyển ngoại hành tinh.",
+     "url": "https://ipr.univ-rennes.fr",
+     "coverage": "leaders",
+     "structure": "",
+     "structureUrl": "https://ipr.univ-rennes.fr",
+     "scopeNote": "Theo trang nhóm; trang vừa ghi Bop, Veselinova là postdoc hiện tại vừa ghi ở mục cựu thành viên/khách nên cần kiểm tra lại.",
+     "units": [
+      {
+       "name": "Nhóm lý thuyết va chạm phân tử & hoá học thiên văn (F. Lique)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut de Physique de Rennes",
+       "topics": "Kích thích va chạm của phân tử liên sao và sao chổi, phân tử hữu cơ phức tạp, hoá học trạng thái–trạng thái.",
+       "url": "https://sites.google.com/site/francoislique/research-group",
+       "researchers": {
+        "people": [
+         {
+          "name": "François Lique",
+          "role": "Giáo sư; trưởng nhóm",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Cheikh Bop",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Dibyendu Sardar",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Anzhela Veselinova",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Francesca Tonolo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Robin Blanchart",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Salvatore Boi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Chaima Abidi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Shan Gao",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Antonios Papaioannou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         },
+         {
+          "name": "Guillaume Raffy",
+          "role": "Kỹ sư tin học",
+          "url": "https://sites.google.com/site/francoislique/curriculum-vitae"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://sites.google.com/site/francoislique/curriculum-vitae"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      },
+      {
+       "name": "Astrophysique de laboratoire (thực nghiệm)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Institut de Physique de Rennes",
+       "topics": "CRESU — phản ứng ở nhiệt độ cực thấp, phổ học cho môi trường liên sao và khí quyển ngoại hành tinh.",
+       "url": "https://ipr.univ-rennes.fr",
+       "researchers": {
+        "people": [
+         {
+          "name": "Sébastien Le Picard",
+          "role": "Giáo sư",
+          "url": "https://espace-sciences.org/sciences-ouest/262/dossier/un-air-frais-venu-du-cosmos"
+         },
+         {
+          "name": "Lucile Rutkowski",
+          "role": "Nhà nghiên cứu CNRS",
+          "url": "https://espace-sciences.org/sciences-ouest/262/dossier/un-air-frais-venu-du-cosmos"
+         },
+         {
+          "name": "André Canosa",
+          "role": "Nhà nghiên cứu cơ hữu (chưa rõ ngạch)",
+          "url": "https://espace-sciences.org/sciences-ouest/262/dossier/un-air-frais-venu-du-cosmos"
+         },
+         {
+          "name": "Robert Georges",
+          "role": "Nhà nghiên cứu cơ hữu (chưa rõ ngạch)",
+          "url": "https://espace-sciences.org/sciences-ouest/262/dossier/un-air-frais-venu-du-cosmos"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://espace-sciences.org/sciences-ouest/262/dossier/un-air-frais-venu-du-cosmos"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "annecy",
    "city": "Annecy",
    "coordinates": [

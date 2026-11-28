@@ -1,3 +1,4 @@
+@city rennes | Rennes | -1.68, 48.11
 @city annecy | Annecy | 6.13, 45.90
 @city stmichel | Saint-Michel-l'Observatoire (OHP) | 5.71, 43.93
 
@@ -71,3 +72,35 @@ structure:
 structureUrl: https://www.osupytheas.fr/observatoires/observatoire-de-haute-provence
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
 
+
+@inst Institut de Physique de Rennes (IPR, UMR 6251) — Département de Physique Moléculaire
+city: rennes
+type: institute
+url: https://ipr.univ-rennes.fr
+research: Vật lý thiên văn phòng thí nghiệm: phản ứng hoá học ở nhiệt độ rất thấp (CRESU) mô phỏng mây giữa các sao, va chạm phân tử cho môi trường liên sao và sao chổi, phổ phân tử cho khí quyển ngoại hành tinh.
+coverage: leaders
+structure: 
+structureUrl: https://ipr.univ-rennes.fr
+scope: Theo trang nhóm; trang vừa ghi Bop, Veselinova là postdoc hiện tại vừa ghi ở mục cựu thành viên/khách nên cần kiểm tra lại.
+
+#unit Nhóm lý thuyết va chạm phân tử & hoá học thiên văn (F. Lique)
+parent: Institut de Physique de Rennes
+topics: Kích thích va chạm của phân tử liên sao và sao chổi, phân tử hữu cơ phức tạp, hoá học trạng thái–trạng thái.
+url: https://sites.google.com/site/francoislique/research-group
+src: https://sites.google.com/site/francoislique/research-group
+src: https://sites.google.com/site/francoislique/curriculum-vitae
+pp: Giáo sư; trưởng nhóm | François Lique
+pp: Nghiên cứu sau tiến sĩ | Cheikh Bop; Dibyendu Sardar; Anzhela Veselinova; Francesca Tonolo
+pp: Nghiên cứu sinh | Robin Blanchart; Salvatore Boi; Chaima Abidi; Shan Gao; Antonios Papaioannou
+pp: Kỹ sư tin học | Guillaume Raffy
+
+#unit Astrophysique de laboratoire (thực nghiệm)
+parent: Institut de Physique de Rennes
+topics: CRESU — phản ứng ở nhiệt độ cực thấp, phổ học cho môi trường liên sao và khí quyển ngoại hành tinh.
+url: https://ipr.univ-rennes.fr
+src: https://espace-sciences.org/conferences/que-connaissons-nous-des-corps-celestes-aujourd-hui
+src: https://lejournal.cnrs.fr/print/3803?page=1
+src: https://espace-sciences.org/sciences-ouest/262/dossier/un-air-frais-venu-du-cosmos
+pp: Giáo sư | Sébastien Le Picard
+pp: Nhà nghiên cứu CNRS | Lucile Rutkowski
+pp: Nhà nghiên cứu cơ hữu (chưa rõ ngạch) | André Canosa; Robert Georges
