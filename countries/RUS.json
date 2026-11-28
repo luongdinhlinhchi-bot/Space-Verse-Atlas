@@ -132,8 +132,195 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.sao.ru/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có 3 phòng thí nghiệm có trang danh sách người (11/2026); SAO có hơn 100 nhà nghiên cứu.",
+     "units": [
+      {
+       "name": "Laboratory of Spectroscopy and Photometry of Extragalactic Objects",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Special Astrophysical Observatory",
+       "topics": "Phổ và trắc quang thiên hà, AGN, khí ion hoá; thiết bị SCORPIO trên kính 6 m.",
+       "url": "https://www.sao.ru/hq/lsfvo",
+       "researchers": {
+        "people": [
+         {
+          "name": "A. V. Moiseev",
+          "role": "Trưởng phòng thí nghiệm",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "A. N. Burenkov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "S. N. Dodonov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "S. S. Kotov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "E. A. Malygin",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "D. V. Oparin",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "A. A. Smirnova",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "R. I. Uklein",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "V. R. Amirkhanyan",
+          "role": "Kỹ sư",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "E. G. Chmyreva",
+          "role": "Kỹ sư",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "A. E. Perepelicin",
+          "role": "Kỹ sư",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "Arina Arshinova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "Sirazieva",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "Yu. A. Galata",
+          "role": "Thực tập sinh nghiên cứu",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         },
+         {
+          "name": "A. D. Yarovova",
+          "role": "Thực tập sinh nghiên cứu",
+          "url": "https://www.sao.ru/hq/lsfvo"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sao.ru/hq/lsfvo"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "AstroLab — Astrospectroscopy Laboratory",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Special Astrophysical Observatory",
+       "topics": "Quang phổ sao độ phân giải cao, sao tiến hóa, thiết bị phổ.",
+       "url": "https://www.sao.ru/hq/ssl/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Valentina Klochkova",
+          "role": "Nghiên cứu viên chính",
+          "url": "https://www.sao.ru/hq/ssl/we.html"
+         },
+         {
+          "name": "Vladimir Panchuk",
+          "role": "Nghiên cứu viên chính",
+          "url": "https://www.sao.ru/hq/ssl/we.html"
+         },
+         {
+          "name": "Maksim Yushkin",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/ssl/we.html"
+         },
+         {
+          "name": "Nonna Tavolganskaya",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sao.ru/hq/ssl/we.html"
+         },
+         {
+          "name": "Ekaterina Islentieva",
+          "role": "Thực tập sinh nghiên cứu",
+          "url": "https://www.sao.ru/hq/ssl/we.html"
+         },
+         {
+          "name": "Gleb Zhuklevich",
+          "role": "Thực tập sinh nghiên cứu",
+          "url": "https://www.sao.ru/hq/ssl/we.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sao.ru/hq/ssl/we.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Group of Relativistic Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Special Astrophysical Observatory",
+       "topics": "Quan sát độ phân giải thời gian cao, vật thể tương đối tính, sự kiện tạm thời (kính robot Mini-MegaTORTORA).",
+       "url": "https://www.sao.ru/lynx/en/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Grigory Beskin",
+          "role": "Trưởng nhóm",
+          "url": "https://www.sao.ru/lynx/en/staff"
+         },
+         {
+          "name": "Vladimir Plokhotnichenko",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sao.ru/lynx/en/staff"
+         },
+         {
+          "name": "Sergey Karpov",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sao.ru/lynx/en/staff"
+         },
+         {
+          "name": "Vladimir Sokolov",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sao.ru/lynx/en/staff"
+         },
+         {
+          "name": "Tatiana Sokolova",
+          "role": "Kỹ sư",
+          "url": "https://www.sao.ru/lynx/en/staff"
+         },
+         {
+          "name": "Tatiana Tupolova",
+          "role": "Kỹ sư",
+          "url": "https://www.sao.ru/lynx/en/staff"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sao.ru/lynx/en/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]

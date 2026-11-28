@@ -103,7 +103,36 @@ research: Kính quang học 6 m BTA và kính vô tuyến RATAN-600: thiên hà,
 coverage: partial
 structure: 
 structureUrl: https://www.sao.ru/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Mới có 3 phòng thí nghiệm có trang danh sách người (11/2026); SAO có hơn 100 nhà nghiên cứu.
+
+#unit Laboratory of Spectroscopy and Photometry of Extragalactic Objects
+parent: Special Astrophysical Observatory
+topics: Phổ và trắc quang thiên hà, AGN, khí ion hoá; thiết bị SCORPIO trên kính 6 m.
+url: https://www.sao.ru/hq/lsfvo
+src: https://www.sao.ru/hq/lsfvo
+pp: Trưởng phòng thí nghiệm | A. V. Moiseev
+pp: Nghiên cứu viên | A. N. Burenkov; S. N. Dodonov; S. S. Kotov; E. A. Malygin; D. V. Oparin; A. A. Smirnova; R. I. Uklein
+pp: Kỹ sư | V. R. Amirkhanyan; E. G. Chmyreva; A. E. Perepelicin
+pp: Nghiên cứu sinh | Arina Arshinova; Sirazieva
+pp: Thực tập sinh nghiên cứu | Yu. A. Galata; A. D. Yarovova
+
+#unit AstroLab — Astrospectroscopy Laboratory
+parent: Special Astrophysical Observatory
+topics: Quang phổ sao độ phân giải cao, sao tiến hóa, thiết bị phổ.
+url: https://www.sao.ru/hq/ssl/
+src: https://www.sao.ru/hq/ssl/we.html
+pp: Nghiên cứu viên chính | Valentina Klochkova; Vladimir Panchuk
+pp: Nghiên cứu viên | Maksim Yushkin; Nonna Tavolganskaya
+pp: Thực tập sinh nghiên cứu | Ekaterina Islentieva; Gleb Zhuklevich
+
+#unit Group of Relativistic Astrophysics
+parent: Special Astrophysical Observatory
+topics: Quan sát độ phân giải thời gian cao, vật thể tương đối tính, sự kiện tạm thời (kính robot Mini-MegaTORTORA).
+url: https://www.sao.ru/lynx/en/
+src: https://www.sao.ru/lynx/en/staff
+pp: Trưởng nhóm | Grigory Beskin
+pp: Nghiên cứu viên cao cấp | Vladimir Plokhotnichenko; Sergey Karpov; Vladimir Sokolov
+pp: Kỹ sư | Tatiana Sokolova; Tatiana Tupolova
 
 @inst Kazan Federal University — Engelhardt Astronomical Observatory
 city: kazan
