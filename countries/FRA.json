@@ -4353,8 +4353,221 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.cppm.in2p3.fr/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có nhóm vũ trụ học RENOIR (11/2026); nhóm neutrino thiên văn KM3NeT và vật chất tối chưa lấy.",
+     "units": [
+      {
+       "name": "Équipe RENOIR — Cosmologie",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Centre de Physique des Particules de Marseille",
+       "topics": "Năng lượng tối qua siêu tân tinh Ia, thiên hà và khoảng trống vũ trụ; Euclid (NISP và segment mặt đất), DESI, LSST/Rubin.",
+       "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marie-Claude Cousinou",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Stéphanie Escoffier",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Fabrice Feinstein",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Dominique Fouchez",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "William Gillard",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Eric Kajfasz",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Frédéric Henry-Couannier",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Alice Pisani",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Benjamin Racine",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Charling Tao",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Julian Bautista",
+          "role": "Nhà nghiên cứu / giảng viên biên chế",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Kévin Arnaud",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Laurence Caillat",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Nicolas Fourmanoit",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Pierre Karst",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Smaïn Kermiche",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Jean-Philippe Logier",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Aurélien Marini",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Mathieu Niclas",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Jérôme Royon",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Aurélia Secroun",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Julien Zoubian",
+          "role": "Kỹ sư / kỹ thuật viên",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Pauline Vielzeuf",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Bruno Sanchez",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Marie Tourneur-Silvain",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Aurélien Valade",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Fei Qin",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Nico Schuster",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Corentin Hanser",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Giulia Degni",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Juan Mena Fernandez",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Dylan Kuhn",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Lucile Petronin",
+          "role": "Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD)",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Damiano Rosselli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Sarah Ferraiuolo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Pierre Boccard",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Katayoon Ghaemiardakani",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Soorya Narayan Rajeshkumar",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         },
+         {
+          "name": "Urwa Shoaib",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.cppm.in2p3.fr/web/en/research/cosmology/"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
      "networks": []
     },
     {

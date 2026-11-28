@@ -9,7 +9,17 @@ research: Vũ trụ học (Euclid, DESI, LSST/Rubin), neutrino thiên văn (KM3N
 coverage: partial
 structure: 
 structureUrl: https://www.cppm.in2p3.fr/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Mới có nhóm vũ trụ học RENOIR (11/2026); nhóm neutrino thiên văn KM3NeT và vật chất tối chưa lấy.
+
+#unit Équipe RENOIR — Cosmologie
+parent: Centre de Physique des Particules de Marseille
+topics: Năng lượng tối qua siêu tân tinh Ia, thiên hà và khoảng trống vũ trụ; Euclid (NISP và segment mặt đất), DESI, LSST/Rubin.
+url: https://www.cppm.in2p3.fr/web/en/research/cosmology/
+src: https://www.cppm.in2p3.fr/web/en/research/cosmology/
+pp: Nhà nghiên cứu / giảng viên biên chế | Marie-Claude Cousinou; Stéphanie Escoffier; Fabrice Feinstein; Dominique Fouchez; William Gillard; Eric Kajfasz; Frédéric Henry-Couannier; Alice Pisani; Benjamin Racine; Charling Tao; Julian Bautista
+pp: Kỹ sư / kỹ thuật viên | Kévin Arnaud; Laurence Caillat; Nicolas Fourmanoit; Pierre Karst; Smaïn Kermiche; Jean-Philippe Logier; Aurélien Marini; Mathieu Niclas; Jérôme Royon; Aurélia Secroun; Julien Zoubian
+pp: Nghiên cứu sau tiến sĩ / hợp đồng có thời hạn (CDD) | Pauline Vielzeuf; Bruno Sanchez; Marie Tourneur-Silvain; Aurélien Valade; Fei Qin; Nico Schuster; Corentin Hanser; Giulia Degni; Juan Mena Fernandez; Dylan Kuhn; Lucile Petronin
+pp: Nghiên cứu sinh | Damiano Rosselli; Sarah Ferraiuolo; Pierre Boccard; Katayoon Ghaemiardakani; Soorya Narayan Rajeshkumar; Urwa Shoaib
 
 @inst Laboratoire de Physique Nucléaire et de Hautes Énergies (LPNHE)
 city: paris
