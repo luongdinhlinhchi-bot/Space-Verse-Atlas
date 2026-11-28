@@ -103,6 +103,21 @@ i.k-data,i.k-full{background:var(--navy)}i.k-land{background:var(--land);box-sha
 .external-roster{margin:12px 0;font-size:13px;color:var(--muted)}
 .external-roster summary{font-size:13px;cursor:pointer}
 .external-roster .researcher-list{margin-top:10px}
+.city-label{font:600 11px Arial,sans-serif;fill:var(--ink);paint-order:stroke;stroke:var(--soft);stroke-width:3.5px;stroke-linejoin:round;pointer-events:none}
+.city-marker[aria-pressed="true"] .city-label{fill:var(--navy)}
+.city-list{width:100%;max-width:820px}
+.city-list:empty{display:none}
+.city-list-title{margin:0 0 8px;font-size:14px;font-weight:700}
+.city-chips{display:flex;flex-wrap:wrap;gap:6px}
+.city-chip{display:inline-flex;align-items:center;gap:7px;min-height:36px;padding:4px 10px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink);font:14px Arial,sans-serif;cursor:pointer}
+.city-chip::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--navy);flex:none}
+.city-chip.partial::before{background:var(--partial)}.city-chip.todo::before{background:var(--todo)}
+.city-chip small{font-size:12px;color:var(--muted)}
+.city-chip:hover{border-color:var(--navy)}
+.city-chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--bg)}
+.city-chip[aria-pressed="true"] small{color:var(--bg)}
+.city-chip[aria-pressed="true"]::before{background:var(--sel)}
+.city-panel{scroll-margin-top:16px}
 footer{border-top:1px solid var(--line);margin-top:36px;padding-top:16px;font-size:13px;color:var(--muted)}
 button:focus-visible{outline:2px solid var(--navy);outline-offset:3px}
 @media(max-width:720px){.masthead{grid-template-columns:1fr;align-items:start}.map-legend{display:none}}
@@ -117,7 +132,7 @@ button:focus-visible{outline:2px solid var(--navy);outline-offset:3px}
 <div class="map-top"><div class="tools"><button id="out" aria-label="Thu nhỏ">−</button><button id="reset" aria-label="Xem toàn bộ bản đồ">↺</button><button id="in" aria-label="Phóng to">+</button></div><p class="map-legend"><span><i class="k-data"></i>Đã có dữ liệu</span><span><i class="k-land"></i>Chưa làm</span></p></div>
 <div class="viewport"><svg id="map" viewBox="0 0 1200 760" aria-label="Các quốc gia và vùng lãnh thổ trên thế giới"><!-- MAP --></svg></div>
 </section>
-<div class="bottom"><div id="name" class="selected-name" role="status" aria-live="polite"></div><div id="detail" class="country-detail" hidden><svg id="detail-map" viewBox="0 0 760 460" role="group" aria-labelledby="name"><path id="detail-shape" class="detail-shape"/><g id="detail-labels"></g><g id="city-markers"></g></svg></div><p id="city-legend" class="legend-row" hidden><span><i class="k-full"></i>Đủ danh sách nhà nghiên cứu</span><span><i class="k-partial"></i>Có cơ quan chưa đủ danh sách / mới có trưởng nhóm</span><span><i class="k-todo"></i>Chưa làm</span></p><section id="city-panel" class="city-panel" aria-live="polite" hidden><h2 id="city-name"></h2><ul id="institutions"></ul></section></div>
+<div class="bottom"><div id="name" class="selected-name" role="status" aria-live="polite"></div><div id="detail" class="country-detail" hidden><svg id="detail-map" viewBox="0 0 760 460" role="group" aria-labelledby="name"><path id="detail-shape" class="detail-shape"/><g id="detail-labels"></g><g id="city-markers"></g></svg></div><p id="city-legend" class="legend-row" hidden><span><i class="k-full"></i>Đủ danh sách nhà nghiên cứu</span><span><i class="k-partial"></i>Có cơ quan chưa đủ danh sách / mới có trưởng nhóm</span><span><i class="k-todo"></i>Chưa làm</span></p><div id="city-list" class="city-list" aria-label="Danh sách thành phố"></div><section id="city-panel" class="city-panel" aria-live="polite" hidden><h2 id="city-name"></h2><ul id="institutions"></ul></section></div>
 <footer>Hub for Exploration Opportunities. Dữ liệu lấy từ trang chính thức của từng cơ quan; nguồn ghi ở từng nhóm.</footer>
 </main><script>
 const map=document.querySelector('#map'),nameBox=document.querySelector('#name');
@@ -142,8 +157,32 @@ function unitCard(unit,isNetwork=false){
  }
  return card;
 }
+function labelCities(country){
+ const ns='http://www.w3.org/2000/svg',boxes=[],R=(country.pin||6)+2;
+ const gs=[...markers.querySelectorAll('.city-marker')];
+ gs.forEach(g=>{const c=g.querySelector('.pin');boxes.push({x:+c.getAttribute('cx')-R,y:+c.getAttribute('cy')-R,w:2*R,h:2*R})});
+ const [vx,vy,vw,vh]=(country.viewBox||'0 0 760 460').split(/\s+/).map(Number);const hit=b=>b.x<vx+4||b.y<vy+4||b.x+b.w>vx+vw-4||b.y+b.h>vy+vh-4||boxes.some(o=>b.x<o.x+o.w&&b.x+b.w>o.x&&b.y<o.y+o.h&&b.y+b.h>o.y);
+ const order=gs.map((g,i)=>({g,i})).sort((a,b)=>(country.cities[b.i].institutions.length-country.cities[a.i].institutions.length));
+ order.forEach(({g,i})=>{const city=country.cities[i],c=g.querySelector('.pin'),px=+c.getAttribute('cx'),py=+c.getAttribute('cy');
+  const t=document.createElementNS(ns,'text');t.setAttribute('class','city-label');t.textContent=city.city.replace(/\s*\(.*\)$/,'');g.append(t);
+  const w=t.getComputedTextLength(),h=12,gap=(country.pin||6)+4;
+  const cand=[[px+gap,py+4,'start',px+gap,py-8],[px-gap,py+4,'end',px-gap-w,py-8],[px,py-gap-2,'middle',px-w/2,py-gap-13],[px,py+gap+10,'middle',px-w/2,py+gap-1],[px+gap-2,py-gap+2,'start',px+gap-2,py-gap-10],[px+gap-2,py+gap+6,'start',px+gap-2,py+gap-5],[px-gap+2,py-gap+2,'end',px-gap+2-w,py-gap-10],[px-gap+2,py+gap+6,'end',px-gap+2-w,py+gap-5]];
+  let ok=false;for(const [x,y,a,bx,by] of cand){const b={x:bx-2,y:by-1,w:w+4,h:h+2};if(!hit(b)){t.setAttribute('x',x);t.setAttribute('y',y);t.setAttribute('text-anchor',a);boxes.push(b);ok=true;break}}
+  if(!ok)t.remove();});
+}
+function listCities(country){
+ const box=document.querySelector('#city-list');box.replaceChildren();
+ const gs=[...markers.querySelectorAll('.city-marker')];
+ const items=country.cities.map((city,i)=>({city,g:gs[i]})).sort((a,b)=>a.city.city.localeCompare(b.city.city,'vi'));
+ const h=document.createElement('p');h.className='city-list-title';h.textContent='Chọn thành phố ('+items.length+')';box.append(h);
+ const wrap=document.createElement('div');wrap.className='city-chips';
+ items.forEach(({city,g})=>{const b=document.createElement('button');b.type='button';b.className='city-chip '+(g.classList.contains('done')?'done':g.classList.contains('partial')?'partial':'todo');b.dataset.city=city.id;
+  const n=document.createElement('span');n.textContent=city.city;const k=document.createElement('small');k.textContent=city.institutions.length;b.append(n,k);b.title=city.institutions.map(x=>x.name).join('\n');
+  b.addEventListener('click',()=>{selectCity(city,g,country);document.querySelector('#city-panel').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'})});wrap.append(b)});
+ box.append(wrap);
+}
 function selectCity(city,marker,country){
- markers.querySelectorAll('.city-marker').forEach(el=>el.setAttribute('aria-pressed',String(el===marker)));
+ markers.querySelectorAll('.city-marker').forEach(el=>el.setAttribute('aria-pressed',String(el===marker)));document.querySelectorAll('.city-chip').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.city===city.id)));
  document.querySelector('#city-name').textContent=city.city;
  const list=document.querySelector('#institutions');list.replaceChildren();
  city.institutions.forEach(institution=>{
@@ -157,7 +196,7 @@ function selectCity(city,marker,country){
  });
  cityPanel.hidden=false;
 }
-function showCities(code){markers.replaceChildren();cityPanel.hidden=true;document.querySelector('#city-name').textContent='';document.querySelector('#institutions').replaceChildren();const labels=document.querySelector('#detail-labels');labels.replaceChildren();if(code==='VNM')vietnamLabels.forEach(l=>{const text=document.createElementNS('http://www.w3.org/2000/svg','text');text.setAttribute('x',l.x);text.setAttribute('y',l.y);text.setAttribute('class','detail-label');text.textContent=l.name;labels.append(text)});const country=countryData[code];document.querySelector('#detail').classList.toggle('narrow',!!country?.viewBox);document.querySelector('#detail-map').setAttribute('viewBox',country?.viewBox||'0 0 760 460');document.querySelector('#city-legend').hidden=!country;if(!country)return;const pin=country.pin||6;const ns='http://www.w3.org/2000/svg';country.cities.forEach(city=>{const [x,y]=city.point,[dx,dy]=city.offset||[0,0];const g=document.createElementNS(ns,'g');const lv=city.institutions.map(i=>i.units.length?(i.coverage||'full'):'none');g.setAttribute('class','city-marker '+(lv.every(l=>l==='full'||l==='limited')?'done':lv.some(l=>l!=='none')?'partial':'todo'));g.setAttribute('data-city',city.id);g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',city.city);g.setAttribute('aria-pressed','false');g.setAttribute('aria-controls','city-panel');if(dx||dy){const line=document.createElementNS(ns,'line');line.setAttribute('x1',x);line.setAttribute('y1',y);line.setAttribute('x2',x+dx);line.setAttribute('y2',y+dy);g.append(line);const an=document.createElementNS(ns,'circle');an.setAttribute('cx',x);an.setAttribute('cy',y);an.setAttribute('r',2.6);an.setAttribute('class','anchor');g.append(an)}const title=document.createElementNS(ns,'title');title.textContent=city.city;g.append(title);for(const [r,cls] of [[pin+6,'hit'],[pin,'pin']]){const circle=document.createElementNS(ns,'circle');circle.setAttribute('cx',x+dx);circle.setAttribute('cy',y+dy);circle.setAttribute('r',r);circle.setAttribute('class',cls);if(cls==='hit')circle.setAttribute('fill','transparent');g.append(circle)}g.addEventListener('click',()=>selectCity(city,g,country));g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();selectCity(city,g,country)}});markers.append(g)});}
+function showCities(code){markers.replaceChildren();document.querySelector('#city-list').replaceChildren();cityPanel.hidden=true;document.querySelector('#city-name').textContent='';document.querySelector('#institutions').replaceChildren();const labels=document.querySelector('#detail-labels');labels.replaceChildren();if(code==='VNM')vietnamLabels.forEach(l=>{const text=document.createElementNS('http://www.w3.org/2000/svg','text');text.setAttribute('x',l.x);text.setAttribute('y',l.y);text.setAttribute('class','detail-label');text.textContent=l.name;labels.append(text)});const country=countryData[code];document.querySelector('#detail').classList.toggle('narrow',!!country?.viewBox);document.querySelector('#detail-map').setAttribute('viewBox',country?.viewBox||'0 0 760 460');document.querySelector('#city-legend').hidden=!country;if(!country)return;const pin=country.pin||6;const ns='http://www.w3.org/2000/svg';country.cities.forEach(city=>{const [x,y]=city.point,[dx,dy]=city.offset||[0,0];const g=document.createElementNS(ns,'g');const lv=city.institutions.map(i=>i.units.length?(i.coverage||'full'):'none');g.setAttribute('class','city-marker '+(lv.every(l=>l==='full'||l==='limited')?'done':lv.some(l=>l!=='none')?'partial':'todo'));g.setAttribute('data-city',city.id);g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',city.city);g.setAttribute('aria-pressed','false');g.setAttribute('aria-controls','city-panel');if(dx||dy){const line=document.createElementNS(ns,'line');line.setAttribute('x1',x);line.setAttribute('y1',y);line.setAttribute('x2',x+dx);line.setAttribute('y2',y+dy);g.append(line);const an=document.createElementNS(ns,'circle');an.setAttribute('cx',x);an.setAttribute('cy',y);an.setAttribute('r',2.6);an.setAttribute('class','anchor');g.append(an)}const title=document.createElementNS(ns,'title');title.textContent=city.city;g.append(title);for(const [r,cls] of [[pin+6,'hit'],[pin,'pin']]){const circle=document.createElementNS(ns,'circle');circle.setAttribute('cx',x+dx);circle.setAttribute('cy',y+dy);circle.setAttribute('r',r);circle.setAttribute('class',cls);if(cls==='hit')circle.setAttribute('fill','transparent');g.append(circle)}g.addEventListener('click',()=>selectCity(city,g,country));g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();selectCity(city,g,country)}});markers.append(g)});labelCities(country);listCities(country);}
 let selected=null,zoom=1,cx=600,cy=380;
 function choose(el){if(selected){selected.classList.remove('selected');selected.setAttribute('aria-pressed','false')}selected=el;selected.classList.add('selected');selected.setAttribute('aria-pressed','true');nameBox.textContent=el.dataset.name;document.querySelector('#detail-shape').setAttribute('d',el.dataset.detail);document.querySelector('#detail').hidden=false;showCities(el.dataset.code);}
 map.addEventListener('click',e=>{const el=e.target.closest('.country');if(el)choose(el)});
