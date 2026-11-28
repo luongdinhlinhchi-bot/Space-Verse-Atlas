@@ -1,0 +1,32 @@
+@city bucuresti | București | 26.1, 44.43
+@city cluj-napoca | Cluj-Napoca | 23.6, 46.77
+
+@inst University of Bucharest — Faculty of Physics (Astrophysics)
+city: bucuresti
+type: university
+url: https://fizica.unibuc.ro
+research: Vật lý thiên văn, vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://fizica.unibuc.ro
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Babeș-Bolyai University — Faculty of Mathematics and Computer Science (Astronomy)
+city: cluj-napoca
+type: university
+url: https://www.ubbcluj.ro
+research: Thiên văn, cơ học thiên thể, sao biến quang.
+coverage: partial
+structure: 
+structureUrl: https://www.ubbcluj.ro
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst IFIN-HH — Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering
+city: bucuresti
+type: institute
+url: https://www.nipne.ro
+research: Vật lý thiên văn hạt nhân, tia vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.nipne.ro
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

@@ -23,6 +23,50 @@
    ]
   },
   {
+   "id": "basel",
+   "city": "Basel",
+   "coordinates": [
+    7.59,
+    47.56
+   ],
+   "institutions": [
+    {
+     "name": "Universität Basel — Departement Physik (Astrophysik)",
+     "type": "university",
+     "research": "Vật lý thiên văn hạt nhân, siêu tân tinh, nguồn gốc nguyên tố.",
+     "url": "https://physik.unibas.ch",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://physik.unibas.ch",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "windisch",
+   "city": "Windisch (FHNW)",
+   "coordinates": [
+    8.22,
+    47.48
+   ],
+   "institutions": [
+    {
+     "name": "FHNW — Institute for Data Science (vật lý Mặt Trời)",
+     "type": "university",
+     "research": "Thiết bị tia X Mặt Trời STIX trên Solar Orbiter.",
+     "url": "https://www.fhnw.ch",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fhnw.ch",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "bern",
    "city": "Bern",
    "coordinates": [
@@ -1899,6 +1943,18 @@
     46.31
    ],
    "institutions": [
+    {
+     "name": "Université de Genève — Département de Physique Théorique (Cosmologie)",
+     "type": "university",
+     "research": "Vũ trụ học lý thuyết, sóng hấp dẫn, Euclid.",
+     "url": "https://www.unige.ch/dpt",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.unige.ch/dpt",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Université de Genève — Département d'Astronomie (Observatoire de Genève)",
      "type": "university",

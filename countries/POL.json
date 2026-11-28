@@ -21,6 +21,84 @@
      "networks": []
     }
    ]
+  },
+  {
+   "id": "krakow",
+   "city": "Kraków",
+   "coordinates": [
+    19.94,
+    50.06
+   ],
+   "institutions": [
+    {
+     "name": "IFJ PAN — Institute of Nuclear Physics, Polish Academy of Sciences (vật lý thiên văn hạt)",
+     "type": "institute",
+     "research": "Tia vũ trụ (Pierre Auger), thiên văn gamma (CTAO).",
+     "url": "https://www.ifj.edu.pl",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ifj.edu.pl",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "University of the National Education Commission, Kraków — Mt. Suhora Observatory",
+     "type": "university",
+     "research": "Sao biến quang, sao đôi.",
+     "url": "https://www.uken.krakow.pl",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uken.krakow.pl",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "warszawa",
+   "city": "Warszawa",
+   "coordinates": [
+    21.01,
+    52.23
+   ],
+   "institutions": [
+    {
+     "name": "NCBJ — National Centre for Nuclear Research, Astrophysics Division",
+     "type": "institute",
+     "research": "Vũ trụ học, thiên hà, sóng hấp dẫn, vụ nổ tia gamma.",
+     "url": "https://www.ncbj.gov.pl",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ncbj.gov.pl",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "szczecin",
+   "city": "Szczecin",
+   "coordinates": [
+    14.55,
+    53.43
+   ],
+   "institutions": [
+    {
+     "name": "University of Szczecin — Institute of Physics (Astrophysics)",
+     "type": "university",
+     "research": "Vũ trụ học, hấp dẫn, sao biến quang.",
+     "url": "https://usz.edu.pl",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://usz.edu.pl",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
   }
  ],
  "networks": {},

@@ -1,6 +1,28 @@
 {
  "cities": [
   {
+   "id": "maynooth",
+   "city": "Maynooth",
+   "coordinates": [
+    -6.59,
+    53.38
+   ],
+   "institutions": [
+    {
+     "name": "Maynooth University — Department of Physics (Terahertz Space Optics)",
+     "type": "university",
+     "research": "Quang học terahertz cho thiên văn vũ trụ và CMB.",
+     "url": "https://www.maynoothuniversity.ie",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.maynoothuniversity.ie",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "dublin",
    "city": "Dublin",
    "coordinates": [

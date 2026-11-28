@@ -3834,6 +3834,106 @@
    ]
   },
   {
+   "id": "hull",
+   "city": "Hull",
+   "coordinates": [
+    -0.37,
+    53.77
+   ],
+   "institutions": [
+    {
+     "name": "University of Hull — E. A. Milne Centre for Astrophysics",
+     "type": "university",
+     "research": "Sao khối lượng lớn, thiên văn tính toán, sinh và tiến hoá sao.",
+     "url": "https://www.hull.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.hull.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "canterbury",
+   "city": "Canterbury",
+   "coordinates": [
+    1.07,
+    51.3
+   ],
+   "institutions": [
+    {
+     "name": "University of Kent — Centre for Astrophysics and Planetary Science",
+     "type": "university",
+     "research": "Hình thành sao, khoa học hành tinh và bụi vũ trụ.",
+     "url": "https://www.kent.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.kent.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "newcastle",
+   "city": "Newcastle upon Tyne",
+   "coordinates": [
+    -1.61,
+    54.98
+   ],
+   "institutions": [
+    {
+     "name": "Newcastle University — Astrophysics & Cosmology (School of Mathematics, Statistics and Physics)",
+     "type": "university",
+     "research": "Vũ trụ học, từ trường vũ trụ, hấp dẫn.",
+     "url": "https://www.ncl.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ncl.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Northumbria University — Solar and Space Physics",
+     "type": "university",
+     "research": "Vật lý Mặt Trời, thời tiết không gian, plasma vũ trụ.",
+     "url": "https://www.northumbria.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.northumbria.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "aberystwyth",
+   "city": "Aberystwyth",
+   "coordinates": [
+    -4.08,
+    52.41
+   ],
+   "institutions": [
+    {
+     "name": "Aberystwyth University — Solar System Physics",
+     "type": "university",
+     "research": "Vật lý Mặt Trời, gió Mặt Trời, khí quyển hành tinh.",
+     "url": "https://www.aber.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.aber.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "cambridge",
    "city": "Cambridge",
    "coordinates": [
@@ -3841,6 +3941,42 @@
     52.21
    ],
    "institutions": [
+    {
+     "name": "University of Cambridge — Cavendish Astrophysics",
+     "type": "university",
+     "research": "Thiên văn vô tuyến, ngoại hành tinh, vũ trụ học quan sát.",
+     "url": "https://www.astro.phy.cam.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.astro.phy.cam.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "University of Cambridge — DAMTP (Cosmology, Relativity & Gravitation)",
+     "type": "university",
+     "research": "Vũ trụ học lý thuyết, thuyết tương đối rộng, sóng hấp dẫn, vật lý thiên văn lý thuyết.",
+     "url": "https://www.damtp.cam.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.damtp.cam.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Kavli Institute for Cosmology, Cambridge (KICC)",
+     "type": "institute",
+     "research": "Vũ trụ học quan sát và lý thuyết (liên khoa IoA, Cavendish, DAMTP).",
+     "url": "https://www.kicc.cam.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.kicc.cam.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Institute of Astronomy, University of Cambridge (IoA)",
      "type": "university",
@@ -4543,6 +4679,18 @@
     55.92
    ],
    "institutions": [
+    {
+     "name": "STFC UK Astronomy Technology Centre (UK ATC)",
+     "type": "institute",
+     "research": "Chế tạo thiết bị thiên văn cho ESO/ELT, JWST.",
+     "url": "https://www.ukatc.stfc.ac.uk",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ukatc.stfc.ac.uk",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Institute for Astronomy, University of Edinburgh (Royal Observatory Edinburgh)",
      "type": "university",

@@ -1,6 +1,72 @@
 {
  "cities": [
   {
+   "id": "nnovgorod",
+   "city": "Nizhny Novgorod",
+   "coordinates": [
+    44.0,
+    56.33
+   ],
+   "institutions": [
+    {
+     "name": "Institute of Applied Physics of the Russian Academy of Sciences (IAP RAS) — Astrophysics and Space Plasma",
+     "type": "institute",
+     "research": "Plasma vũ trụ, thiên văn vô tuyến, vật lý thiên văn lý thuyết.",
+     "url": "https://ipfran.ru",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://ipfran.ru",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "rostov",
+   "city": "Rostov-na-Donu",
+   "coordinates": [
+    39.72,
+    47.23
+   ],
+   "institutions": [
+    {
+     "name": "Southern Federal University — Faculty of Physics (Astrophysics)",
+     "type": "university",
+     "research": "Vật lý thiên văn, vũ trụ học.",
+     "url": "https://sfedu.ru",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://sfedu.ru",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "pushchino",
+   "city": "Pushchino",
+   "coordinates": [
+    37.63,
+    54.82
+   ],
+   "institutions": [
+    {
+     "name": "Pushchino Radio Astronomy Observatory (PRAO, ASC LPI)",
+     "type": "institute",
+     "research": "Pulsar, kính vô tuyến BSA và RT-22.",
+     "url": "https://www.prao.ru",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.prao.ru",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "moscow",
    "city": "Moskva",
    "coordinates": [
@@ -1152,6 +1218,18 @@
     55.48
    ],
    "institutions": [
+    {
+     "name": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation",
+     "type": "institute",
+     "research": "Vật lý Mặt Trời, thời tiết không gian, tia vũ trụ.",
+     "url": "https://www.izmiran.ru",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.izmiran.ru",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Institute for Nuclear Research of the Russian Academy of Sciences (INR RAS)",
      "type": "institute",

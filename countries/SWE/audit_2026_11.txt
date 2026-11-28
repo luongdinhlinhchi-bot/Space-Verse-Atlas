@@ -1,0 +1,22 @@
+@city kiruna | Kiruna | 20.23, 67.86
+@city stockholm | Stockholm | 18.07, 59.33 | 10, 6
+
+@inst Nordita — Nordic Institute for Theoretical Physics
+city: stockholm
+type: institute
+url: https://www.nordita.org
+research: Vật lý thiên văn lý thuyết, vũ trụ học, động lực học plasma.
+coverage: partial
+structure: 
+structureUrl: https://www.nordita.org
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Luleå University of Technology — Space Campus Kiruna
+city: kiruna
+type: university
+url: https://www.ltu.se
+research: Khoa học và kỹ thuật vũ trụ, vật lý khí quyển.
+coverage: partial
+structure: 
+structureUrl: https://www.ltu.se
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

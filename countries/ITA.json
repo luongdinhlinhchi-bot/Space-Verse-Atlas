@@ -737,6 +737,30 @@
       }
      ],
      "networks": []
+    },
+    {
+     "name": "Università Roma Tre — Dipartimento di Matematica e Fisica",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao, phân cực tia X (IXPE), vũ trụ học.",
+     "url": "https://www.matfis.uniroma3.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.matfis.uniroma3.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "ASI — Agenzia Spaziale Italiana",
+     "type": "institute",
+     "research": "Cơ quan vũ trụ Ý; trung tâm dữ liệu khoa học SSDC.",
+     "url": "https://www.asi.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.asi.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
     }
    ]
   },
@@ -759,6 +783,30 @@
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
      "units": [],
      "networks": []
+    },
+    {
+     "name": "INAF – IASF Palermo (Istituto di Astrofisica Spaziale e Fisica Cosmica)",
+     "type": "institute",
+     "research": "Thiên văn năng lượng cao, tia X và gamma từ vũ trụ.",
+     "url": "https://www.iasf-palermo.inaf.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.iasf-palermo.inaf.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Università di Palermo — Dipartimento di Fisica e Chimica \"Emilio Segrè\"",
+     "type": "university",
+     "research": "Vật lý Mặt Trời và vành nhật hoa, sao trẻ, plasma thiên văn (cùng INAF-OAPa).",
+     "url": "https://www.unipa.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.unipa.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
     }
    ]
   },
@@ -779,6 +827,18 @@
      "structure": "",
      "structureUrl": "https://www.oa-cagliari.inaf.it/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Università di Cagliari — Dipartimento di Fisica",
+     "type": "university",
+     "research": "Thiên văn vô tuyến, pulsar, sóng hấp dẫn (Einstein Telescope).",
+     "url": "https://www.unica.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.unica.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
      "units": [],
      "networks": []
     }
@@ -935,6 +995,18 @@
        }
       }
      ],
+     "networks": []
+    },
+    {
+     "name": "Università di Pisa — Dipartimento di Fisica \"Enrico Fermi\"",
+     "type": "university",
+     "research": "Vũ trụ học, sóng hấp dẫn (Virgo), vật lý thiên văn.",
+     "url": "https://www.df.unipi.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.df.unipi.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
      "networks": []
     }
    ]
@@ -1587,6 +1659,160 @@
        }
       }
      ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "ferrara",
+   "city": "Ferrara",
+   "coordinates": [
+    11.62,
+    44.84
+   ],
+   "institutions": [
+    {
+     "name": "Università di Ferrara — Dipartimento di Fisica e Scienze della Terra",
+     "type": "university",
+     "research": "Vũ trụ học (CMB), vụ nổ tia gamma, thiết bị vũ trụ.",
+     "url": "https://fst.unife.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://fst.unife.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "como",
+   "city": "Como",
+   "coordinates": [
+    9.08,
+    45.81
+   ],
+   "institutions": [
+    {
+     "name": "Università dell'Insubria — Dipartimento di Scienza e Alta Tecnologia",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao, quasar, lỗ đen.",
+     "url": "https://www.uninsubria.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uninsubria.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "salerno",
+   "city": "Salerno (Fisciano)",
+   "coordinates": [
+    14.79,
+    40.77
+   ],
+   "institutions": [
+    {
+     "name": "Università di Salerno — Dipartimento di Fisica \"E. R. Caianiello\"",
+     "type": "university",
+     "research": "Vi thấu kính hấp dẫn, ngoại hành tinh, thuyết hấp dẫn.",
+     "url": "https://www.fisica.unisa.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.unisa.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "perugia",
+   "city": "Perugia",
+   "coordinates": [
+    12.39,
+    43.11
+   ],
+   "institutions": [
+    {
+     "name": "Università di Perugia — Dipartimento di Fisica e Geologia",
+     "type": "university",
+     "research": "Vật lý thiên văn hạt (Fermi-LAT, AMS-02), sóng hấp dẫn.",
+     "url": "https://www.fisgeo.unipg.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisgeo.unipg.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "lecce",
+   "city": "Lecce",
+   "coordinates": [
+    18.17,
+    40.35
+   ],
+   "institutions": [
+    {
+     "name": "Università del Salento — Dipartimento di Matematica e Fisica \"Ennio De Giorgi\"",
+     "type": "university",
+     "research": "Tia vũ trụ, vi thấu kính hấp dẫn, vũ trụ học.",
+     "url": "https://www.unisalento.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.unisalento.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "genova",
+   "city": "Genova",
+   "coordinates": [
+    8.93,
+    44.41
+   ],
+   "institutions": [
+    {
+     "name": "Università di Genova — Dipartimento di Fisica",
+     "type": "university",
+     "research": "Sóng hấp dẫn, vật lý thiên văn hạt.",
+     "url": "https://www.difi.unige.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.difi.unige.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "assergi",
+   "city": "Assergi (LNGS)",
+   "coordinates": [
+    13.57,
+    42.45
+   ],
+   "institutions": [
+    {
+     "name": "INFN — Laboratori Nazionali del Gran Sasso (LNGS)",
+     "type": "institute",
+     "research": "Phòng thí nghiệm dưới lòng đất: vật chất tối, neutrino, vật lý thiên văn hạt nhân (LUNA).",
+     "url": "https://www.lngs.infn.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.lngs.infn.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
      "networks": []
     }
    ]
@@ -3875,6 +4101,30 @@
        }
       }
      ],
+     "networks": []
+    },
+    {
+     "name": "ICTP — Abdus Salam International Centre for Theoretical Physics",
+     "type": "institute",
+     "research": "Vũ trụ học và vật lý thiên văn lý thuyết (nhóm HECAP).",
+     "url": "https://www.ictp.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ictp.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "IFPU — Institute for Fundamental Physics of the Universe",
+     "type": "institute",
+     "research": "Vũ trụ học, sóng hấp dẫn, vật lý thiên văn hạt (liên kết SISSA, INAF, INFN, ICTP).",
+     "url": "https://www.ifpu.it",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ifpu.it",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
      "networks": []
     },
     {

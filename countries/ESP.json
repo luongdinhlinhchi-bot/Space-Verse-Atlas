@@ -67,6 +67,138 @@
    ]
   },
   {
+   "id": "alicante",
+   "city": "Alicante",
+   "coordinates": [
+    -0.51,
+    38.38
+   ],
+   "institutions": [
+    {
+     "name": "Universidad de Alicante — Grupo de Astrofísica Relativista y Cosmología",
+     "type": "university",
+     "research": "Sao neutron, vật lý thiên văn năng lượng cao.",
+     "url": "https://www.ua.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ua.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "oviedo",
+   "city": "Oviedo",
+   "coordinates": [
+    -5.85,
+    43.36
+   ],
+   "institutions": [
+    {
+     "name": "Universidad de Oviedo — Instituto de Ciencias y Tecnologías Espaciales de Asturias (ICTEA)",
+     "type": "university",
+     "research": "Vũ trụ học (CMB), thiên văn vô tuyến.",
+     "url": "https://www.uniovi.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uniovi.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "zaragoza",
+   "city": "Zaragoza",
+   "coordinates": [
+    -0.88,
+    41.65
+   ],
+   "institutions": [
+    {
+     "name": "Universidad de Zaragoza — CAPA (Centro de Astropartículas y Física de Altas Energías)",
+     "type": "university",
+     "research": "Vật chất tối, axion (IAXO), vật lý thiên văn hạt.",
+     "url": "https://capa.unizar.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://capa.unizar.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "donostia",
+   "city": "Donostia-San Sebastián",
+   "coordinates": [
+    -1.98,
+    43.32
+   ],
+   "institutions": [
+    {
+     "name": "DIPC — Donostia International Physics Center",
+     "type": "institute",
+     "research": "Vũ trụ học, cấu trúc lớn của vũ trụ.",
+     "url": "https://dipc.ehu.eus",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://dipc.ehu.eus",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "bilbao",
+   "city": "Bilbao",
+   "coordinates": [
+    -2.95,
+    43.26
+   ],
+   "institutions": [
+    {
+     "name": "Universidad del País Vasco (UPV/EHU) — Grupo de Ciencias Planetarias",
+     "type": "university",
+     "research": "Khí quyển hành tinh khổng lồ, Sao Hoả.",
+     "url": "https://www.ehu.eus",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ehu.eus",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "torrejon",
+   "city": "Torrejón de Ardoz (INTA)",
+   "coordinates": [
+    -3.45,
+    40.45
+   ],
+   "institutions": [
+    {
+     "name": "INTA — Instituto Nacional de Técnica Aeroespacial",
+     "type": "institute",
+     "research": "Thiết bị vũ trụ, khoa học hành tinh; đồng quản lý CAB.",
+     "url": "https://www.inta.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.inta.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "teruel",
    "city": "Teruel",
    "coordinates": [
@@ -947,6 +1079,18 @@
    ],
    "institutions": [
     {
+     "name": "Universidad de Granada — Departamento de Física Teórica y del Cosmos",
+     "type": "university",
+     "research": "Vũ trụ học, thiên hà, vật lý thiên văn lý thuyết.",
+     "url": "https://www.ugr.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ugr.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "Instituto de Astrofísica de Andalucía (IAA-CSIC)",
      "type": "institute",
      "research": "Hệ Mặt Trời và khí quyển hành tinh (thiết bị trên Solar Orbiter, ExoMars, JUICE), vật lý sao và ngoại hành tinh (CARMENES, PLATO), vật lý Mặt Trời, thiên văn vô tuyến và cấu trúc Ngân Hà (SKA, EHT, phụt khí tương đối tính), thiên hà và vũ trụ học (J-PAS, CALIFA); vận hành Đài thiên văn Sierra Nevada và tham gia Calar Alto.",
@@ -1075,6 +1219,18 @@
     28.48
    ],
    "institutions": [
+    {
+     "name": "Universidad de La Laguna — Departamento de Astrofísica",
+     "type": "university",
+     "research": "Đào tạo và nghiên cứu thiên văn cùng IAC.",
+     "url": "https://www.ull.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ull.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Instituto de Astrofísica de Canarias (IAC)",
      "type": "institute",
@@ -2149,6 +2305,18 @@
      "networks": []
     },
     {
+     "name": "Universitat Politècnica de Catalunya — Grup d'Astronomia i Astrofísica",
+     "type": "university",
+     "research": "Sao lùn trắng, thiên văn tính toán, Gaia.",
+     "url": "https://www.upc.edu",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.upc.edu",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "Institut de Ciències del Cosmos, Universitat de Barcelona (ICCUB)",
      "type": "institute",
      "research": "Gaia và thiên văn đo vị trí, cấu trúc và tiến hóa Ngân Hà, sao và hình thành sao, thiên văn năng lượng cao (hệ nhị phân tia gamma, microquasar), sự kiện thoáng qua, thời tiết không gian, vũ trụ học (cấu trúc lớn, DESI, Euclid), sóng hấp dẫn (Virgo); cùng vật lý hạt và hạt nhân.",
@@ -2934,6 +3102,18 @@
      "structure": "",
      "structureUrl": "https://www.ciemat.es/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Universidad Autónoma de Madrid — Departamento de Física Teórica",
+     "type": "university",
+     "research": "Vũ trụ học, thiên hà, vật lý thiên văn.",
+     "url": "https://www.uam.es",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uam.es",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
      "units": [],
      "networks": []
     },

@@ -1,0 +1,33 @@
+@city athens | Athens | 23.7275, 37.9838
+@city patras | Patras | 21.79, 38.29
+@city ioannina | Ioannina | 20.85, 39.66
+
+@inst University of Patras — Department of Physics (Astronomy Laboratory)
+city: patras
+type: university
+url: https://www.physics.upatras.gr
+research: Thiên văn, vật lý thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.physics.upatras.gr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst University of Ioannina — Department of Physics (Astrogeophysics)
+city: ioannina
+type: university
+url: https://www.physics.uoi.gr
+research: Vật lý Mặt Trời, thời tiết không gian, vật lý thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.physics.uoi.gr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Academy of Athens — Research Center for Astronomy and Applied Mathematics (RCAAM)
+city: athens
+type: institute
+url: https://www.academyofathens.gr
+research: Vật lý Mặt Trời, động lực học thiên hà, toán ứng dụng.
+coverage: partial
+structure: 
+structureUrl: https://www.academyofathens.gr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

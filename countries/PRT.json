@@ -23,6 +23,28 @@
    ]
   },
   {
+   "id": "aveiro",
+   "city": "Aveiro",
+   "coordinates": [
+    -8.65,
+    40.64
+   ],
+   "institutions": [
+    {
+     "name": "Universidade de Aveiro — Gravitation & Astrophysics (CIDMA)",
+     "type": "university",
+     "research": "Hấp dẫn, lỗ đen, sóng hấp dẫn.",
+     "url": "https://www.ua.pt",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ua.pt",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "lisboa",
    "city": "Lisboa",
    "coordinates": [

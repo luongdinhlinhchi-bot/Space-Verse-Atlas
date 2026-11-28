@@ -1,0 +1,177 @@
+@city creteil | Créteil | 2.46, 48.79
+@city lille | Lille (Villeneuve-d'Ascq) | 3.14, 50.61
+@city reims | Reims | 4.03, 49.25
+@city palaiseau | Palaiseau | 2.21, 48.71 | -24, 4
+@city nantes | Nantes | -1.55, 47.22
+@city nancay | Nançay | 2.20, 47.38
+@city clermont | Clermont-Ferrand | 3.08, 45.78
+
+@inst ISMO — Institut des Sciences Moléculaires d'Orsay
+city: saclay
+type: institute
+url: https://www.ismo.universite-paris-saclay.fr
+research: Phổ học và hoá học thiên văn trong phòng thí nghiệm: băng liên sao, PAH, phân tử ở môi trường liên sao.
+coverage: partial
+structure: 
+structureUrl: https://www.ismo.universite-paris-saclay.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LERMA — Laboratoire d'Études du Rayonnement et de la Matière en Astrophysique et Atmosphères
+city: paris
+type: institute
+url: https://lerma.obspm.fr
+research: Vật lý phân tử thiên văn, môi trường liên sao, thiết bị vô tuyến milimet, khí quyển.
+coverage: partial
+structure: 
+structureUrl: https://lerma.obspm.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LISA — Laboratoire Interuniversitaire des Systèmes Atmosphériques
+city: creteil
+type: institute
+url: https://www.lisa.u-pec.fr
+research: Hoá học vũ trụ, khí quyển hành tinh (Titan, Sao Hoả), vật chất hữu cơ ngoài Trái Đất.
+coverage: partial
+structure: 
+structureUrl: https://www.lisa.u-pec.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst PhLAM — Physique des Lasers, Atomes et Molécules (Université de Lille)
+city: lille
+type: institute
+url: https://phlam.univ-lille.fr
+research: Vật lý thiên văn phòng thí nghiệm: phổ phân tử hữu cơ phức tạp cho quan sát vô tuyến.
+coverage: partial
+structure: 
+structureUrl: https://phlam.univ-lille.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst GSMA — Groupe de Spectrométrie Moléculaire et Atmosphérique (Université de Reims)
+city: reims
+type: institute
+url: https://www.univ-reims.fr/gsma
+research: Phổ phân tử, khí quyển hành tinh, hành tinh học.
+coverage: partial
+structure: 
+structureUrl: https://www.univ-reims.fr/gsma
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LMD — Laboratoire de Météorologie Dynamique (IPSL)
+city: paris
+type: institute
+url: https://www.lmd.ipsl.fr
+research: Mô hình khí hậu hành tinh (Sao Hoả, Sao Kim, Titan) và khí quyển ngoại hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://www.lmd.ipsl.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst IPhT — Institut de Physique Théorique (CEA Paris-Saclay)
+city: saclay
+type: institute
+url: https://www.ipht.fr
+research: Vũ trụ học lý thuyết, hấp dẫn và sóng hấp dẫn, vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://www.ipht.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst CPT — Centre de Physique Théorique (Marseille)
+city: marseille
+type: institute
+url: https://www.cpt.univ-mrs.fr
+research: Vũ trụ học, hấp dẫn lượng tử.
+coverage: partial
+structure: 
+structureUrl: https://www.cpt.univ-mrs.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LLR — Laboratoire Leprince-Ringuet (École polytechnique / CNRS)
+city: palaiseau
+type: institute
+url: https://llr.in2p3.fr
+research: Thiên văn gamma (H.E.S.S., CTAO), sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://llr.in2p3.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Subatech (IMT Atlantique / Nantes Université / CNRS)
+city: nantes
+type: institute
+url: https://www-subatech.in2p3.fr
+research: Vật lý thiên văn hạt và hạt nhân thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www-subatech.in2p3.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LPG — Laboratoire de Planétologie et Géosciences
+city: nantes
+type: institute
+url: https://lpg-umr6112.fr
+research: Hành tinh học: bề mặt Sao Hoả, vệ tinh băng, viễn thám hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://lpg-umr6112.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LGL-TPE — Laboratoire de Géologie de Lyon: Terre, Planètes, Environnement
+city: lyon
+type: institute
+url: https://lgltpe.ens-lyon.fr
+research: Hành tinh học, thiên thạch, sự hình thành hành tinh đất đá.
+coverage: partial
+structure: 
+structureUrl: https://lgltpe.ens-lyon.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst IP2I — Institut de Physique des 2 Infinis de Lyon
+city: lyon
+type: institute
+url: https://www.ip2i.in2p3.fr
+research: Vũ trụ học (Euclid, Rubin/LSST), sóng hấp dẫn, vật chất tối.
+coverage: partial
+structure: 
+structureUrl: https://www.ip2i.in2p3.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Station de Radioastronomie de Nançay (Observatoire de Paris-PSL)
+city: nancay
+type: institute
+url: https://www.obs-nancay.fr
+research: Kính vô tuyến Nançay, NenuFAR (LOFAR), pulsar, vô tuyến Mặt Trời.
+coverage: partial
+structure: 
+structureUrl: https://www.obs-nancay.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst LPCA — Laboratoire de Physique de Clermont Auvergne
+city: clermont
+type: institute
+url: https://lpc.in2p3.fr
+research: Vũ trụ học và vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://lpc.in2p3.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst CNES — Centre National d'Études Spatiales (Toulouse)
+city: toulouse
+type: institute
+url: https://cnes.fr
+research: Cơ quan vũ trụ quốc gia: chương trình khoa học vũ trụ, thiết bị trên vệ tinh.
+coverage: partial
+structure: 
+structureUrl: https://cnes.fr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Géoazur (Observatoire de la Côte d'Azur / Université Côte d'Azur)
+city: nice
+type: institute
+url: https://geoazur.oca.eu
+research: Trắc địa vũ trụ, đo laser Mặt Trăng, hành tinh học.
+coverage: partial
+structure: 
+structureUrl: https://geoazur.oca.eu
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

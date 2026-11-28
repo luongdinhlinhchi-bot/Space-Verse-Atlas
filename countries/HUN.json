@@ -1,0 +1,32 @@
+{
+ "cities": [
+  {
+   "id": "budapest",
+   "city": "Budapest",
+   "coordinates": [
+    19.04,
+    47.5
+   ],
+   "institutions": [
+    {
+     "name": "HUN-REN Wigner Research Centre for Physics",
+     "type": "institute",
+     "research": "Vật lý vũ trụ, sóng hấp dẫn (Virgo), vật lý thiên văn hạt.",
+     "url": "https://wigner.hu",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://wigner.hu",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "HUN",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

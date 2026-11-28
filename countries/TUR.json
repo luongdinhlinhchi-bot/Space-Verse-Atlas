@@ -1,6 +1,28 @@
 {
  "cities": [
   {
+   "id": "kayseri",
+   "city": "Kayseri",
+   "coordinates": [
+    35.49,
+    38.72
+   ],
+   "institutions": [
+    {
+     "name": "Erciyes University — Department of Astronomy and Space Sciences",
+     "type": "university",
+     "research": "Thiên văn, sao biến quang, vật lý Mặt Trời.",
+     "url": "https://www.erciyes.edu.tr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.erciyes.edu.tr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "ankara",
    "city": "Ankara",
    "coordinates": [
@@ -98,6 +120,18 @@
     36.9
    ],
    "institutions": [
+    {
+     "name": "Akdeniz University — Department of Space Sciences and Technologies",
+     "type": "university",
+     "research": "Khoa học vũ trụ, sao đôi, ngoại hành tinh (gần TUG).",
+     "url": "https://www.akdeniz.edu.tr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.akdeniz.edu.tr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "TÜBİTAK National Observatory (TUG)",
      "type": "institute",

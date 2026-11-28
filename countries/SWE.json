@@ -1,0 +1,58 @@
+{
+ "cities": [
+  {
+   "id": "kiruna",
+   "city": "Kiruna",
+   "coordinates": [
+    20.23,
+    67.86
+   ],
+   "institutions": [
+    {
+     "name": "Luleå University of Technology — Space Campus Kiruna",
+     "type": "university",
+     "research": "Khoa học và kỹ thuật vũ trụ, vật lý khí quyển.",
+     "url": "https://www.ltu.se",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ltu.se",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "stockholm",
+   "city": "Stockholm",
+   "coordinates": [
+    18.07,
+    59.33
+   ],
+   "institutions": [
+    {
+     "name": "Nordita — Nordic Institute for Theoretical Physics",
+     "type": "institute",
+     "research": "Vật lý thiên văn lý thuyết, vũ trụ học, động lực học plasma.",
+     "url": "https://www.nordita.org",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.nordita.org",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ],
+   "offset": [
+    10.0,
+    6.0
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "SWE",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

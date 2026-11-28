@@ -1,0 +1,157 @@
+@city ferrara | Ferrara | 11.62, 44.84
+@city como | Como | 9.08, 45.81
+@city salerno | Salerno (Fisciano) | 14.79, 40.77
+@city perugia | Perugia | 12.39, 43.11
+@city lecce | Lecce | 18.17, 40.35
+@city genova | Genova | 8.93, 44.41
+@city assergi | Assergi (LNGS) | 13.57, 42.45
+
+@inst INAF – IASF Palermo (Istituto di Astrofisica Spaziale e Fisica Cosmica)
+city: palermo
+type: institute
+url: https://www.iasf-palermo.inaf.it
+research: Thiên văn năng lượng cao, tia X và gamma từ vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.iasf-palermo.inaf.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Palermo — Dipartimento di Fisica e Chimica "Emilio Segrè"
+city: palermo
+type: university
+url: https://www.unipa.it
+research: Vật lý Mặt Trời và vành nhật hoa, sao trẻ, plasma thiên văn (cùng INAF-OAPa).
+coverage: partial
+structure: 
+structureUrl: https://www.unipa.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Cagliari — Dipartimento di Fisica
+city: cagliari
+type: university
+url: https://www.unica.it
+research: Thiên văn vô tuyến, pulsar, sóng hấp dẫn (Einstein Telescope).
+coverage: partial
+structure: 
+structureUrl: https://www.unica.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Pisa — Dipartimento di Fisica "Enrico Fermi"
+city: pisa
+type: university
+url: https://www.df.unipi.it
+research: Vũ trụ học, sóng hấp dẫn (Virgo), vật lý thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.df.unipi.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Ferrara — Dipartimento di Fisica e Scienze della Terra
+city: ferrara
+type: university
+url: https://fst.unife.it
+research: Vũ trụ học (CMB), vụ nổ tia gamma, thiết bị vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://fst.unife.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università Roma Tre — Dipartimento di Matematica e Fisica
+city: roma
+type: university
+url: https://www.matfis.uniroma3.it
+research: Vật lý thiên văn năng lượng cao, phân cực tia X (IXPE), vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://www.matfis.uniroma3.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Salerno — Dipartimento di Fisica "E. R. Caianiello"
+city: salerno
+type: university
+url: https://www.fisica.unisa.it
+research: Vi thấu kính hấp dẫn, ngoại hành tinh, thuyết hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.fisica.unisa.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Perugia — Dipartimento di Fisica e Geologia
+city: perugia
+type: university
+url: https://www.fisgeo.unipg.it
+research: Vật lý thiên văn hạt (Fermi-LAT, AMS-02), sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.fisgeo.unipg.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università dell'Insubria — Dipartimento di Scienza e Alta Tecnologia
+city: como
+type: university
+url: https://www.uninsubria.it
+research: Vật lý thiên văn năng lượng cao, quasar, lỗ đen.
+coverage: partial
+structure: 
+structureUrl: https://www.uninsubria.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università del Salento — Dipartimento di Matematica e Fisica "Ennio De Giorgi"
+city: lecce
+type: university
+url: https://www.unisalento.it
+research: Tia vũ trụ, vi thấu kính hấp dẫn, vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://www.unisalento.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Università di Genova — Dipartimento di Fisica
+city: genova
+type: university
+url: https://www.difi.unige.it
+research: Sóng hấp dẫn, vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://www.difi.unige.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst ASI — Agenzia Spaziale Italiana
+city: roma
+type: institute
+url: https://www.asi.it
+research: Cơ quan vũ trụ Ý; trung tâm dữ liệu khoa học SSDC.
+coverage: partial
+structure: 
+structureUrl: https://www.asi.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst INFN — Laboratori Nazionali del Gran Sasso (LNGS)
+city: assergi
+type: institute
+url: https://www.lngs.infn.it
+research: Phòng thí nghiệm dưới lòng đất: vật chất tối, neutrino, vật lý thiên văn hạt nhân (LUNA).
+coverage: partial
+structure: 
+structureUrl: https://www.lngs.infn.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst ICTP — Abdus Salam International Centre for Theoretical Physics
+city: trieste
+type: institute
+url: https://www.ictp.it
+research: Vũ trụ học và vật lý thiên văn lý thuyết (nhóm HECAP).
+coverage: partial
+structure: 
+structureUrl: https://www.ictp.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst IFPU — Institute for Fundamental Physics of the Universe
+city: trieste
+type: institute
+url: https://www.ifpu.it
+research: Vũ trụ học, sóng hấp dẫn, vật lý thiên văn hạt (liên kết SISSA, INAF, INFN, ICTP).
+coverage: partial
+structure: 
+structureUrl: https://www.ifpu.it
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

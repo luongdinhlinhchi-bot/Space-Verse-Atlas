@@ -970,6 +970,28 @@
    ]
   },
   {
+   "id": "delft",
+   "city": "Delft",
+   "coordinates": [
+    4.37,
+    52.0
+   ],
+   "institutions": [
+    {
+     "name": "TU Delft — Faculteit Luchtvaart- en Ruimtevaarttechniek (Space Engineering)",
+     "type": "university",
+     "research": "Kỹ thuật vũ trụ, thiết bị thiên văn, hệ thống vệ tinh nhỏ.",
+     "url": "https://www.tudelft.nl",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.tudelft.nl",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "noordwijk",
    "city": "Noordwijk",
    "coordinates": [
@@ -2035,6 +2057,18 @@
     52.16
    ],
    "institutions": [
+    {
+     "name": "Universiteit Leiden — Instituut-Lorentz (Cosmology)",
+     "type": "university",
+     "research": "Vũ trụ học lý thuyết, sóng hấp dẫn.",
+     "url": "https://www.lorentz.leidenuniv.nl",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.lorentz.leidenuniv.nl",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Universiteit Leiden — Sterrewacht Leiden (Leiden Observatory)",
      "type": "university",

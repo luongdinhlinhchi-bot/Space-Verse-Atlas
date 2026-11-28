@@ -1,0 +1,76 @@
+{
+ "cities": [
+  {
+   "id": "athens",
+   "city": "Athens",
+   "coordinates": [
+    23.7275,
+    37.9838
+   ],
+   "institutions": [
+    {
+     "name": "Academy of Athens — Research Center for Astronomy and Applied Mathematics (RCAAM)",
+     "type": "institute",
+     "research": "Vật lý Mặt Trời, động lực học thiên hà, toán ứng dụng.",
+     "url": "https://www.academyofathens.gr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.academyofathens.gr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "patras",
+   "city": "Patras",
+   "coordinates": [
+    21.79,
+    38.29
+   ],
+   "institutions": [
+    {
+     "name": "University of Patras — Department of Physics (Astronomy Laboratory)",
+     "type": "university",
+     "research": "Thiên văn, vật lý thiên văn.",
+     "url": "https://www.physics.upatras.gr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.physics.upatras.gr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "ioannina",
+   "city": "Ioannina",
+   "coordinates": [
+    20.85,
+    39.66
+   ],
+   "institutions": [
+    {
+     "name": "University of Ioannina — Department of Physics (Astrogeophysics)",
+     "type": "university",
+     "research": "Vật lý Mặt Trời, thời tiết không gian, vật lý thiên văn.",
+     "url": "https://www.physics.uoi.gr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.physics.uoi.gr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "GRC",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

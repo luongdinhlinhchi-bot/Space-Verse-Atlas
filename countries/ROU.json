@@ -1,0 +1,66 @@
+{
+ "cities": [
+  {
+   "id": "bucuresti",
+   "city": "București",
+   "coordinates": [
+    26.1,
+    44.43
+   ],
+   "institutions": [
+    {
+     "name": "University of Bucharest — Faculty of Physics (Astrophysics)",
+     "type": "university",
+     "research": "Vật lý thiên văn, vũ trụ học.",
+     "url": "https://fizica.unibuc.ro",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://fizica.unibuc.ro",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "IFIN-HH — Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt nhân, tia vũ trụ.",
+     "url": "https://www.nipne.ro",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.nipne.ro",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "cluj-napoca",
+   "city": "Cluj-Napoca",
+   "coordinates": [
+    23.6,
+    46.77
+   ],
+   "institutions": [
+    {
+     "name": "Babeș-Bolyai University — Faculty of Mathematics and Computer Science (Astronomy)",
+     "type": "university",
+     "research": "Thiên văn, cơ học thiên thể, sao biến quang.",
+     "url": "https://www.ubbcluj.ro",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ubbcluj.ro",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "ROU",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

@@ -1,0 +1,11 @@
+@city aveiro | Aveiro | -8.65, 40.64
+
+@inst Universidade de Aveiro — Gravitation & Astrophysics (CIDMA)
+city: aveiro
+type: university
+url: https://www.ua.pt
+research: Hấp dẫn, lỗ đen, sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.ua.pt
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

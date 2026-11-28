@@ -1,0 +1,32 @@
+{
+ "cities": [
+  {
+   "id": "novisad",
+   "city": "Novi Sad",
+   "coordinates": [
+    19.85,
+    45.25
+   ],
+   "institutions": [
+    {
+     "name": "University of Novi Sad — Department of Physics (Astronomy)",
+     "type": "university",
+     "research": "Vật lý thiên văn, vũ trụ học.",
+     "url": "https://www.df.uns.ac.rs",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.df.uns.ac.rs",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "SRB",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

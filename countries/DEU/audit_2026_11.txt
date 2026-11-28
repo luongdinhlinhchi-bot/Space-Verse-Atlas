@@ -1,0 +1,120 @@
+@city berlin | Berlin | 13.4, 52.52 | 10, -24
+@city frankfurt | Frankfurt am Main | 8.68, 50.11 | 10, -22
+@city erlangen | Erlangen | 11.00, 49.59
+@city karlsruhe | Karlsruhe | 8.42, 49.10
+@city aachen | Aachen | 6.08, 50.78
+@city wuppertal | Wuppertal | 7.15, 51.25
+@city siegen | Siegen | 8.03, 50.88
+@city muenster | Münster | 7.63, 51.96
+@city bremen | Bremen | 8.81, 53.08
+@city essen | Duisburg-Essen | 6.90, 51.45
+
+@inst Friedrich-Alexander-Universität Erlangen-Nürnberg — Erlangen Centre for Astroparticle Physics (ECAP)
+city: erlangen
+type: university
+url: https://ecap.nat.fau.de
+research: Neutrino thiên văn (KM3NeT), thiên văn gamma (H.E.S.S., CTAO), sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://ecap.nat.fau.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Karlsruher Institut für Technologie — Institut für Astroteilchenphysik (IAP)
+city: karlsruhe
+type: university
+url: https://www.iap.kit.edu
+research: Tia vũ trụ (Pierre Auger), khối lượng neutrino (KATRIN), thiên văn vô tuyến tia vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.iap.kit.edu
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst RWTH Aachen — Physikalisches Institut III A/B (Astroteilchenphysik)
+city: aachen
+type: university
+url: https://www.physik.rwth-aachen.de
+research: Tia vũ trụ (Pierre Auger), IceCube, AMS-02.
+coverage: partial
+structure: 
+structureUrl: https://www.physik.rwth-aachen.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Bergische Universität Wuppertal — Astroteilchenphysik
+city: wuppertal
+type: university
+url: https://www.uni-wuppertal.de
+research: Tia vũ trụ năng lượng cực cao (Pierre Auger), IceCube.
+coverage: partial
+structure: 
+structureUrl: https://www.uni-wuppertal.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universität Siegen — Experimentelle Astroteilchenphysik
+city: siegen
+type: university
+url: https://www.uni-siegen.de
+research: Thiên văn gamma (CTAO), neutrino.
+coverage: partial
+structure: 
+structureUrl: https://www.uni-siegen.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universität Münster — Institut für Theoretische Physik / Institut für Kernphysik (Kosmologie, Astroteilchen)
+city: muenster
+type: university
+url: https://www.uni-muenster.de
+research: Vũ trụ học, neutrino (KATRIN), vật chất tối (XENON).
+coverage: partial
+structure: 
+structureUrl: https://www.uni-muenster.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst ZARM — Zentrum für angewandte Raumfahrttechnologie und Mikrogravitation, Universität Bremen
+city: bremen
+type: university
+url: https://www.zarm.uni-bremen.de
+research: Vật lý hấp dẫn cơ bản trong không gian, công nghệ vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.zarm.uni-bremen.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Freie Universität Berlin — Planetologie und Fernerkundung
+city: berlin
+type: university
+url: https://www.geo.fu-berlin.de
+research: Hành tinh học, viễn thám (camera HRSC trên Mars Express).
+coverage: partial
+structure: 
+structureUrl: https://www.geo.fu-berlin.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Max-Planck-Institut für Physik (Werner-Heisenberg-Institut)
+city: garching
+type: institute
+url: https://www.mpp.mpg.de
+research: Vật chất tối (CRESST), thiên văn gamma (MAGIC, CTAO), vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://www.mpp.mpg.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst FIAS — Frankfurt Institute for Advanced Studies
+city: frankfurt
+type: institute
+url: https://fias.institute
+research: Vật lý thiên văn hạt nhân lý thuyết, sáp nhập sao neutron.
+coverage: partial
+structure: 
+structureUrl: https://fias.institute
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universität Duisburg-Essen — Experimentelle Astrophysik
+city: essen
+type: university
+url: https://www.uni-due.de
+research: Thí nghiệm hình thành hành tinh (bụi, va chạm hạt).
+coverage: partial
+structure: 
+structureUrl: https://www.uni-due.de
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

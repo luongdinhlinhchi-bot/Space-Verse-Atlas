@@ -1,0 +1,32 @@
+@city basel | Basel | 7.59, 47.56
+@city windisch | Windisch (FHNW) | 8.22, 47.48
+
+@inst Universität Basel — Departement Physik (Astrophysik)
+city: basel
+type: university
+url: https://physik.unibas.ch
+research: Vật lý thiên văn hạt nhân, siêu tân tinh, nguồn gốc nguyên tố.
+coverage: partial
+structure: 
+structureUrl: https://physik.unibas.ch
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Université de Genève — Département de Physique Théorique (Cosmologie)
+city: geneve
+type: university
+url: https://www.unige.ch/dpt
+research: Vũ trụ học lý thuyết, sóng hấp dẫn, Euclid.
+coverage: partial
+structure: 
+structureUrl: https://www.unige.ch/dpt
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst FHNW — Institute for Data Science (vật lý Mặt Trời)
+city: windisch
+type: university
+url: https://www.fhnw.ch
+research: Thiết bị tia X Mặt Trời STIX trên Solar Orbiter.
+coverage: partial
+structure: 
+structureUrl: https://www.fhnw.ch
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

@@ -1,0 +1,94 @@
+@city hull | Hull | -0.37, 53.77
+@city canterbury | Canterbury | 1.07, 51.30
+@city newcastle | Newcastle upon Tyne | -1.61, 54.98
+@city aberystwyth | Aberystwyth | -4.08, 52.41
+
+@inst University of Hull — E. A. Milne Centre for Astrophysics
+city: hull
+type: university
+url: https://www.hull.ac.uk
+research: Sao khối lượng lớn, thiên văn tính toán, sinh và tiến hoá sao.
+coverage: partial
+structure: 
+structureUrl: https://www.hull.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst University of Kent — Centre for Astrophysics and Planetary Science
+city: canterbury
+type: university
+url: https://www.kent.ac.uk
+research: Hình thành sao, khoa học hành tinh và bụi vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.kent.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Newcastle University — Astrophysics & Cosmology (School of Mathematics, Statistics and Physics)
+city: newcastle
+type: university
+url: https://www.ncl.ac.uk
+research: Vũ trụ học, từ trường vũ trụ, hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.ncl.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Northumbria University — Solar and Space Physics
+city: newcastle
+type: university
+url: https://www.northumbria.ac.uk
+research: Vật lý Mặt Trời, thời tiết không gian, plasma vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.northumbria.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Aberystwyth University — Solar System Physics
+city: aberystwyth
+type: university
+url: https://www.aber.ac.uk
+research: Vật lý Mặt Trời, gió Mặt Trời, khí quyển hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://www.aber.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst University of Cambridge — Cavendish Astrophysics
+city: cambridge
+type: university
+url: https://www.astro.phy.cam.ac.uk
+research: Thiên văn vô tuyến, ngoại hành tinh, vũ trụ học quan sát.
+coverage: partial
+structure: 
+structureUrl: https://www.astro.phy.cam.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst University of Cambridge — DAMTP (Cosmology, Relativity & Gravitation)
+city: cambridge
+type: university
+url: https://www.damtp.cam.ac.uk
+research: Vũ trụ học lý thuyết, thuyết tương đối rộng, sóng hấp dẫn, vật lý thiên văn lý thuyết.
+coverage: partial
+structure: 
+structureUrl: https://www.damtp.cam.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Kavli Institute for Cosmology, Cambridge (KICC)
+city: cambridge
+type: institute
+url: https://www.kicc.cam.ac.uk
+research: Vũ trụ học quan sát và lý thuyết (liên khoa IoA, Cavendish, DAMTP).
+coverage: partial
+structure: 
+structureUrl: https://www.kicc.cam.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst STFC UK Astronomy Technology Centre (UK ATC)
+city: edinburgh
+type: institute
+url: https://www.ukatc.stfc.ac.uk
+research: Chế tạo thiết bị thiên văn cho ESO/ELT, JWST.
+coverage: partial
+structure: 
+structureUrl: https://www.ukatc.stfc.ac.uk
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

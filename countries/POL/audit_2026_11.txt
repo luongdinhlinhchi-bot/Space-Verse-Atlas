@@ -1,0 +1,43 @@
+@city krakow | Kraków | 19.94, 50.06
+@city warszawa | Warszawa | 21.01, 52.23
+@city szczecin | Szczecin | 14.55, 53.43
+
+@inst NCBJ — National Centre for Nuclear Research, Astrophysics Division
+city: warszawa
+type: institute
+url: https://www.ncbj.gov.pl
+research: Vũ trụ học, thiên hà, sóng hấp dẫn, vụ nổ tia gamma.
+coverage: partial
+structure: 
+structureUrl: https://www.ncbj.gov.pl
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst IFJ PAN — Institute of Nuclear Physics, Polish Academy of Sciences (vật lý thiên văn hạt)
+city: krakow
+type: institute
+url: https://www.ifj.edu.pl
+research: Tia vũ trụ (Pierre Auger), thiên văn gamma (CTAO).
+coverage: partial
+structure: 
+structureUrl: https://www.ifj.edu.pl
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst University of the National Education Commission, Kraków — Mt. Suhora Observatory
+city: krakow
+type: university
+url: https://www.uken.krakow.pl
+research: Sao biến quang, sao đôi.
+coverage: partial
+structure: 
+structureUrl: https://www.uken.krakow.pl
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst University of Szczecin — Institute of Physics (Astrophysics)
+city: szczecin
+type: university
+url: https://usz.edu.pl
+research: Vũ trụ học, hấp dẫn, sao biến quang.
+coverage: partial
+structure: 
+structureUrl: https://usz.edu.pl
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

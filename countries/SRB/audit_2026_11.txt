@@ -1,0 +1,11 @@
+@city novisad | Novi Sad | 19.85, 45.25
+
+@inst University of Novi Sad — Department of Physics (Astronomy)
+city: novisad
+type: university
+url: https://www.df.uns.ac.rs
+research: Vật lý thiên văn, vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://www.df.uns.ac.rs
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

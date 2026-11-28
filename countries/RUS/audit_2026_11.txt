@@ -1,0 +1,43 @@
+@city nnovgorod | Nizhny Novgorod | 44.00, 56.33
+@city rostov | Rostov-na-Donu | 39.72, 47.23
+@city pushchino | Pushchino | 37.63, 54.82
+
+@inst Institute of Applied Physics of the Russian Academy of Sciences (IAP RAS) — Astrophysics and Space Plasma
+city: nnovgorod
+type: institute
+url: https://ipfran.ru
+research: Plasma vũ trụ, thiên văn vô tuyến, vật lý thiên văn lý thuyết.
+coverage: partial
+structure: 
+structureUrl: https://ipfran.ru
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst IZMIRAN — Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation
+city: troitsk
+type: institute
+url: https://www.izmiran.ru
+research: Vật lý Mặt Trời, thời tiết không gian, tia vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.izmiran.ru
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Southern Federal University — Faculty of Physics (Astrophysics)
+city: rostov
+type: university
+url: https://sfedu.ru
+research: Vật lý thiên văn, vũ trụ học.
+coverage: partial
+structure: 
+structureUrl: https://sfedu.ru
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Pushchino Radio Astronomy Observatory (PRAO, ASC LPI)
+city: pushchino
+type: institute
+url: https://www.prao.ru
+research: Pulsar, kính vô tuyến BSA và RT-22.
+coverage: partial
+structure: 
+structureUrl: https://www.prao.ru
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

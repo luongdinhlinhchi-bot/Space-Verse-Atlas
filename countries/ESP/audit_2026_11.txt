@@ -1,0 +1,106 @@
+@city alicante | Alicante | -0.51, 38.38
+@city oviedo | Oviedo | -5.85, 43.36
+@city zaragoza | Zaragoza | -0.88, 41.65
+@city donostia | Donostia-San Sebastián | -1.98, 43.32
+@city bilbao | Bilbao | -2.95, 43.26
+@city torrejon | Torrejón de Ardoz (INTA) | -3.45, 40.45
+
+@inst Universidad de La Laguna — Departamento de Astrofísica
+city: laguna
+type: university
+url: https://www.ull.es
+research: Đào tạo và nghiên cứu thiên văn cùng IAC.
+coverage: partial
+structure: 
+structureUrl: https://www.ull.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universidad de Granada — Departamento de Física Teórica y del Cosmos
+city: granada
+type: university
+url: https://www.ugr.es
+research: Vũ trụ học, thiên hà, vật lý thiên văn lý thuyết.
+coverage: partial
+structure: 
+structureUrl: https://www.ugr.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universidad de Alicante — Grupo de Astrofísica Relativista y Cosmología
+city: alicante
+type: university
+url: https://www.ua.es
+research: Sao neutron, vật lý thiên văn năng lượng cao.
+coverage: partial
+structure: 
+structureUrl: https://www.ua.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universidad Autónoma de Madrid — Departamento de Física Teórica
+city: madrid
+type: university
+url: https://www.uam.es
+research: Vũ trụ học, thiên hà, vật lý thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.uam.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst INTA — Instituto Nacional de Técnica Aeroespacial
+city: torrejon
+type: institute
+url: https://www.inta.es
+research: Thiết bị vũ trụ, khoa học hành tinh; đồng quản lý CAB.
+coverage: partial
+structure: 
+structureUrl: https://www.inta.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universidad de Oviedo — Instituto de Ciencias y Tecnologías Espaciales de Asturias (ICTEA)
+city: oviedo
+type: university
+url: https://www.uniovi.es
+research: Vũ trụ học (CMB), thiên văn vô tuyến.
+coverage: partial
+structure: 
+structureUrl: https://www.uniovi.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universitat Politècnica de Catalunya — Grup d'Astronomia i Astrofísica
+city: barcelona
+type: university
+url: https://www.upc.edu
+research: Sao lùn trắng, thiên văn tính toán, Gaia.
+coverage: partial
+structure: 
+structureUrl: https://www.upc.edu
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universidad de Zaragoza — CAPA (Centro de Astropartículas y Física de Altas Energías)
+city: zaragoza
+type: university
+url: https://capa.unizar.es
+research: Vật chất tối, axion (IAXO), vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://capa.unizar.es
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst DIPC — Donostia International Physics Center
+city: donostia
+type: institute
+url: https://dipc.ehu.eus
+research: Vũ trụ học, cấu trúc lớn của vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://dipc.ehu.eus
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universidad del País Vasco (UPV/EHU) — Grupo de Ciencias Planetarias
+city: bilbao
+type: university
+url: https://www.ehu.eus
+research: Khí quyển hành tinh khổng lồ, Sao Hoả.
+coverage: partial
+structure: 
+structureUrl: https://www.ehu.eus
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

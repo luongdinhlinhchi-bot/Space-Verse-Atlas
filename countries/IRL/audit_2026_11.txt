@@ -1,0 +1,11 @@
+@city maynooth | Maynooth | -6.59, 53.38
+
+@inst Maynooth University — Department of Physics (Terahertz Space Optics)
+city: maynooth
+type: university
+url: https://www.maynoothuniversity.ie
+research: Quang học terahertz cho thiên văn vũ trụ và CMB.
+coverage: partial
+structure: 
+structureUrl: https://www.maynoothuniversity.ie
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

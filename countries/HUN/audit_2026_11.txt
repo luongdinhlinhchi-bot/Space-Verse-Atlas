@@ -1,0 +1,11 @@
+@city budapest | Budapest | 19.04, 47.5
+
+@inst HUN-REN Wigner Research Centre for Physics
+city: budapest
+type: institute
+url: https://wigner.hu
+research: Vật lý vũ trụ, sóng hấp dẫn (Virgo), vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://wigner.hu
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

@@ -19,6 +19,40 @@
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
      "units": [],
      "networks": []
+    },
+    {
+     "name": "Bogolyubov Institute for Theoretical Physics of the NAS of Ukraine — Department of Astrophysics and Elementary Particles",
+     "type": "institute",
+     "research": "Vũ trụ học, vật lý thiên văn lý thuyết.",
+     "url": "https://bitp.kiev.ua",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://bitp.kiev.ua",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "uzhhorod",
+   "city": "Uzhhorod",
+   "coordinates": [
+    22.29,
+    48.62
+   ],
+   "institutions": [
+    {
+     "name": "Uzhhorod National University — Laboratory of Space Research",
+     "type": "university",
+     "research": "Quan sát vệ tinh nhân tạo và tiểu hành tinh.",
+     "url": "https://www.uzhnu.edu.ua",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uzhnu.edu.ua",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
     }
    ]
   }

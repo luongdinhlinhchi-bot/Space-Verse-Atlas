@@ -177,6 +177,176 @@
    ]
   },
   {
+   "id": "creteil",
+   "city": "Créteil",
+   "coordinates": [
+    2.46,
+    48.79
+   ],
+   "institutions": [
+    {
+     "name": "LISA — Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+     "type": "institute",
+     "research": "Hoá học vũ trụ, khí quyển hành tinh (Titan, Sao Hoả), vật chất hữu cơ ngoài Trái Đất.",
+     "url": "https://www.lisa.u-pec.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.lisa.u-pec.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "lille",
+   "city": "Lille (Villeneuve-d'Ascq)",
+   "coordinates": [
+    3.14,
+    50.61
+   ],
+   "institutions": [
+    {
+     "name": "PhLAM — Physique des Lasers, Atomes et Molécules (Université de Lille)",
+     "type": "institute",
+     "research": "Vật lý thiên văn phòng thí nghiệm: phổ phân tử hữu cơ phức tạp cho quan sát vô tuyến.",
+     "url": "https://phlam.univ-lille.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://phlam.univ-lille.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "reims",
+   "city": "Reims",
+   "coordinates": [
+    4.03,
+    49.25
+   ],
+   "institutions": [
+    {
+     "name": "GSMA — Groupe de Spectrométrie Moléculaire et Atmosphérique (Université de Reims)",
+     "type": "institute",
+     "research": "Phổ phân tử, khí quyển hành tinh, hành tinh học.",
+     "url": "https://www.univ-reims.fr/gsma",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.univ-reims.fr/gsma",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "palaiseau",
+   "city": "Palaiseau",
+   "coordinates": [
+    2.21,
+    48.71
+   ],
+   "institutions": [
+    {
+     "name": "LLR — Laboratoire Leprince-Ringuet (École polytechnique / CNRS)",
+     "type": "institute",
+     "research": "Thiên văn gamma (H.E.S.S., CTAO), sóng hấp dẫn.",
+     "url": "https://llr.in2p3.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://llr.in2p3.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ],
+   "offset": [
+    -24.0,
+    4.0
+   ]
+  },
+  {
+   "id": "nantes",
+   "city": "Nantes",
+   "coordinates": [
+    -1.55,
+    47.22
+   ],
+   "institutions": [
+    {
+     "name": "Subatech (IMT Atlantique / Nantes Université / CNRS)",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt và hạt nhân thiên văn.",
+     "url": "https://www-subatech.in2p3.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www-subatech.in2p3.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "LPG — Laboratoire de Planétologie et Géosciences",
+     "type": "institute",
+     "research": "Hành tinh học: bề mặt Sao Hoả, vệ tinh băng, viễn thám hành tinh.",
+     "url": "https://lpg-umr6112.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lpg-umr6112.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "nancay",
+   "city": "Nançay",
+   "coordinates": [
+    2.2,
+    47.38
+   ],
+   "institutions": [
+    {
+     "name": "Station de Radioastronomie de Nançay (Observatoire de Paris-PSL)",
+     "type": "institute",
+     "research": "Kính vô tuyến Nançay, NenuFAR (LOFAR), pulsar, vô tuyến Mặt Trời.",
+     "url": "https://www.obs-nancay.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.obs-nancay.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "clermont",
+   "city": "Clermont-Ferrand",
+   "coordinates": [
+    3.08,
+    45.78
+   ],
+   "institutions": [
+    {
+     "name": "LPCA — Laboratoire de Physique de Clermont Auvergne",
+     "type": "institute",
+     "research": "Vũ trụ học và vật lý thiên văn hạt.",
+     "url": "https://lpc.in2p3.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lpc.in2p3.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "saclay",
    "city": "Saclay (Orsay)",
    "coordinates": [
@@ -193,6 +363,30 @@
      "structure": "",
      "structureUrl": "https://www.ijclab.in2p3.fr/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "ISMO — Institut des Sciences Moléculaires d'Orsay",
+     "type": "institute",
+     "research": "Phổ học và hoá học thiên văn trong phòng thí nghiệm: băng liên sao, PAH, phân tử ở môi trường liên sao.",
+     "url": "https://www.ismo.universite-paris-saclay.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ismo.universite-paris-saclay.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "IPhT — Institut de Physique Théorique (CEA Paris-Saclay)",
+     "type": "institute",
+     "research": "Vũ trụ học lý thuyết, hấp dẫn và sóng hấp dẫn, vật lý thiên văn hạt.",
+     "url": "https://www.ipht.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ipht.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
      "units": [],
      "networks": []
     },
@@ -1586,6 +1780,30 @@
    ],
    "institutions": [
     {
+     "name": "LGL-TPE — Laboratoire de Géologie de Lyon: Terre, Planètes, Environnement",
+     "type": "institute",
+     "research": "Hành tinh học, thiên thạch, sự hình thành hành tinh đất đá.",
+     "url": "https://lgltpe.ens-lyon.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lgltpe.ens-lyon.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "IP2I — Institut de Physique des 2 Infinis de Lyon",
+     "type": "institute",
+     "research": "Vũ trụ học (Euclid, Rubin/LSST), sóng hấp dẫn, vật chất tối.",
+     "url": "https://www.ip2i.in2p3.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ip2i.in2p3.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "Centre de Recherche Astrophysique de Lyon (CRAL) — Université Claude Bernard Lyon 1 / ENS de Lyon / CNRS",
      "type": "institute",
      "research": "Vật lý plasma đặc cho sao khối lượng nhỏ, sao lùn nâu và ngoại hành tinh; hình thành sao và hành tinh, bụi trong đĩa tiền hành tinh; vũ trụ học tương đối tính; hình thành và tiến hóa thiên hà, môi trường quanh thiên hà (MUSE, BlueMUSE); thiết bị và xử lý ảnh độ phân giải góc cao (giao thoa, quang học thích ứng, SPHERE, GRAVITY+).",
@@ -2961,6 +3179,18 @@
     43.6
    ],
    "institutions": [
+    {
+     "name": "CNES — Centre National d'Études Spatiales (Toulouse)",
+     "type": "institute",
+     "research": "Cơ quan vũ trụ quốc gia: chương trình khoa học vũ trụ, thiết bị trên vệ tinh.",
+     "url": "https://cnes.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://cnes.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Institut de Recherche en Astrophysique et Planétologie (IRAP) — CNRS / Université de Toulouse / CNES",
      "type": "institute",
@@ -4700,6 +4930,18 @@
        }
       }
      ],
+     "networks": []
+    },
+    {
+     "name": "CPT — Centre de Physique Théorique (Marseille)",
+     "type": "institute",
+     "research": "Vũ trụ học, hấp dẫn lượng tử.",
+     "url": "https://www.cpt.univ-mrs.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.cpt.univ-mrs.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
      "networks": []
     },
     {
@@ -8303,6 +8545,30 @@
      "networks": []
     },
     {
+     "name": "LERMA — Laboratoire d'Études du Rayonnement et de la Matière en Astrophysique et Atmosphères",
+     "type": "institute",
+     "research": "Vật lý phân tử thiên văn, môi trường liên sao, thiết bị vô tuyến milimet, khí quyển.",
+     "url": "https://lerma.obspm.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lerma.obspm.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "LMD — Laboratoire de Météorologie Dynamique (IPSL)",
+     "type": "institute",
+     "research": "Mô hình khí hậu hành tinh (Sao Hoả, Sao Kim, Titan) và khí quyển ngoại hành tinh.",
+     "url": "https://www.lmd.ipsl.fr",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.lmd.ipsl.fr",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "Institut d'Astrophysique de Paris (IAP)",
      "type": "institute",
      "research": "Vũ trụ học (CMB/Planck, Euclid, cấu trúc lớn), hình thành và tiến hóa thiên hà, hấp dẫn tương đối tính và sóng hấp dẫn, ngoại hành tinh, vật lý thiên văn năng lượng cao; mô phỏng số trên máy tính hiệu năng cao.",
@@ -10898,6 +11164,18 @@
     43.72
    ],
    "institutions": [
+    {
+     "name": "Géoazur (Observatoire de la Côte d'Azur / Université Côte d'Azur)",
+     "type": "institute",
+     "research": "Trắc địa vũ trụ, đo laser Mặt Trăng, hành tinh học.",
+     "url": "https://geoazur.oca.eu",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://geoazur.oca.eu",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Laboratoire Lagrange — Observatoire de la Côte d'Azur (OCA) / Université Côte d'Azur / CNRS",
      "type": "institute",

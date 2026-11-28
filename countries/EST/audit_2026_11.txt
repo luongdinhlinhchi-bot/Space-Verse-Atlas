@@ -1,0 +1,11 @@
+@city tallinn | Tallinn | 24.75, 59.44
+
+@inst NICPB — National Institute of Chemical Physics and Biophysics (High Energy and Computational Physics)
+city: tallinn
+type: institute
+url: https://kbfi.ee
+research: Vũ trụ học, vật chất tối, sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://kbfi.ee
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

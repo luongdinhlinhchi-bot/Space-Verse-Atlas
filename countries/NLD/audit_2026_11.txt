@@ -1,0 +1,21 @@
+@city delft | Delft | 4.37, 52.00
+
+@inst TU Delft — Faculteit Luchtvaart- en Ruimtevaarttechniek (Space Engineering)
+city: delft
+type: university
+url: https://www.tudelft.nl
+research: Kỹ thuật vũ trụ, thiết bị thiên văn, hệ thống vệ tinh nhỏ.
+coverage: partial
+structure: 
+structureUrl: https://www.tudelft.nl
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Universiteit Leiden — Instituut-Lorentz (Cosmology)
+city: leiden
+type: university
+url: https://www.lorentz.leidenuniv.nl
+research: Vũ trụ học lý thuyết, sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.lorentz.leidenuniv.nl
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

@@ -1,0 +1,5 @@
+@country HUN
+checked: 2026-11-28
+pin: 5
+coordinateNote: Bổ sung cho dữ liệu có sẵn.
+listSource: 

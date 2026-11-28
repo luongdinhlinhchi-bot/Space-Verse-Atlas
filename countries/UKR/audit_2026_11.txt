@@ -1,0 +1,21 @@
+@city uzhhorod | Uzhhorod | 22.29, 48.62
+
+@inst Bogolyubov Institute for Theoretical Physics of the NAS of Ukraine — Department of Astrophysics and Elementary Particles
+city: kyiv
+type: institute
+url: https://bitp.kiev.ua
+research: Vũ trụ học, vật lý thiên văn lý thuyết.
+coverage: partial
+structure: 
+structureUrl: https://bitp.kiev.ua
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Uzhhorod National University — Laboratory of Space Research
+city: uzhhorod
+type: university
+url: https://www.uzhnu.edu.ua
+research: Quan sát vệ tinh nhân tạo và tiểu hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://www.uzhnu.edu.ua
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.

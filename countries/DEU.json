@@ -23,6 +23,234 @@
    ]
   },
   {
+   "id": "berlin",
+   "city": "Berlin",
+   "coordinates": [
+    13.4,
+    52.52
+   ],
+   "institutions": [
+    {
+     "name": "Freie Universität Berlin — Planetologie und Fernerkundung",
+     "type": "university",
+     "research": "Hành tinh học, viễn thám (camera HRSC trên Mars Express).",
+     "url": "https://www.geo.fu-berlin.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.geo.fu-berlin.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ],
+   "offset": [
+    10.0,
+    -24.0
+   ]
+  },
+  {
+   "id": "frankfurt",
+   "city": "Frankfurt am Main",
+   "coordinates": [
+    8.68,
+    50.11
+   ],
+   "institutions": [
+    {
+     "name": "FIAS — Frankfurt Institute for Advanced Studies",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt nhân lý thuyết, sáp nhập sao neutron.",
+     "url": "https://fias.institute",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://fias.institute",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ],
+   "offset": [
+    10.0,
+    -22.0
+   ]
+  },
+  {
+   "id": "erlangen",
+   "city": "Erlangen",
+   "coordinates": [
+    11.0,
+    49.59
+   ],
+   "institutions": [
+    {
+     "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg — Erlangen Centre for Astroparticle Physics (ECAP)",
+     "type": "university",
+     "research": "Neutrino thiên văn (KM3NeT), thiên văn gamma (H.E.S.S., CTAO), sóng hấp dẫn.",
+     "url": "https://ecap.nat.fau.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://ecap.nat.fau.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "karlsruhe",
+   "city": "Karlsruhe",
+   "coordinates": [
+    8.42,
+    49.1
+   ],
+   "institutions": [
+    {
+     "name": "Karlsruher Institut für Technologie — Institut für Astroteilchenphysik (IAP)",
+     "type": "university",
+     "research": "Tia vũ trụ (Pierre Auger), khối lượng neutrino (KATRIN), thiên văn vô tuyến tia vũ trụ.",
+     "url": "https://www.iap.kit.edu",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.iap.kit.edu",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "aachen",
+   "city": "Aachen",
+   "coordinates": [
+    6.08,
+    50.78
+   ],
+   "institutions": [
+    {
+     "name": "RWTH Aachen — Physikalisches Institut III A/B (Astroteilchenphysik)",
+     "type": "university",
+     "research": "Tia vũ trụ (Pierre Auger), IceCube, AMS-02.",
+     "url": "https://www.physik.rwth-aachen.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.physik.rwth-aachen.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "wuppertal",
+   "city": "Wuppertal",
+   "coordinates": [
+    7.15,
+    51.25
+   ],
+   "institutions": [
+    {
+     "name": "Bergische Universität Wuppertal — Astroteilchenphysik",
+     "type": "university",
+     "research": "Tia vũ trụ năng lượng cực cao (Pierre Auger), IceCube.",
+     "url": "https://www.uni-wuppertal.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uni-wuppertal.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "siegen",
+   "city": "Siegen",
+   "coordinates": [
+    8.03,
+    50.88
+   ],
+   "institutions": [
+    {
+     "name": "Universität Siegen — Experimentelle Astroteilchenphysik",
+     "type": "university",
+     "research": "Thiên văn gamma (CTAO), neutrino.",
+     "url": "https://www.uni-siegen.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uni-siegen.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "muenster",
+   "city": "Münster",
+   "coordinates": [
+    7.63,
+    51.96
+   ],
+   "institutions": [
+    {
+     "name": "Universität Münster — Institut für Theoretische Physik / Institut für Kernphysik (Kosmologie, Astroteilchen)",
+     "type": "university",
+     "research": "Vũ trụ học, neutrino (KATRIN), vật chất tối (XENON).",
+     "url": "https://www.uni-muenster.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uni-muenster.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "bremen",
+   "city": "Bremen",
+   "coordinates": [
+    8.81,
+    53.08
+   ],
+   "institutions": [
+    {
+     "name": "ZARM — Zentrum für angewandte Raumfahrttechnologie und Mikrogravitation, Universität Bremen",
+     "type": "university",
+     "research": "Vật lý hấp dẫn cơ bản trong không gian, công nghệ vũ trụ.",
+     "url": "https://www.zarm.uni-bremen.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.zarm.uni-bremen.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "essen",
+   "city": "Duisburg-Essen",
+   "coordinates": [
+    6.9,
+    51.45
+   ],
+   "institutions": [
+    {
+     "name": "Universität Duisburg-Essen — Experimentelle Astrophysik",
+     "type": "university",
+     "research": "Thí nghiệm hình thành hành tinh (bụi, va chạm hạt).",
+     "url": "https://www.uni-due.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uni-due.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "garching",
    "city": "Garching",
    "coordinates": [
@@ -30,6 +258,18 @@
     48.25
    ],
    "institutions": [
+    {
+     "name": "Max-Planck-Institut für Physik (Werner-Heisenberg-Institut)",
+     "type": "institute",
+     "research": "Vật chất tối (CRESST), thiên văn gamma (MAGIC, CTAO), vũ trụ học.",
+     "url": "https://www.mpp.mpg.de",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.mpp.mpg.de",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "ESO — European Southern Observatory (trụ sở Garching)",
      "type": "institute",

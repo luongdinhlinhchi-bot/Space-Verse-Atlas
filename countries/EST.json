@@ -1,6 +1,28 @@
 {
  "cities": [
   {
+   "id": "tallinn",
+   "city": "Tallinn",
+   "coordinates": [
+    24.75,
+    59.44
+   ],
+   "institutions": [
+    {
+     "name": "NICPB — National Institute of Chemical Physics and Biophysics (High Energy and Computational Physics)",
+     "type": "institute",
+     "research": "Vũ trụ học, vật chất tối, sóng hấp dẫn.",
+     "url": "https://kbfi.ee",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://kbfi.ee",
+     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "toravere",
    "city": "Tõravere (Tartu)",
    "coordinates": [

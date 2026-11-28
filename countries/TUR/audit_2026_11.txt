@@ -1,0 +1,21 @@
+@city kayseri | Kayseri | 35.49, 38.72
+
+@inst Akdeniz University — Department of Space Sciences and Technologies
+city: antalya
+type: university
+url: https://www.akdeniz.edu.tr
+research: Khoa học vũ trụ, sao đôi, ngoại hành tinh (gần TUG).
+coverage: partial
+structure: 
+structureUrl: https://www.akdeniz.edu.tr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+
+@inst Erciyes University — Department of Astronomy and Space Sciences
+city: kayseri
+type: university
+url: https://www.erciyes.edu.tr
+research: Thiên văn, sao biến quang, vật lý Mặt Trời.
+coverage: partial
+structure: 
+structureUrl: https://www.erciyes.edu.tr
+scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
