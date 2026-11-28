@@ -4,36 +4,125 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Khám phá bản đồ thế giới: di chuột để làm sáng quốc gia, bấm để xem tên.">
 <title>Bản đồ thế giới</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{font-family:Segoe UI,Arial,sans-serif;color:#233d3b;background:#f7f8f4}*{box-sizing:border-box}body{margin:0}main{max-width:1440px;margin:auto;padding:48px 5vw 26px}.eyebrow{display:flex;align-items:center;gap:9px;font-size:12px;font-weight:700;letter-spacing:2.5px;color:#4d7770}.dot{height:9px;width:9px;border-radius:50%;background:#25866e}h1{font-size:clamp(28px,4vw,46px);font-weight:650;letter-spacing:-1.6px;margin:16px 0 12px}header p{color:#6b7b77;font-size:15px;line-height:1.7;margin:0}.map-card{position:relative;border:1px solid #dde6df;border-radius:24px;margin-top:30px;background:#fff;overflow:hidden;box-shadow:0 12px 40px #203e2f05}.map-top{display:flex;justify-content:space-between;align-items:center;padding:20px 26px;color:#75877f;font-size:12px;gap:15px}.legend{display:flex;align-items:center;gap:7px}.legend i{width:10px;height:10px;border-radius:3px;background:#259c82}.tools{display:flex;gap:6px}.tools button{border:1px solid #dbe4dd;background:white;color:#385f55;border-radius:8px;min-width:34px;height:32px;font-size:16px;cursor:pointer}.tools button:hover{background:#eaf5ef}.tools button:disabled{opacity:.35;cursor:default}.viewport{overflow:hidden;touch-action:pan-y}svg{display:block;width:100%;height:auto;min-height:240px}.ocean{fill:#f1f7f6;stroke:#dfebe7;stroke-width:1}.grid{fill:none;stroke:#dce9e4;stroke-width:.55;pointer-events:none}.country{fill:#cbdad1;stroke:#fff;stroke-width:.65;vector-effect:non-scaling-stroke;cursor:pointer;transition:fill .14s}.country:hover,.country:focus-visible{fill:#60c5a7;outline:none;stroke:#1d7f66;stroke-width:1.2}.country.selected{fill:#21896d;stroke:#fff}.country.selected:hover{fill:#2ba985}.bottom{margin:0 26px;padding:20px 0 23px;border-top:1px solid #e9eee9;display:flex;align-items:center;justify-content:space-between;gap:20px}.label{font-size:11px;letter-spacing:1.7px;color:#82918a;text-transform:uppercase}.selected-name{font-size:24px;font-weight:600;margin-top:6px;min-height:32px}.hint{font-size:12px;color:#85938b;line-height:1.7;text-align:right}footer{display:flex;justify-content:space-between;gap:20px;font-size:11px;color:#8c9891;margin-top:20px;line-height:1.7}footer a{color:inherit}button:focus-visible{outline:2px solid #21896d;outline-offset:3px}@media(max-width:600px){main{padding:28px 16px}.map-top{padding:16px}.map-card{margin-top:22px;border-radius:17px}.bottom{margin:0 16px;align-items:flex-start}.hint{max-width:130px}.selected-name{font-size:21px}footer{display:block}svg{min-height:270px}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
-.map-card{margin-top:0}.map-top{justify-content:flex-end}.bottom{justify-content:center;border-top:0}.selected-name{margin-top:0;text-align:center}
-.bottom{flex-direction:column;align-items:center}.country-detail{width:100%;max-width:760px;background:#f1f7f6;border:1px solid #dfebe7;border-radius:18px;overflow:hidden}.country-detail[hidden]{display:none}.country-detail svg{width:100%;height:auto;min-height:0;aspect-ratio:760/460}.detail-shape{fill:#21896d;stroke:#166b56;stroke-width:1;vector-effect:non-scaling-stroke}
-</style>
-<style>
-.city-marker{cursor:pointer;outline:none}.city-marker .pin{fill:#f9bc55;stroke:#fff;stroke-width:2;transition:fill .15s}.city-marker:hover .pin,.city-marker:focus-visible .pin,.city-marker[aria-pressed="true"] .pin{fill:#e86c35;stroke:#263f39;stroke-width:2.5}.city-marker line{stroke:#f9bc55;stroke-width:1.5;pointer-events:none}.city-panel{width:100%;max-width:760px;padding:22px 26px;border:1px solid #dce8e1;border-radius:16px;background:#fff}.city-panel[hidden]{display:none}.city-panel h2{font-size:23px;margin:0 0 14px}.city-panel ul{padding:0;margin:0;list-style:none}.city-panel li+li{margin-top:12px}.city-panel a{color:#216d59;text-underline-offset:4px;line-height:1.6}.country-detail.narrow{max-width:620px}.country-detail.narrow svg{aspect-ratio:480/460}.institution-type{font-size:12px;color:#6c8278;margin:0 0 6px}.institution-body .research{font-size:14px;line-height:1.7;margin:0 0 8px}.institution-body .pending{font-size:12px;color:#66786e;line-height:1.6}
-</style>
-<style>
-.institution{border-top:1px solid #e1ebe5;padding:16px 0}.institution summary{cursor:pointer;font-size:17px;font-weight:600;line-height:1.5;overflow-wrap:anywhere}.institution summary:focus-visible{outline:2px solid #21896d;outline-offset:5px;border-radius:3px}.unit-count{display:block;font-weight:400;font-size:12px;color:#6c8278;margin:5px 0 0 19px}.institution-body{padding:15px 0 0}.structure{font-size:13px;line-height:1.7;color:#61796d;margin:0 0 16px}.unit-card{border-left:2px solid #c9ded2;padding:0 0 0 15px;margin:20px 0}.unit-card h3{font-size:16px;line-height:1.5;margin:0 0 6px;overflow-wrap:anywhere}.unit-card p{font-size:14px;line-height:1.7;margin:7px 0}.unit-card .unit-meta{font-size:12px;color:#6c8278}.unit-card .unit-note{font-size:12px;color:#66786e}.network-title{font-size:14px;margin:25px 0 5px;color:#526a5e}.network-card{border-left-color:#e0cba2}.city-panel li+li{margin-top:0}@media(max-width:600px){.city-panel{padding:20px 16px}.institution summary{font-size:16px}.unit-card{padding-left:11px}.unit-card h3{font-size:15px}}
-</style>
-<style>
-.city-panel .researcher-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px 20px;margin:12px 0;padding:0;list-style:none}.researcher-list li{min-width:0;font-size:14px;overflow-wrap:anywhere}.researcher-list a{text-decoration:none}.researcher-list .src-link{margin-left:6px;font-size:10px;color:#8aa096;text-decoration:underline}.researcher-list a:hover,.researcher-list a:focus-visible{text-decoration:underline}.researcher-list .researcher-role{display:block;font-size:11px;color:#6c8278;line-height:1.5}.unit-card .roster-sources{font-size:11px;color:#6c8278;margin-top:12px}.roster-sources a{margin-right:10px}.external-roster{margin:12px 0;font-size:12px;color:#61796d}.external-roster summary{font-size:12px;font-weight:400;cursor:pointer}.external-roster .researcher-list{margin-top:10px}@media(max-width:480px){.city-panel .researcher-list{grid-template-columns:1fr}}
-</style>
-<style>
-.detail-label{font-size:12px;fill:#35544c;text-anchor:middle;pointer-events:none}
-</style>
-<style>
-.country.has-data{fill:#f2c879}.country.has-data:hover,.country.has-data:focus-visible{fill:#eda93b}.country.has-data.selected{fill:#21896d}
-.city-marker.partial .pin{fill:#fdeec4}.city-marker.todo .pin{fill:#9fb3aa}
-.city-marker:hover .pin,.city-marker:focus-visible .pin,.city-marker[aria-pressed="true"] .pin{fill:#e86c35}
-.legend-row{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 18px;font-size:12px;color:#5d7168;margin:0}.legend-row[hidden]{display:none}.legend-row span{display:inline-flex;align-items:center;gap:6px}.legend-row i{width:11px;height:11px;border-radius:50%;border:1.5px solid #fff;box-shadow:0 0 0 1px #8aa096;display:inline-block}.legend-row i.sq{border-radius:3px}
+/* VOICE everyday learning tool, quietly celestial
+   IDEA a star atlas: Europe drawn like a sky chart, institutions as stars
+   PICTURE the map itself, full width, set in a starfield ocean
+   COLOUR light: white chart paper, indigo ink, gold stars; dark: the same chart at night
+   TYPE Be Vietnam Pro 800 for titles, Be Vietnam Pro for text
+   LAYOUT title + live counts across the top, map full width under it, country detail and roster below */
+:root{color-scheme:light;--bg:#ffffff;--bg2:#f3f5fd;--surface:#ffffff;--line:#dfe4f5;--ink:#10173a;--muted:#55608a;--ocean:#eaf0ff;--grid:#cdd7f6;--land:#d9dfef;--edge:#ffffff;--data:#f2b632;--data-hi:#e2940e;--sel:#3f3bd9;--sel-hi:#5a56f0;--accent:#ff5b38;--partial:#fde9b6;--todo:#a6afc9;--star:#3f4a85;--star-o:.22;--glow:0 1px 0 #ffffff00}
+:root[data-theme=dark]{color-scheme:dark;--bg:#060a1c;--bg2:#0b1130;--surface:#0d1433;--line:#1f2a57;--ink:#e9edff;--muted:#9aa6d4;--ocean:#091030;--grid:#1a2558;--land:#243061;--edge:#0a1236;--data:#f5c451;--data-hi:#ffd978;--sel:#8d88ff;--sel-hi:#aaa6ff;--accent:#ff7a59;--partial:#7d6a3c;--todo:#4b557e;--star:#ffffff;--star-o:.85}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){color-scheme:dark;--bg:#060a1c;--bg2:#0b1130;--surface:#0d1433;--line:#1f2a57;--ink:#e9edff;--muted:#9aa6d4;--ocean:#091030;--grid:#1a2558;--land:#243061;--edge:#0a1236;--data:#f5c451;--data-hi:#ffd978;--sel:#8d88ff;--sel-hi:#aaa6ff;--accent:#ff7a59;--partial:#7d6a3c;--todo:#4b557e;--star:#ffffff;--star-o:.85}}
+*{box-sizing:border-box;min-width:0}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Be Vietnam Pro",Segoe UI,Arial,sans-serif;overflow-x:clip;transition:background .25s,color .25s}
+main{max-width:1240px;margin:auto;padding:clamp(20px,3vw,40px) max(4vw,16px) 40px}
+.masthead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px 32px;align-items:end;margin-bottom:22px}
+.masthead h1{font-size:clamp(30px,4.4vw,50px);font-weight:800;line-height:1.05;letter-spacing:-.025em;margin:0 0 10px}
+.masthead p{margin:0;color:var(--muted);font-size:16px;max-width:60ch}
+.side{display:flex;align-items:flex-end;gap:22px;flex-wrap:wrap;justify-content:flex-end}
+.stats{display:flex;gap:22px;margin:0;padding:0;list-style:none}
+.stats li{display:flex;flex-direction:column;align-items:flex-start}
+.stats b{font-size:clamp(24px,2.6vw,32px);font-weight:800;line-height:1;letter-spacing:-.02em;font-variant-numeric:tabular-nums;color:var(--ink)}
+.stats span{font-size:13px;color:var(--muted);margin-top:6px;white-space:nowrap}
+.theme{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 14px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink);font:600 14px "Be Vietnam Pro",sans-serif;cursor:pointer}
+.theme:hover{border-color:var(--sel)}
+.theme svg{width:18px;height:18px}
+.map-card{position:relative;border:1px solid var(--line);border-radius:22px;background:var(--ocean);overflow:hidden}
+.map-top{position:absolute;top:14px;left:14px;right:14px;z-index:2;display:flex;justify-content:space-between;align-items:flex-start;gap:12px;pointer-events:none}
+.map-top>*{pointer-events:auto}
+.tools{display:flex;gap:6px}
+.tools button{width:40px;height:40px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:12px;font-size:18px;cursor:pointer}
+.tools button:hover{border-color:var(--sel);color:var(--sel)}
+.tools button:disabled{opacity:.4;cursor:default}
+.map-legend{display:flex;flex-wrap:wrap;gap:6px 16px;margin:0;padding:8px 14px;border:1px solid var(--line);border-radius:12px;background:color-mix(in srgb,var(--surface) 86%,transparent);font-size:13px;color:var(--muted)}
+.viewport{overflow:hidden;touch-action:pan-y}
+svg{display:block;width:100%;height:auto;min-height:240px}
+.ocean{fill:var(--ocean);stroke:none}
+.grid{fill:none;stroke:var(--grid);stroke-width:.7;stroke-dasharray:2 4;pointer-events:none}
+.stars circle{fill:var(--star);opacity:var(--star-o)}
+.stars{pointer-events:none}
+.country{fill:var(--land);stroke:var(--edge);stroke-width:.8;vector-effect:non-scaling-stroke;cursor:pointer;transition:fill .14s}
+.country:hover,.country:focus-visible{fill:color-mix(in srgb,var(--sel) 45%,var(--land));outline:none}
+.country.has-data{fill:var(--data)}
+.country.has-data:hover,.country.has-data:focus-visible{fill:var(--data-hi)}
+.country.selected,.country.has-data.selected{fill:var(--sel)}
+.country.selected:hover{fill:var(--sel-hi)}
+.bottom{display:flex;flex-direction:column;align-items:center;gap:16px;padding:22px 0 0}
+.selected-name{font-size:clamp(24px,3vw,34px);font-weight:800;letter-spacing:-.02em;line-height:1.1;text-align:center;min-height:8px}
+.country-detail{width:100%;max-width:820px;background:var(--bg2);border:1px solid var(--line);border-radius:20px;overflow:hidden;position:relative}
+.country-detail[hidden]{display:none}
+.country-detail svg{width:100%;height:auto;min-height:0;aspect-ratio:760/460}
+.country-detail.narrow{max-width:640px}
+.country-detail.narrow svg{aspect-ratio:480/460}
+.detail-shape{fill:var(--land);stroke:var(--sel);stroke-width:1.2;vector-effect:non-scaling-stroke}
+.detail-label{font-size:12px;fill:var(--muted);text-anchor:middle;pointer-events:none}
+.city-marker{cursor:pointer;outline:none}
+.city-marker .pin{fill:var(--data);stroke:var(--bg);stroke-width:2;transition:fill .15s}
+.city-marker.done .pin{filter:drop-shadow(0 0 4px color-mix(in srgb,var(--data) 70%,transparent))}
+.city-marker.partial .pin{fill:var(--partial);stroke:var(--data)}
+.city-marker.todo .pin{fill:var(--todo)}
+.city-marker:hover .pin,.city-marker:focus-visible .pin,.city-marker[aria-pressed="true"] .pin{fill:var(--accent);stroke:var(--ink);stroke-width:2}
+.city-marker line{stroke:var(--data);stroke-width:1.5;pointer-events:none}
+.legend-row{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 18px;font-size:13px;color:var(--muted);margin:0}
+.legend-row[hidden]{display:none}
+.legend-row span,.map-legend span{display:inline-flex;align-items:center;gap:7px}
+.legend-row i,.map-legend i{width:11px;height:11px;border-radius:50%;display:inline-block;border:1.5px solid var(--bg);box-shadow:0 0 0 1px var(--todo)}
+.map-legend i{border-radius:3px}
+i.k-data{background:var(--data)}i.k-land{background:var(--land)}i.k-full{background:var(--data)}i.k-partial{background:var(--partial)}i.k-todo{background:var(--todo)}
+.city-panel{width:100%;max-width:820px;padding:24px 28px;border:1px solid var(--line);border-radius:20px;background:var(--surface)}
+.city-panel[hidden]{display:none}
+.city-panel h2{font-size:26px;font-weight:800;letter-spacing:-.02em;margin:0 0 10px}
+.city-panel ul{padding:0;margin:0;list-style:none}
+.city-panel a{color:var(--sel);text-underline-offset:4px;line-height:1.6}
+.institution-type{font-size:13px;color:var(--muted);margin:0 0 6px}
+.institution-body .research{font-size:15px;line-height:1.7;margin:0 0 10px}
+.institution-body .pending{font-size:13px;color:var(--muted);line-height:1.6}
+.institution{border-top:1px solid var(--line);padding:16px 0}
+.institution summary{cursor:pointer;font-size:18px;font-weight:700;line-height:1.45;overflow-wrap:anywhere}
+.institution summary::marker{color:var(--data)}
+.institution summary:focus-visible{outline:2px solid var(--sel);outline-offset:5px;border-radius:3px}
+.unit-count{display:block;font-weight:400;font-size:13px;color:var(--muted);margin:4px 0 0 19px}
+.institution-body{padding:14px 0 0}
+.structure{font-size:14px;line-height:1.7;color:var(--muted);margin:0 0 16px}
+.unit-card{border-left:3px solid var(--data);padding:2px 0 2px 16px;margin:20px 0}
+.unit-card h3{font-size:17px;line-height:1.45;margin:0 0 6px;overflow-wrap:anywhere}
+.unit-card p{font-size:15px;line-height:1.7;margin:7px 0}
+.unit-card .unit-meta,.unit-card .unit-note{font-size:13px;color:var(--muted)}
+.network-title{font-size:15px;margin:25px 0 5px;color:var(--muted)}
+.network-card{border-left-color:var(--sel)}
+.city-panel li+li{margin-top:0}
+.city-panel .researcher-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 22px;margin:12px 0;padding:0;list-style:none}
+.researcher-list li{font-size:15px;overflow-wrap:anywhere}
+.researcher-list a{text-decoration:none}
+.researcher-list a:hover,.researcher-list a:focus-visible{text-decoration:underline}
+.researcher-list .src-link{margin-left:6px;font-size:13px;color:var(--muted);text-decoration:underline}
+.researcher-list .researcher-role{display:block;font-size:13px;color:var(--muted);line-height:1.5}
+.unit-card .roster-sources{font-size:13px;color:var(--muted);margin-top:12px}
+.roster-sources a{margin-right:10px}
+.external-roster{margin:12px 0;font-size:13px;color:var(--muted)}
+.external-roster summary{font-size:13px;font-weight:500;cursor:pointer}
+.external-roster .researcher-list{margin-top:10px}
+footer{margin-top:28px;font-size:13px;color:var(--muted);text-align:center}
+button:focus-visible{outline:2px solid var(--sel);outline-offset:3px}
+@media(max-width:720px){.masthead{grid-template-columns:1fr;align-items:start}.side{justify-content:space-between}.map-legend{display:none}}
+@media(max-width:600px){.stats{gap:16px}.city-panel{padding:20px 16px}.institution summary{font-size:16px}.unit-card{padding-left:12px}.city-panel .researcher-list{grid-template-columns:1fr}svg{min-height:220px}.tools button{width:36px;height:36px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body><main>
-<section class="map-card" aria-label="Bản đồ thế giới tương tác">
-<div class="map-top"><div class="tools"><button id="out" aria-label="Thu nhỏ">−</button><button id="reset" aria-label="Xem toàn bộ bản đồ">↺</button><button id="in" aria-label="Phóng to">+</button></div></div>
-<p class="legend-row" style="padding:0 26px 14px;justify-content:flex-end"><span><i class="sq" style="background:#f2c879"></i>Nước đã có dữ liệu</span><span><i class="sq" style="background:#cbdad1"></i>Chưa làm</span></p><div class="viewport"><svg id="map" viewBox="0 0 1200 760" aria-label="Các quốc gia và vùng lãnh thổ trên thế giới"><!-- MAP --></svg></div>
-<div class="bottom"><div id="name" class="selected-name" role="status" aria-live="polite"></div><div id="detail" class="country-detail" hidden><svg id="detail-map" viewBox="0 0 760 460" role="group" aria-labelledby="name"><path id="detail-shape" class="detail-shape"/><g id="detail-labels"></g><g id="city-markers"></g></svg></div><p id="city-legend" class="legend-row" hidden><span><i style="background:#f9bc55"></i>Đủ danh sách nhà nghiên cứu</span><span><i style="background:#fdeec4"></i>Có cơ quan chưa đủ danh sách / mới có trưởng nhóm</span><span><i style="background:#9fb3aa"></i>Chưa làm</span></p><section id="city-panel" class="city-panel" aria-live="polite" hidden><h2 id="city-name"></h2><ul id="institutions"></ul></section></div>
+<header class="masthead"><div><h1>Bản đồ nghiên cứu thiên văn châu Âu</h1><p>Mỗi nước vàng là một nước đã có dữ liệu. Bấm vào nước để xem các thành phố, viện nghiên cứu, nhóm và danh sách nhà nghiên cứu kèm nguồn.</p></div>
+<div class="side"><ul class="stats" aria-label="Thống kê"><li><b id="st-c">0</b><span>quốc gia</span></li><li><b id="st-i">0</b><span>cơ quan</span></li><li><b id="st-p">0</b><span>nhà nghiên cứu</span></li></ul>
+<button id="theme" class="theme" type="button" aria-label="Đổi giao diện sáng / tối"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path id="theme-icon" d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg><span id="theme-label">Tối</span></button></div></header>
+<section class="map-card" aria-label="Bản đồ châu Âu tương tác">
+<div class="map-top"><div class="tools"><button id="out" aria-label="Thu nhỏ">−</button><button id="reset" aria-label="Xem toàn bộ bản đồ">↺</button><button id="in" aria-label="Phóng to">+</button></div><p class="map-legend"><span><i class="k-data"></i>Đã có dữ liệu</span><span><i class="k-land"></i>Chưa làm</span></p></div>
+<div class="viewport"><svg id="map" viewBox="0 0 1200 760" aria-label="Các quốc gia và vùng lãnh thổ trên thế giới"><!-- MAP --></svg></div>
 </section>
+<div class="bottom"><div id="name" class="selected-name" role="status" aria-live="polite"></div><div id="detail" class="country-detail" hidden><svg id="detail-map" viewBox="0 0 760 460" role="group" aria-labelledby="name"><path id="detail-shape" class="detail-shape"/><g id="detail-labels"></g><g id="city-markers"></g></svg></div><p id="city-legend" class="legend-row" hidden><span><i class="k-full"></i>Đủ danh sách nhà nghiên cứu</span><span><i class="k-partial"></i>Có cơ quan chưa đủ danh sách / mới có trưởng nhóm</span><span><i class="k-todo"></i>Chưa làm</span></p><section id="city-panel" class="city-panel" aria-live="polite" hidden><h2 id="city-name"></h2><ul id="institutions"></ul></section></div>
+<footer>Space-Verse Atlas. Dữ liệu lấy từ trang chính thức của từng cơ quan; nguồn ghi ở từng nhóm.</footer>
 </main><script>
 const map=document.querySelector('#map'),nameBox=document.querySelector('#name');
 const countryData=/* COUNTRY DATA */;
@@ -83,4 +172,27 @@ document.querySelector('#out').onclick=()=>{zoom=Math.max(1,zoom/1.5);render()};
 document.querySelector('#reset').onclick=()=>{zoom=1;cx=600;cy=380;render()};
 map.addEventListener('focusin',e=>{if(zoom>1&&e.target.matches('.country')){const b=e.target.getBBox();cx=b.x+b.width/2;cy=b.y+b.height/2;render()}});
 render();
+
+{
+const root=document.documentElement,tb=document.querySelector('#theme'),icon=document.querySelector('#theme-icon'),lab=document.querySelector('#theme-label');
+const moon='M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z',sun='M12 4V2M12 22v-2M4.9 4.9 3.5 3.5M20.5 20.5l-1.4-1.4M4 12H2M22 12h-2M4.9 19.1l-1.4 1.4M20.5 3.5l-1.4 1.4M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10z';
+const isDark=()=>root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+const paint=()=>{const d=isDark();icon.setAttribute('d',d?sun:moon);lab.textContent=d?'Sáng':'Tối';};
+let saved=null;try{saved=localStorage.getItem('sva-theme')}catch(e){}
+if(saved==='dark'||saved==='light')root.dataset.theme=saved;
+paint();
+tb.addEventListener('click',()=>{const next=isDark()?'light':'dark';root.dataset.theme=next;try{localStorage.setItem('sva-theme',next)}catch(e){}paint();});
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',paint);
+let ni=0;const people=new Set();
+for(const c of Object.values(countryData))for(const city of c.cities||[])for(const inst of city.institutions||[]){ni++;for(const u of inst.units||[]){const r=u.researchers||{};for(const x of [...(r.people||[]),...(r.external||[])])if(x&&x.name)people.add(x.name.normalize('NFC').toLowerCase())}}
+const np=people.size;
+const fmt=n=>n.toLocaleString('vi-VN');
+document.querySelector('#st-c').textContent=fmt(Object.keys(countryData).length);
+document.querySelector('#st-i').textContent=fmt(ni);
+document.querySelector('#st-p').textContent=fmt(np);
+const ns='http://www.w3.org/2000/svg',g=document.createElementNS(ns,'g');g.setAttribute('class','stars');
+let r=20251128;const rnd=()=>(r=r*16807%2147483647)/2147483647;
+for(let k=0;k<420;k++){const c=document.createElementNS(ns,'circle');c.setAttribute('cx',(rnd()*1200).toFixed(1));c.setAttribute('cy',(rnd()*760).toFixed(1));const big=rnd()>.93;c.setAttribute('r',big?(1.1+rnd()*.8).toFixed(2):(.35+rnd()*.6).toFixed(2));if(!big)c.style.opacity='calc(var(--star-o) * .6)';g.append(c);}
+const oc=map.querySelector('.ocean');if(oc)oc.after(g);else map.prepend(g);
+}
 </script></body></html>
