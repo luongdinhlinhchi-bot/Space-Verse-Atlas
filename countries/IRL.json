@@ -9,6 +9,30 @@
    ],
    "institutions": [
     {
+     "name": "Trinity College Dublin — Astrophysics Research Group",
+     "type": "university",
+     "research": "Vật lý Mặt Trời và thời tiết không gian, hình thành sao, ngoại hành tinh.",
+     "url": "https://www.tcd.ie/Physics/research/groups/astrophysics/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.tcd.ie/Physics/research/groups/astrophysics/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "University College Dublin — Space Science & Astrophysics",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao, chớp gamma, vũ trụ học, vệ tinh nhỏ (EIRSAT-1).",
+     "url": "https://www.ucd.ie/physics/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ucd.ie/physics/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "Dublin Institute for Advanced Studies – Astronomy & Astrophysics Section (DIAS)",
      "type": "institute",
      "research": "Vật lý Mặt Trời và thời tiết không gian (LOFAR, I-LOFAR), từ quyển hành tinh, hình thành sao và sao trẻ, sao lùn nâu và ngoại hành tinh, thiên văn năng lượng cao và tia vũ trụ (H.E.S.S., CTA), detector MKID.",

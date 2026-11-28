@@ -1,0 +1,63 @@
+@city annecy | Annecy | 6.13, 45.90
+@city stmichel | Saint-Michel-l'Observatoire (OHP) | 5.71, 43.93
+
+@inst Centre de Physique des Particules de Marseille (CPPM)
+city: marseille
+type: institute
+url: https://www.cppm.in2p3.fr/
+research: Vũ trụ học (Euclid, DESI, LSST/Rubin), neutrino thiên văn (KM3NeT), vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://www.cppm.in2p3.fr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Laboratoire de Physique Nucléaire et de Hautes Énergies (LPNHE)
+city: paris
+type: institute
+url: https://lpnhe.in2p3.fr/
+research: Vũ trụ học với siêu tân tinh Ia, DESI, LSST/Rubin; vật lý thiên văn hạt (CTAO, Auger).
+coverage: partial
+structure: 
+structureUrl: https://lpnhe.in2p3.fr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst IJCLab — Laboratoire de Physique des 2 Infinis Irène Joliot-Curie
+city: saclay
+type: institute
+url: https://www.ijclab.in2p3.fr/
+research: Pôle vật lý thiên văn và vũ trụ học: sóng hấp dẫn (Virgo, LISA), CMB, Euclid, LSST/Rubin.
+coverage: partial
+structure: 
+structureUrl: https://www.ijclab.in2p3.fr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Laboratoire d'Annecy de Physique des Particules (LAPP)
+city: annecy
+type: institute
+url: https://lapp.in2p3.fr/
+research: Vật lý thiên văn hạt: CTAO, H.E.S.S., Virgo, Euclid/LSST.
+coverage: partial
+structure: 
+structureUrl: https://lapp.in2p3.fr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Laboratoire de Physique Subatomique et de Cosmologie (LPSC)
+city: grenoble
+type: institute
+url: https://lpsc.in2p3.fr/
+research: Vũ trụ học (CMB, cụm thiên hà với NIKA2), vật lý thiên văn hạt.
+coverage: partial
+structure: 
+structureUrl: https://lpsc.in2p3.fr/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Observatoire de Haute-Provence (OHP)
+city: stmichel
+type: institute
+url: https://www.osupytheas.fr/observatoires/observatoire-de-haute-provence
+research: Đài quan sát quốc gia: phổ kế SOPHIE (ngoại hành tinh), kính 1,93 m; nơi phát hiện ngoại hành tinh 51 Pegasi b.
+coverage: partial
+structure: 
+structureUrl: https://www.osupytheas.fr/observatoires/observatoire-de-haute-provence
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

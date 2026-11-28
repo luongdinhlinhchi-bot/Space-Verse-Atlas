@@ -80,14 +80,6 @@ for(const city of germany.cities) for(const institution of city.institutions){
 fs.writeFileSync('GERMANY-RESEARCHERS.md', germanReport.join('\n'));
 const countryData = {FIN:finland, DEU:germany};
 // Các nước khác: countries/<ISO3>.json do tools/merge_country.py sinh ra.
-if(fs.existsSync('countries')) for(const f of fs.readdirSync('countries').filter(f=>/^[A-Z]{3}\.json$/.test(f))){
- const c=JSON.parse(fs.readFileSync('countries/'+f,'utf8'));
- const base=countryData[c.country];
- if(base){ // bổ sung vào dữ liệu cũ (vd. DEU): gộp thành phố theo id, nối thêm cơ quan
-  for(const city of c.cities){const ex=base.cities.find(x=>x.id===city.id);if(ex)ex.institutions.push(...city.institutions);else base.cities.push(city)}
-  Object.assign(base.networks=base.networks||{},c.networks||{});
- } else { c.autoView=!c.viewBox; countryData[c.country]=c; }
-}
 /** Load, validate, attach unit/researcher rosters, and write the Markdown report for a 3-file country dataset. */
 function loadStandardCountry(prefix, reportTitle, reportFile){
  const country = JSON.parse(fs.readFileSync(`${prefix}.json`,'utf8'));
@@ -154,6 +146,15 @@ for(const [iso, prefix, title, reportFile] of [
  ['GRC','greece','Hy Lạp','GREECE-RESEARCHERS.md'],
 ]){
  if(!countryData[iso]) countryData[iso] = loadStandardCountry(prefix, title, reportFile);
+}
+// Các nước dạng DSL (và phần bổ sung cho nước có dữ liệu cũ) nạp sau cùng.
+if(fs.existsSync('countries')) for(const f of fs.readdirSync('countries').filter(f=>/^[A-Z]{3}\.json$/.test(f))){
+ const c=JSON.parse(fs.readFileSync('countries/'+f,'utf8'));
+ const base=countryData[c.country];
+ if(base){ // bổ sung vào dữ liệu cũ (vd. DEU): gộp thành phố theo id, nối thêm cơ quan
+  for(const city of c.cities){const ex=base.cities.find(x=>x.id===city.id);if(ex)ex.institutions.push(...city.institutions);else base.cities.push(city)}
+  Object.assign(base.networks=base.networks||{},c.networks||{});
+ } else { c.autoView=!c.viewBox; countryData[c.country]=c; }
 }
 // Link cá nhân: url chỉ dùng cho đúng một người (hoặc được đánh dấu profile:true). Link dùng chung là trang danh sách.
 {const people=[];const walk=o=>{if(Array.isArray(o))o.forEach(walk);else if(o&&typeof o==='object'){for(const k of ['people','external'])if(Array.isArray(o[k]))o[k].forEach(p=>{if(p&&p.name&&p.url)people.push(p)});Object.values(o).forEach(walk)}};walk(countryData);

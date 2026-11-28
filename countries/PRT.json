@@ -1,6 +1,28 @@
 {
  "cities": [
   {
+   "id": "coimbra",
+   "city": "Coimbra",
+   "coordinates": [
+    -8.43,
+    40.2
+   ],
+   "institutions": [
+    {
+     "name": "Universidade de Coimbra — Observatório Geofísico e Astronómico / CFisUC",
+     "type": "university",
+     "research": "Vật lý Mặt Trời và thời tiết không gian, vật lý thiên văn hạt nhân, sao neutron.",
+     "url": "https://www.uc.pt/fctuc/dfisica/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uc.pt/fctuc/dfisica/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "lisboa",
    "city": "Lisboa",
    "coordinates": [

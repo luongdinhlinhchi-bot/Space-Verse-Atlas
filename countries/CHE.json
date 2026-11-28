@@ -1,6 +1,28 @@
 {
  "cities": [
   {
+   "id": "locarno",
+   "city": "Locarno",
+   "coordinates": [
+    8.79,
+    46.17
+   ],
+   "institutions": [
+    {
+     "name": "IRSOL — Istituto Ricerche Solari Aldo e Cele Daccò",
+     "type": "institute",
+     "research": "Vật lý Mặt Trời: phân cực phổ và từ trường Mặt Trời; thuộc Università della Svizzera italiana.",
+     "url": "https://www.irsol.usi.ch/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.irsol.usi.ch/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "bern",
    "city": "Bern",
    "coordinates": [
@@ -8,6 +30,18 @@
     46.95
    ],
    "institutions": [
+    {
+     "name": "International Space Science Institute (ISSI)",
+     "type": "institute",
+     "research": "Viện quốc tế tổ chức nhóm nghiên cứu và hội thảo về khoa học không gian: Mặt Trời, hành tinh, vật lý thiên văn, khoa học Trái Đất.",
+     "url": "https://www.issibern.ch/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.issibern.ch/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Universität Bern — Physikalisches Institut, Space Research & Planetary Sciences (WP)",
      "type": "university",

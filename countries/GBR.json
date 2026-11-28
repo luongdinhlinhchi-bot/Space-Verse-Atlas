@@ -1,6 +1,482 @@
 {
  "cities": [
   {
+   "id": "london",
+   "city": "London",
+   "coordinates": [
+    -0.13,
+    51.51
+   ],
+   "institutions": [
+    {
+     "name": "UCL — Department of Physics & Astronomy (Astrophysics Group)",
+     "type": "university",
+     "research": "Nhóm vật lý thiên văn lớn: vũ trụ học (DES, Euclid), ngoại hành tinh (Ariel), thiên hà, sao; quản lý đài quan sát UCL.",
+     "url": "https://www.ucl.ac.uk/physics-astronomy/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ucl.ac.uk/physics-astronomy/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Imperial College London — Astrophysics Group",
+     "type": "university",
+     "research": "Vũ trụ học, hình thành sao và hành tinh, thiên hà; nhóm plasma không gian và từ quyển.",
+     "url": "https://www.imperial.ac.uk/astrophysics/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.imperial.ac.uk/astrophysics/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Queen Mary University of London — Astronomy Unit",
+     "type": "university",
+     "research": "Vũ trụ học lý thuyết, hệ hành tinh, plasma Mặt Trời và không gian.",
+     "url": "https://www.qmul.ac.uk/spa/astro/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.qmul.ac.uk/spa/astro/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "King's College London — Theoretical Particle Physics & Cosmology",
+     "type": "university",
+     "research": "Vũ trụ học lý thuyết, vật chất tối, sóng hấp dẫn.",
+     "url": "https://www.kcl.ac.uk/research/tppc",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.kcl.ac.uk/research/tppc",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "liverpool",
+   "city": "Liverpool",
+   "coordinates": [
+    -2.98,
+    53.41
+   ],
+   "institutions": [
+    {
+     "name": "Liverpool John Moores University — Astrophysics Research Institute (ARI)",
+     "type": "university",
+     "research": "Một trong các viện vật lý thiên văn lớn của Anh; vận hành Liverpool Telescope (La Palma); thiên hà, cụm sao, sao biến quang.",
+     "url": "https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "leicester",
+   "city": "Leicester",
+   "coordinates": [
+    -1.13,
+    52.62
+   ],
+   "institutions": [
+    {
+     "name": "University of Leicester — School of Physics & Astronomy",
+     "type": "university",
+     "research": "Thiên văn tia X (Swift, Einstein Probe, SMILE), khoa học hành tinh, đĩa bồi tụ, lỗ đen.",
+     "url": "https://le.ac.uk/physics",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://le.ac.uk/physics",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "standrews",
+   "city": "St Andrews",
+   "coordinates": [
+    -2.79,
+    56.34
+   ],
+   "institutions": [
+    {
+     "name": "University of St Andrews — School of Physics & Astronomy",
+     "type": "university",
+     "research": "Ngoại hành tinh, hình thành sao, Mặt Trời, thiên hà; đài quan sát James Gregory.",
+     "url": "https://www.st-andrews.ac.uk/physics-astronomy/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.st-andrews.ac.uk/physics-astronomy/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "cardiff",
+   "city": "Cardiff",
+   "coordinates": [
+    -3.18,
+    51.48
+   ],
+   "institutions": [
+    {
+     "name": "Cardiff University — School of Physics and Astronomy",
+     "type": "university",
+     "research": "Sóng hấp dẫn (LIGO), thiên văn hồng ngoại xa – submm, môi trường liên sao, thiết bị thiên văn.",
+     "url": "https://www.cardiff.ac.uk/physics-astronomy",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.cardiff.ac.uk/physics-astronomy",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "exeter",
+   "city": "Exeter",
+   "coordinates": [
+    -3.53,
+    50.72
+   ],
+   "institutions": [
+    {
+     "name": "University of Exeter — Astrophysics Group",
+     "type": "university",
+     "research": "Hình thành sao và hành tinh, khí quyển ngoại hành tinh, mô phỏng thủy động lực.",
+     "url": "https://astro.exeter.ac.uk/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://astro.exeter.ac.uk/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "southampton",
+   "city": "Southampton",
+   "coordinates": [
+    -1.4,
+    50.93
+   ],
+   "institutions": [
+    {
+     "name": "University of Southampton — Astronomy Group",
+     "type": "university",
+     "research": "Vật lý thiên văn năng lượng cao, sao neutron, AGN, sao biến quang tạm thời.",
+     "url": "https://www.southampton.ac.uk/research/groups/astronomy",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.southampton.ac.uk/research/groups/astronomy",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "nottingham",
+   "city": "Nottingham",
+   "coordinates": [
+    -1.15,
+    52.95
+   ],
+   "institutions": [
+    {
+     "name": "University of Nottingham — Centre for Astronomy",
+     "type": "university",
+     "research": "Thiên hà và vũ trụ học quan sát, thấu kính hấp dẫn, vũ trụ học lý thuyết.",
+     "url": "https://www.nottingham.ac.uk/astronomy/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.nottingham.ac.uk/astronomy/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "sheffield",
+   "city": "Sheffield",
+   "coordinates": [
+    -1.47,
+    53.38
+   ],
+   "institutions": [
+    {
+     "name": "University of Sheffield — Astrophysics Group",
+     "type": "university",
+     "research": "Sao lùn trắng, sao biến quang cận, HiPERCAM/ULTRACAM, sao khối lượng lớn.",
+     "url": "https://www.sheffield.ac.uk/physics/research/astrophysics",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.sheffield.ac.uk/physics/research/astrophysics",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "bristol",
+   "city": "Bristol",
+   "coordinates": [
+    -2.59,
+    51.45
+   ],
+   "institutions": [
+    {
+     "name": "University of Bristol — Astrophysics Group",
+     "type": "university",
+     "research": "Vũ trụ học, sao khối lượng lớn, hình thành hành tinh, sóng hấp dẫn.",
+     "url": "https://www.bristol.ac.uk/physics/research/astrophysics/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.bristol.ac.uk/physics/research/astrophysics/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "birmingham",
+   "city": "Birmingham",
+   "coordinates": [
+    -1.9,
+    52.48
+   ],
+   "institutions": [
+    {
+     "name": "University of Birmingham — Astrophysics & Space Research / Gravitational Wave Astronomy",
+     "type": "university",
+     "research": "Sóng hấp dẫn (LIGO, LISA), sao học (asteroseismology), thiên hà và cụm thiên hà.",
+     "url": "https://www.birmingham.ac.uk/research/gravitational-wave",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.birmingham.ac.uk/research/gravitational-wave",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "hatfield",
+   "city": "Hatfield (Hertfordshire)",
+   "coordinates": [
+    -0.22,
+    51.76
+   ],
+   "institutions": [
+    {
+     "name": "University of Hertfordshire — Centre for Astrophysics Research",
+     "type": "university",
+     "research": "Hình thành sao, thiên hà, thiên văn vô tuyến (LOFAR), sao lùn nâu.",
+     "url": "https://www.herts.ac.uk/research/centres/centre-for-astrophysics-research",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.herts.ac.uk/research/centres/centre-for-astrophysics-research",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "belfast",
+   "city": "Belfast",
+   "coordinates": [
+    -5.93,
+    54.6
+   ],
+   "institutions": [
+    {
+     "name": "Queen's University Belfast — Astrophysics Research Centre (ARC)",
+     "type": "university",
+     "research": "Siêu tân tinh và sự kiện tạm thời (Pan-STARRS, ATLAS), Mặt Trời, tiểu hành tinh.",
+     "url": "https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "miltonkeynes",
+   "city": "Milton Keynes",
+   "coordinates": [
+    -0.76,
+    52.04
+   ],
+   "institutions": [
+    {
+     "name": "The Open University — School of Physical Sciences",
+     "type": "university",
+     "research": "Khoa học hành tinh và không gian, thiên văn, thiết bị cảm biến.",
+     "url": "https://www.open.ac.uk/stem/physical-sciences/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.open.ac.uk/stem/physical-sciences/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "didcot",
+   "city": "Harwell (Didcot)",
+   "coordinates": [
+    -1.31,
+    51.57
+   ],
+   "institutions": [
+    {
+     "name": "STFC RAL Space (Rutherford Appleton Laboratory)",
+     "type": "institute",
+     "research": "Phòng thí nghiệm không gian quốc gia: thiết bị cho JWST MIRI, Solar Orbiter, quan sát Trái Đất; vật lý Mặt Trời và không gian.",
+     "url": "https://www.ralspace.stfc.ac.uk/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ralspace.stfc.ac.uk/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "lancaster",
+   "city": "Lancaster",
+   "coordinates": [
+    -2.8,
+    54.05
+   ],
+   "institutions": [
+    {
+     "name": "Lancaster University — Physics (Astrophysics; Space and Planetary Physics)",
+     "type": "university",
+     "research": "Vũ trụ học, tiến hóa thiên hà, cực quang và từ quyển hành tinh.",
+     "url": "https://www.lancaster.ac.uk/physics/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.lancaster.ac.uk/physics/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "leeds",
+   "city": "Leeds",
+   "coordinates": [
+    -1.55,
+    53.8
+   ],
+   "institutions": [
+    {
+     "name": "University of Leeds — Astrophysics Group",
+     "type": "university",
+     "research": "Hình thành sao khối lượng lớn, môi trường liên sao, thiên văn hoá học.",
+     "url": "https://physics.leeds.ac.uk/astrophysics",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://physics.leeds.ac.uk/astrophysics",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "keele",
+   "city": "Keele",
+   "coordinates": [
+    -2.27,
+    53.0
+   ],
+   "institutions": [
+    {
+     "name": "Keele University — Astrophysics Group",
+     "type": "university",
+     "research": "Ngoại hành tinh (WASP), sao và cụm sao.",
+     "url": "https://www.keele.ac.uk/physics/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.keele.ac.uk/physics/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "preston",
+   "city": "Preston",
+   "coordinates": [
+    -2.7,
+    53.76
+   ],
+   "institutions": [
+    {
+     "name": "University of Central Lancashire — Jeremiah Horrocks Institute",
+     "type": "university",
+     "research": "Vật lý Mặt Trời, thiên hà, sao; đài quan sát Alston.",
+     "url": "https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "dorking",
+   "city": "Dorking (MSSL)",
+   "coordinates": [
+    -0.38,
+    51.2
+   ],
+   "institutions": [
+    {
+     "name": "UCL — Mullard Space Science Laboratory (MSSL)",
+     "type": "university",
+     "research": "Phòng thí nghiệm khoa học không gian của UCL: thiết bị cho Solar Orbiter, Euclid VIS, SMILE; vật lý Mặt Trời, plasma, năng lượng cao.",
+     "url": "https://www.ucl.ac.uk/mssl/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ucl.ac.uk/mssl/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "armagh",
    "city": "Armagh",
    "coordinates": [

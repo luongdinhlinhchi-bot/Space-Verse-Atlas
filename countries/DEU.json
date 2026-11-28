@@ -1,6 +1,28 @@
 {
  "cities": [
   {
+   "id": "heidelberg",
+   "city": "Heidelberg",
+   "coordinates": [
+    8.69,
+    49.4
+   ],
+   "institutions": [
+    {
+     "name": "Heidelberger Institut für Theoretische Studien (HITS)",
+     "type": "institute",
+     "research": "Viện nghiên cứu phi lợi nhuận: nhóm vật lý thiên văn lý thuyết và tính toán (TAP, PSO, AIN) về sao, siêu tân tinh, thiên hà, mô phỏng vũ trụ.",
+     "url": "https://www.h-its.org/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.h-its.org/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "garching",
    "city": "Garching",
    "coordinates": [

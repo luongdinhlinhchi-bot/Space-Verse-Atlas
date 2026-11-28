@@ -1,6 +1,72 @@
 {
  "cities": [
   {
+   "id": "yebes",
+   "city": "Yebes (Guadalajara)",
+   "coordinates": [
+    -3.09,
+    40.52
+   ],
+   "institutions": [
+    {
+     "name": "Observatorio Astronómico Nacional (OAN-IGN) & Observatorio de Yebes",
+     "type": "institute",
+     "research": "Đài thiên văn quốc gia: thiên văn vô tuyến (kính 40 m Yebes, VLBI), hình thành sao, sao tiến hóa, hoá học thiên văn.",
+     "url": "https://astronomia.ign.es/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://astronomia.ign.es/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "almeria",
+   "city": "Almería (Calar Alto)",
+   "coordinates": [
+    -2.46,
+    36.84
+   ],
+   "institutions": [
+    {
+     "name": "Observatorio de Calar Alto (CAHA)",
+     "type": "institute",
+     "research": "Đài quan sát quang học – hồng ngoại lớn nhất lục địa châu Âu (kính 3,5 m, CARMENES); có chương trình hỗ trợ quan sát.",
+     "url": "https://www.caha.es/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.caha.es/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "paterna",
+   "city": "Paterna (Valencia)",
+   "coordinates": [
+    -0.44,
+    39.5
+   ],
+   "institutions": [
+    {
+     "name": "Instituto de Física Corpuscular (IFIC, CSIC–UV)",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt, neutrino (KM3NeT), vũ trụ học lý thuyết, sóng hấp dẫn.",
+     "url": "https://webific.ific.uv.es/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://webific.ific.uv.es/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "teruel",
    "city": "Teruel",
    "coordinates": [
@@ -2059,6 +2125,30 @@
    ],
    "institutions": [
     {
+     "name": "Institut d'Estudis Espacials de Catalunya (IEEC)",
+     "type": "institute",
+     "research": "Viện nghiên cứu không gian Catalonia: vũ trụ học, sao, ngoại hành tinh, thiết bị và vệ tinh nhỏ; điều hành đài Montsec.",
+     "url": "https://www.ieec.cat/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ieec.cat/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Institut de Física d'Altes Energies (IFAE)",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt và vũ trụ học: MAGIC, CTAO, DES, Euclid, PAU Survey.",
+     "url": "https://www.ifae.es/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ifae.es/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "Institut de Ciències del Cosmos, Universitat de Barcelona (ICCUB)",
      "type": "institute",
      "research": "Gaia và thiên văn đo vị trí, cấu trúc và tiến hóa Ngân Hà, sao và hình thành sao, thiên văn năng lượng cao (hệ nhị phân tia gamma, microquasar), sự kiện thoáng qua, thời tiết không gian, vũ trụ học (cấu trúc lớn, DESI, Euclid), sóng hấp dẫn (Virgo); cùng vật lý hạt và hạt nhân.",
@@ -2823,6 +2913,30 @@
     40.42
    ],
    "institutions": [
+    {
+     "name": "Instituto de Física Teórica (IFT UAM-CSIC)",
+     "type": "institute",
+     "research": "Vũ trụ học lý thuyết, vật chất tối, sóng hấp dẫn, vật lý hạt thiên văn.",
+     "url": "https://www.ift.uam-csic.es/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ift.uam-csic.es/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "CIEMAT — Departamento de Investigación Básica (Física de Astropartículas)",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt: CTAO, MAGIC, AMS-02, DES/DESI, vật chất tối.",
+     "url": "https://www.ciemat.es/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ciemat.es/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Centro de Astrobiología (CAB, CSIC-INTA)",
      "type": "institute",

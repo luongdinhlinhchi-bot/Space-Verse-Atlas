@@ -1,0 +1,12 @@
+@city coimbra | Coimbra | -8.43, 40.20
+
+@inst Universidade de Coimbra — Observatório Geofísico e Astronómico / CFisUC
+city: coimbra
+type: university
+url: https://www.uc.pt/fctuc/dfisica/
+research: Vật lý Mặt Trời và thời tiết không gian, vật lý thiên văn hạt nhân, sao neutron.
+coverage: partial
+structure: 
+structureUrl: https://www.uc.pt/fctuc/dfisica/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

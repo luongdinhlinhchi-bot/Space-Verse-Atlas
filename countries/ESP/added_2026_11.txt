@@ -1,0 +1,74 @@
+@city yebes | Yebes (Guadalajara) | -3.09, 40.52
+@city almeria | Almería (Calar Alto) | -2.46, 36.84
+@city paterna | Paterna (Valencia) | -0.44, 39.50
+
+@inst Observatorio Astronómico Nacional (OAN-IGN) & Observatorio de Yebes
+city: yebes
+type: institute
+url: https://astronomia.ign.es/
+research: Đài thiên văn quốc gia: thiên văn vô tuyến (kính 40 m Yebes, VLBI), hình thành sao, sao tiến hóa, hoá học thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://astronomia.ign.es/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Observatorio de Calar Alto (CAHA)
+city: almeria
+type: institute
+url: https://www.caha.es/
+research: Đài quan sát quang học – hồng ngoại lớn nhất lục địa châu Âu (kính 3,5 m, CARMENES); có chương trình hỗ trợ quan sát.
+coverage: partial
+structure: 
+structureUrl: https://www.caha.es/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Institut d'Estudis Espacials de Catalunya (IEEC)
+city: barcelona
+type: institute
+url: https://www.ieec.cat/
+research: Viện nghiên cứu không gian Catalonia: vũ trụ học, sao, ngoại hành tinh, thiết bị và vệ tinh nhỏ; điều hành đài Montsec.
+coverage: partial
+structure: 
+structureUrl: https://www.ieec.cat/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Institut de Física d'Altes Energies (IFAE)
+city: barcelona
+type: institute
+url: https://www.ifae.es/
+research: Vật lý thiên văn hạt và vũ trụ học: MAGIC, CTAO, DES, Euclid, PAU Survey.
+coverage: partial
+structure: 
+structureUrl: https://www.ifae.es/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Instituto de Física Corpuscular (IFIC, CSIC–UV)
+city: paterna
+type: institute
+url: https://webific.ific.uv.es/
+research: Vật lý thiên văn hạt, neutrino (KM3NeT), vũ trụ học lý thuyết, sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://webific.ific.uv.es/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Instituto de Física Teórica (IFT UAM-CSIC)
+city: madrid
+type: institute
+url: https://www.ift.uam-csic.es/
+research: Vũ trụ học lý thuyết, vật chất tối, sóng hấp dẫn, vật lý hạt thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.ift.uam-csic.es/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst CIEMAT — Departamento de Investigación Básica (Física de Astropartículas)
+city: madrid
+type: institute
+url: https://www.ciemat.es/
+research: Vật lý thiên văn hạt: CTAO, MAGIC, AMS-02, DES/DESI, vật chất tối.
+coverage: partial
+structure: 
+structureUrl: https://www.ciemat.es/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

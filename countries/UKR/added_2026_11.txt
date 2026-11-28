@@ -1,0 +1,12 @@
+@city kyiv | Kyiv | 30.52, 50.45
+
+@inst Taras Shevchenko National University of Kyiv — Astronomical Observatory
+city: kyiv
+type: university
+url: https://observ.univ.kiev.ua/
+research: Đài quan sát đại học: thiên hà và vũ trụ học, sao chổi và vật thể nhỏ, vật lý Mặt Trời; đào tạo thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://observ.univ.kiev.ua/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

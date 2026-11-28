@@ -1,0 +1,12 @@
+@city zielonagora | Zielona Góra | 15.51, 51.94
+
+@inst University of Zielona Góra — Janusz Gil Institute of Astronomy
+city: zielonagora
+type: university
+url: https://www.ia.uz.zgora.pl/
+research: Sao neutron và pulsar, sao biến quang, vật lý Mặt Trời.
+coverage: partial
+structure: 
+structureUrl: https://www.ia.uz.zgora.pl/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

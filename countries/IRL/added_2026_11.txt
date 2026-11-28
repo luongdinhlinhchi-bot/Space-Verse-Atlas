@@ -1,0 +1,21 @@
+
+@inst Trinity College Dublin — Astrophysics Research Group
+city: dublin
+type: university
+url: https://www.tcd.ie/Physics/research/groups/astrophysics/
+research: Vật lý Mặt Trời và thời tiết không gian, hình thành sao, ngoại hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://www.tcd.ie/Physics/research/groups/astrophysics/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University College Dublin — Space Science & Astrophysics
+city: dublin
+type: university
+url: https://www.ucd.ie/physics/
+research: Vật lý thiên văn năng lượng cao, chớp gamma, vũ trụ học, vệ tinh nhỏ (EIRSAT-1).
+coverage: partial
+structure: 
+structureUrl: https://www.ucd.ie/physics/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

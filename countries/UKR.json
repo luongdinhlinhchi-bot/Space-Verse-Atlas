@@ -1,0 +1,32 @@
+{
+ "cities": [
+  {
+   "id": "kyiv",
+   "city": "Kyiv",
+   "coordinates": [
+    30.52,
+    50.45
+   ],
+   "institutions": [
+    {
+     "name": "Taras Shevchenko National University of Kyiv — Astronomical Observatory",
+     "type": "university",
+     "research": "Đài quan sát đại học: thiên hà và vũ trụ học, sao chổi và vật thể nhỏ, vật lý Mặt Trời; đào tạo thiên văn.",
+     "url": "https://observ.univ.kiev.ua/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://observ.univ.kiev.ua/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "UKR",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

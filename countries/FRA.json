@@ -1,6 +1,50 @@
 {
  "cities": [
   {
+   "id": "annecy",
+   "city": "Annecy",
+   "coordinates": [
+    6.13,
+    45.9
+   ],
+   "institutions": [
+    {
+     "name": "Laboratoire d'Annecy de Physique des Particules (LAPP)",
+     "type": "institute",
+     "research": "Vật lý thiên văn hạt: CTAO, H.E.S.S., Virgo, Euclid/LSST.",
+     "url": "https://lapp.in2p3.fr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lapp.in2p3.fr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "stmichel",
+   "city": "Saint-Michel-l'Observatoire (OHP)",
+   "coordinates": [
+    5.71,
+    43.93
+   ],
+   "institutions": [
+    {
+     "name": "Observatoire de Haute-Provence (OHP)",
+     "type": "institute",
+     "research": "Đài quan sát quốc gia: phổ kế SOPHIE (ngoại hành tinh), kính 1,93 m; nơi phát hiện ngoại hành tinh 51 Pegasi b.",
+     "url": "https://www.osupytheas.fr/observatoires/observatoire-de-haute-provence",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.osupytheas.fr/observatoires/observatoire-de-haute-provence",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "saclay",
    "city": "Saclay (Orsay)",
    "coordinates": [
@@ -8,6 +52,18 @@
     48.71
    ],
    "institutions": [
+    {
+     "name": "IJCLab — Laboratoire de Physique des 2 Infinis Irène Joliot-Curie",
+     "type": "institute",
+     "research": "Pôle vật lý thiên văn và vũ trụ học: sóng hấp dẫn (Virgo, LISA), CMB, Euclid, LSST/Rubin.",
+     "url": "https://www.ijclab.in2p3.fr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ijclab.in2p3.fr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "CEA Paris-Saclay — Département d'Astrophysique (DAp, Irfu) / UMR AIM",
      "type": "institute",
@@ -1841,6 +1897,18 @@
     45.19
    ],
    "institutions": [
+    {
+     "name": "Laboratoire de Physique Subatomique et de Cosmologie (LPSC)",
+     "type": "institute",
+     "research": "Vũ trụ học (CMB, cụm thiên hà với NIKA2), vật lý thiên văn hạt.",
+     "url": "https://lpsc.in2p3.fr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lpsc.in2p3.fr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Institut de Planétologie et d'Astrophysique de Grenoble (IPAG) — Université Grenoble Alpes / CNRS",
      "type": "institute",
@@ -4277,6 +4345,18 @@
     43.3
    ],
    "institutions": [
+    {
+     "name": "Centre de Physique des Particules de Marseille (CPPM)",
+     "type": "institute",
+     "research": "Vũ trụ học (Euclid, DESI, LSST/Rubin), neutrino thiên văn (KM3NeT), vật lý thiên văn hạt.",
+     "url": "https://www.cppm.in2p3.fr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.cppm.in2p3.fr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Laboratoire d'Astrophysique de Marseille (LAM) — Aix-Marseille Université / CNRS / CNES",
      "type": "institute",
@@ -7154,6 +7234,18 @@
     48.86
    ],
    "institutions": [
+    {
+     "name": "Laboratoire de Physique Nucléaire et de Hautes Énergies (LPNHE)",
+     "type": "institute",
+     "research": "Vũ trụ học với siêu tân tinh Ia, DESI, LSST/Rubin; vật lý thiên văn hạt (CTAO, Auger).",
+     "url": "https://lpnhe.in2p3.fr/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://lpnhe.in2p3.fr/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "Laboratoire AstroParticule et Cosmologie (APC) — Université Paris Cité / CNRS / CEA",
      "type": "institute",

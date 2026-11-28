@@ -1,0 +1,32 @@
+{
+ "cities": [
+  {
+   "id": "zielonagora",
+   "city": "Zielona Góra",
+   "coordinates": [
+    15.51,
+    51.94
+   ],
+   "institutions": [
+    {
+     "name": "University of Zielona Góra — Janusz Gil Institute of Astronomy",
+     "type": "university",
+     "research": "Sao neutron và pulsar, sao biến quang, vật lý Mặt Trời.",
+     "url": "https://www.ia.uz.zgora.pl/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.ia.uz.zgora.pl/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "POL",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu có sẵn.",
+ "listSource": ""
+}

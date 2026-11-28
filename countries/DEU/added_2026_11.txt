@@ -1,0 +1,12 @@
+@city heidelberg | Heidelberg | 8.69, 49.40
+
+@inst Heidelberger Institut für Theoretische Studien (HITS)
+city: heidelberg
+type: institute
+url: https://www.h-its.org/
+research: Viện nghiên cứu phi lợi nhuận: nhóm vật lý thiên văn lý thuyết và tính toán (TAP, PSO, AIN) về sao, siêu tân tinh, thiên hà, mô phỏng vũ trụ.
+coverage: partial
+structure: 
+structureUrl: https://www.h-its.org/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+

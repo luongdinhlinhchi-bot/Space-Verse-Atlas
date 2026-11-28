@@ -1,6 +1,244 @@
 {
  "cities": [
   {
+   "id": "milano",
+   "city": "Milano",
+   "coordinates": [
+    9.19,
+    45.46
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Brera (OAB)",
+     "type": "institute",
+     "research": "Hai cơ sở Milano và Merate: vũ trụ học và thiên hà, AGN, lỗ đen, chớp gamma, ngoại hành tinh; mạnh về quang học tia X (ATHENA, BEaTriX) và thiết bị cho ELT (MORFEO).",
+     "url": "https://brera.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://brera.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "INAF – IASF Milano (Istituto di Astrofisica Spaziale e Fisica Cosmica)",
+     "type": "institute",
+     "research": "Vật lý thiên văn năng lượng cao từ không gian: tia X và gamma (XMM-Newton, INTEGRAL, Fermi), sao neutron, cụm thiên hà; phân tích dữ liệu Euclid.",
+     "url": "https://www.iasf-milano.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.iasf-milano.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Università degli Studi di Milano — Dipartimento di Fisica \"Aldo Pontremoli\"",
+     "type": "university",
+     "research": "Nhóm vật lý thiên văn và vũ trụ học: CMB (LiteBIRD, Planck), cấu trúc quy mô lớn, thiên hà, sao.",
+     "url": "https://www.fisica.unimi.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.unimi.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Università degli Studi di Milano-Bicocca — Dipartimento di Fisica \"Giuseppe Occhialini\"",
+     "type": "university",
+     "research": "Vật lý thiên văn và vũ trụ học: sóng hấp dẫn và lỗ đen, hình thành thiên hà, mô phỏng, môi trường giữa các thiên hà.",
+     "url": "https://www.fisica.unimib.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.unimib.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "padova",
+   "city": "Padova",
+   "coordinates": [
+    11.88,
+    45.41
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Padova (OAPd)",
+     "type": "institute",
+     "research": "Sao và quần thể sao, cụm sao cầu, thiên hà, ngoại hành tinh; thiết bị quang học thích ứng và kính Asiago.",
+     "url": "https://www.oapd.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.oapd.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Università degli Studi di Padova — Dipartimento di Fisica e Astronomia \"Galileo Galilei\"",
+     "type": "university",
+     "research": "Một trong các khoa thiên văn lớn nhất Ý: sao, thiên hà, vũ trụ học, khoa học hành tinh, đài Asiago; có chương trình thạc sĩ và tiến sĩ thiên văn.",
+     "url": "https://www.dfa.unipd.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.dfa.unipd.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "roma",
+   "city": "Roma",
+   "coordinates": [
+    12.5,
+    41.9
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Roma (OAR)",
+     "type": "institute",
+     "research": "Cơ sở Monte Porzio Catone: thiên hà và vũ trụ học, sao, Mặt Trời, vật lý năng lượng cao, quang học thích ứng (phòng thí nghiệm ADONI).",
+     "url": "https://www.oa-roma.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.oa-roma.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "INAF – Istituto di Astrofisica e Planetologia Spaziali (IAPS)",
+     "type": "institute",
+     "research": "Viện vật lý thiên văn không gian và khoa học hành tinh ở khu Tor Vergata: thiết bị cho JUICE, BepiColombo, ExoMars; plasma nhật quyển; năng lượng cao (IXPE, ATHENA).",
+     "url": "https://www.iaps.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.iaps.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Sapienza Università di Roma — Dipartimento di Fisica",
+     "type": "university",
+     "research": "Vũ trụ học quan sát (CMB, thí nghiệm bóng bay), sóng hấp dẫn (Virgo), vật lý thiên văn năng lượng cao.",
+     "url": "https://www.phys.uniroma1.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.phys.uniroma1.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
+     "name": "Università di Roma Tor Vergata — Dipartimento di Fisica",
+     "type": "university",
+     "research": "Vật lý thiên văn và vũ trụ học, vật lý Mặt Trời, quần thể sao; liên kết với IAPS và OAR.",
+     "url": "https://www.fisica.uniroma2.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.uniroma2.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "palermo",
+   "city": "Palermo",
+   "coordinates": [
+    13.36,
+    38.12
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Palermo (OAPa)",
+     "type": "institute",
+     "research": "Vật lý Mặt Trời và sao, corona, sao trẻ, tàn dư siêu tân tinh; phòng thí nghiệm tia X XACT.",
+     "url": "https://www.astropa.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.astropa.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "cagliari",
+   "city": "Cagliari (Selargius)",
+   "coordinates": [
+    9.11,
+    39.22
+   ],
+   "institutions": [
+    {
+     "name": "INAF – Osservatorio Astronomico di Cagliari (OAC)",
+     "type": "institute",
+     "research": "Thiên văn vô tuyến với Sardinia Radio Telescope (SRT 64 m): pulsar, chớp vô tuyến nhanh, thiết bị thu vô tuyến.",
+     "url": "https://www.oa-cagliari.inaf.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.oa-cagliari.inaf.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "pisa",
+   "city": "Pisa",
+   "coordinates": [
+    10.4,
+    43.72
+   ],
+   "institutions": [
+    {
+     "name": "Scuola Normale Superiore (SNS) — Pisa",
+     "type": "university",
+     "research": "Nhóm vũ trụ học và vật lý thiên văn: vũ trụ sơ khai, tái ion hoá, hình thành thiên hà đầu tiên; đào tạo tiến sĩ.",
+     "url": "https://www.sns.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.sns.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "laquila",
+   "city": "L'Aquila",
+   "coordinates": [
+    13.4,
+    42.35
+   ],
+   "institutions": [
+    {
+     "name": "Gran Sasso Science Institute (GSSI)",
+     "type": "university",
+     "research": "Trường sau đại học: vật lý thiên văn hạt, sóng hấp dẫn, tia vũ trụ, neutrino; gắn với phòng thí nghiệm ngầm Gran Sasso.",
+     "url": "https://www.gssi.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.gssi.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "firenze",
    "city": "Firenze",
    "coordinates": [
@@ -8,6 +246,18 @@
     43.77
    ],
    "institutions": [
+    {
+     "name": "Università degli Studi di Firenze — Dipartimento di Fisica e Astronomia",
+     "type": "university",
+     "research": "Thiên hà và AGN, hình thành sao, vật lý Mặt Trời, vật lý plasma; liên kết chặt với INAF-Arcetri.",
+     "url": "https://www.fisica.unifi.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.unifi.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "INAF – Osservatorio Astrofisico di Arcetri (OAA)",
      "type": "observatory",
@@ -659,6 +909,18 @@
    ],
    "institutions": [
     {
+     "name": "Università di Napoli Federico II — Dipartimento di Fisica \"Ettore Pancini\"",
+     "type": "university",
+     "research": "Vũ trụ học, thiên hà, sóng hấp dẫn (Virgo), vật lý thiên văn hạt.",
+     "url": "https://www.fisica.unina.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.unina.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
+    {
      "name": "INAF – Osservatorio Astronomico di Capodimonte (OACN)",
      "type": "observatory",
      "research": "Thiên hà gần và khảo sát độ sáng bề mặt thấp (VEGAS), sao biến quang và thang khoảng cách (Cepheid), vũ trụ học và cụm thiên hà (Euclid), thấu kính hấp dẫn mạnh, Mặt Trời (Solar Orbiter, Metis), tin học thiên văn và khoa học dữ liệu; thiết bị (VST, SOXS); lịch sử thiên văn.",
@@ -773,6 +1035,18 @@
     37.5
    ],
    "institutions": [
+    {
+     "name": "Università di Catania — Dipartimento di Fisica e Astronomia \"Ettore Majorana\"",
+     "type": "university",
+     "research": "Vật lý sao và sao biến quang, Mặt Trời, vật lý thiên văn hạt nhân; liên kết INAF-Catania.",
+     "url": "https://www.dfa.unict.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.dfa.unict.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "INAF – Osservatorio Astrofisico di Catania (OACT)",
      "type": "observatory",
@@ -908,6 +1182,18 @@
     44.49
    ],
    "institutions": [
+    {
+     "name": "Università di Bologna — Dipartimento di Fisica e Astronomia \"Augusto Righi\" (DIFA)",
+     "type": "university",
+     "research": "Khoa thiên văn lâu đời: thiên hà, cụm sao, vũ trụ học (Euclid), thiên văn vô tuyến; chương trình thạc sĩ thiên văn bằng tiếng Anh.",
+     "url": "https://www.difa.unibo.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.difa.unibo.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "INAF – Istituto di Radioastronomia (IRA)",
      "type": "institute",
@@ -2243,6 +2529,18 @@
     45.04
    ],
    "institutions": [
+    {
+     "name": "Università di Torino — Dipartimento di Fisica",
+     "type": "university",
+     "research": "Vũ trụ học, vật chất tối, vật lý thiên văn hạt, thấu kính hấp dẫn.",
+     "url": "https://www.fisica.unito.it/",
+     "coverage": "partial",
+     "structure": "",
+     "structureUrl": "https://www.fisica.unito.it/",
+     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
+     "units": [],
+     "networks": []
+    },
     {
      "name": "INAF – Osservatorio Astrofisico di Torino (OATo)",
      "type": "observatory",

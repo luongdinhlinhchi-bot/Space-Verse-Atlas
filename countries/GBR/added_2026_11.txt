@@ -1,0 +1,251 @@
+@city london | London | -0.13, 51.51
+@city liverpool | Liverpool | -2.98, 53.41
+@city leicester | Leicester | -1.13, 52.62
+@city standrews | St Andrews | -2.79, 56.34
+@city cardiff | Cardiff | -3.18, 51.48
+@city exeter | Exeter | -3.53, 50.72
+@city southampton | Southampton | -1.40, 50.93
+@city nottingham | Nottingham | -1.15, 52.95
+@city sheffield | Sheffield | -1.47, 53.38
+@city bristol | Bristol | -2.59, 51.45
+@city birmingham | Birmingham | -1.90, 52.48
+@city hatfield | Hatfield (Hertfordshire) | -0.22, 51.76
+@city belfast | Belfast | -5.93, 54.60
+@city miltonkeynes | Milton Keynes | -0.76, 52.04
+@city didcot | Harwell (Didcot) | -1.31, 51.57
+@city lancaster | Lancaster | -2.80, 54.05
+@city leeds | Leeds | -1.55, 53.80
+@city keele | Keele | -2.27, 53.00
+@city preston | Preston | -2.70, 53.76
+@city dorking | Dorking (MSSL) | -0.38, 51.20
+
+@inst UCL — Department of Physics & Astronomy (Astrophysics Group)
+city: london
+type: university
+url: https://www.ucl.ac.uk/physics-astronomy/
+research: Nhóm vật lý thiên văn lớn: vũ trụ học (DES, Euclid), ngoại hành tinh (Ariel), thiên hà, sao; quản lý đài quan sát UCL.
+coverage: partial
+structure: 
+structureUrl: https://www.ucl.ac.uk/physics-astronomy/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst UCL — Mullard Space Science Laboratory (MSSL)
+city: dorking
+type: university
+url: https://www.ucl.ac.uk/mssl/
+research: Phòng thí nghiệm khoa học không gian của UCL: thiết bị cho Solar Orbiter, Euclid VIS, SMILE; vật lý Mặt Trời, plasma, năng lượng cao.
+coverage: partial
+structure: 
+structureUrl: https://www.ucl.ac.uk/mssl/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Imperial College London — Astrophysics Group
+city: london
+type: university
+url: https://www.imperial.ac.uk/astrophysics/
+research: Vũ trụ học, hình thành sao và hành tinh, thiên hà; nhóm plasma không gian và từ quyển.
+coverage: partial
+structure: 
+structureUrl: https://www.imperial.ac.uk/astrophysics/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Queen Mary University of London — Astronomy Unit
+city: london
+type: university
+url: https://www.qmul.ac.uk/spa/astro/
+research: Vũ trụ học lý thuyết, hệ hành tinh, plasma Mặt Trời và không gian.
+coverage: partial
+structure: 
+structureUrl: https://www.qmul.ac.uk/spa/astro/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst King's College London — Theoretical Particle Physics & Cosmology
+city: london
+type: university
+url: https://www.kcl.ac.uk/research/tppc
+research: Vũ trụ học lý thuyết, vật chất tối, sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.kcl.ac.uk/research/tppc
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Liverpool John Moores University — Astrophysics Research Institute (ARI)
+city: liverpool
+type: university
+url: https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute
+research: Một trong các viện vật lý thiên văn lớn của Anh; vận hành Liverpool Telescope (La Palma); thiên hà, cụm sao, sao biến quang.
+coverage: partial
+structure: 
+structureUrl: https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Leicester — School of Physics & Astronomy
+city: leicester
+type: university
+url: https://le.ac.uk/physics
+research: Thiên văn tia X (Swift, Einstein Probe, SMILE), khoa học hành tinh, đĩa bồi tụ, lỗ đen.
+coverage: partial
+structure: 
+structureUrl: https://le.ac.uk/physics
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of St Andrews — School of Physics & Astronomy
+city: standrews
+type: university
+url: https://www.st-andrews.ac.uk/physics-astronomy/
+research: Ngoại hành tinh, hình thành sao, Mặt Trời, thiên hà; đài quan sát James Gregory.
+coverage: partial
+structure: 
+structureUrl: https://www.st-andrews.ac.uk/physics-astronomy/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Cardiff University — School of Physics and Astronomy
+city: cardiff
+type: university
+url: https://www.cardiff.ac.uk/physics-astronomy
+research: Sóng hấp dẫn (LIGO), thiên văn hồng ngoại xa – submm, môi trường liên sao, thiết bị thiên văn.
+coverage: partial
+structure: 
+structureUrl: https://www.cardiff.ac.uk/physics-astronomy
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Exeter — Astrophysics Group
+city: exeter
+type: university
+url: https://astro.exeter.ac.uk/
+research: Hình thành sao và hành tinh, khí quyển ngoại hành tinh, mô phỏng thủy động lực.
+coverage: partial
+structure: 
+structureUrl: https://astro.exeter.ac.uk/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Southampton — Astronomy Group
+city: southampton
+type: university
+url: https://www.southampton.ac.uk/research/groups/astronomy
+research: Vật lý thiên văn năng lượng cao, sao neutron, AGN, sao biến quang tạm thời.
+coverage: partial
+structure: 
+structureUrl: https://www.southampton.ac.uk/research/groups/astronomy
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Nottingham — Centre for Astronomy
+city: nottingham
+type: university
+url: https://www.nottingham.ac.uk/astronomy/
+research: Thiên hà và vũ trụ học quan sát, thấu kính hấp dẫn, vũ trụ học lý thuyết.
+coverage: partial
+structure: 
+structureUrl: https://www.nottingham.ac.uk/astronomy/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Sheffield — Astrophysics Group
+city: sheffield
+type: university
+url: https://www.sheffield.ac.uk/physics/research/astrophysics
+research: Sao lùn trắng, sao biến quang cận, HiPERCAM/ULTRACAM, sao khối lượng lớn.
+coverage: partial
+structure: 
+structureUrl: https://www.sheffield.ac.uk/physics/research/astrophysics
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Bristol — Astrophysics Group
+city: bristol
+type: university
+url: https://www.bristol.ac.uk/physics/research/astrophysics/
+research: Vũ trụ học, sao khối lượng lớn, hình thành hành tinh, sóng hấp dẫn.
+coverage: partial
+structure: 
+structureUrl: https://www.bristol.ac.uk/physics/research/astrophysics/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Birmingham — Astrophysics & Space Research / Gravitational Wave Astronomy
+city: birmingham
+type: university
+url: https://www.birmingham.ac.uk/research/gravitational-wave
+research: Sóng hấp dẫn (LIGO, LISA), sao học (asteroseismology), thiên hà và cụm thiên hà.
+coverage: partial
+structure: 
+structureUrl: https://www.birmingham.ac.uk/research/gravitational-wave
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Hertfordshire — Centre for Astrophysics Research
+city: hatfield
+type: university
+url: https://www.herts.ac.uk/research/centres/centre-for-astrophysics-research
+research: Hình thành sao, thiên hà, thiên văn vô tuyến (LOFAR), sao lùn nâu.
+coverage: partial
+structure: 
+structureUrl: https://www.herts.ac.uk/research/centres/centre-for-astrophysics-research
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Queen's University Belfast — Astrophysics Research Centre (ARC)
+city: belfast
+type: university
+url: https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/
+research: Siêu tân tinh và sự kiện tạm thời (Pan-STARRS, ATLAS), Mặt Trời, tiểu hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst The Open University — School of Physical Sciences
+city: miltonkeynes
+type: university
+url: https://www.open.ac.uk/stem/physical-sciences/
+research: Khoa học hành tinh và không gian, thiên văn, thiết bị cảm biến.
+coverage: partial
+structure: 
+structureUrl: https://www.open.ac.uk/stem/physical-sciences/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst STFC RAL Space (Rutherford Appleton Laboratory)
+city: didcot
+type: institute
+url: https://www.ralspace.stfc.ac.uk/
+research: Phòng thí nghiệm không gian quốc gia: thiết bị cho JWST MIRI, Solar Orbiter, quan sát Trái Đất; vật lý Mặt Trời và không gian.
+coverage: partial
+structure: 
+structureUrl: https://www.ralspace.stfc.ac.uk/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Lancaster University — Physics (Astrophysics; Space and Planetary Physics)
+city: lancaster
+type: university
+url: https://www.lancaster.ac.uk/physics/
+research: Vũ trụ học, tiến hóa thiên hà, cực quang và từ quyển hành tinh.
+coverage: partial
+structure: 
+structureUrl: https://www.lancaster.ac.uk/physics/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Leeds — Astrophysics Group
+city: leeds
+type: university
+url: https://physics.leeds.ac.uk/astrophysics
+research: Hình thành sao khối lượng lớn, môi trường liên sao, thiên văn hoá học.
+coverage: partial
+structure: 
+structureUrl: https://physics.leeds.ac.uk/astrophysics
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst Keele University — Astrophysics Group
+city: keele
+type: university
+url: https://www.keele.ac.uk/physics/
+research: Ngoại hành tinh (WASP), sao và cụm sao.
+coverage: partial
+structure: 
+structureUrl: https://www.keele.ac.uk/physics/
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+@inst University of Central Lancashire — Jeremiah Horrocks Institute
+city: preston
+type: university
+url: https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute
+research: Vật lý Mặt Trời, thiên hà, sao; đài quan sát Alston.
+coverage: partial
+structure: 
+structureUrl: https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute
+scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
