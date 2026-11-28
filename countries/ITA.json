@@ -40,8 +40,82 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.fisica.unimi.it/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có nhóm vũ trụ học (11/2026); các nhóm CMB, thiên hà, đĩa tiền hành tinh chưa lấy.",
+     "units": [
+      {
+       "name": "Cosmological Physics group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Università degli Studi di Milano",
+       "topics": "Vũ trụ học lý thuyết và quan sát: cấu trúc quy mô lớn, Euclid, neutrino trong vũ trụ học.",
+       "url": "https://astro.fisica.unimi.it/cosmological-physics/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Maria Archidiacono",
+          "role": "Giảng viên (faculty)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Davide Bianchi",
+          "role": "Giảng viên (faculty)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Emanuele Castorina",
+          "role": "Giảng viên (faculty)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Luigi Guzzo",
+          "role": "Giảng viên (faculty)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Martin Kärcher",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Iñigo Sáez Casares",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Pierre Zhang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Matilde Barberi Squarotti",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         }
+        ],
+        "external": [
+         {
+          "name": "Carmelita Carbone",
+          "role": "Thành viên liên kết (INAF)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Benjamin Granett",
+          "role": "Thành viên liên kết (INAF)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         },
+         {
+          "name": "Andrea Pezzotta",
+          "role": "Thành viên liên kết (INAF)",
+          "url": "https://astro.fisica.unimi.it/cosmological-physics/"
+         }
+        ],
+        "sources": [
+         "https://astro.fisica.unimi.it/cosmological-physics/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     },
     {
@@ -49,11 +123,305 @@
      "type": "university",
      "research": "Vật lý thiên văn và vũ trụ học: sóng hấp dẫn và lỗ đen, hình thành thiên hà, mô phỏng, môi trường giữa các thiên hà.",
      "url": "https://www.fisica.unimib.it/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.fisica.unimib.it/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Unit",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Università degli Studi di Milano-Bicocca",
+       "topics": "Sóng hấp dẫn và lỗ đen đôi (LISA, PTA), môi trường giữa các thiên hà, tiến hóa thiên hà, CMB thực nghiệm (LiteBIRD, Simons Observatory).",
+       "url": "https://astro.fisica.unimib.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Matteo Bonetti",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Sebastiano Cantalupo",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Monica Colpi",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Massimo Dotti",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Matteo Fossati",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Michele Fumagalli",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Davide Gerosa",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Massimo Gervasi",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Federico Nati",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alberto Sesana",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Mario Zannoni",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alejandro Benitez-Llambay",
+          "role": "Nghiên cứu viên tenure-track (RTD-B / RTT)",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alessia Franchini",
+          "role": "Nghiên cứu viên tenure-track (RTD-B / RTT)",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Gabriele Coppi",
+          "role": "Nghiên cứu viên hợp đồng (RTD-A)",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Luca Broggi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Tristan Bruel",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Federico Cacciotti",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Nadia Dachlythra",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Sara Gliorio",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Titouan Lazeyras",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alessandro Novelli",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Martin Pijnenbug",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Lorenzo Pizzuti",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Hippolyte Quelquejay",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Golam Shaifullah",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Daniele Spinoso",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alexandre Toubiana",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Domenico Logoteta",
+          "role": "Nhà nghiên cứu INFN",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Chiara Anselmo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Federico Astori",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Lorenzo Bertassi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Ludovico Bizzarri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Matteo Boschini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Ludovica Carbone",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alessia Corelli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Giulia Cuomo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Federico De Santi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Michele Fulghieri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Matilde Garcia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Idil Ezgi Karaaslan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Lisa Merlo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Noemi Mezzanzanica",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Beatrice Eleonora Moreschi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Samuel Mucedola",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alessia Perego",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Giada Quadri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Giulia Rancati Cattaneo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Bharath Saiguhan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Beatrice Tonello",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Davide Tornotti",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Francesco Turini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Lorenzo Viganò",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Giuseppe Gavazzi",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         }
+        ],
+        "external": [
+         {
+          "name": "Francesco Haardt",
+          "role": "Khách mời (ĐH Insubria)",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         },
+         {
+          "name": "Alessandro Lupi",
+          "role": "Khách mời (ĐH Insubria)",
+          "url": "https://www.fisica.unimib.it/en/node/424"
+         }
+        ],
+        "sources": [
+         "https://www.fisica.unimib.it/en/node/424"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -86,8 +454,147 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.dfa.unipd.it/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có nhóm thiên hà & AGN (11/2026); các nhóm ngoại hành tinh, quần thể sao, lý thuyết – vũ trụ học, Hệ Mặt Trời chưa lấy danh sách đầy đủ.",
+     "units": [
+      {
+       "name": "Evolution of galaxies and active galactic nuclei",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Università degli Studi di Padova",
+       "topics": "Thiên hà gần và xa, thành phần quay ngược, AGN, quần thể sao trong thiên hà đĩa.",
+       "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei",
+       "researchers": {
+        "people": [
+         {
+          "name": "Enrico Maria Corsini",
+          "role": "Giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Paolo Cassata",
+          "role": "Phó giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Stefano Ciroi",
+          "role": "Phó giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Mauro D'Onofrio",
+          "role": "Phó giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Alessandro Pizzella",
+          "role": "Phó giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Giulia Rodighiero",
+          "role": "Phó giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Elena Dalla Bontà",
+          "role": "Trợ lý giáo sư",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Edoardo Borsato",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Amelia Vietri",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Nicola Bellucco",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Alessandro Bianchetti",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Michele Catone",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Luca Crepaldi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Poulomi Dam",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Gaia Edes Esposito",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Giorgia Girardi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Zahra Hosseini",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Alina Ikhsanova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Mattia Merola",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         }
+        ],
+        "external": [
+         {
+          "name": "Anita Zanella",
+          "role": "Cộng tác viên INAF",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Andrea Grazian",
+          "role": "Cộng tác viên INAF",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Benedetta Vulcani",
+          "role": "Cộng tác viên INAF",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Paola Marziani",
+          "role": "Cộng tác viên INAF",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         },
+         {
+          "name": "Alvio Renzini",
+          "role": "Cộng tác viên INAF",
+          "url": "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+         }
+        ],
+        "sources": [
+         "https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -141,11 +648,94 @@
      "type": "university",
      "research": "Vật lý thiên văn và vũ trụ học, vật lý Mặt Trời, quần thể sao; liên kết với IAPS và OAR.",
      "url": "https://www.fisica.uniroma2.it/",
-     "coverage": "partial",
+     "coverage": "leaders",
      "structure": "",
      "structureUrl": "https://www.fisica.uniroma2.it/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Danh sách giảng viên nhóm thiên văn theo tài liệu định hướng 3/2026; chưa có postdoc và nghiên cứu sinh.",
+     "units": [
+      {
+       "name": "Gruppo di Astrofisica — giảng viên",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Università di Roma Tor Vergata",
+       "topics": "Thời tiết không gian và vật lý Mặt Trời, ngoại hành tinh, vũ trụ học (CMB, cụm thiên hà), sự kiện tạm thời và sóng hấp dẫn.",
+       "url": "https://www-en.fisica.uniroma2.it/sezioni/research/research-areas/astrophysics/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Amedeo Balbi",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Francesco Berrilli",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Giuseppe Bono",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Hervé Bourdin",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Valentina D'Orazi",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Dario Del Moro",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Viviana Fafone",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Luca Giovannelli",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Luigi Mancini",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Pasquale Mazzotta",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Marina Migliaccio",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Francesco Tombesi",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         },
+         {
+          "name": "Eleonora Troja",
+          "role": "Giảng viên (docenti)",
+          "url": "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -207,11 +797,144 @@
      "type": "university",
      "research": "Nhóm vũ trụ học và vật lý thiên văn: vũ trụ sơ khai, tái ion hoá, hình thành thiên hà đầu tiên; đào tạo tiến sĩ.",
      "url": "https://www.sns.it/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.sns.it/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Cosmology Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Scuola Normale Superiore",
+       "topics": "Thiên hà đầu tiên và lỗ đen siêu nặng sơ khai (JWST, ALMA), tái ion hoá, bụi và từ trường vũ trụ.",
+       "url": "https://cosmology.sns.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Andrea Ferrara",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Simona Gallerani",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Stefano Carniani",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Evangelia Ntormousi",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Mahsa Kohandel",
+          "role": "Nhà nghiên cứu (INAF; giáo sư hợp đồng)",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Junsong Cang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Fabio Del Sordo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Jordan Flitter",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Bartolomeo Trefoloni",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Sandra Zamora",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Francesco Ziparo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Maulik Bhatt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Saksham Chandna",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Curicaveri Chávez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Barnali Das",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Samuel Gagnon-Hartman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Vasanth Kashyap",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Antonio Matteri",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Polina Novikova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Eleonora Parlanti",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Sowkhya Shanbhog",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Nikolaos Triantafyllou",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         },
+         {
+          "name": "Yilong Zhang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cosmology.sns.it/members.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://cosmology.sns.it/members.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -232,8 +955,201 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.gssi.it/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có nhóm sóng hấp dẫn (11/2026); nhóm tia vũ trụ, neutrino chưa lấy.",
+     "units": [
+      {
+       "name": "Gravitational Waves / Einstein Telescope group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Gran Sasso Science Institute",
+       "topics": "Sóng hấp dẫn (Virgo, Einstein Telescope), chớp gamma và sự kiện tạm thời, vật lý thiên văn đa sứ giả.",
+       "url": "https://wikiet.gssi.it/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Eugenio Coccia",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Jan Harms",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Marica Branchesi",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Andrea Maselli",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Antonio Perreca",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Gor Oganesyan",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Manuel Arca Sedda",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Riccardo Buscicchio",
+          "role": "Trợ lý giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Stefano Ascenzi",
+          "role": "Trợ lý giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Sayak Datta",
+          "role": "Trợ lý giáo sư",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Biswajit Banerjee",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Tomislav Andric",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Filippo Santoliquido",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Cristiano Ugolini",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Luqian Jiang",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Ilaria Caravella",
+          "role": "Kỹ sư cơ khí",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Jacopo Tissino",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Pawan Tiwari",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Lavinia Paiella",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Andrea Cozzumbo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Benedetta Mestichelli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Annarita Ierardi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Marco Mirabile",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Sara Gliorio",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Alessio Ludovico De Santis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Ansh Chopra",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Matteo Ballelli",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Matteo Schulz",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Laura Pezzella",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Izumi Takimoto Schmiegelow",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Akshita Mittal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Filippo Simonato",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Mohamed Samy Abdelmotteleb Elzokm",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Tarun Singh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         },
+         {
+          "name": "Veronika Glazkova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://wikiet.gssi.it/index.php/Members"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://wikiet.gssi.it/index.php/Members"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -2896,6 +3812,71 @@
     45.65
    ],
    "institutions": [
+    {
+     "name": "Università degli Studi di Trieste — Dipartimento di Fisica (Astrofisica)",
+     "type": "university",
+     "research": "Cụm thiên hà, hình thành thiên hà và vũ trụ học (Euclid), tiến hóa hoá học thiên hà, khảo cổ học Ngân Hà, tia gamma năng lượng cao (Fermi, MAGIC, CTAO), sứ mệnh không gian và sinh học vũ trụ.",
+     "url": "https://df.units.it/",
+     "coverage": "leaders",
+     "structure": "",
+     "structureUrl": "https://df.units.it/en/node/1589",
+     "scopeNote": "Mới có trưởng các nhóm nghiên cứu (11/2026).",
+     "units": [
+      {
+       "name": "Trưởng các nhóm nghiên cứu thiên văn",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Università degli Studi di Trieste",
+       "topics": "Cụm thiên hà, hình thành thiên hà, vũ trụ học, tiến hóa hoá học, tia gamma, Euclid, khám phá hành tinh.",
+       "url": "https://df.units.it/en/node/1589",
+       "researchers": {
+        "people": [
+         {
+          "name": "Marisa Girardi",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         },
+         {
+          "name": "Pierluigi Monaco",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         },
+         {
+          "name": "Stefano Borgani",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         },
+         {
+          "name": "Maria Francesca Matteucci",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         },
+         {
+          "name": "Francesco Longo",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         },
+         {
+          "name": "Anna Gregorio",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         },
+         {
+          "name": "Federico Dogo",
+          "role": "Trưởng nhóm nghiên cứu",
+          "url": "https://df.units.it/en/node/1589"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://df.units.it/en/node/1589"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    },
     {
      "name": "INAF – Osservatorio Astronomico di Trieste (OATs)",
      "type": "observatory",

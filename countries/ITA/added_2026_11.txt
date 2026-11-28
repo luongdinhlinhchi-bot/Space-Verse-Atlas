@@ -34,17 +34,41 @@ research: Nhóm vật lý thiên văn và vũ trụ học: CMB (LiteBIRD, Planck
 coverage: partial
 structure: 
 structureUrl: https://www.fisica.unimi.it/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Mới có nhóm vũ trụ học (11/2026); các nhóm CMB, thiên hà, đĩa tiền hành tinh chưa lấy.
+
+#unit Cosmological Physics group
+parent: Università degli Studi di Milano
+topics: Vũ trụ học lý thuyết và quan sát: cấu trúc quy mô lớn, Euclid, neutrino trong vũ trụ học.
+url: https://astro.fisica.unimi.it/cosmological-physics/
+src: https://astro.fisica.unimi.it/cosmological-physics/
+pp: Giảng viên (faculty) | Maria Archidiacono; Davide Bianchi; Emanuele Castorina; Luigi Guzzo
+pp: Nghiên cứu sau tiến sĩ | Martin Kärcher; Iñigo Sáez Casares; Pierre Zhang
+pp: Nghiên cứu sinh | Matilde Barberi Squarotti
+xx: Thành viên liên kết (INAF) | Carmelita Carbone; Benjamin Granett; Andrea Pezzotta
 
 @inst Università degli Studi di Milano-Bicocca — Dipartimento di Fisica "Giuseppe Occhialini"
 city: milano
 type: university
 url: https://www.fisica.unimib.it/
 research: Vật lý thiên văn và vũ trụ học: sóng hấp dẫn và lỗ đen, hình thành thiên hà, mô phỏng, môi trường giữa các thiên hà.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.fisica.unimib.it/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Unit
+parent: Università degli Studi di Milano-Bicocca
+topics: Sóng hấp dẫn và lỗ đen đôi (LISA, PTA), môi trường giữa các thiên hà, tiến hóa thiên hà, CMB thực nghiệm (LiteBIRD, Simons Observatory).
+url: https://astro.fisica.unimib.it/
+src: https://www.fisica.unimib.it/en/node/424
+pp: Giáo sư / Phó giáo sư | Matteo Bonetti; Sebastiano Cantalupo; Monica Colpi; Massimo Dotti; Matteo Fossati; Michele Fumagalli; Davide Gerosa; Massimo Gervasi; Federico Nati; Alberto Sesana; Mario Zannoni
+pp: Nghiên cứu viên tenure-track (RTD-B / RTT) | Alejandro Benitez-Llambay; Alessia Franchini
+pp: Nghiên cứu viên hợp đồng (RTD-A) | Gabriele Coppi
+pp: Nghiên cứu sau tiến sĩ | Luca Broggi; Tristan Bruel; Federico Cacciotti; Nadia Dachlythra; Sara Gliorio; Titouan Lazeyras; Alessandro Novelli; Martin Pijnenbug; Lorenzo Pizzuti; Hippolyte Quelquejay; Golam Shaifullah; Daniele Spinoso; Alexandre Toubiana
+pp: Nhà nghiên cứu INFN | Domenico Logoteta
+pp: Nghiên cứu sinh | Chiara Anselmo; Federico Astori; Lorenzo Bertassi; Ludovico Bizzarri; Matteo Boschini; Ludovica Carbone; Alessia Corelli; Giulia Cuomo; Federico De Santi; Michele Fulghieri; Matilde Garcia; Idil Ezgi Karaaslan; Lisa Merlo; Noemi Mezzanzanica; Beatrice Eleonora Moreschi; Samuel Mucedola; Alessia Perego; Giada Quadri; Giulia Rancati Cattaneo; Bharath Saiguhan; Beatrice Tonello; Davide Tornotti; Francesco Turini; Lorenzo Viganò
+pp: Giáo sư danh dự | Giuseppe Gavazzi
+xx: Khách mời (ĐH Insubria) | Francesco Haardt; Alessandro Lupi
 
 @inst INAF – Osservatorio Astronomico di Padova (OAPd)
 city: padova
@@ -64,7 +88,19 @@ research: Một trong các khoa thiên văn lớn nhất Ý: sao, thiên hà, v�
 coverage: partial
 structure: 
 structureUrl: https://www.dfa.unipd.it/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Mới có nhóm thiên hà & AGN (11/2026); các nhóm ngoại hành tinh, quần thể sao, lý thuyết – vũ trụ học, Hệ Mặt Trời chưa lấy danh sách đầy đủ.
+
+#unit Evolution of galaxies and active galactic nuclei
+parent: Università degli Studi di Padova
+topics: Thiên hà gần và xa, thành phần quay ngược, AGN, quần thể sao trong thiên hà đĩa.
+url: https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei
+src: https://www.dfa.unipd.it/en/research/research-areas-and-groups/5-astrophysics-and-cosmology/evolution-of-galaxies-and-active-galactic-nuclei
+pp: Giáo sư | Enrico Maria Corsini
+pp: Phó giáo sư | Paolo Cassata; Stefano Ciroi; Mauro D'Onofrio; Alessandro Pizzella; Giulia Rodighiero
+pp: Trợ lý giáo sư | Elena Dalla Bontà
+pp: Nghiên cứu sau tiến sĩ | Edoardo Borsato; Amelia Vietri
+pp: Nghiên cứu sinh | Nicola Bellucco; Alessandro Bianchetti; Michele Catone; Luca Crepaldi; Poulomi Dam; Gaia Edes Esposito; Giorgia Girardi; Zahra Hosseini; Alina Ikhsanova; Mattia Merola
+xx: Cộng tác viên INAF | Anita Zanella; Andrea Grazian; Benedetta Vulcani; Paola Marziani; Alvio Renzini
 
 @inst INAF – Osservatorio Astronomico di Roma (OAR)
 city: roma
@@ -101,10 +137,17 @@ city: roma
 type: university
 url: https://www.fisica.uniroma2.it/
 research: Vật lý thiên văn và vũ trụ học, vật lý Mặt Trời, quần thể sao; liên kết với IAPS và OAR.
-coverage: partial
+coverage: leaders
 structure: 
 structureUrl: https://www.fisica.uniroma2.it/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Danh sách giảng viên nhóm thiên văn theo tài liệu định hướng 3/2026; chưa có postdoc và nghiên cứu sinh.
+
+#unit Gruppo di Astrofisica — giảng viên
+parent: Università di Roma Tor Vergata
+topics: Thời tiết không gian và vật lý Mặt Trời, ngoại hành tinh, vũ trụ học (CMB, cụm thiên hà), sự kiện tạm thời và sóng hấp dẫn.
+url: https://www-en.fisica.uniroma2.it/sezioni/research/research-areas/astrophysics/
+src: https://www.fisica.uniroma2.it/media/0xngjhai/orientamento_astrofisica.pdf
+pp: Giảng viên (docenti) | Amedeo Balbi; Francesco Berrilli; Giuseppe Bono; Hervé Bourdin; Valentina D'Orazi; Dario Del Moro; Viviana Fafone; Luca Giovannelli; Luigi Mancini; Pasquale Mazzotta; Marina Migliaccio; Francesco Tombesi; Eleonora Troja
 
 @inst INAF – Osservatorio Astronomico di Palermo (OAPa)
 city: palermo
@@ -131,10 +174,20 @@ city: pisa
 type: university
 url: https://www.sns.it/
 research: Nhóm vũ trụ học và vật lý thiên văn: vũ trụ sơ khai, tái ion hoá, hình thành thiên hà đầu tiên; đào tạo tiến sĩ.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.sns.it/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Cosmology Group
+parent: Scuola Normale Superiore
+topics: Thiên hà đầu tiên và lỗ đen siêu nặng sơ khai (JWST, ALMA), tái ion hoá, bụi và từ trường vũ trụ.
+url: https://cosmology.sns.it/
+src: https://cosmology.sns.it/members.html
+pp: Giáo sư / giảng viên | Andrea Ferrara; Simona Gallerani; Stefano Carniani; Evangelia Ntormousi
+pp: Nhà nghiên cứu (INAF; giáo sư hợp đồng) | Mahsa Kohandel
+pp: Nghiên cứu sau tiến sĩ | Junsong Cang; Fabio Del Sordo; Jordan Flitter; Bartolomeo Trefoloni; Sandra Zamora; Francesco Ziparo
+pp: Nghiên cứu sinh | Maulik Bhatt; Saksham Chandna; Curicaveri Chávez; Barnali Das; Samuel Gagnon-Hartman; Vasanth Kashyap; Antonio Matteri; Polina Novikova; Eleonora Parlanti; Sowkhya Shanbhog; Nikolaos Triantafyllou; Yilong Zhang
 
 @inst Gran Sasso Science Institute (GSSI)
 city: laquila
@@ -144,7 +197,18 @@ research: Trường sau đại học: vật lý thiên văn hạt, sóng hấp d
 coverage: partial
 structure: 
 structureUrl: https://www.gssi.it/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Mới có nhóm sóng hấp dẫn (11/2026); nhóm tia vũ trụ, neutrino chưa lấy.
+
+#unit Gravitational Waves / Einstein Telescope group
+parent: Gran Sasso Science Institute
+topics: Sóng hấp dẫn (Virgo, Einstein Telescope), chớp gamma và sự kiện tạm thời, vật lý thiên văn đa sứ giả.
+url: https://wikiet.gssi.it/
+src: https://wikiet.gssi.it/index.php/Members
+pp: Giáo sư / Phó giáo sư | Eugenio Coccia; Jan Harms; Marica Branchesi; Andrea Maselli; Antonio Perreca; Gor Oganesyan; Manuel Arca Sedda
+pp: Trợ lý giáo sư | Riccardo Buscicchio; Stefano Ascenzi; Sayak Datta
+pp: Nghiên cứu sau tiến sĩ | Biswajit Banerjee; Tomislav Andric; Filippo Santoliquido; Cristiano Ugolini; Luqian Jiang
+pp: Kỹ sư cơ khí | Ilaria Caravella
+pp: Nghiên cứu sinh | Jacopo Tissino; Pawan Tiwari; Lavinia Paiella; Andrea Cozzumbo; Benedetta Mestichelli; Annarita Ierardi; Marco Mirabile; Sara Gliorio; Alessio Ludovico De Santis; Ansh Chopra; Matteo Ballelli; Matteo Schulz; Laura Pezzella; Izumi Takimoto Schmiegelow; Akshita Mittal; Filippo Simonato; Mohamed Samy Abdelmotteleb Elzokm; Tarun Singh; Veronika Glazkova
 
 @inst Università di Torino — Dipartimento di Fisica
 city: pinotorinese
@@ -196,3 +260,20 @@ structure:
 structureUrl: https://www.dfa.unict.it/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
 
+
+@inst Università degli Studi di Trieste — Dipartimento di Fisica (Astrofisica)
+city: trieste
+type: university
+url: https://df.units.it/
+research: Cụm thiên hà, hình thành thiên hà và vũ trụ học (Euclid), tiến hóa hoá học thiên hà, khảo cổ học Ngân Hà, tia gamma năng lượng cao (Fermi, MAGIC, CTAO), sứ mệnh không gian và sinh học vũ trụ.
+coverage: leaders
+structure: 
+structureUrl: https://df.units.it/en/node/1589
+scope: Mới có trưởng các nhóm nghiên cứu (11/2026).
+
+#unit Trưởng các nhóm nghiên cứu thiên văn
+parent: Università degli Studi di Trieste
+topics: Cụm thiên hà, hình thành thiên hà, vũ trụ học, tiến hóa hoá học, tia gamma, Euclid, khám phá hành tinh.
+url: https://df.units.it/en/node/1589
+src: https://df.units.it/en/node/1589
+pp: Trưởng nhóm nghiên cứu | Marisa Girardi; Pierluigi Monaco; Stefano Borgani; Maria Francesca Matteucci; Francesco Longo; Anna Gregorio; Federico Dogo

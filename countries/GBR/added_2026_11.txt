@@ -253,10 +253,10 @@ city: bristol
 type: university
 url: https://www.bristol.ac.uk/physics/research/astrophysics/
 research: Vũ trụ học, sao khối lượng lớn, hình thành hành tinh, sóng hấp dẫn.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.bristol.ac.uk/physics/research/astrophysics/
-scope: Mới có danh sách giảng viên (11/2026); trang postdoc và nghiên cứu sinh chưa lấy được.
+scope: Đủ giảng viên, postdoc và học viên theo ba trang danh sách của nhóm (11/2026).
 
 #unit Astrophysics Group — giảng viên
 parent: University of Bristol
@@ -267,6 +267,16 @@ pp: Giáo sư | Malcolm Bremer; Zoë Leinhardt; Ben Maughan; Andrew Young
 pp: Giảng viên / Phó giáo sư | Sotiria Fotopoulou; Natasha Maddox; Denis Sergeev; Richard Stancliffe; Hannah Wakeford
 pp: Kỹ sư CNTT | Rhys Morris
 xx: Khách mời (Royal Society Wolfson Visiting Fellow) | Belinda Wilkes
+
+#unit Astrophysics Group — postdoc và học viên sau đại học
+parent: University of Bristol
+topics: Như trên.
+url: https://bristol.ac.uk/physics/research/astrophysics/people
+src: https://www.bristol.ac.uk/physics/research/astrophysics/people/postdocs/
+src: https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/
+pp: Nghiên cứu sau tiến sĩ | Philip Carter; Katy Chubb; Matt Lodge; Cathal Maguire; Larissa Palethorpe; Ivano Saccheo; Grant Stevens; Mark Taylor; Cai Wood
+pp: Nghiên cứu sinh | Thomas Bebbington; Ailsa Campbell; Alexander Corbett; Emily Coutts; Charlotte Fairman; Joe Hall; Ben Henderson; Tom Higginson; Yimin Huang; Ileana Klein; Michalina Maksymowicz Maciata; Teresa Matamoro; Darius Michienzi; Gloria Raharimbolamena; Matt Roche; Rhys Shaw; Yara Simango; Shashanth Sriramanathan; Lucy Taylor; Daniel Valentine
+pp: Học viên thạc sĩ | Lewis Admans; Lisa Bennett; Chantelle King; Lucy Watson; Rebecca Wood
 
 @inst University of Birmingham — Astrophysics & Space Research / Gravitational Wave Astronomy
 city: birmingham

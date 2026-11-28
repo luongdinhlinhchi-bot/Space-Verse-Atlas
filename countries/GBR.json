@@ -2050,10 +2050,10 @@
      "type": "university",
      "research": "Vũ trụ học, sao khối lượng lớn, hình thành hành tinh, sóng hấp dẫn.",
      "url": "https://www.bristol.ac.uk/physics/research/astrophysics/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.bristol.ac.uk/physics/research/astrophysics/",
-     "scopeNote": "Mới có danh sách giảng viên (11/2026); trang postdoc và nghiên cứu sinh chưa lấy được.",
+     "scopeNote": "Đủ giảng viên, postdoc và học viên theo ba trang danh sách của nhóm (11/2026).",
      "units": [
       {
        "name": "Astrophysics Group — giảng viên",
@@ -2123,6 +2123,193 @@
         ],
         "sources": [
          "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Astrophysics Group — postdoc và học viên sau đại học",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Bristol",
+       "topics": "Như trên.",
+       "url": "https://bristol.ac.uk/physics/research/astrophysics/people",
+       "researchers": {
+        "people": [
+         {
+          "name": "Philip Carter",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Katy Chubb",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Matt Lodge",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Cathal Maguire",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Larissa Palethorpe",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Ivano Saccheo",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Grant Stevens",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Mark Taylor",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Cai Wood",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Thomas Bebbington",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Ailsa Campbell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Alexander Corbett",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Emily Coutts",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Charlotte Fairman",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Joe Hall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Ben Henderson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Tom Higginson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Yimin Huang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Ileana Klein",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Michalina Maksymowicz Maciata",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Teresa Matamoro",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Darius Michienzi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Gloria Raharimbolamena",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Matt Roche",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Rhys Shaw",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Yara Simango",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Shashanth Sriramanathan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Lucy Taylor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Daniel Valentine",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Lewis Admans",
+          "role": "Học viên thạc sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Lisa Bennett",
+          "role": "Học viên thạc sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Chantelle King",
+          "role": "Học viên thạc sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Lucy Watson",
+          "role": "Học viên thạc sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         },
+         {
+          "name": "Rebecca Wood",
+          "role": "Học viên thạc sĩ",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.bristol.ac.uk/physics/research/astrophysics/people/postgrads/"
         ],
         "note": "",
         "checked": "2026-11-28"
