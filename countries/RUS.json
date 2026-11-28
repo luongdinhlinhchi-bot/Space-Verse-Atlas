@@ -13,11 +13,311 @@
      "type": "university",
      "research": "Viện thiên văn lớn nhất nước Nga trong một trường đại học: sao và sao biến quang, thiên hà, vũ trụ học, vật lý thiên văn tương đối tính, mạng kính robot MASTER, đài quan sát Kislovodsk.",
      "url": "http://www.sai.msu.ru/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "http://www.sai.msu.ru/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Danh sách PDF của bộ môn (không ghi ngày cập nhật).",
+     "units": [
+      {
+       "name": "Relativistic Astrophysics Department",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sternberg Astronomical Institute",
+       "topics": "Lỗ đen và đĩa bồi tụ, sao neutron, sóng hấp dẫn, vũ trụ học và lý thuyết hấp dẫn.",
+       "url": "https://xray.sai.msu.ru/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Nikolai Shakura",
+          "role": "Trưởng bộ môn",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Stanislav Alexeyev",
+          "role": "Nghiên cứu viên chính (leading researcher)",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Aleksandr Petrov",
+          "role": "Nghiên cứu viên chính (leading researcher)",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Sergei Popov",
+          "role": "Nghiên cứu viên chính (leading researcher)",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Konstantin Postnov",
+          "role": "Nghiên cứu viên chính (leading researcher)",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Olga Sazhina",
+          "role": "Nghiên cứu viên chính (leading researcher)",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Vyacheslav Zhuravlev",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Alexandr Kuranov",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Galina Lipunova",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Aleksej Toporenskij",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Polina Golysheva",
+          "role": "Nghiên cứu viên",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Polina Dyadina",
+          "role": "Nghiên cứu viên",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Yaroslav Lazovik",
+          "role": "Nghiên cứu viên",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Bagration Megrelishvili",
+          "role": "Kỹ sư / lập trình viên / trợ lý phòng thí nghiệm",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Kirill Parusov",
+          "role": "Kỹ sư / lập trình viên / trợ lý phòng thí nghiệm",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Natalia Shakura",
+          "role": "Kỹ sư / lập trình viên / trợ lý phòng thí nghiệm",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Dmitri Chirkov",
+          "role": "Kỹ sư / lập trình viên / trợ lý phòng thí nghiệm",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Marina Afonina",
+          "role": "Kỹ sư / lập trình viên / trợ lý phòng thí nghiệm",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Vlad Revnivtsev",
+          "role": "Thành viên (trang không ghi chức danh)",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Elena Emtsova",
+          "role": "Nghiên cứu sinh",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Vyacheslav Prokopov",
+          "role": "Nghiên cứu sinh",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Nikita Mitichkin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Danil Lisicin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://xray.sai.msu.ru/personal"
+         },
+         {
+          "name": "Igor Bulygin",
+          "role": "Sinh viên",
+          "url": "https://xray.sai.msu.ru/personal"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://xray.sai.msu.ru/personal"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Department of Galaxy and Variable Stars Studies",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Sternberg Astronomical Institute",
+       "topics": "Cấu trúc và động học Thiên Hà, sao biến quang (GCVS), cụm sao, Cepheid.",
+       "url": "https://www.sai.msu.ru/dept/var/",
+       "researchers": {
+        "people": [
+         {
+          "name": "A. S. Rastorguev",
+          "role": "Trưởng bộ môn",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "Yu. N. Efremov",
+          "role": "Nghiên cứu viên chính (chief/leading researcher)",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "A. K. Dambis",
+          "role": "Nghiên cứu viên chính (chief/leading researcher)",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "A. M. Melnik",
+          "role": "Nghiên cứu viên chính (chief/leading researcher)",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "N. N. Samus",
+          "role": "Nghiên cứu viên chính (chief/leading researcher)",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "L. N. Berdnikov",
+          "role": "Nghiên cứu viên chính (chief/leading researcher)",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "V. G. Surdin",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "E. V. Glushkova",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "S. V. Antipin",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "I. M. Volkov",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "V. P. Goranskiy",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "O. V. Chumak",
+          "role": "Nghiên cứu viên cao cấp",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "M. V. Zabolotskikh",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "A. V. Krylov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "A. K. Magnitskiy",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "O. V. Vozyakova",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "O. V. Durlevich",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "A. V. Zharova",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "L. V. Mossakovskaya",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "E. S. Safonova",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "L. A. Sat",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "N. S. Volkova",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "S. E. Koposov",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "M. P. Galkina",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "N. A. Gorynya",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "A. M. Zubareva",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "M. V. Kuznetsov",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "S. I. Leonova",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         },
+         {
+          "name": "K. A. Sokolovskiy",
+          "role": "Kỹ sư / lập trình viên",
+          "url": "https://www.sai.msu.ru/dept/var/staff2.pdf"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.sai.msu.ru/dept/var/staff2.pdf"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     },
     {
@@ -55,6 +355,81 @@
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
      "units": [],
      "networks": []
+    },
+    {
+     "name": "Moscow Institute of Physics and Technology (MIPT) — Laboratory of Relativistic Astrophysics",
+     "type": "university",
+     "research": "Tia (jet) tương đối tính từ AGN, từ quyển pulsar, VLBI; phân tích dữ liệu RadioAstron.",
+     "url": "https://rellab.mipt.ru/en/",
+     "coverage": "full",
+     "structure": "",
+     "structureUrl": "https://rellab.mipt.ru/en/staff",
+     "scopeNote": "Toàn bộ nhân sự phòng thí nghiệm theo trang Staff (11/2026).",
+     "units": [
+      {
+       "name": "Laboratory of Relativistic Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Moscow Institute of Physics and Technology",
+       "topics": "Tia tương đối tính AGN, pulsar, VLBI.",
+       "url": "https://rellab.mipt.ru/en/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Elena E. Nokhrina",
+          "role": "Trưởng nhóm; nghiên cứu viên chính",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Vasily S. Beskin",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Ilya N. Pashchenko",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Alexander V. Popkov",
+          "role": "Nghiên cứu viên",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Timur I. Khalilov",
+          "role": "Nghiên cứu viên trẻ (junior researcher)",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Arseny Y. Istomin",
+          "role": "Trợ lý phòng thí nghiệm (kỹ thuật)",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Fedor A. Kniazev",
+          "role": "Trợ lý phòng thí nghiệm (kỹ thuật)",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Vladimir V. Voloshinov",
+          "role": "Trợ lý phòng thí nghiệm (kỹ thuật)",
+          "url": "https://rellab.mipt.ru/en/staff"
+         },
+         {
+          "name": "Svetlana V. Kapuntsova",
+          "role": "Trợ lý phòng thí nghiệm (kỹ thuật)",
+          "url": "https://rellab.mipt.ru/en/staff"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://rellab.mipt.ru/en/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
     }
    ]
   },
@@ -83,11 +458,220 @@
      "type": "institute",
      "research": "Vật lý thiên văn lý thuyết: sao neutron, vật lý thiên văn năng lượng cao, tia vũ trụ, plasma Mặt Trời; thiết bị tia gamma (Konus-Wind).",
      "url": "https://www.ioffe.ru/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.ioffe.ru/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Department of Theoretical Astrophysics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Ioffe Institute",
+       "topics": "Sao neutron, plasma đặc, vũ trụ học sơ khai và hằng số cơ bản, hoá học thiên văn, pulsar.",
+       "url": "https://www.ioffe.ru/astro/DTA/",
+       "researchers": {
+        "people": [
+         {
+          "name": "A. V. Ivanchik",
+          "role": "Trưởng bộ phận; nghiên cứu viên chính",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. Y. Potekhin",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. G. Yakovlev",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. D. Kaminker",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "S. A. Levshakov",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "V. A. Urpin",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. A. Baiko",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. P. Barsukov",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. I. Chugunov",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "M. E. Gusakov",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "K. P. Levenfish",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. D. Ofengeim",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. A. Shalybkov",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "P. S. Shternin",
+          "role": "Nghiên cứu viên chính / cao cấp",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "S. A. Balashev",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "O. A. Goglichidze",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "E. M. Kantor",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. A. Kozhberov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. I. Ryabinkov",
+          "role": "Nghiên cứu viên",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. N. Fursov",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. N. Kosenko",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "K. Y. Kraav",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "O. A. Kurichin",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "I. D. Markozov",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "L. A. Shleiger",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "K. N. Telikova",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "J. S. Vorotyntseva",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "V. Y. Yurchenko",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "N. A. Zemlyakov",
+          "role": "Nghiên cứu viên trẻ (junior research scientist)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "Ya. O. Ananyev",
+          "role": "Trợ lý nghiên cứu (research assistant)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "P. A. Kislitsyn",
+          "role": "Trợ lý nghiên cứu (research assistant)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. A. Shchepkin",
+          "role": "Trợ lý nghiên cứu (research assistant)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         }
+        ],
+        "external": [
+         {
+          "name": "D. M. Beronya",
+          "role": "Thành viên liên kết (Department of Mathematical Physics)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. V. Bobakov",
+          "role": "Thành viên liên kết (Department of Mathematical Physics)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. A. Danilenko",
+          "role": "Thành viên liên kết (Department of Mathematical Physics)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. V. Karpova",
+          "role": "Thành viên liên kết (Department of Mathematical Physics)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "A. S. Tanashkin",
+          "role": "Thành viên liên kết (Department of Mathematical Physics)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         },
+         {
+          "name": "D. A. Zyuzin",
+          "role": "Thành viên liên kết (Department of Mathematical Physics)",
+          "url": "https://www.ioffe.ru/astro/DTA/staff.html"
+         }
+        ],
+        "sources": [
+         "https://www.ioffe.ru/astro/DTA/staff.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     },
     {
@@ -98,8 +682,81 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://english.spbu.ru/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Trang tiếng Anh cũ của bộ môn; có thể đã lỗi thời. Chưa có bộ môn Vật lý thiên văn và Cơ học thiên thể.",
+     "units": [
+      {
+       "name": "Department of Astronomy (Faculty of Mathematics and Mechanics)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Saint Petersburg State University",
+       "topics": "Đo sao (astrometry), cơ sở dữ liệu thiên văn, phân tích chuỗi thời gian.",
+       "url": "https://math.spbu.ru/en/chairs/dep19.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "V. V. Vityasev",
+          "role": "Trưởng bộ môn; giáo sư",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "A. A. Nikitin",
+          "role": "Giáo sư",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "V. F. Osipov",
+          "role": "Giáo sư",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "A. G. Gubanov",
+          "role": "Phó giáo sư (associate professor)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "I. S. Guseva",
+          "role": "Phó giáo sư (associate professor)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "V. I. Kiyaev",
+          "role": "Phó giáo sư (associate professor)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "E. N. Kopatskaya",
+          "role": "Phó giáo sư (associate professor)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "M. P. Mishchenko",
+          "role": "Phó giáo sư (associate professor)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "A. S. Tsvetkov",
+          "role": "Phó giáo sư (associate professor)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "S. D. Petrov",
+          "role": "Giảng viên (assistant)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         },
+         {
+          "name": "O. A. Titov",
+          "role": "Giảng viên (assistant)",
+          "url": "https://math.spbu.ru/en/chairs/dep19.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://math.spbu.ru/en/chairs/dep19.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     },
     {
@@ -341,8 +998,126 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://kpfu.ru/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Tên theo hướng nghiên cứu trên trang bộ môn; trang không ghi chức danh.",
+     "units": [
+      {
+       "name": "Department of Astronomy and Space Geodesy",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Kazan Federal University",
+       "topics": "Đo sao, sao chổi–sao băng, trắc địa Mặt Trăng, sao đôi gần, khí quyển sao non-LTE, thiên văn ngoài thiên hà, kính RTT150.",
+       "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy",
+       "researchers": {
+        "people": [
+         {
+          "name": "I. F. Bikmaev",
+          "role": "Trưởng bộ môn",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "A. I. Nefedyeva",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "V. V. Lapaeva",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "R. I. Gumerov",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "O. I. Belkovich",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "V. V. Andreev",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "E. D. Kondratyeva",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "M. G. Ishmukhametova",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "Yu. A. Nefedyev",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "N. G. Rizvanov",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "M. I. Shpekin",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "N. K. Petrova",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "G. V. Zhukov",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "R. Ya. Zhuchkov",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "V. V. Shimanskiy",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "V. F. Suleimanov",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "N. A. Sakhibullin",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "N. N. Shimanskaya",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "D. Ivanova",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         },
+         {
+          "name": "A. I. Galeev",
+          "role": "Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu)",
+          "url": "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]

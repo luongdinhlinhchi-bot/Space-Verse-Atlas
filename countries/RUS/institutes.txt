@@ -10,10 +10,35 @@ city: moscow
 type: university
 url: http://www.sai.msu.ru/
 research: Viện thiên văn lớn nhất nước Nga trong một trường đại học: sao và sao biến quang, thiên hà, vũ trụ học, vật lý thiên văn tương đối tính, mạng kính robot MASTER, đài quan sát Kislovodsk.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: http://www.sai.msu.ru/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Danh sách PDF của bộ môn (không ghi ngày cập nhật).
+
+#unit Relativistic Astrophysics Department
+parent: Sternberg Astronomical Institute
+topics: Lỗ đen và đĩa bồi tụ, sao neutron, sóng hấp dẫn, vũ trụ học và lý thuyết hấp dẫn.
+url: https://xray.sai.msu.ru/
+src: https://xray.sai.msu.ru/personal
+pp: Trưởng bộ môn | Nikolai Shakura
+pp: Nghiên cứu viên chính (leading researcher) | Stanislav Alexeyev; Aleksandr Petrov; Sergei Popov; Konstantin Postnov; Olga Sazhina
+pp: Nghiên cứu viên cao cấp | Vyacheslav Zhuravlev; Alexandr Kuranov; Galina Lipunova; Aleksej Toporenskij
+pp: Nghiên cứu viên | Polina Golysheva; Polina Dyadina; Yaroslav Lazovik
+pp: Kỹ sư / lập trình viên / trợ lý phòng thí nghiệm | Bagration Megrelishvili; Kirill Parusov; Natalia Shakura; Dmitri Chirkov; Marina Afonina
+pp: Thành viên (trang không ghi chức danh) | Vlad Revnivtsev
+pp: Nghiên cứu sinh | Elena Emtsova; Vyacheslav Prokopov; Nikita Mitichkin; Danil Lisicin
+pp: Sinh viên | Igor Bulygin
+
+#unit Department of Galaxy and Variable Stars Studies
+parent: Sternberg Astronomical Institute
+topics: Cấu trúc và động học Thiên Hà, sao biến quang (GCVS), cụm sao, Cepheid.
+url: https://www.sai.msu.ru/dept/var/
+src: https://www.sai.msu.ru/dept/var/staff2.pdf
+pp: Trưởng bộ môn | A. S. Rastorguev
+pp: Nghiên cứu viên chính (chief/leading researcher) | Yu. N. Efremov; A. K. Dambis; A. M. Melnik; N. N. Samus; L. N. Berdnikov
+pp: Nghiên cứu viên cao cấp | V. G. Surdin; E. V. Glushkova; S. V. Antipin; I. M. Volkov; V. P. Goranskiy; O. V. Chumak
+pp: Nghiên cứu viên | M. V. Zabolotskikh; A. V. Krylov; A. K. Magnitskiy; O. V. Vozyakova; O. V. Durlevich; A. V. Zharova
+pp: Kỹ sư / lập trình viên | L. V. Mossakovskaya; E. S. Safonova; L. A. Sat; N. S. Volkova; S. E. Koposov; M. P. Galkina; N. A. Gorynya; A. M. Zubareva; M. V. Kuznetsov; S. I. Leonova; K. A. Sokolovskiy
 
 @inst Space Research Institute of the Russian Academy of Sciences (IKI RAS)
 city: moscow
@@ -70,10 +95,22 @@ city: spb
 type: institute
 url: https://www.ioffe.ru/
 research: Vật lý thiên văn lý thuyết: sao neutron, vật lý thiên văn năng lượng cao, tia vũ trụ, plasma Mặt Trời; thiết bị tia gamma (Konus-Wind).
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.ioffe.ru/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Department of Theoretical Astrophysics
+parent: Ioffe Institute
+topics: Sao neutron, plasma đặc, vũ trụ học sơ khai và hằng số cơ bản, hoá học thiên văn, pulsar.
+url: https://www.ioffe.ru/astro/DTA/
+src: https://www.ioffe.ru/astro/DTA/staff.html
+pp: Trưởng bộ phận; nghiên cứu viên chính | A. V. Ivanchik
+pp: Nghiên cứu viên chính / cao cấp | A. Y. Potekhin; D. G. Yakovlev; A. D. Kaminker; S. A. Levshakov; V. A. Urpin; D. A. Baiko; D. P. Barsukov; A. I. Chugunov; M. E. Gusakov; K. P. Levenfish; D. D. Ofengeim; D. A. Shalybkov; P. S. Shternin
+pp: Nghiên cứu viên | S. A. Balashev; O. A. Goglichidze; E. M. Kantor; A. A. Kozhberov; A. I. Ryabinkov
+pp: Nghiên cứu viên trẻ (junior research scientist) | A. N. Fursov; D. N. Kosenko; K. Y. Kraav; O. A. Kurichin; I. D. Markozov; L. A. Shleiger; K. N. Telikova; J. S. Vorotyntseva; V. Y. Yurchenko; N. A. Zemlyakov
+pp: Trợ lý nghiên cứu (research assistant) | Ya. O. Ananyev; P. A. Kislitsyn; A. A. Shchepkin
+xx: Thành viên liên kết (Department of Mathematical Physics) | D. M. Beronya; A. V. Bobakov; A. A. Danilenko; A. V. Karpova; A. S. Tanashkin; D. A. Zyuzin
 
 @inst Saint Petersburg State University — Department of Astronomy
 city: spb
@@ -83,7 +120,17 @@ research: Cơ học thiên thể, vật lý thiên văn, động lực học thi
 coverage: partial
 structure: 
 structureUrl: https://english.spbu.ru/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Trang tiếng Anh cũ của bộ môn; có thể đã lỗi thời. Chưa có bộ môn Vật lý thiên văn và Cơ học thiên thể.
+
+#unit Department of Astronomy (Faculty of Mathematics and Mechanics)
+parent: Saint Petersburg State University
+topics: Đo sao (astrometry), cơ sở dữ liệu thiên văn, phân tích chuỗi thời gian.
+url: https://math.spbu.ru/en/chairs/dep19.html
+src: https://math.spbu.ru/en/chairs/dep19.html
+pp: Trưởng bộ môn; giáo sư | V. V. Vityasev
+pp: Giáo sư | A. A. Nikitin; V. F. Osipov
+pp: Phó giáo sư (associate professor) | A. G. Gubanov; I. S. Guseva; V. I. Kiyaev; E. N. Kopatskaya; M. P. Mishchenko; A. S. Tsvetkov
+pp: Giảng viên (assistant) | S. D. Petrov; O. A. Titov
 
 @inst Institute of Applied Astronomy of the Russian Academy of Sciences (IAA RAS)
 city: spb
@@ -142,7 +189,15 @@ research: Thiên văn và trắc địa vũ trụ: sao, thiên hà, quan sát v�
 coverage: partial
 structure: 
 structureUrl: https://kpfu.ru/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Tên theo hướng nghiên cứu trên trang bộ môn; trang không ghi chức danh.
+
+#unit Department of Astronomy and Space Geodesy
+parent: Kazan Federal University
+topics: Đo sao, sao chổi–sao băng, trắc địa Mặt Trăng, sao đôi gần, khí quyển sao non-LTE, thiên văn ngoài thiên hà, kính RTT150.
+url: https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy
+src: https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-physics/structure/departments/department-of-astronomy-and-cosmic-geodesy
+pp: Trưởng bộ môn | I. F. Bikmaev
+pp: Chưa rõ (trang chỉ liệt kê theo hướng nghiên cứu) | A. I. Nefedyeva; V. V. Lapaeva; R. I. Gumerov; O. I. Belkovich; V. V. Andreev; E. D. Kondratyeva; M. G. Ishmukhametova; Yu. A. Nefedyev; N. G. Rizvanov; M. I. Shpekin; N. K. Petrova; G. V. Zhukov; R. Ya. Zhuchkov; V. V. Shimanskiy; V. F. Suleimanov; N. A. Sakhibullin; N. N. Shimanskaya; D. Ivanova; A. I. Galeev
 
 @inst Ural Federal University — Kourovka Astronomical Observatory
 city: yekaterinburg
@@ -154,3 +209,24 @@ structure:
 structureUrl: https://urfu.ru/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
 
+
+@inst Moscow Institute of Physics and Technology (MIPT) — Laboratory of Relativistic Astrophysics
+city: moscow
+type: university
+url: https://rellab.mipt.ru/en/
+research: Tia (jet) tương đối tính từ AGN, từ quyển pulsar, VLBI; phân tích dữ liệu RadioAstron.
+coverage: full
+structure: 
+structureUrl: https://rellab.mipt.ru/en/staff
+scope: Toàn bộ nhân sự phòng thí nghiệm theo trang Staff (11/2026).
+
+#unit Laboratory of Relativistic Astrophysics
+parent: Moscow Institute of Physics and Technology
+topics: Tia tương đối tính AGN, pulsar, VLBI.
+url: https://rellab.mipt.ru/en/
+src: https://rellab.mipt.ru/en/staff
+pp: Trưởng nhóm; nghiên cứu viên chính | Elena E. Nokhrina
+pp: Nghiên cứu viên chính / cao cấp | Vasily S. Beskin; Ilya N. Pashchenko
+pp: Nghiên cứu viên | Alexander V. Popkov
+pp: Nghiên cứu viên trẻ (junior researcher) | Timur I. Khalilov
+pp: Trợ lý phòng thí nghiệm (kỹ thuật) | Arseny Y. Istomin; Fedor A. Kniazev; Vladimir V. Voloshinov; Svetlana V. Kapuntsova
