@@ -154,6 +154,8 @@ for(const [iso, prefix, title, reportFile] of [
 {const people=[];const walk=o=>{if(Array.isArray(o))o.forEach(walk);else if(o&&typeof o==='object'){for(const k of ['people','external'])if(Array.isArray(o[k]))o[k].forEach(p=>{if(p&&p.name&&p.url)people.push(p)});Object.values(o).forEach(walk)}};walk(countryData);
  const n={};people.forEach(p=>n[p.url]=(n[p.url]||0)+1);people.forEach(p=>{if(p.profile===undefined)p.profile=n[p.url]===1});
  const own=people.filter(p=>p.profile).length;console.log('Personal links: '+own+' / '+people.length);}
+// Gắn nhóm vai trò cho từng người (k) để giao diện tách người có thể hướng dẫn khỏi nghiên cứu sinh.
+{const {roleClass}=require('./tools/roles.cjs');const cnt={};const walk=o=>{if(Array.isArray(o))o.forEach(walk);else if(o&&typeof o==='object'){for(const k of ['people','external'])if(Array.isArray(o[k]))o[k].forEach(p=>{if(p&&p.name){p.k=k==='external'&&roleClass(p.role)!=='student'?'guest':roleClass(p.role);cnt[p.k]=(cnt[p.k]||0)+1}});Object.values(o).forEach(walk)}};walk(countryData);console.log('Roles:',JSON.stringify(cnt));}
 const finlandGeometry = JSON.parse(fs.readFileSync('finland-geometry.json','utf8'));
 const vietnamIslands = JSON.parse(fs.readFileSync('vietnam-islands.json','utf8'));
 // Hoàng Sa & Trường Sa: bộ dữ liệu 110m không có đảo nhỏ, nên thêm ký hiệu (vẽ lớn hơn kích thước thật) vào hình Việt Nam.
@@ -191,6 +193,7 @@ const countries = data.features.map(f0 => {
 }).join('\n');
 const template = fs.readFileSync('template.html','utf8');
 for(const [code,cd] of Object.entries(countryData)) if(!cd.cities.every(city => city.point?.every(Number.isFinite))) throw new Error('Missing map coordinates: '+code);
+if(process.env.DUMP_DATA) fs.writeFileSync(process.env.DUMP_DATA, JSON.stringify(countryData));
 fs.writeFileSync('dist/index.html',template.replace('/* VIETNAM LABELS */',JSON.stringify(vietnamLabels)).replace('/* COUNTRY DATA */',JSON.stringify(countryData).replaceAll('<','\\u003c')).replace('<!-- MAP -->',`<path class="ocean" d="${path({type:'Sphere'})}"/><path class="grid" d="${path(d3.geoGraticule10())}"/>${countries}`));
 console.log(`Built ${data.features.length} country/territory shapes.`);
 const report=['# Các đơn vị nghiên cứu tại 7 cơ quan ở Phần Lan',`\nKiểm tra nguồn chính thức: ${unitData.checked}. Các mục phân biệt nhóm, phòng nghiên cứu, đài và trung tâm; không phải số nhóm độc lập để cộng gộp.\n`];
