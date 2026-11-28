@@ -1,7 +1,9 @@
 const fs = require('fs');
 const d3 = require('./d3.cjs');
 const data = JSON.parse(fs.readFileSync('countries.geojson','utf8'));
-const projection = d3.geoNaturalEarth1().fitExtent([[25,20],[1175,610]],data);
+// World view focused on Europe (all countries with data so far are European).
+const focusFrame = {type:'MultiPoint',coordinates:[[-22,35],[40,35],[-22,70.5],[40,70.5],[10,71.5],[10,34]]};
+const projection = d3.geoConicConformal().parallels([40,65]).rotate([-12,0]).fitExtent([[20,16],[1180,744]],focusFrame).clipExtent([[0,0],[1200,760]]);
 const path = d3.geoPath(projection);
 const esc = s => String(s).replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
 const finland = JSON.parse(fs.readFileSync('finland.json','utf8'));
@@ -167,7 +169,8 @@ const countries = data.features.map(f0 => {
   if(W/H<1.25) cd.viewBox=[L,T,W,H].map(v=>+v.toFixed(1)).join(' ');
   delete cd.autoView;
  }
- return `<path class="country${cd?' has-data':''}" d="${path(f)}" data-code="${f.properties.ADM0_A3}" data-detail="${detailPath}" tabindex="0" role="button" aria-label="${esc(name)}" aria-pressed="false" data-name="${esc(name)}"><title>${esc(name)}</title></path>`;
+ const worldD = path(f); if(!worldD) return '';
+ return `<path class="country${cd?' has-data':''}" d="${worldD}" data-code="${f.properties.ADM0_A3}" data-detail="${detailPath}" tabindex="0" role="button" aria-label="${esc(name)}" aria-pressed="false" data-name="${esc(name)}"><title>${esc(name)}</title></path>`;
 }).join('\n');
 const template = fs.readFileSync('template.html','utf8');
 for(const [code,cd] of Object.entries(countryData)) if(!cd.cities.every(city => city.point?.every(Number.isFinite))) throw new Error('Missing map coordinates: '+code);
