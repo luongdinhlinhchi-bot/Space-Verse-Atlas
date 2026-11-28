@@ -198,6 +198,681 @@
    ]
   },
   {
+   "id": "villanueva",
+   "city": "Villanueva de la Cañada (Madrid)",
+   "coordinates": [
+    -3.95,
+    40.44
+   ],
+   "institutions": [
+    {
+     "name": "ESA — European Space Astronomy Centre (ESAC)",
+     "type": "institute",
+     "research": "Trung tâm khoa học của ESA: vận hành khoa học và lưu trữ dữ liệu các sứ mệnh thiên văn và hành tinh (XMM-Newton, Gaia, Euclid, JWST, JUICE, BepiColombo, Solar Orbiter…). Nghiên cứu năng lượng cao, thiên hà, sao, ngoại hành tinh, hành tinh và Mặt Trời; có chương trình thực tập và trainee.",
+     "url": "https://www.esa.int/About_Us/ESAC",
+     "coverage": "partial",
+     "structure": "Directorate of Science của ESA; nhà khoa học thuộc ESA Science Faculty và Research Fellow.",
+     "structureUrl": "https://cosmos.esa.int/web/science-faculty",
+     "scopeNote": "Chỉ gồm thành viên ESA Science Faculty ghi nơi làm việc là ESAC theo danh bạ (11/2026); không gồm kỹ sư và nhân sự vận hành khác.",
+     "units": [
+      {
+       "name": "ESA Science Faculty tại ESAC",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Directorate of Science, ESA",
+       "topics": "Thiên văn tia X, thiên hà và AGN, sao và hình thành sao, ngoại hành tinh, khoa học hành tinh, vật lý Mặt Trời, khoa học dữ liệu.",
+       "url": "https://cosmos.esa.int/web/science-faculty",
+       "researchers": {
+        "people": [
+         {
+          "name": "Bruno Altieri",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Nicolas Altobelli",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Catarina Alves de Oliveira",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Adrián Aranda Oliva",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Christophe Arviset",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Mike Ashman",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Deborah Baines",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Lucia Ballo",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Guillaume Belanger",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Ines Belgacem",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Mark Bentley",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Sebastien Besse",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Paula Betriu",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Rachana Bhatawdekar",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Stephan Birkmann",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Isabel Caballero Doménch",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Héctor Canovas",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Paolo Cappuccio",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Virginia Carcelen Aycart",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alejandro Cardesín-Moinelo",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Daniela Coia",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Thomas Cornet",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Cian Crowley",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Patricia Cruz",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Umberto De Filippis",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Anik De Groof",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Ignacio de la Calle",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Miguel Doctor Yuste",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Amie-Louise Doherty",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Xavier Dupac",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jacobo Ebrero Carrero",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Matthias Ehle",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alfredo Escalante Lopez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Javier Espinosa",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jorge Fernandez Hernandez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pierre Ferruit",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Catherine Fischer",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Emilio Fraile Garcia",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pedro García-Lario",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Panagiotis Gavras",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Bernhard Geiger",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Fabrizio Giordano",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pablo Gómez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pedro Gomez-Cambronero Alvarez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Emmanuel Grotheer",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jose Hernandez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alexander Hutton",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Elena Jimenez Bailon",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jari Kajava",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Markus Kissler-Patig",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Stavros Kotsiaros",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Peter Kretschmar",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Sandor Kruk",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Michael Küppers",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alvaro Labiano Ortega",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Mireia Leon Dasi",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Tanya Lim",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alvaro Llorente",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Marcos López-Caniego",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jose López Miralles",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Joao Lousada",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Arnaud Mahieux",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Max Mahlke",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Julia Maia",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pablo Marcos-Arenal",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Julia Marín-Yaseli de la Parra",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Patrick Martin",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Santa Martinez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Juan Manuel Martin Fleitas",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Sarah Massalkhi",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Arnaud Masson",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Gabriele Matzeu",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Felix Meeker-Fuerst",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Luis Mendes",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Bruno Merín",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Helen Rose Middleton",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Simone Migliari",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Elsa Montagnon",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alcione Mora",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Carlos Muñiz Solaz",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Francisco Ocaña",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Joana S. Oliveira",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Laurence O'Rourke",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Antonio Ortega Pérez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pedro Osuna",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jose Vicente Perea-Calderon",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Ricardo Pérez Martínez",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Pablo Ramirez Moreta",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Mercedes Ramos-Lerate",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Tim Rawle",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jan Reerink",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Lucie Riu",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Ricardo Rizzo",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Marina Rodríguez Baras",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Johannes Sahlmann",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Emilio Salazar Doñate",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Richard Saxton",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Arkadiusz Skorski",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Martin Stuhlinger",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "David Teyssier",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Laura Tomás",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Claire Vallat",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Ivan Valtchanov",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Roland Vavrek",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Eva Verdugo",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Foteini Vervelidou",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Andrew Walsh",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "David Williams",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Yannis Zouganelis",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Alice Borghese",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Emma Esparza-Borges",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Zsofi Igo",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Jack Jenkins",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Benjamin Man",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Cyril Mergny",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "David O'Ryan",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Erwan Quintin",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Rozenn Robidel",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Giulia Roccetti",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Laura Rodríguez García",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Peter Stephenson",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Paola Tiranti",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Domenico Trotta",
+          "role": "Nghiên cứu sau tiến sĩ (ESA Research Fellow)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Nina Duchyňová",
+          "role": "Thực tập sinh (ESA Intern)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Hanna Golawska",
+          "role": "Thực tập sinh (ESA Intern)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "Nina Fleck",
+          "role": "Thực tập sinh sau đại học (ESA Graduate Trainee)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         },
+         {
+          "name": "David Natarajan",
+          "role": "Thực tập sinh sau đại học (ESA Graduate Trainee)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
    "id": "granada",
    "city": "Granada",
    "coordinates": [

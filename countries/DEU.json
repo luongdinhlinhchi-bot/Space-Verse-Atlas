@@ -1,0 +1,825 @@
+{
+ "cities": [
+  {
+   "id": "garching",
+   "city": "Garching",
+   "coordinates": [
+    11.65,
+    48.25
+   ],
+   "institutions": [
+    {
+     "name": "ESO — European Southern Observatory (trụ sở Garching)",
+     "type": "institute",
+     "research": "Tổ chức liên chính phủ vận hành VLT, VLTI, ALMA (đối tác), APEX và đang xây ELT. Tại Garching có các nhà thiên văn (ESO Faculty) nghiên cứu vũ trụ học, thiên hà, sao, hình thành sao – hành tinh; có chương trình ESO Studentship cho nghiên cứu sinh, ESO Fellowship và thực tập.",
+     "url": "https://www.eso.org/",
+     "coverage": "full",
+     "structure": "Office for Science quản lý ESO Faculty, Fellow, Student và khách; nhà thiên văn kiêm nhiệm vận hành kính và phát triển thiết bị.",
+     "structureUrl": "https://eso.org/sci/activities/Science_in_GAR_and_SCL/ofs-garching.html",
+     "scopeNote": "Toàn bộ danh sách nhà khoa học tại Garching trên trang Science in Garching (11/2026), gồm nhãn FACULTY / FELLOW / STUDENT / PENSIONER của ESO; nhân sự ở Chile không tính.",
+     "units": [
+      {
+       "name": "Nhà khoa học ESO tại Garching",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "ESO Office for Science",
+       "topics": "Vũ trụ học và vũ trụ xa, thiên hà và AGN, Ngân Hà và nhóm Địa phương, sao, hình thành sao – hành tinh, thiết bị thiên văn.",
+       "url": "https://eso.org/sci/activities/garching.html",
+       "researchers": {
+        "people": [
+         {
+          "name": "Lodovico Coccato",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Carlos De Breuck",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Eric Emsellem",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Olivier Hainaut",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Michael Hilker",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Valentin Ivanov",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Giacomo Beccari",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Harald Kuntschner",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Vincenzo Mainieri",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Maria Diaz Trigo",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Chiara Spiniello",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Anna Francesca Pala",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Ferdinando Patat",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Monika Petr-Gotzens",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Francesca Primas",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Suzanne Ramsay",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Marina Rejkuba",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Martino Romaniello",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Markus Schöller",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Ralf Siebenmorgen",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Jason Spyromilio",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Michael Sterzik",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Elena Valenti",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Mario van den Ancker",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Eelco van Kampen",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Joël Vernet",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Markus Wittkowski",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Martin Zwaan",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Evanthia Hatziminaoglou",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Henri Boffin",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Michele Cirasuolo",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Mariya Lyubenova",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Antoine Mérand",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Carlo Manara",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Anna Miotello",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Fernando Comerón",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Neil Matthew Phillips",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Celine Peroux",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Paola Popesso",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Gergely Popping",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Enrique Macias",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Paula Sánchez Sáez",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Annalisa De Cia",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Amelia Bayo",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Marta De Simone",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Ashley Barnes",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Katharina Immer",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Jens Kammerer",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Hannah Stacey",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Amit Vishwas",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Johan Olofsson",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Miguel Vioque",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Rob Ivison",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Jarle Brinchmann",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Stéphane Blondin",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Michaël Marsset",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Morten Andersen",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Francesco Belfiore",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Rosita Paladino",
+          "role": "Nhà thiên văn ESO (Faculty)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Hans-Ulrich Käufl",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Bruno Leibundgut",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Palle Møller",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Jeremy Walsh",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Sandro D'Odorico",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Roberto Gilmozzi",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Dietrich Baade",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Rein Warmels",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Paola Andreani",
+          "role": "Đã nghỉ hưu (ESO pensioner)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Labanya Kumar Guha",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Augusto Eduardo Lassen",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Romain Laugier",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Julien Wolf",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Dinko Milaković",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Caeley Pittman",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Viola Gelli",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Matthew Birney",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Stefanie Fijma",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Jochen Stadler",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Victoria Fawcett",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Payel Nandi",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Leonard Romano",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Lucie Rowland",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Emily Kerrison",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Hannah Bish",
+          "role": "Nghiên cứu sau tiến sĩ (ESO Fellow)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Ali Assadollah",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Francesco Maio",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Fernanda Muñoz-Olivares",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Lara Pietsch",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Lavinia Delfini",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "David Vizgan",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Anna Richterková",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Laslo Erik Ruhberg",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Cristine Koelln",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Sara Peluso",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Akshay Robert",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Caterina Bracci",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Bianca Moreschini",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Cynthia Feil",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Alexia Anguera Gonzalez",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Rebecca Szabo",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Konstantinos Bouvis",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Golta Safari",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Jose Antonio Alcolea López",
+          "role": "Nghiên cứu sinh (ESO Studentship)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Fabrizia Guglielmetti",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Florian Kerber",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Mark Neeser",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Daudi Mazengo",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Khushboo",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Sydney Vach",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Tamsyn O'Beirne",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Adam Rubin",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Lennart Boehm",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Thomas Vannieuwenhuyse",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Alejandra Melo",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Ilaria Marini",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Lukas Neumann",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Victoria Toptun",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Felipe Lohmann",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Lara Piscarreta",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Elena Viscardi",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Sreejita Das",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Giulia Ricciardi",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Hala Alqubelat",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Martyna Chruslinska",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Amelia Fraser-McKelvie",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Geza Csörnyei",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Juliana Ehrhardt",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Natanael de Isídio",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Martin Schlecker",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Elena Redaelli",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Silvia Rueda Vargas",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Teresa Valdivia Mena",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Nicolás Guerra Varas",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Teresa Sicignano",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Quincy Bosschaart",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Nikki Geesink",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Maximilian Haeberle",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Bibiana Prinoth",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Markus Bonse",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Sarah Mavie Metz",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Niamh Newman",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Radek Privara",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         },
+         {
+          "name": "Rajesh Potlia",
+          "role": "Thành viên (trang ESO không ghi loại)",
+          "url": "https://eso.org/sci/activities/garching/personnel.html"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://eso.org/sci/activities/garching/personnel.html"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "darmstadt",
+   "city": "Darmstadt",
+   "coordinates": [
+    8.65,
+    49.87
+   ],
+   "institutions": [
+    {
+     "name": "ESA — European Space Operations Centre (ESOC)",
+     "type": "institute",
+     "research": "Trung tâm điều khiển sứ mệnh của ESA; nơi đặt Văn phòng Phòng vệ hành tinh (vật thể gần Trái Đất), Văn phòng Rác vũ trụ và Thời tiết không gian. Có nhiều vị trí Graduate Trainee và thực tập về rác vũ trụ, động lực học quỹ đạo, vận hành.",
+     "url": "https://www.esa.int/About_Us/ESOC",
+     "coverage": "leaders",
+     "structure": "Directorate of Operations (OPS) — Space Safety Programme Office (Space Debris, Planetary Defence, Space Weather), Flight Dynamics, Mission Operations.",
+     "structureUrl": "https://www.esa.int/About_Us/ESOC",
+     "scopeNote": "Chỉ gồm thành viên ESA Science Faculty ghi nơi làm việc là ESOC (11/2026); phần lớn nhân sự ESOC là kỹ sư vận hành không có trong danh bạ khoa học.",
+     "units": [
+      {
+       "name": "ESA Science Faculty tại ESOC",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Directorate of Operations, ESA",
+       "topics": "Vật thể gần Trái Đất và phòng vệ hành tinh, cơ học thiên thể, động lực học quỹ đạo (LISA), thiên văn tia X.",
+       "url": "https://www.esa.int/About_Us/ESOC",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ross Brandon",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/directory"
+         },
+         {
+          "name": "Juan Luis Cano",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/directory"
+         },
+         {
+          "name": "Waldemar Martens",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/directory"
+         },
+         {
+          "name": "Richard Moissl",
+          "role": "Nhà khoa học ESA (thành viên Science Faculty)",
+          "url": "https://www.cosmos.esa.int/web/space-science-faculty/members/directory"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.cosmos.esa.int/web/space-science-faculty/members/directory"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
+  }
+ ],
+ "networks": {},
+ "country": "DEU",
+ "checked": "2026-11-28",
+ "pin": 5,
+ "coordinateNote": "Bổ sung cho dữ liệu Đức có sẵn.",
+ "listSource": "https://astronomische-gesellschaft.de/en/rds/members"
+}

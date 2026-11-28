@@ -1,0 +1,22 @@
+@city villanueva | Villanueva de la Cañada (Madrid) | -3.95, 40.44
+
+@inst ESA — European Space Astronomy Centre (ESAC)
+city: villanueva
+type: institute
+url: https://www.esa.int/About_Us/ESAC
+research: Trung tâm khoa học của ESA: vận hành khoa học và lưu trữ dữ liệu các sứ mệnh thiên văn và hành tinh (XMM-Newton, Gaia, Euclid, JWST, JUICE, BepiColombo, Solar Orbiter…). Nghiên cứu năng lượng cao, thiên hà, sao, ngoại hành tinh, hành tinh và Mặt Trời; có chương trình thực tập và trainee.
+coverage: partial
+structure: Directorate of Science của ESA; nhà khoa học thuộc ESA Science Faculty và Research Fellow.
+structureUrl: https://cosmos.esa.int/web/science-faculty
+scope: Chỉ gồm thành viên ESA Science Faculty ghi nơi làm việc là ESAC theo danh bạ (11/2026); không gồm kỹ sư và nhân sự vận hành khác.
+
+#unit ESA Science Faculty tại ESAC
+parent: Directorate of Science, ESA
+topics: Thiên văn tia X, thiên hà và AGN, sao và hình thành sao, ngoại hành tinh, khoa học hành tinh, vật lý Mặt Trời, khoa học dữ liệu.
+url: https://cosmos.esa.int/web/science-faculty
+src: https://www.cosmos.esa.int/web/space-science-faculty/members/directory
+src: https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows
+pp: Nhà khoa học ESA (thành viên Science Faculty) | Bruno Altieri; Nicolas Altobelli; Catarina Alves de Oliveira; Adrián Aranda Oliva; Christophe Arviset; Mike Ashman; Deborah Baines; Lucia Ballo; Guillaume Belanger; Ines Belgacem; Mark Bentley; Sebastien Besse; Paula Betriu; Rachana Bhatawdekar; Stephan Birkmann; Isabel Caballero Doménch; Héctor Canovas; Paolo Cappuccio; Virginia Carcelen Aycart; Alejandro Cardesín-Moinelo; Daniela Coia; Thomas Cornet; Cian Crowley; Patricia Cruz; Umberto De Filippis; Anik De Groof; Ignacio de la Calle; Miguel Doctor Yuste; Amie-Louise Doherty; Xavier Dupac; Jacobo Ebrero Carrero; Matthias Ehle; Alfredo Escalante Lopez; Javier Espinosa; Jorge Fernandez Hernandez; Pierre Ferruit; Catherine Fischer; Emilio Fraile Garcia; Pedro García-Lario; Panagiotis Gavras; Bernhard Geiger; Fabrizio Giordano; Pablo Gómez; Pedro Gomez-Cambronero Alvarez; Emmanuel Grotheer; Jose Hernandez; Alexander Hutton; Elena Jimenez Bailon; Jari Kajava; Markus Kissler-Patig; Stavros Kotsiaros; Peter Kretschmar; Sandor Kruk; Michael Küppers; Alvaro Labiano Ortega; Mireia Leon Dasi; Tanya Lim; Alvaro Llorente; Marcos López-Caniego; Jose López Miralles; Joao Lousada; Arnaud Mahieux; Max Mahlke; Julia Maia; Pablo Marcos-Arenal; Julia Marín-Yaseli de la Parra; Patrick Martin; Santa Martinez; Juan Manuel Martin Fleitas; Sarah Massalkhi; Arnaud Masson; Gabriele Matzeu; Felix Meeker-Fuerst; Luis Mendes; Bruno Merín; Helen Rose Middleton; Simone Migliari; Elsa Montagnon; Alcione Mora; Carlos Muñiz Solaz; Francisco Ocaña; Joana S. Oliveira; Laurence O'Rourke; Antonio Ortega Pérez; Pedro Osuna; Jose Vicente Perea-Calderon; Ricardo Pérez Martínez; Pablo Ramirez Moreta; Mercedes Ramos-Lerate; Tim Rawle; Jan Reerink; Lucie Riu; Ricardo Rizzo; Marina Rodríguez Baras; Johannes Sahlmann; Emilio Salazar Doñate; Richard Saxton; Arkadiusz Skorski; Martin Stuhlinger; David Teyssier; Laura Tomás; Claire Vallat; Ivan Valtchanov; Roland Vavrek; Eva Verdugo; Foteini Vervelidou; Andrew Walsh; David Williams; Yannis Zouganelis
+pp: Nghiên cứu sau tiến sĩ (ESA Research Fellow) | Alice Borghese; Emma Esparza-Borges; Zsofi Igo; Jack Jenkins; Benjamin Man; Cyril Mergny; David O'Ryan; Erwan Quintin; Rozenn Robidel; Giulia Roccetti; Laura Rodríguez García; Peter Stephenson; Paola Tiranti; Domenico Trotta
+pp: Thực tập sinh (ESA Intern) | Nina Duchyňová; Hanna Golawska
+pp: Thực tập sinh sau đại học (ESA Graduate Trainee) | Nina Fleck; David Natarajan

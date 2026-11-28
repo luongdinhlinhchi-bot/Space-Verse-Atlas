@@ -1,0 +1,5 @@
+@country DEU
+checked: 2026-11-28
+pin: 5
+coordinateNote: Bổ sung cho dữ liệu Đức có sẵn.
+listSource: https://astronomische-gesellschaft.de/en/rds/members

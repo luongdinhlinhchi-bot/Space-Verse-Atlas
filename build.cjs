@@ -81,7 +81,12 @@ fs.writeFileSync('GERMANY-RESEARCHERS.md', germanReport.join('\n'));
 const countryData = {FIN:finland, DEU:germany};
 // Các nước khác: countries/<ISO3>.json do tools/merge_country.py sinh ra.
 if(fs.existsSync('countries')) for(const f of fs.readdirSync('countries').filter(f=>/^[A-Z]{3}\.json$/.test(f))){
- const c=JSON.parse(fs.readFileSync('countries/'+f,'utf8')); c.autoView=!c.viewBox; countryData[c.country]=c;
+ const c=JSON.parse(fs.readFileSync('countries/'+f,'utf8'));
+ const base=countryData[c.country];
+ if(base){ // bổ sung vào dữ liệu cũ (vd. DEU): gộp thành phố theo id, nối thêm cơ quan
+  for(const city of c.cities){const ex=base.cities.find(x=>x.id===city.id);if(ex)ex.institutions.push(...city.institutions);else base.cities.push(city)}
+  Object.assign(base.networks=base.networks||{},c.networks||{});
+ } else { c.autoView=!c.viewBox; countryData[c.country]=c; }
 }
 /** Load, validate, attach unit/researcher rosters, and write the Markdown report for a 3-file country dataset. */
 function loadStandardCountry(prefix, reportTitle, reportFile){

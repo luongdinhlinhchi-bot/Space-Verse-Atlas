@@ -1,0 +1,25 @@
+@city noordwijk | Noordwijk | 4.42, 52.22
+
+@inst ESA — European Space Research and Technology Centre (ESTEC)
+city: noordwijk
+type: institute
+url: https://www.esa.int/About_Us/ESTEC
+research: Trung tâm lớn nhất của Cơ quan Vũ trụ châu Âu, nơi phát triển và quản lý các sứ mệnh khoa học (Gaia, Euclid, PLATO, LISA, JUICE, Solar Orbiter…). Nhà khoa học ở đây nghiên cứu thiên văn – vật lý thiên văn, khoa học hành tinh, Mặt Trời và vật lý cơ bản; có chương trình Young Graduate Trainee và thực tập cho sinh viên.
+coverage: partial
+structure: Directorate of Science (SCI) của ESA; các nhà khoa học thuộc ESA Science Faculty, cùng các Research Fellow (sau tiến sĩ 2–3 năm).
+structureUrl: https://cosmos.esa.int/web/space-science-faculty/sites/estec
+scope: Chỉ gồm thành viên ESA Science Faculty ghi nơi làm việc là ESTEC theo danh bạ (11/2026); không gồm kỹ sư dự án và nhân sự khác (~2000 người làm ở ESTEC).
+
+#unit ESA Science Faculty tại ESTEC
+parent: Directorate of Science, ESA
+topics: Thiên văn – vật lý thiên văn, hành tinh, Mặt Trời – nhật quyển, sóng hấp dẫn và vật lý cơ bản gắn với các sứ mệnh ESA.
+url: https://cosmos.esa.int/web/space-science-faculty/sites/estec
+src: https://www.cosmos.esa.int/web/space-science-faculty/members/directory
+src: https://www.cosmos.esa.int/web/space-science-faculty/members/research-fellows
+pp: Nhà khoa học ESA (thành viên Science Faculty) | Michele Armano; Stephanie Barron; Marco Braibanti; Luigi Cacciapuoti; Olivier Carraz; Rodrigo Coutinho de Almeida; Jos de Bruijne; Guido De Marchi; C. Philippe Escoubet; Hugh Evans; Nicolas Floury; Jan Forbrich; Giovanna Giardino; Victoria Grinberg; Matteo Guainazzi; Maximilian Günther; Christiane Hahn; Adam Hazell; David Heather; Jörn Helbert; Ana M. Heras; Gaitee Hussain; Kate Isaak; Dario Izzo; Miho Janvier; Oliver Jennrich; Piers Jiggens; Geraint Jones; Erik Kuulkers; Theresa Lueftinger; Nora Lützgendorf; Francesca McDonald; Paul McNamara; Mark Millinger; Daniel Müller; Sami-Matias Niemi; Csilla Orgel; Valeria Pettorino; Tineke Roegiers; Elliot Sefton-Nash; Wim Sillekens; Anamarija Stankov; Anne Grete Straume-Lindner; Matt Taylor; Helena Vicente de Castro; Sebastien Vincent-Bonnieu; Colin Wilson; Olivier Witasse
+pp: Nghiên cứu sau tiến sĩ (ESA Research Fellow, Ban Kỹ thuật) | Nik Böhm; Alexandre Laroche
+pp: Nghiên cứu sau tiến sĩ (ESA Research Fellow) | Jo Ann Egger; Sam Fayolle; Adam Finley; Antonio La Marca; Ioanna Psaradaki; Matilde Signorini; Lorenzo Speri; Bert Vander Meulen
+pp: Thực tập sinh (ESA Intern) | Eleni Koutsiona
+pp: Nghiên cứu sau tiến sĩ (ESA Research Fellow, thám hiểm có người lái) | Martin J. Losekamm
+pp: Thực tập sinh sau đại học (ESA Graduate Trainee) | Adel Malatinszky; Alex McNamara; Charlotte Whitworth
+pp: Truyền thông khoa học | Iris Nijman

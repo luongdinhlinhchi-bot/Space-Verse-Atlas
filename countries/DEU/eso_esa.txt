@@ -1,0 +1,40 @@
+@city garching | Garching | 11.65, 48.25
+@city darmstadt | Darmstadt | 8.65, 49.87
+
+@inst ESO — European Southern Observatory (trụ sở Garching)
+city: garching
+type: institute
+url: https://www.eso.org/
+research: Tổ chức liên chính phủ vận hành VLT, VLTI, ALMA (đối tác), APEX và đang xây ELT. Tại Garching có các nhà thiên văn (ESO Faculty) nghiên cứu vũ trụ học, thiên hà, sao, hình thành sao – hành tinh; có chương trình ESO Studentship cho nghiên cứu sinh, ESO Fellowship và thực tập.
+coverage: full
+structure: Office for Science quản lý ESO Faculty, Fellow, Student và khách; nhà thiên văn kiêm nhiệm vận hành kính và phát triển thiết bị.
+structureUrl: https://eso.org/sci/activities/Science_in_GAR_and_SCL/ofs-garching.html
+scope: Toàn bộ danh sách nhà khoa học tại Garching trên trang Science in Garching (11/2026), gồm nhãn FACULTY / FELLOW / STUDENT / PENSIONER của ESO; nhân sự ở Chile không tính.
+
+#unit Nhà khoa học ESO tại Garching
+parent: ESO Office for Science
+topics: Vũ trụ học và vũ trụ xa, thiên hà và AGN, Ngân Hà và nhóm Địa phương, sao, hình thành sao – hành tinh, thiết bị thiên văn.
+url: https://eso.org/sci/activities/garching.html
+src: https://eso.org/sci/activities/garching/personnel.html
+pp: Nhà thiên văn ESO (Faculty) | Lodovico Coccato; Carlos De Breuck; Eric Emsellem; Olivier Hainaut; Michael Hilker; Valentin Ivanov; Giacomo Beccari; Harald Kuntschner; Vincenzo Mainieri; Maria Diaz Trigo; Chiara Spiniello; Anna Francesca Pala; Ferdinando Patat; Monika Petr-Gotzens; Francesca Primas; Suzanne Ramsay; Marina Rejkuba; Martino Romaniello; Markus Schöller; Ralf Siebenmorgen; Jason Spyromilio; Michael Sterzik; Elena Valenti; Mario van den Ancker; Eelco van Kampen; Joël Vernet; Markus Wittkowski; Martin Zwaan; Evanthia Hatziminaoglou; Henri Boffin; Michele Cirasuolo; Mariya Lyubenova; Antoine Mérand; Carlo Manara; Anna Miotello; Fernando Comerón; Neil Matthew Phillips; Celine Peroux; Paola Popesso; Gergely Popping; Enrique Macias; Paula Sánchez Sáez; Annalisa De Cia; Amelia Bayo; Marta De Simone; Ashley Barnes; Katharina Immer; Jens Kammerer; Hannah Stacey; Amit Vishwas; Johan Olofsson; Miguel Vioque; Rob Ivison; Jarle Brinchmann; Stéphane Blondin; Michaël Marsset; Morten Andersen; Francesco Belfiore; Rosita Paladino
+pp: Đã nghỉ hưu (ESO pensioner) | Hans-Ulrich Käufl; Bruno Leibundgut; Palle Møller; Jeremy Walsh; Sandro D'Odorico; Roberto Gilmozzi; Dietrich Baade; Rein Warmels; Paola Andreani
+pp: Nghiên cứu sau tiến sĩ (ESO Fellow) | Labanya Kumar Guha; Augusto Eduardo Lassen; Romain Laugier; Julien Wolf; Dinko Milaković; Caeley Pittman; Viola Gelli; Matthew Birney; Stefanie Fijma; Jochen Stadler; Victoria Fawcett; Payel Nandi; Leonard Romano; Lucie Rowland; Emily Kerrison; Hannah Bish
+pp: Nghiên cứu sinh (ESO Studentship) | Ali Assadollah; Francesco Maio; Fernanda Muñoz-Olivares; Lara Pietsch; Lavinia Delfini; David Vizgan; Anna Richterková; Laslo Erik Ruhberg; Cristine Koelln; Sara Peluso; Akshay Robert; Caterina Bracci; Bianca Moreschini; Cynthia Feil; Alexia Anguera Gonzalez; Rebecca Szabo; Konstantinos Bouvis; Golta Safari; Jose Antonio Alcolea López
+pp: Thành viên (trang ESO không ghi loại) | Fabrizia Guglielmetti; Florian Kerber; Mark Neeser; Daudi Mazengo; Khushboo; Sydney Vach; Tamsyn O'Beirne; Adam Rubin; Lennart Boehm; Thomas Vannieuwenhuyse; Alejandra Melo; Ilaria Marini; Lukas Neumann; Victoria Toptun; Felipe Lohmann; Lara Piscarreta; Elena Viscardi; Sreejita Das; Giulia Ricciardi; Hala Alqubelat; Martyna Chruslinska; Amelia Fraser-McKelvie; Geza Csörnyei; Juliana Ehrhardt; Natanael de Isídio; Martin Schlecker; Elena Redaelli; Silvia Rueda Vargas; Teresa Valdivia Mena; Nicolás Guerra Varas; Teresa Sicignano; Quincy Bosschaart; Nikki Geesink; Maximilian Haeberle; Bibiana Prinoth; Markus Bonse; Sarah Mavie Metz; Niamh Newman; Radek Privara; Rajesh Potlia
+
+@inst ESA — European Space Operations Centre (ESOC)
+city: darmstadt
+type: institute
+url: https://www.esa.int/About_Us/ESOC
+research: Trung tâm điều khiển sứ mệnh của ESA; nơi đặt Văn phòng Phòng vệ hành tinh (vật thể gần Trái Đất), Văn phòng Rác vũ trụ và Thời tiết không gian. Có nhiều vị trí Graduate Trainee và thực tập về rác vũ trụ, động lực học quỹ đạo, vận hành.
+coverage: leaders
+structure: Directorate of Operations (OPS) — Space Safety Programme Office (Space Debris, Planetary Defence, Space Weather), Flight Dynamics, Mission Operations.
+structureUrl: https://www.esa.int/About_Us/ESOC
+scope: Chỉ gồm thành viên ESA Science Faculty ghi nơi làm việc là ESOC (11/2026); phần lớn nhân sự ESOC là kỹ sư vận hành không có trong danh bạ khoa học.
+
+#unit ESA Science Faculty tại ESOC
+parent: Directorate of Operations, ESA
+topics: Vật thể gần Trái Đất và phòng vệ hành tinh, cơ học thiên thể, động lực học quỹ đạo (LISA), thiên văn tia X.
+url: https://www.esa.int/About_Us/ESOC
+src: https://www.cosmos.esa.int/web/space-science-faculty/members/directory
+pp: Nhà khoa học ESA (thành viên Science Faculty) | Ross Brandon; Juan Luis Cano; Waldemar Martens; Richard Moissl
