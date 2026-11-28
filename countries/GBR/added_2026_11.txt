@@ -17,6 +17,7 @@
 @city leeds | Leeds | -1.55, 53.80
 @city keele | Keele | -2.27, 53.00
 @city preston | Preston | -2.70, 53.76
+@city guildford | Guildford (Surrey) | -0.59, 51.24
 @city dorking | Dorking (MSSL) | -0.38, 51.20
 
 @inst UCL — Department of Physics & Astronomy (Astrophysics Group)
@@ -57,7 +58,19 @@ research: Vũ trụ học lý thuyết, hệ hành tinh, plasma Mặt Trời và
 coverage: partial
 structure: 
 structureUrl: https://www.qmul.ac.uk/spa/astro/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Trang thành viên (11/2026) không liệt kê nghiên cứu sinh.
+
+#unit Astronomy Unit
+parent: Queen Mary University of London
+topics: Vũ trụ học lý thuyết và thuyết tương đối, hình thành hành tinh, ngoại hành tinh, plasma không gian và gió Mặt Trời.
+url: https://www.qmul.ac.uk/spcs/astro/
+src: https://www.my.qmul.ac.uk/spcs/astro/group-members/
+pp: Giáo sư | David Burgess; Chris Clarkson; Richard Nelson
+pp: Giảng viên / Reader | Craig Agnor; Enrico Camporeale; Christopher Chen; Timothy Clifton; Philippa Cole; David Mulryne; Will Sutherland; Heli Hietala; Andrew Winter
+pp: Nghiên cứu sau tiến sĩ | Matthew Battley; Deepak Chahal; Gavin Coleman; Saumya Gupta; Cynthia Ho; Eleftheria Sarafidou; Edris Tajfirouzeh
+pp: Giáo sư danh dự | Bernard Carr; Carl Murray; Alexander Polnarev; Ian Roxburgh; Reza Tavakol
+pp: Thành viên (trang không ghi chức danh) | Beatrice Caccherano
+xx: Khách mời / danh dự | Richard Donnison; George Ellis; Melis Irfan
 
 @inst King's College London — Theoretical Particle Physics & Cosmology
 city: london
@@ -74,30 +87,68 @@ city: liverpool
 type: university
 url: https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute
 research: Một trong các viện vật lý thiên văn lớn của Anh; vận hành Liverpool Telescope (La Palma); thiên hà, cụm sao, sao biến quang.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Research Institute (toàn viện)
+parent: Liverpool John Moores University
+topics: Hình thành thiên hà và mô phỏng (EAGLE, FLAMINGO), sao và cụm sao, sự kiện tạm thời (nova, siêu tân tinh, GRB), Liverpool Telescope và New Robotic Telescope.
+url: https://ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute
+src: https://ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/people
+src: https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles
+pp: Giáo sư | Ivan Baldry; Mike Bode; Chris Collins; Robert Crain; Matt Darnley; Shiho Kobayashi; Steven Longmore; Paolo Mazzali; Ian McCarthy; Andrew Newsam; Maurizio Salaris; Iain Steele
+pp: Giảng viên / trưởng bộ phận (theo danh sách vai trò chủ chốt) | Christopher Copperwheat; Andreea Font; Marie Martig; Ricardo Schiavon
+pp: Thành viên có học vị Dr. (trang không ghi chức danh) | Joao Da Silva Bento; Robert Grand; Stacey Habergham-Mawson; Daniel Harman; Michael Healy-Kalesh; Jonathan Henshaw; Helen Jermak; Sebastian Kamann; Gavin Lamb; Chris Leigh; Witold Maciejewski; Jonathan Marchant; Fiona Murphy-Glaysher; Conor Omand; Renuka Pechetti; Daniel Perley; Andrzej Piascik; Jaime Salcido Negrete; Sara Saracino; Renske Smit
+pp: Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật) | Stuart Bates; David Copley; Mohamed Daoud; Adam Garner; David Heffernan-Clarke; Rebecca Houghton; Adrian McGrath; Chloe Miossec; Chris Mottram; Ali Ranjbar
+pp: Nghiên cứu sinh | Callum McCall; Charles Aouad; Elena Balakina; Ola Bochenek; Jemima Briggs; Sebastian Buntin; Jonah Conley; Alex Cooke; Emily Costello; Anna Durrant; Beth Garton; K-Ryan Hinds; Stevie King; Tutku Kolcu; David Law; Andrew Mason; Gregory Murrell; Khang Nguyen; Michael O'Connor; Katherine Ormerod; Siân Phillips; Tsito Rakotozoely; Ryan Roberts; Chris Rowe; Scarlett Royle; Andrea Sante; Phoebe Stainton; Cairns Turnbull; Bethan Williams
 
 @inst University of Leicester — School of Physics & Astronomy
 city: leicester
 type: university
 url: https://le.ac.uk/physics
 research: Thiên văn tia X (Swift, Einstein Probe, SMILE), khoa học hành tinh, đĩa bồi tụ, lỗ đen.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://le.ac.uk/physics
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Division
+parent: University of Leicester
+topics: Thiên văn tia X và sự kiện tạm thời (Swift, SMILE), sao lùn trắng, sóng hấp dẫn, động lực học thiên hà, đĩa tiền hành tinh.
+url: https://le.ac.uk/astrophysics
+src: https://le.ac.uk/astrophysics/contacts
+pp: Giáo sư | Paul O'Brien; Richard Alexander; Martin Barstow; Andrew Blain; Jon Lapington; Sergei Nayakshin; Mervyn Roy; Nial Tanvir; Simon Vaughan; Michael Watson; Mark Wilkinson
+pp: Giảng viên / Reader | Paul Abel; Matthew Burleigh; Sarah Casewell; Philip Evans; Michael Goad; Paul McMillan; Rhaana Starling
+pp: Nghiên cứu sau tiến sĩ (Research Associate) | Andrew Beardmore; Keir Birchall; Jaiverdhan Chauhan; Robert Eyles-Ferris; Nusrin Habeeb; Vatsalya Maddi; Kjell Koch-Mehrin; Claudio Pagani; Kim Page; Andrew Read; Sahl Rowther; Steven Sembay; Tuomo Tikkanen
+pp: Quản lý dự án SMILE | Richard Hampson
+pp: Kỹ sư hệ thống | Andrew Cheney
+pp: Nghiên cứu sinh | Seti Astrophel; Sandra Calovic; Troy Edkins; Jenni French; George Harvey; Adam Hennessy; James Jones; Yashaswi Julakanti; Alicia Kendall; Hans Lee; Mehdy Lefkir; Christopher Mander; Lee Martin; Miti Patel; Ben Rayson; Victoria Shevill; Srijan Srivastava; Jazmin Stewart; Shiqi Su; Yuzhu Sun; George Thomas; Simin Tong; Yinhao Wu; Luyao Zhang
+pp: Giáo sư danh dự | Andrew King; Julian Osborne; Kenneth Pounds; Richard Willingale
+xx: Thành viên danh dự / khách | Gordon Stewart; James Aird; John Pye
 
 @inst University of St Andrews — School of Physics & Astronomy
 city: standrews
 type: university
 url: https://www.st-andrews.ac.uk/physics-astronomy/
 research: Ngoại hành tinh, hình thành sao, Mặt Trời, thiên hà; đài quan sát James Gregory.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.st-andrews.ac.uk/physics-astronomy/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astronomy Group
+parent: University of St Andrews
+topics: Ngoại hành tinh, sao lạnh và từ trường sao, hình thành sao, thiên hà (MaNGA), vi thấu kính hấp dẫn.
+url: https://astronomy.wp.st-andrews.ac.uk/
+src: https://astronomy.wp.st-andrews.ac.uk/group-members/
+pp: Giảng viên (teaching staff) | Ian Bonnell; Andrew Cameron; Claudia Cyganowski; Martin Dominik; Juan V. Hernández Santisteban; Moira Jardine; Ryan MacDonald; Aleks Scholz; Rowan Smith; Rita Tojeiro; Anne-Marie Weijmans; Vivienne Wild; Kenneth Wood
+pp: Nghiên cứu sau tiến sĩ | Nicholas Boardman; Pia Cortés Zuleta; Simon Daley-Yates; Rose Waugh
+pp: Nghiên cứu sinh | Clara Brasseur; Zoe Faes; Sarah Faller; Elliott Fogg; Zoe Harvey; Christian Hartogh; Katerina Klos; Sahyadri Krishna; Cheryl Lau; Ho-Hin Leung; Michael Logue; Lewis McCallum; Marta Ramos; Alfie Russell; Holly Seo; Zsofia Szabo; David Taylor; Roberta Vieliute
+pp: Giáo sư danh dự | Keith Horne
+pp: Nhân viên kỹ thuật | Ian Taylor; Chris Watson
+xx: Thành viên danh dự / liên kết | Roger Stapleton; HongSheng Zhao
 
 @inst Cardiff University — School of Physics and Astronomy
 city: cardiff
@@ -107,17 +158,42 @@ research: Sóng hấp dẫn (LIGO), thiên văn hồng ngoại xa – submm, mô
 coverage: partial
 structure: 
 structureUrl: https://www.cardiff.ac.uk/physics-astronomy
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Trang CHART (11/2026) chỉ liệt kê một phần nhân sự, không có nghiên cứu sinh.
+
+#unit CHART — Cardiff Hub for Astrophysics Research and Technology
+parent: Cardiff University
+topics: Thiết bị hồng ngoại xa – submm (detector KID, bộ lọc), vũ trụ học CMB, hình thành sao, siêu tân tinh, thấu kính hấp dẫn.
+url: https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/chart
+src: https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/chart/people
+src: https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff
+pp: Giáo sư | Erminia Calabrese; Simon Doyle; Matthew Griffin; Peter Hargrave; Carole Tucker
+pp: Giảng viên / Reader | Cosimo Inserra; Mattia Negrello; Nicolas Peretto; Subhajit Sarkar; Fabio Antonini
+pp: Nghiên cứu viên độc lập (Royal Society URF / Senior Research Fellow) | Ana Duarte Cabral; Rashmikant Sudiwala
+pp: Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow) | Charlotte Braithwaite; Tom Brien; Ian Harrison; Felix Priestley; Sam Rowe; Ilaria Ruffa; Ian Veenendaal; Christopher Woodhead
+pp: Giáo sư danh dự | Peter Ade
 
 @inst University of Exeter — Astrophysics Group
 city: exeter
 type: university
 url: https://astro.exeter.ac.uk/
 research: Hình thành sao và hành tinh, khí quyển ngoại hành tinh, mô phỏng thủy động lực.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://astro.exeter.ac.uk/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Group
+parent: University of Exeter
+topics: Hình thành sao và hành tinh, ngoại hành tinh và khí quyển, sao lùn nâu, mô phỏng thủy động lực.
+url: https://www.exeter.ac.uk/research/groups/physics/astrophysics/
+src: https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/
+pp: Giáo sư | Isabelle Baraffe; Matthew Bate; Gilles Chabrier; Tim Harries; Sasha Hinkley; Stefan Kraus; Nathan Mayne; Tim Naylor
+pp: Phó giáo sư | Matthew Browning; Sebastian Marino
+pp: Giảng viên cao cấp (Senior Lecturer) | Chris Brunt; Claire Davies; Raphaelle Haywood; Éric Hébrard; Sebastiaan Krijt; Pablo Loren-Aguilar
+pp: Nghiên cứu viên cao cấp (Senior Research Fellow) | Thomas Guillet; Neil Lewis; Tom J. Wilson
+pp: Nghiên cứu sau tiến sĩ | Tom Bending; Nils de Vries; Heather Fenwick Johnston; Till Kaeufer; Vito Squicciarini; Andrew Wilson; Maria Zamyatina
+pp: Kỹ sư CNTT nghiên cứu | Sam Morrell
+pp: Nghiên cứu sinh | Sophia Adams; Harry Baskett; Raphael Bendahan-West; Isabelle Codron; Andrew James; Daniel Lancaster; Yi Lu; Katie Milsom; Jack Morton; Joe Williams
 
 @inst University of Southampton — Astronomy Group
 city: southampton
@@ -134,20 +210,43 @@ city: nottingham
 type: university
 url: https://www.nottingham.ac.uk/astronomy/
 research: Thiên hà và vũ trụ học quan sát, thấu kính hấp dẫn, vũ trụ học lý thuyết.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.nottingham.ac.uk/astronomy/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Centre for Astronomy
+parent: University of Nottingham
+topics: Thiên hà và vũ trụ học quan sát, cụm thiên hà, thấu kính hấp dẫn, môi trường giữa các thiên hà, vũ trụ sơ khai.
+url: https://nottingham.ac.uk/astronomy/
+src: https://nottingham.ac.uk/astronomy/people.php
+pp: Giáo sư / giảng viên | Omar Almaini; Alfonso Aragón-Salamanca; Yannick Bahé; Steven Bamford; James Bolton; Emma Chapman; Simon Dye; Meghan Gray; Nina Hatch; Frazer Pearce; Helen Russell
+pp: Nghiên cứu viên giảng dạy (Teaching and Research Fellow) | David Maltby
+pp: Nghiên cứu sau tiến sĩ / research fellow | Jake Bennett; Hua Gao; Harry Gully; Lucas Kimmig; Tutku Kolcu; Ulrike Kuchner; Maggie Lieu; Garreth Martin; Julian Onions; Ankit Singh; Mathias Urbano
+pp: Nghiên cứu sinh | Harley Brown; Maddie Butler; Jacob Cambell; Jennifer Feron; Adela Fernandez; Jade Gray; Guillaume Hewitt; Mikey Anderson Jennings; Rhys Jordan; Tom de Lisle; Ke Ma; Callum O'Kane; James Rice; Fiona Sawyer; Jack Terry
+pp: Danh dự (emeritus) | Michael Merrifield
+pp: Nhân viên hỗ trợ nghiên cứu | Phil Parry
 
 @inst University of Sheffield — Astrophysics Group
 city: sheffield
 type: university
 url: https://www.sheffield.ac.uk/physics/research/astrophysics
 research: Sao lùn trắng, sao biến quang cận, HiPERCAM/ULTRACAM, sao khối lượng lớn.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.sheffield.ac.uk/physics/research/astrophysics
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Group
+parent: University of Sheffield
+topics: Sao lùn trắng và sao đôi cận (HiPERCAM, ULTRACAM), sao khối lượng lớn, hình thành sao, AGN.
+url: https://www.sheffield.ac.uk/physics/research/astrophysics
+src: https://www.sheffield.ac.uk/physics/research/astrophysics/people
+pp: Giảng viên (academic staff) | Paul Crowther; Vik Dhillon; Simon Goodwin; Katherine Inskip; Stuart Littlefair; James Mullaney; Richard Parker; Steven Parsons; Clive Tadhunter
+pp: Nghiên cứu sau tiến sĩ | Edward Snowdon
+pp: Kỹ sư phần mềm nghiên cứu | Martin Dyer; Paul Kerry
+pp: Nghiên cứu sinh | Thaer Alkousa; Megan Allen; Freya Barwell; James Garbutt; Dan Jarvis; Dustin Mason; Eleanor Pike; Sunder Singh-Bal; Adam Singleton; Amalie Yates
+xx: Khách mời / danh dự | Evan Keane; Andy Pollock; Dave Sahman; Simon Tulloch
 
 @inst University of Bristol — Astrophysics Group
 city: bristol
@@ -157,7 +256,17 @@ research: Vũ trụ học, sao khối lượng lớn, hình thành hành tinh, s
 coverage: partial
 structure: 
 structureUrl: https://www.bristol.ac.uk/physics/research/astrophysics/
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Mới có danh sách giảng viên (11/2026); trang postdoc và nghiên cứu sinh chưa lấy được.
+
+#unit Astrophysics Group — giảng viên
+parent: University of Bristol
+topics: AGN và cụm thiên hà, khí quyển ngoại hành tinh (JWST), hình thành hành tinh, sao khối lượng lớn, khảo sát thiên hà.
+url: https://bristol.ac.uk/physics/research/astrophysics/people
+src: https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/
+pp: Giáo sư | Malcolm Bremer; Zoë Leinhardt; Ben Maughan; Andrew Young
+pp: Giảng viên / Phó giáo sư | Sotiria Fotopoulou; Natasha Maddox; Denis Sergeev; Richard Stancliffe; Hannah Wakeford
+pp: Kỹ sư CNTT | Rhys Morris
+xx: Khách mời (Royal Society Wolfson Visiting Fellow) | Belinda Wilkes
 
 @inst University of Birmingham — Astrophysics & Space Research / Gravitational Wave Astronomy
 city: birmingham
@@ -167,7 +276,20 @@ research: Sóng hấp dẫn (LIGO, LISA), sao học (asteroseismology), thiên h
 coverage: partial
 structure: 
 structureUrl: https://www.birmingham.ac.uk/research/gravitational-wave
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Gồm nhóm Extragalactic và Solar & Stellar (11/2026); nhóm sóng hấp dẫn chưa lấy.
+
+#unit Extragalactic Astronomy + Solar & Stellar Physics
+parent: University of Birmingham
+topics: Cụm thiên hà và thấu kính hấp dẫn, sự kiện tạm thời, vũ trụ học siêu tân tinh; sao học (asteroseismology, BiSON), ngoại hành tinh quanh sao đôi.
+url: https://www.sr.bham.ac.uk/
+src: https://www.birmingham.ac.uk/research/activity/physics/astronomy/extragalactic-astronomy/people
+src: https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff
+pp: Giáo sư | Graham Smith; Bill Chaplin; Yvonne Elsworth; Amaury Triaud
+pp: Giảng viên / Trợ lý giáo sư | Clément Bonnerot; Suhail Dhawan; Ben Gompertz; Sean McGee; Guy R Davies; Annelies Mortier; Anjali Piette
+pp: Nghiên cứu sau tiến sĩ | Matteo Bianconi; Dimple; Dan Ryczanowski; Jenni French; Rachel Howe; Ancy Anna John; Ben Lakeland; Martin Nielsen; Vatsal Panwar; Victor See; Adam Stevenson; Amalie Stokholm; Mathilde Timmermans; Emma Willett
+pp: Nghiên cứu sinh | Nichola Charlton; Simona Pacuraru; Alastair Palmer; Andres Ponte Perez; Paige Ramsden; Evan Ridley; Luke Williams; Makenzie Wortley; Isabelle Worssam; Aleyna Adamson; Joseph Asal; Jacob Ayre; Anand Bhongade; Matt Clay; Yasmin Davis; Jessica Diamond; George Hookway; Kiran Jhass; Thomas Marriott; Maddy Scott; Daisy Turner
+pp: Nhân viên kỹ thuật | Steven J. Hale; Eleanor Murray
+xx: Thành viên liên kết | Thomas Baycroft; Alix Violet Freckelton; Emily Hatt; Federica Rescigno
 
 @inst University of Hertfordshire — Centre for Astrophysics Research
 city: hatfield
@@ -184,10 +306,21 @@ city: belfast
 type: university
 url: https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/
 research: Siêu tân tinh và sự kiện tạm thời (Pan-STARRS, ATLAS), Mặt Trời, tiểu hành tinh.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Research Centre (ARC)
+parent: Queen's University Belfast
+topics: Siêu tân tinh và sự kiện tạm thời (ATLAS, Pan-STARRS, Rubin), vật lý Mặt Trời, Hệ Mặt Trời và tiểu hành tinh, ngoại hành tinh, vật lý nguyên tử cho thiên văn.
+url: https://www.qub.ac.uk/research-centres/astrophysics-research-centre/
+src: https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/
+pp: Giáo sư | Mihalis Mathioudakis; Connor Ballance; David Jess; Stuart Sim; Stephen Smartt; Chris Watson
+pp: Giảng viên (academic staff) | Ryan Campbell; Peter Keys; Ryan Milligan; Ernst de Mooij; Matt Nicholl; Meg Schwamb
+pp: Nghiên cứu sau tiến sĩ | Charlotte Angus; Susanna Bekker; Fionntan Callan; Shivanand Chaurasia; Jean Costes; Timothy Duckenfield; Harry Greatorex; Erin Higgins; Shahin Jafarzadeh; Aaron Monson; Michael McCann; Sean O'Brien; Xinyue Sheng; Ken Smith; Shubham Srivastav; David Young; Mitchell Young
+pp: Nghiên cứu sinh | Aysha Aamer; Jack Brown; Ben Cadell; Glen Chambers; David Dougan; Michael Fulton; John Henry; Katlyn Hobbs; Ryan Lyttle; Dylan Magill; Luke Majury; Niamh Mallaghan; Matt McCollum; Niall McElroy; Adam McGarrity; Eamon McGleenan; Jack McFall; Fiona McNeill; Leo Mulholland; Joseph Murtagh; Aisling O'Hare; Niall Owens; Josh Polin; Scott Robinson; Toby Rodel; Adam Smith; Joshua Weston
+pp: Danh dự (emeritus) | Kanti Aggarwal; Philip Dufton; Alan Fitzsimmons; Francis Keenan; Tom Millar; Cathy Ramsbottom
 
 @inst The Open University — School of Physical Sciences
 city: miltonkeynes
@@ -224,20 +357,40 @@ city: leeds
 type: university
 url: https://physics.leeds.ac.uk/astrophysics
 research: Hình thành sao khối lượng lớn, môi trường liên sao, thiên văn hoá học.
-coverage: partial
+coverage: leaders
 structure: 
 structureUrl: https://physics.leeds.ac.uk/astrophysics
-scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+scope: Danh sách nhân sự trường chỉ ghi 5 người thuộc mục Astrophysics (11/2026).
+
+#unit Astrophysics Group — lãnh đạo
+parent: University of Leeds
+topics: Hình thành sao khối lượng lớn, khảo sát mặt phẳng Ngân Hà, khí quyển hành tinh.
+url: https://ast.leeds.ac.uk/
+src: https://eps.leeds.ac.uk/physics-astrophysics/stafflist
+pp: Giáo sư / Phó giáo sư | Stuart Lumsden; Daniel Marsh; Mark Thompson
+pp: Quản lý dự án | Emma Smith
+pp: Giáo sư danh dự | Alan Watson
 
 @inst Keele University — Astrophysics Group
 city: keele
 type: university
 url: https://www.keele.ac.uk/physics/
 research: Ngoại hành tinh (WASP), sao và cụm sao.
-coverage: partial
+coverage: full
 structure: 
 structureUrl: https://www.keele.ac.uk/physics/
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
+
+#unit Astrophysics Research Centre
+parent: Keele University
+topics: Sao đôi che khuất, ngoại hành tinh (WASP), sao khối lượng lớn và thủy động lực học sao, cụm sao trẻ.
+url: https://www.keele.ac.uk/astrophysics-centre/
+src: https://www.keele.ac.uk/astrophysics-centre/ourteam/
+pp: Giảng viên / Giáo sư | Pierre F.L. Maxted; Nick Wright; Raphael Hirschi; Jacco Th. van Loon; Joana Oliveira; Barry Smalley; John Taylor; Coel Hellier; Rob D. Jeffries
+pp: Nghiên cứu sau tiến sĩ | Adam Griffiths; Axel Jonas Hahlin; Ayush Moharana; Christina Schoettler; Vishnu Varma R Vejayan
+pp: Nghiên cứu sinh | Joy Anih; Caitlan Chambers; Jess Craig; Francesca Dresbach; Juan Martinez Garcia; Lina Marie Gerlach; Steve Overall; Joseph Setchfield; George Weaver; Emily Whitehead; Fay Wilde; Ahmet Cem Kutluay
+pp: Học viên thạc sĩ nghiên cứu | Natasha Adshead; Harry Burchell; Lex Griffiths
+pp: Giáo sư danh dự | Aneurin Evans
 
 @inst University of Central Lancashire — Jeremiah Horrocks Institute
 city: preston
@@ -249,3 +402,26 @@ structure:
 structureUrl: https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute
 scope: Mới thêm cơ quan (11/2026); chưa lấy danh sách người.
 
+
+@inst University of Surrey — Astrophysics Research Group
+city: guildford
+type: university
+url: https://www.surrey.ac.uk/astrophysics-group
+research: Động lực học Ngân Hà và thiên hà lùn, vật chất tối, sao đôi và tiến hóa sao, lỗ đen trong nhân thiên hà, vũ trụ học.
+coverage: full
+structure: 
+structureUrl: https://www.surrey.ac.uk/astrophysics-group
+scope: Mới thêm cơ quan (11/2026).
+
+#unit Astrophysics Research Group
+parent: University of Surrey
+topics: Động lực học Ngân Hà, thiên hà lùn, vật chất tối, tiến hóa sao đôi, cụm sao.
+url: https://www.surrey.ac.uk/astrophysics-group
+src: https://www.surrey.ac.uk/astrophysics-group/people
+pp: Giáo sư | Michelle Collins; Justin Read; Bob Nichol; Adam Amara; Alessia Gualandris
+pp: Giảng viên / Reader | Denis Erkal; Noelia Noel; Robert Izzard; Jason Hunt
+pp: Nghiên cứu viên độc lập (fellowship dài hạn: UKRI FLF, Royal Society URF, STFC ERF) | Payel Das; Anke Ardern-Arentsen; Eugene Vasiliev
+pp: Nghiên cứu sau tiến sĩ | Thibaut Francois; Amery Gration; Oliver Newton
+pp: Thành viên có học vị Dr. (trang không ghi chức danh) | Susan Hutton
+pp: Nghiên cứu sinh | Ethan Taylor; Harry Addison; Astha; Nicole Buckley; Hassan Butt; Julian Jun Yen Chan; Vandana Ganesan Kaushik; Andrew Garner; Nader Khonji; Mahdieh Navabi; Connor Pickett
+xx: Khách mời | Janet Preston

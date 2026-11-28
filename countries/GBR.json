@@ -40,8 +40,167 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.qmul.ac.uk/spa/astro/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Trang thành viên (11/2026) không liệt kê nghiên cứu sinh.",
+     "units": [
+      {
+       "name": "Astronomy Unit",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Queen Mary University of London",
+       "topics": "Vũ trụ học lý thuyết và thuyết tương đối, hình thành hành tinh, ngoại hành tinh, plasma không gian và gió Mặt Trời.",
+       "url": "https://www.qmul.ac.uk/spcs/astro/",
+       "researchers": {
+        "people": [
+         {
+          "name": "David Burgess",
+          "role": "Giáo sư",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Chris Clarkson",
+          "role": "Giáo sư",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Richard Nelson",
+          "role": "Giáo sư",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Craig Agnor",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Enrico Camporeale",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Christopher Chen",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Timothy Clifton",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Philippa Cole",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "David Mulryne",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Will Sutherland",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Heli Hietala",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Andrew Winter",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Matthew Battley",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Deepak Chahal",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Gavin Coleman",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Saumya Gupta",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Cynthia Ho",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Eleftheria Sarafidou",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Edris Tajfirouzeh",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Bernard Carr",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Carl Murray",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Alexander Polnarev",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Ian Roxburgh",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Reza Tavakol",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Beatrice Caccherano",
+          "role": "Thành viên (trang không ghi chức danh)",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         }
+        ],
+        "external": [
+         {
+          "name": "Richard Donnison",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "George Ellis",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         },
+         {
+          "name": "Melis Irfan",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+         }
+        ],
+        "sources": [
+         "https://www.my.qmul.ac.uk/spcs/astro/group-members/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     },
     {
@@ -71,11 +230,404 @@
      "type": "university",
      "research": "Một trong các viện vật lý thiên văn lớn của Anh; vận hành Liverpool Telescope (La Palma); thiên hà, cụm sao, sao biến quang.",
      "url": "https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Research Institute (toàn viện)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Liverpool John Moores University",
+       "topics": "Hình thành thiên hà và mô phỏng (EAGLE, FLAMINGO), sao và cụm sao, sự kiện tạm thời (nova, siêu tân tinh, GRB), Liverpool Telescope và New Robotic Telescope.",
+       "url": "https://ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ivan Baldry",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Mike Bode",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Chris Collins",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Robert Crain",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Matt Darnley",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Shiho Kobayashi",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Steven Longmore",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Paolo Mazzali",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Ian McCarthy",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Andrew Newsam",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Maurizio Salaris",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Iain Steele",
+          "role": "Giáo sư",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Christopher Copperwheat",
+          "role": "Giảng viên / trưởng bộ phận (theo danh sách vai trò chủ chốt)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Andreea Font",
+          "role": "Giảng viên / trưởng bộ phận (theo danh sách vai trò chủ chốt)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Marie Martig",
+          "role": "Giảng viên / trưởng bộ phận (theo danh sách vai trò chủ chốt)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Ricardo Schiavon",
+          "role": "Giảng viên / trưởng bộ phận (theo danh sách vai trò chủ chốt)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Joao Da Silva Bento",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Robert Grand",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Stacey Habergham-Mawson",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Daniel Harman",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Michael Healy-Kalesh",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Jonathan Henshaw",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Helen Jermak",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Sebastian Kamann",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Gavin Lamb",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Chris Leigh",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Witold Maciejewski",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Jonathan Marchant",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Fiona Murphy-Glaysher",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Conor Omand",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Renuka Pechetti",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Daniel Perley",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Andrzej Piascik",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Jaime Salcido Negrete",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Sara Saracino",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Renske Smit",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Stuart Bates",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "David Copley",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Mohamed Daoud",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Adam Garner",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "David Heffernan-Clarke",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Rebecca Houghton",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Adrian McGrath",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Chloe Miossec",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Chris Mottram",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Ali Ranjbar",
+          "role": "Thành viên (trang không ghi chức danh, thường là nhân viên kỹ thuật)",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Callum McCall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Charles Aouad",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Elena Balakina",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Ola Bochenek",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Jemima Briggs",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Sebastian Buntin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Jonah Conley",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Alex Cooke",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Emily Costello",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Anna Durrant",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Beth Garton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "K-Ryan Hinds",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Stevie King",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Tutku Kolcu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "David Law",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Andrew Mason",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Gregory Murrell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Khang Nguyen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Michael O'Connor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Katherine Ormerod",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Siân Phillips",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Tsito Rakotozoely",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Ryan Roberts",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Chris Rowe",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Scarlett Royle",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Andrea Sante",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Phoebe Stainton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Cairns Turnbull",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         },
+         {
+          "name": "Bethan Williams",
+          "role": "Nghiên cứu sinh",
+          "url": "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://cm-prod.ljmu.ac.uk/research/centres-and-institutes/astrophysics-research-institute/staff-profiles"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -93,11 +645,350 @@
      "type": "university",
      "research": "Thiên văn tia X (Swift, Einstein Probe, SMILE), khoa học hành tinh, đĩa bồi tụ, lỗ đen.",
      "url": "https://le.ac.uk/physics",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://le.ac.uk/physics",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Division",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Leicester",
+       "topics": "Thiên văn tia X và sự kiện tạm thời (Swift, SMILE), sao lùn trắng, sóng hấp dẫn, động lực học thiên hà, đĩa tiền hành tinh.",
+       "url": "https://le.ac.uk/astrophysics",
+       "researchers": {
+        "people": [
+         {
+          "name": "Paul O'Brien",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Richard Alexander",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Martin Barstow",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Andrew Blain",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Jon Lapington",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Sergei Nayakshin",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Mervyn Roy",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Nial Tanvir",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Simon Vaughan",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Michael Watson",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Mark Wilkinson",
+          "role": "Giáo sư",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Paul Abel",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Matthew Burleigh",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Sarah Casewell",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Philip Evans",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Michael Goad",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Paul McMillan",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Rhaana Starling",
+          "role": "Giảng viên / Reader",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Andrew Beardmore",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Keir Birchall",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Jaiverdhan Chauhan",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Robert Eyles-Ferris",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Nusrin Habeeb",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Vatsalya Maddi",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Kjell Koch-Mehrin",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Claudio Pagani",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Kim Page",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Andrew Read",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Sahl Rowther",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Steven Sembay",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Tuomo Tikkanen",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate)",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Richard Hampson",
+          "role": "Quản lý dự án SMILE",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Andrew Cheney",
+          "role": "Kỹ sư hệ thống",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Seti Astrophel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Sandra Calovic",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Troy Edkins",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Jenni French",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "George Harvey",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Adam Hennessy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "James Jones",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Yashaswi Julakanti",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Alicia Kendall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Hans Lee",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Mehdy Lefkir",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Christopher Mander",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Lee Martin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Miti Patel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Ben Rayson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Victoria Shevill",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Srijan Srivastava",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Jazmin Stewart",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Shiqi Su",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Yuzhu Sun",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "George Thomas",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Simin Tong",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Yinhao Wu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Luyao Zhang",
+          "role": "Nghiên cứu sinh",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Andrew King",
+          "role": "Giáo sư danh dự",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Julian Osborne",
+          "role": "Giáo sư danh dự",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Kenneth Pounds",
+          "role": "Giáo sư danh dự",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "Richard Willingale",
+          "role": "Giáo sư danh dự",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         }
+        ],
+        "external": [
+         {
+          "name": "Gordon Stewart",
+          "role": "Thành viên danh dự / khách",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "James Aird",
+          "role": "Thành viên danh dự / khách",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         },
+         {
+          "name": "John Pye",
+          "role": "Thành viên danh dự / khách",
+          "url": "https://le.ac.uk/astrophysics/contacts"
+         }
+        ],
+        "sources": [
+         "https://le.ac.uk/astrophysics/contacts"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -115,11 +1006,230 @@
      "type": "university",
      "research": "Ngoại hành tinh, hình thành sao, Mặt Trời, thiên hà; đài quan sát James Gregory.",
      "url": "https://www.st-andrews.ac.uk/physics-astronomy/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.st-andrews.ac.uk/physics-astronomy/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astronomy Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of St Andrews",
+       "topics": "Ngoại hành tinh, sao lạnh và từ trường sao, hình thành sao, thiên hà (MaNGA), vi thấu kính hấp dẫn.",
+       "url": "https://astronomy.wp.st-andrews.ac.uk/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Ian Bonnell",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Andrew Cameron",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Claudia Cyganowski",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Martin Dominik",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Juan V. Hernández Santisteban",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Moira Jardine",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Ryan MacDonald",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Aleks Scholz",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Rowan Smith",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Rita Tojeiro",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Anne-Marie Weijmans",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Vivienne Wild",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Kenneth Wood",
+          "role": "Giảng viên (teaching staff)",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Nicholas Boardman",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Pia Cortés Zuleta",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Simon Daley-Yates",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Rose Waugh",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Clara Brasseur",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Zoe Faes",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Sarah Faller",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Elliott Fogg",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Zoe Harvey",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Christian Hartogh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Katerina Klos",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Sahyadri Krishna",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Cheryl Lau",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Ho-Hin Leung",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Michael Logue",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Lewis McCallum",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Marta Ramos",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Alfie Russell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Holly Seo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Zsofia Szabo",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "David Taylor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Roberta Vieliute",
+          "role": "Nghiên cứu sinh",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Keith Horne",
+          "role": "Giáo sư danh dự",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Ian Taylor",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "Chris Watson",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         }
+        ],
+        "external": [
+         {
+          "name": "Roger Stapleton",
+          "role": "Thành viên danh dự / liên kết",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         },
+         {
+          "name": "HongSheng Zhao",
+          "role": "Thành viên danh dự / liên kết",
+          "url": "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+         }
+        ],
+        "sources": [
+         "https://astronomy.wp.st-andrews.ac.uk/group-members/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -140,8 +1250,131 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.cardiff.ac.uk/physics-astronomy",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Trang CHART (11/2026) chỉ liệt kê một phần nhân sự, không có nghiên cứu sinh.",
+     "units": [
+      {
+       "name": "CHART — Cardiff Hub for Astrophysics Research and Technology",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Cardiff University",
+       "topics": "Thiết bị hồng ngoại xa – submm (detector KID, bộ lọc), vũ trụ học CMB, hình thành sao, siêu tân tinh, thấu kính hấp dẫn.",
+       "url": "https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/chart",
+       "researchers": {
+        "people": [
+         {
+          "name": "Erminia Calabrese",
+          "role": "Giáo sư",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Simon Doyle",
+          "role": "Giáo sư",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Matthew Griffin",
+          "role": "Giáo sư",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Peter Hargrave",
+          "role": "Giáo sư",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Carole Tucker",
+          "role": "Giáo sư",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Cosimo Inserra",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Mattia Negrello",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Nicolas Peretto",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Subhajit Sarkar",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Fabio Antonini",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Ana Duarte Cabral",
+          "role": "Nghiên cứu viên độc lập (Royal Society URF / Senior Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Rashmikant Sudiwala",
+          "role": "Nghiên cứu viên độc lập (Royal Society URF / Senior Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Charlotte Braithwaite",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Tom Brien",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Ian Harrison",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Felix Priestley",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Sam Rowe",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Ilaria Ruffa",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Ian Veenendaal",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Christopher Woodhead",
+          "role": "Nghiên cứu sau tiến sĩ (Research Associate / Research Fellow)",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         },
+         {
+          "name": "Peter Ade",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.cardiff.ac.uk/physics-astronomy/people/academic-staff"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -159,11 +1392,214 @@
      "type": "university",
      "research": "Hình thành sao và hành tinh, khí quyển ngoại hành tinh, mô phỏng thủy động lực.",
      "url": "https://astro.exeter.ac.uk/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://astro.exeter.ac.uk/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Exeter",
+       "topics": "Hình thành sao và hành tinh, ngoại hành tinh và khí quyển, sao lùn nâu, mô phỏng thủy động lực.",
+       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Isabelle Baraffe",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Matthew Bate",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Gilles Chabrier",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Tim Harries",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Sasha Hinkley",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Stefan Kraus",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Nathan Mayne",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Tim Naylor",
+          "role": "Giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Matthew Browning",
+          "role": "Phó giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Sebastian Marino",
+          "role": "Phó giáo sư",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Chris Brunt",
+          "role": "Giảng viên cao cấp (Senior Lecturer)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Claire Davies",
+          "role": "Giảng viên cao cấp (Senior Lecturer)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Raphaelle Haywood",
+          "role": "Giảng viên cao cấp (Senior Lecturer)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Éric Hébrard",
+          "role": "Giảng viên cao cấp (Senior Lecturer)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Sebastiaan Krijt",
+          "role": "Giảng viên cao cấp (Senior Lecturer)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Pablo Loren-Aguilar",
+          "role": "Giảng viên cao cấp (Senior Lecturer)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Thomas Guillet",
+          "role": "Nghiên cứu viên cao cấp (Senior Research Fellow)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Neil Lewis",
+          "role": "Nghiên cứu viên cao cấp (Senior Research Fellow)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Tom J. Wilson",
+          "role": "Nghiên cứu viên cao cấp (Senior Research Fellow)",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Tom Bending",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Nils de Vries",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Heather Fenwick Johnston",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Till Kaeufer",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Vito Squicciarini",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Andrew Wilson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Maria Zamyatina",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Sam Morrell",
+          "role": "Kỹ sư CNTT nghiên cứu",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Sophia Adams",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Harry Baskett",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Raphael Bendahan-West",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Isabelle Codron",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Andrew James",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Daniel Lancaster",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Yi Lu",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Katie Milsom",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Jack Morton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         },
+         {
+          "name": "Joe Williams",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.exeter.ac.uk/research/groups/physics/astrophysics/staff/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -203,11 +1639,229 @@
      "type": "university",
      "research": "Thiên hà và vũ trụ học quan sát, thấu kính hấp dẫn, vũ trụ học lý thuyết.",
      "url": "https://www.nottingham.ac.uk/astronomy/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.nottingham.ac.uk/astronomy/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Centre for Astronomy",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Nottingham",
+       "topics": "Thiên hà và vũ trụ học quan sát, cụm thiên hà, thấu kính hấp dẫn, môi trường giữa các thiên hà, vũ trụ sơ khai.",
+       "url": "https://nottingham.ac.uk/astronomy/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Omar Almaini",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Alfonso Aragón-Salamanca",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Yannick Bahé",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Steven Bamford",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "James Bolton",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Emma Chapman",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Simon Dye",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Meghan Gray",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Nina Hatch",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Frazer Pearce",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Helen Russell",
+          "role": "Giáo sư / giảng viên",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "David Maltby",
+          "role": "Nghiên cứu viên giảng dạy (Teaching and Research Fellow)",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Jake Bennett",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Hua Gao",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Harry Gully",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Lucas Kimmig",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Tutku Kolcu",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Ulrike Kuchner",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Maggie Lieu",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Garreth Martin",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Julian Onions",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Ankit Singh",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Mathias Urbano",
+          "role": "Nghiên cứu sau tiến sĩ / research fellow",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Harley Brown",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Maddie Butler",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Jacob Cambell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Jennifer Feron",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Adela Fernandez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Jade Gray",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Guillaume Hewitt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Mikey Anderson Jennings",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Rhys Jordan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Tom de Lisle",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Ke Ma",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Callum O'Kane",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "James Rice",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Fiona Sawyer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Jack Terry",
+          "role": "Nghiên cứu sinh",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Michael Merrifield",
+          "role": "Danh dự (emeritus)",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         },
+         {
+          "name": "Phil Parry",
+          "role": "Nhân viên hỗ trợ nghiên cứu",
+          "url": "https://nottingham.ac.uk/astronomy/people.php"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://nottingham.ac.uk/astronomy/people.php"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -225,11 +1879,160 @@
      "type": "university",
      "research": "Sao lùn trắng, sao biến quang cận, HiPERCAM/ULTRACAM, sao khối lượng lớn.",
      "url": "https://www.sheffield.ac.uk/physics/research/astrophysics",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.sheffield.ac.uk/physics/research/astrophysics",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Sheffield",
+       "topics": "Sao lùn trắng và sao đôi cận (HiPERCAM, ULTRACAM), sao khối lượng lớn, hình thành sao, AGN.",
+       "url": "https://www.sheffield.ac.uk/physics/research/astrophysics",
+       "researchers": {
+        "people": [
+         {
+          "name": "Paul Crowther",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Vik Dhillon",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Simon Goodwin",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Katherine Inskip",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Stuart Littlefair",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "James Mullaney",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Richard Parker",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Steven Parsons",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Clive Tadhunter",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Edward Snowdon",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Martin Dyer",
+          "role": "Kỹ sư phần mềm nghiên cứu",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Paul Kerry",
+          "role": "Kỹ sư phần mềm nghiên cứu",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Thaer Alkousa",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Megan Allen",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Freya Barwell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "James Garbutt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Dan Jarvis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Dustin Mason",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Eleanor Pike",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Sunder Singh-Bal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Adam Singleton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Amalie Yates",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         }
+        ],
+        "external": [
+         {
+          "name": "Evan Keane",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Andy Pollock",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Dave Sahman",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         },
+         {
+          "name": "Simon Tulloch",
+          "role": "Khách mời / danh dự",
+          "url": "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+         }
+        ],
+        "sources": [
+         "https://www.sheffield.ac.uk/physics/research/astrophysics/people"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -250,8 +2053,82 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.bristol.ac.uk/physics/research/astrophysics/",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có danh sách giảng viên (11/2026); trang postdoc và nghiên cứu sinh chưa lấy được.",
+     "units": [
+      {
+       "name": "Astrophysics Group — giảng viên",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Bristol",
+       "topics": "AGN và cụm thiên hà, khí quyển ngoại hành tinh (JWST), hình thành hành tinh, sao khối lượng lớn, khảo sát thiên hà.",
+       "url": "https://bristol.ac.uk/physics/research/astrophysics/people",
+       "researchers": {
+        "people": [
+         {
+          "name": "Malcolm Bremer",
+          "role": "Giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Zoë Leinhardt",
+          "role": "Giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Ben Maughan",
+          "role": "Giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Andrew Young",
+          "role": "Giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Sotiria Fotopoulou",
+          "role": "Giảng viên / Phó giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Natasha Maddox",
+          "role": "Giảng viên / Phó giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Denis Sergeev",
+          "role": "Giảng viên / Phó giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Richard Stancliffe",
+          "role": "Giảng viên / Phó giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Hannah Wakeford",
+          "role": "Giảng viên / Phó giáo sư",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         },
+         {
+          "name": "Rhys Morris",
+          "role": "Kỹ sư CNTT",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         }
+        ],
+        "external": [
+         {
+          "name": "Belinda Wilkes",
+          "role": "Khách mời (Royal Society Wolfson Visiting Fellow)",
+          "url": "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+         }
+        ],
+        "sources": [
+         "https://www.bristol.ac.uk/physics/research/astrophysics/people/academic-staff/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -272,8 +2149,287 @@
      "coverage": "partial",
      "structure": "",
      "structureUrl": "https://www.birmingham.ac.uk/research/gravitational-wave",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Gồm nhóm Extragalactic và Solar & Stellar (11/2026); nhóm sóng hấp dẫn chưa lấy.",
+     "units": [
+      {
+       "name": "Extragalactic Astronomy + Solar & Stellar Physics",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Birmingham",
+       "topics": "Cụm thiên hà và thấu kính hấp dẫn, sự kiện tạm thời, vũ trụ học siêu tân tinh; sao học (asteroseismology, BiSON), ngoại hành tinh quanh sao đôi.",
+       "url": "https://www.sr.bham.ac.uk/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Graham Smith",
+          "role": "Giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Bill Chaplin",
+          "role": "Giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Yvonne Elsworth",
+          "role": "Giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Amaury Triaud",
+          "role": "Giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Clément Bonnerot",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Suhail Dhawan",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Ben Gompertz",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Sean McGee",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Guy R Davies",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Annelies Mortier",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Anjali Piette",
+          "role": "Giảng viên / Trợ lý giáo sư",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Matteo Bianconi",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Dimple",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Dan Ryczanowski",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Jenni French",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Rachel Howe",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Ancy Anna John",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Ben Lakeland",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Martin Nielsen",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Vatsal Panwar",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Victor See",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Adam Stevenson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Amalie Stokholm",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Mathilde Timmermans",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Emma Willett",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Nichola Charlton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Simona Pacuraru",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Alastair Palmer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Andres Ponte Perez",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Paige Ramsden",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Evan Ridley",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Luke Williams",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Makenzie Wortley",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Isabelle Worssam",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Aleyna Adamson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Joseph Asal",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Jacob Ayre",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Anand Bhongade",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Matt Clay",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Yasmin Davis",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Jessica Diamond",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "George Hookway",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Kiran Jhass",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Thomas Marriott",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Maddy Scott",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Daisy Turner",
+          "role": "Nghiên cứu sinh",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Steven J. Hale",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Eleanor Murray",
+          "role": "Nhân viên kỹ thuật",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         }
+        ],
+        "external": [
+         {
+          "name": "Thomas Baycroft",
+          "role": "Thành viên liên kết",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Alix Violet Freckelton",
+          "role": "Thành viên liên kết",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Emily Hatt",
+          "role": "Thành viên liên kết",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         },
+         {
+          "name": "Federica Rescigno",
+          "role": "Thành viên liên kết",
+          "url": "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+         }
+        ],
+        "sources": [
+         "https://birmingham.ac.uk/research/activity/physics/astronomy/solar-and-stellar/staff"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -313,11 +2469,339 @@
      "type": "university",
      "research": "Siêu tân tinh và sự kiện tạm thời (Pan-STARRS, ATLAS), Mặt Trời, tiểu hành tinh.",
      "url": "https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.qub.ac.uk/research-centres/AstrophysicsResearchCentre/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Research Centre (ARC)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Queen's University Belfast",
+       "topics": "Siêu tân tinh và sự kiện tạm thời (ATLAS, Pan-STARRS, Rubin), vật lý Mặt Trời, Hệ Mặt Trời và tiểu hành tinh, ngoại hành tinh, vật lý nguyên tử cho thiên văn.",
+       "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Mihalis Mathioudakis",
+          "role": "Giáo sư",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Connor Ballance",
+          "role": "Giáo sư",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "David Jess",
+          "role": "Giáo sư",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Stuart Sim",
+          "role": "Giáo sư",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Stephen Smartt",
+          "role": "Giáo sư",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Chris Watson",
+          "role": "Giáo sư",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Ryan Campbell",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Peter Keys",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Ryan Milligan",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Ernst de Mooij",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Matt Nicholl",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Meg Schwamb",
+          "role": "Giảng viên (academic staff)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Charlotte Angus",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Susanna Bekker",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Fionntan Callan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Shivanand Chaurasia",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Jean Costes",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Timothy Duckenfield",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Harry Greatorex",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Erin Higgins",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Shahin Jafarzadeh",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Aaron Monson",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Michael McCann",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Sean O'Brien",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Xinyue Sheng",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Ken Smith",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Shubham Srivastav",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "David Young",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Mitchell Young",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Aysha Aamer",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Jack Brown",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Ben Cadell",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Glen Chambers",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "David Dougan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Michael Fulton",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "John Henry",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Katlyn Hobbs",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Ryan Lyttle",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Dylan Magill",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Luke Majury",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Niamh Mallaghan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Matt McCollum",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Niall McElroy",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Adam McGarrity",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Eamon McGleenan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Jack McFall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Fiona McNeill",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Leo Mulholland",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Joseph Murtagh",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Aisling O'Hare",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Niall Owens",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Josh Polin",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Scott Robinson",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Toby Rodel",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Adam Smith",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Joshua Weston",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Kanti Aggarwal",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Philip Dufton",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Alan Fitzsimmons",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Francis Keenan",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Tom Millar",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         },
+         {
+          "name": "Cathy Ramsbottom",
+          "role": "Danh dự (emeritus)",
+          "url": "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.qub.ac.uk/research-centres/astrophysics-research-centre/AbouttheARC/arc-members/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -401,11 +2885,54 @@
      "type": "university",
      "research": "Hình thành sao khối lượng lớn, môi trường liên sao, thiên văn hoá học.",
      "url": "https://physics.leeds.ac.uk/astrophysics",
-     "coverage": "partial",
+     "coverage": "leaders",
      "structure": "",
      "structureUrl": "https://physics.leeds.ac.uk/astrophysics",
-     "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Danh sách nhân sự trường chỉ ghi 5 người thuộc mục Astrophysics (11/2026).",
+     "units": [
+      {
+       "name": "Astrophysics Group — lãnh đạo",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Leeds",
+       "topics": "Hình thành sao khối lượng lớn, khảo sát mặt phẳng Ngân Hà, khí quyển hành tinh.",
+       "url": "https://ast.leeds.ac.uk/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Stuart Lumsden",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://eps.leeds.ac.uk/physics-astrophysics/stafflist"
+         },
+         {
+          "name": "Daniel Marsh",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://eps.leeds.ac.uk/physics-astrophysics/stafflist"
+         },
+         {
+          "name": "Mark Thompson",
+          "role": "Giáo sư / Phó giáo sư",
+          "url": "https://eps.leeds.ac.uk/physics-astrophysics/stafflist"
+         },
+         {
+          "name": "Emma Smith",
+          "role": "Quản lý dự án",
+          "url": "https://eps.leeds.ac.uk/physics-astrophysics/stafflist"
+         },
+         {
+          "name": "Alan Watson",
+          "role": "Giáo sư danh dự",
+          "url": "https://eps.leeds.ac.uk/physics-astrophysics/stafflist"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://eps.leeds.ac.uk/physics-astrophysics/stafflist"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -423,11 +2950,179 @@
      "type": "university",
      "research": "Ngoại hành tinh (WASP), sao và cụm sao.",
      "url": "https://www.keele.ac.uk/physics/",
-     "coverage": "partial",
+     "coverage": "full",
      "structure": "",
      "structureUrl": "https://www.keele.ac.uk/physics/",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
-     "units": [],
+     "units": [
+      {
+       "name": "Astrophysics Research Centre",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Keele University",
+       "topics": "Sao đôi che khuất, ngoại hành tinh (WASP), sao khối lượng lớn và thủy động lực học sao, cụm sao trẻ.",
+       "url": "https://www.keele.ac.uk/astrophysics-centre/",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pierre F.L. Maxted",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Nick Wright",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Raphael Hirschi",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Jacco Th. van Loon",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Joana Oliveira",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Barry Smalley",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "John Taylor",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Coel Hellier",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Rob D. Jeffries",
+          "role": "Giảng viên / Giáo sư",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Adam Griffiths",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Axel Jonas Hahlin",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Ayush Moharana",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Christina Schoettler",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Vishnu Varma R Vejayan",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Joy Anih",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Caitlan Chambers",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Jess Craig",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Francesca Dresbach",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Juan Martinez Garcia",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Lina Marie Gerlach",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Steve Overall",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Joseph Setchfield",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "George Weaver",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Emily Whitehead",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Fay Wilde",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Ahmet Cem Kutluay",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Natasha Adshead",
+          "role": "Học viên thạc sĩ nghiên cứu",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Harry Burchell",
+          "role": "Học viên thạc sĩ nghiên cứu",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Lex Griffiths",
+          "role": "Học viên thạc sĩ nghiên cứu",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         },
+         {
+          "name": "Aneurin Evans",
+          "role": "Giáo sư danh dự",
+          "url": "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://www.keele.ac.uk/astrophysics-centre/ourteam/"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
@@ -450,6 +3145,187 @@
      "structureUrl": "https://www.uclan.ac.uk/research/institutes/jeremiah-horrocks-institute",
      "scopeNote": "Mới thêm cơ quan (11/2026); chưa lấy danh sách người.",
      "units": [],
+     "networks": []
+    }
+   ]
+  },
+  {
+   "id": "guildford",
+   "city": "Guildford (Surrey)",
+   "coordinates": [
+    -0.59,
+    51.24
+   ],
+   "institutions": [
+    {
+     "name": "University of Surrey — Astrophysics Research Group",
+     "type": "university",
+     "research": "Động lực học Ngân Hà và thiên hà lùn, vật chất tối, sao đôi và tiến hóa sao, lỗ đen trong nhân thiên hà, vũ trụ học.",
+     "url": "https://www.surrey.ac.uk/astrophysics-group",
+     "coverage": "full",
+     "structure": "",
+     "structureUrl": "https://www.surrey.ac.uk/astrophysics-group",
+     "scopeNote": "Mới thêm cơ quan (11/2026).",
+     "units": [
+      {
+       "name": "Astrophysics Research Group",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "University of Surrey",
+       "topics": "Động lực học Ngân Hà, thiên hà lùn, vật chất tối, tiến hóa sao đôi, cụm sao.",
+       "url": "https://www.surrey.ac.uk/astrophysics-group",
+       "researchers": {
+        "people": [
+         {
+          "name": "Michelle Collins",
+          "role": "Giáo sư",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Justin Read",
+          "role": "Giáo sư",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Bob Nichol",
+          "role": "Giáo sư",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Adam Amara",
+          "role": "Giáo sư",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Alessia Gualandris",
+          "role": "Giáo sư",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Denis Erkal",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Noelia Noel",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Robert Izzard",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Jason Hunt",
+          "role": "Giảng viên / Reader",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Payel Das",
+          "role": "Nghiên cứu viên độc lập (fellowship dài hạn: UKRI FLF, Royal Society URF, STFC ERF)",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Anke Ardern-Arentsen",
+          "role": "Nghiên cứu viên độc lập (fellowship dài hạn: UKRI FLF, Royal Society URF, STFC ERF)",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Eugene Vasiliev",
+          "role": "Nghiên cứu viên độc lập (fellowship dài hạn: UKRI FLF, Royal Society URF, STFC ERF)",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Thibaut Francois",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Amery Gration",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Oliver Newton",
+          "role": "Nghiên cứu sau tiến sĩ",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Susan Hutton",
+          "role": "Thành viên có học vị Dr. (trang không ghi chức danh)",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Ethan Taylor",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Harry Addison",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Astha",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Nicole Buckley",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Hassan Butt",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Julian Jun Yen Chan",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Vandana Ganesan Kaushik",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Andrew Garner",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Nader Khonji",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Mahdieh Navabi",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         },
+         {
+          "name": "Connor Pickett",
+          "role": "Nghiên cứu sinh",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         }
+        ],
+        "external": [
+         {
+          "name": "Janet Preston",
+          "role": "Khách mời",
+          "url": "https://www.surrey.ac.uk/astrophysics-group/people"
+         }
+        ],
+        "sources": [
+         "https://www.surrey.ac.uk/astrophysics-group/people"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
      "networks": []
     }
    ]
