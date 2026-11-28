@@ -117,7 +117,7 @@ i.k-data,i.k-full{background:var(--navy)}i.k-land{background:var(--land);box-sha
 .city-chip[aria-pressed="true"] small{color:var(--bg)}
 .city-chip[aria-pressed="true"]::before{background:var(--sel)}
 .city-panel{scroll-margin-top:16px}
-.country-label{font:700 11px Arial,sans-serif;fill:#ffffff;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:var(--navy);stroke-width:2.5px;stroke-linejoin:round}
+.country-label{font:700 12px Arial,sans-serif;letter-spacing:.04em;fill:#ffffff;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:var(--navy);stroke-width:2.5px;stroke-linejoin:round}
 :root[data-theme=dark] .country-label{fill:#0b0f17;stroke:var(--navy)}
 .country.selected+.x{}
 .country.hl{fill:var(--sel)!important}
@@ -258,10 +258,11 @@ const defs=document.createElementNS(ns,'defs');defs.innerHTML='<linearGradient i
 
 {
 const ns='http://www.w3.org/2000/svg',short={GBR:'Anh',IRL:'Ireland',CYP:'Síp',CZE:'Séc',BIH:'Bosnia',MKD:'Bắc Macedonia',NLD:'Hà Lan',VAT:'Vatican'};
+const TLD={ALB:'AL',AUT:'AT',BEL:'BE',BGR:'BG',BIH:'BA',BLR:'BY',CHE:'CH',CYP:'CY',CZE:'CZ',DEU:'DE',DNK:'DK',ESP:'ES',EST:'EE',FIN:'FI',FRA:'FR',GBR:'UK',GRC:'GR',HRV:'HR',HUN:'HU',IRL:'IE',ISL:'IS',ITA:'IT',KOS:'XK',LTU:'LT',LUX:'LU',LVA:'LV',MDA:'MD',MKD:'MK',MLT:'MT',MNE:'ME',NLD:'NL',NOR:'NO',POL:'PL',PRT:'PT',ROU:'RO',SRB:'RS',SVK:'SK',SVN:'SI',SWE:'SE',UKR:'UA',VAT:'VA'};
 const lay=document.createElementNS(ns,'g');lay.setAttribute('class','country-labels');map.append(lay);
 const placed=[];const ov=b=>placed.some(o=>b.x<o.x+o.w+7&&b.x+b.w+7>o.x&&b.y<o.y+o.h+2&&b.y+b.h+2>o.y);
 const els=[...map.querySelectorAll('.country.has-data')].map(el=>({el,b:el.getBBox()})).sort((a,b)=>b.b.width*b.b.height-a.b.width*a.b.height);
-for(const {el,b} of els){const t=document.createElementNS(ns,'text');t.textContent=short[el.dataset.code]||el.dataset.name;t.setAttribute('class','country-label');lay.append(t);
+for(const {el,b} of els){const t=document.createElementNS(ns,'text');t.textContent=TLD[el.dataset.code]||short[el.dataset.code]||el.dataset.name;t.setAttribute('class','country-label');const tt=document.createElementNS(ns,'title');tt.textContent=el.dataset.name;t.append(tt);lay.append(t);
  const w=t.getComputedTextLength(),h=11;let cx=b.x+b.width/2,cy=b.y+b.height/2;
  const adj={NOR:[-18,40],SWE:[0,25],FIN:[0,10],GBR:[8,10],FRA:[8,0],HRV:[-10,-6],GRC:[-6,-10],ITA:[-14,-28],DNK:[0,4]}[el.dataset.code];if(adj){cx+=adj[0];cy+=adj[1]}
  const box={x:cx-w/2-1,y:cy-h/2-1,w:w+2,h:h+2};
