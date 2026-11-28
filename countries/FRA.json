@@ -189,11 +189,39 @@
      "type": "institute",
      "research": "Hoá học vũ trụ, khí quyển hành tinh (Titan, Sao Hoả), vật chất hữu cơ ngoài Trái Đất.",
      "url": "https://www.lisa.u-pec.fr",
-     "coverage": "partial",
+     "coverage": "leaders",
      "structure": "",
      "structureUrl": "https://www.lisa.u-pec.fr",
-     "scopeNote": "Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.",
-     "units": [],
+     "scopeNote": "Mới có 2 người được nêu trong thông cáo 12/2024.",
+     "units": [
+      {
+       "name": "Exobiologie et Astrochimie",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "LISA",
+       "topics": "Hoá học vật chất hữu cơ trong vũ trụ, mô phỏng khí quyển hành tinh, thí nghiệm trên quỹ đạo (IR-Coaster ngoài ISS).",
+       "url": "https://www.lisa.u-pec.fr",
+       "researchers": {
+        "people": [
+         {
+          "name": "Hervé Cottin",
+          "role": "Giáo sư hoá học và hoá học thiên văn (UPEC); trưởng thí nghiệm IR-Coaster",
+          "url": "https://u-paris.fr/?p=89412"
+         },
+         {
+          "name": "Noël Grand",
+          "role": "Kỹ sư nghiên cứu CNRS; trưởng dự án",
+          "url": "https://u-paris.fr/?p=89412"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://u-paris.fr/?p=89412"
+        ],
+        "note": "",
+        "checked": "2026-11-22"
+       }
+      }
+     ],
      "networks": []
     }
    ]

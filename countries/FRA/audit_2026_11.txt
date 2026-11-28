@@ -31,10 +31,18 @@ city: creteil
 type: institute
 url: https://www.lisa.u-pec.fr
 research: Hoá học vũ trụ, khí quyển hành tinh (Titan, Sao Hoả), vật chất hữu cơ ngoài Trái Đất.
-coverage: partial
+coverage: leaders
 structure: 
 structureUrl: https://www.lisa.u-pec.fr
-scope: Bổ sung khi rà soát 28/11/2026; chưa lấy danh sách người.
+scope: Mới có 2 người được nêu trong thông cáo 12/2024.
+
+#unit Exobiologie et Astrochimie
+parent: LISA
+topics: Hoá học vật chất hữu cơ trong vũ trụ, mô phỏng khí quyển hành tinh, thí nghiệm trên quỹ đạo (IR-Coaster ngoài ISS).
+url: https://www.lisa.u-pec.fr
+src: https://u-paris.fr/?p=89412
+pp: Giáo sư hoá học và hoá học thiên văn (UPEC); trưởng thí nghiệm IR-Coaster | Hervé Cottin
+pp: Kỹ sư nghiên cứu CNRS; trưởng dự án | Noël Grand
 
 @inst PhLAM — Physique des Lasers, Atomes et Molécules (Université de Lille)
 city: lille
