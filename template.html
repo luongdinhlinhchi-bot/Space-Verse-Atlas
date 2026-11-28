@@ -273,6 +273,6 @@ for(const el of all){const b=document.createElement('button');b.type='button';b.
  b.addEventListener('mouseenter',()=>el.classList.add('hl'));b.addEventListener('mouseleave',()=>el.classList.remove('hl'));
  b.addEventListener('click',()=>{choose(el);document.querySelectorAll('.country-chip').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'})});wrap.append(b)}
 nav.append(wrap);
-map.addEventListener('click',e=>{const el=e.target.closest('.country');if(el)document.querySelectorAll('.country-chip').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.code===el.dataset.code)))});
+map.addEventListener('click',e=>{const el=e.target.closest('.country');if(!el)return;document.querySelectorAll('.country-chip').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.code===el.dataset.code)));if(el.classList.contains('has-data'))requestAnimationFrame(()=>nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}))});
 }
 </script></body></html>
