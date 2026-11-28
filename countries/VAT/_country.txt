@@ -1,5 +1,0 @@
-@country VAT
-checked: 2026-11-28
-pin: 6
-coordinateNote: Hình Vatican trên bản đồ là vòng tròn gần đúng do lãnh thổ quá nhỏ (khoảng 0,44 km²). Chấm đặt tại Thành Vatican; trụ sở thực của Đài thiên văn Vatican ở Castel Gandolfo (cách Rome khoảng 25 km), nhóm nghiên cứu thứ hai ở Tucson (Arizona, Mỹ) gắn với kính VATT.
-listSource: https://vaticanobservatory.org/about/team

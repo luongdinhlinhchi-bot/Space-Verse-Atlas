@@ -1,12 +1,12 @@
-@city vatican | Thành Vatican (trụ sở: Castel Gandolfo) | 12.453, 41.903
+@city castelgandolfo | Castel Gandolfo (Roma) | 12.65, 41.75
 
 @inst Vatican Observatory (Specola Vaticana)
-city: vatican
+city: castelgandolfo
 type: observatory
 url: https://www.vaticanobservatory.org/
 research: Khoa học hành tinh và thiên thạch (bộ sưu tập thiên thạch Vatican), quang phổ và phân loại sao, sao biến quang, thiên hà, vũ trụ học và hấp dẫn lượng tử, lịch sử thiên văn, khí quyển; vận hành Kính VATT 1,8 m trên núi Graham (Arizona).
 coverage: full
-structure: Viện nghiên cứu thiên văn của Tòa Thánh, trực thuộc Phủ Thống đốc Nhà nước Thành Vatican, do Dòng Tên điều hành; trụ sở ở Castel Gandolfo và Nhóm Nghiên cứu Đài thiên văn Vatican (VORG) ở Tucson; giám đốc Richard D'Souza, S.J.
+structure: Viện nghiên cứu thiên văn của Tòa Thánh (Vatican), đặt ở Ý, trực thuộc Phủ Thống đốc Nhà nước Thành Vatican, do Dòng Tên điều hành; trụ sở ở Castel Gandolfo và Nhóm Nghiên cứu Đài thiên văn Vatican (VORG) ở Tucson; giám đốc Richard D'Souza, S.J.
 structureUrl: https://vaticanobservatory.org/about/team
 scope: Đủ nhân sự nghiên cứu (Castel Gandolfo và Tucson) cùng học giả liên kết theo trang Team (11/2026); không gồm nhân viên hành chính, vận hành kính VATT và Quỹ Đài thiên văn Vatican.
 

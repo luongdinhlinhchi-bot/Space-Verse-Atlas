@@ -263,15 +263,15 @@ const lay=document.createElementNS(ns,'g');lay.setAttribute('class','country-lab
 const placed=[];const ov=b=>placed.some(o=>b.x<o.x+o.w+7&&b.x+b.w+7>o.x&&b.y<o.y+o.h+2&&b.y+b.h+2>o.y);
 const els=[...map.querySelectorAll('.country.has-data')].map(el=>({el,b:el.getBBox()})).sort((a,b)=>b.b.width*b.b.height-a.b.width*a.b.height);
 for(const {el,b} of els){const t=document.createElementNS(ns,'text');t.textContent=TLD[el.dataset.code]||short[el.dataset.code]||el.dataset.name;t.setAttribute('class','country-label');const tt=document.createElementNS(ns,'title');tt.textContent=el.dataset.name;t.append(tt);lay.append(t);
- const w=t.getComputedTextLength(),h=11;let cx=b.x+b.width/2,cy=b.y+b.height/2;
- const adj={NOR:[-18,40],SWE:[0,25],FIN:[0,10],GBR:[8,10],FRA:[8,0],HRV:[-10,-6],GRC:[-6,-10],ITA:[-14,-28],DNK:[0,4]}[el.dataset.code];if(adj){cx+=adj[0];cy+=adj[1]}
+ const w=t.getComputedTextLength(),h=11;const lp=(el.dataset.lp||'').split(',').map(Number);let cx=lp.length===3?lp[0]:b.x+b.width/2,cy=lp.length===3?lp[1]:b.y+b.height/2;const rr=lp.length===3?lp[2]:Math.min(b.width,b.height)/2;
  const box={x:cx-w/2-1,y:cy-h/2-1,w:w+2,h:h+2};
  t.addEventListener('click',()=>{choose(el);requestAnimationFrame(()=>nameBox.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}))});
- if(!(w>b.width*1.05||h>b.height*.9||ov(box))){t.setAttribute('x',cx);t.setAttribute('y',cy+4);placed.push(box);continue}
- t.setAttribute('class','country-label out');const w2=t.getComputedTextLength();const ox=b.x+b.width/2,oy=b.y+b.height/2;let ok=false;
+ if(w/2<=rr*2.1&&rr>=4.5&&!ov(box)){t.setAttribute('x',cx);t.setAttribute('y',cy+4);placed.push(box);continue}
+ if(rr>=3){t.style.fontSize='9px';const w3=t.getComputedTextLength(),b3={x:cx-w3/2-1,y:cy-5,w:w3+2,h:10};if(w3/2<=rr*2.8&&!placed.some(o=>b3.x<o.x+o.w&&b3.x+b3.w>o.x&&b3.y<o.y+o.h&&b3.y+b3.h>o.y)){t.setAttribute('x',cx);t.setAttribute('y',cy+3);placed.push(b3);continue}t.style.fontSize=''}
+ t.setAttribute('class','country-label out');const w2=t.getComputedTextLength();const ox=cx,oy=cy;let ok=false;
  for(const d of [16,34,52])if(!ok)for(const [dx,dy,an] of [[1,0,'start'],[-1,0,'end'],[0,-1,'middle'],[0,1,'middle'],[1,1,'start'],[-1,1,'end'],[1,-1,'start'],[-1,-1,'end']]){
-  const lx=ox+dx*(b.width/2+d),ly=oy+dy*(b.height/2+d);const bx=an==='start'?lx:an==='end'?lx-w2:lx-w2/2;const bb={x:bx-2,y:ly-h/2-1,w:w2+4,h:h+2};
-  if(ov(bb))continue;const ln=document.createElementNS(ns,'line');ln.setAttribute('x1',ox+dx*b.width/2);ln.setAttribute('y1',oy+dy*b.height/2);ln.setAttribute('x2',lx-dx*3);ln.setAttribute('y2',ly-dy*3);ln.setAttribute('class','country-leader');lay.insertBefore(ln,t);
+  const lx=ox+dx*(rr+d),ly=oy+dy*(rr+d);const bx=an==='start'?lx:an==='end'?lx-w2:lx-w2/2;const bb={x:bx-2,y:ly-h/2-1,w:w2+4,h:h+2};
+  if(ov(bb))continue;const ln=document.createElementNS(ns,'line');ln.setAttribute('x1',ox);ln.setAttribute('y1',oy);ln.setAttribute('x2',lx-dx*3);ln.setAttribute('y2',ly-dy*3);ln.setAttribute('class','country-leader');lay.insertBefore(ln,t);
   t.setAttribute('x',lx);t.setAttribute('y',ly+4);t.setAttribute('text-anchor',an);placed.push(bb);ok=true;break}
  if(!ok){t.remove()}}
 

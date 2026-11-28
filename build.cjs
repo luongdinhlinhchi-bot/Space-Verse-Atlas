@@ -5,6 +5,23 @@ const data = JSON.parse(fs.readFileSync('countries.geojson','utf8'));
 const focusFrame = {type:'MultiPoint',coordinates:[[-22,35],[40,35],[-22,70.5],[40,70.5],[10,71.5],[10,34]]};
 const projection = d3.geoConicConformal().parallels([40,65]).rotate([-12,0]).fitExtent([[20,16],[1180,744]],focusFrame).clipExtent([[0,0],[1200,760]]);
 const path = d3.geoPath(projection);
+// label anchor: pole of inaccessibility (grid search) of the largest projected polygon of a country
+function labelPoint(f){
+ const geom=f.geometry;const polys=geom.type==='Polygon'?[geom.coordinates]:geom.type==='MultiPolygon'?geom.coordinates:[];
+ let best=null,bestA=0;
+ for(const poly of polys){const rings=poly.map(r=>r.map(c=>projection(c)).filter(p=>p&&Number.isFinite(p[0])));if(!rings[0]||rings[0].length<3)continue;const a=Math.abs(d3.polygonArea(rings[0]));if(a>bestA){bestA=a;best=rings}}
+ if(!best)return null;
+ const outer=best[0];const xs=outer.map(p=>p[0]),ys=outer.map(p=>p[1]);
+ const x0=Math.min(...xs),x1=Math.max(...xs),y0=Math.min(...ys),y1=Math.max(...ys);
+ const segDist=(px,py,a,b)=>{const dx=b[0]-a[0],dy=b[1]-a[1],l=dx*dx+dy*dy;let t=l?((px-a[0])*dx+(py-a[1])*dy)/l:0;t=Math.max(0,Math.min(1,t));return Math.hypot(px-a[0]-t*dx,py-a[1]-t*dy)};
+ const edge=(px,py)=>{let m=Infinity;for(const r of best)for(let i=0;i<r.length;i++){const d=segDist(px,py,r[i],r[(i+1)%r.length]);if(d<m)m=d}return m};
+ const inside=(px,py)=>d3.polygonContains(outer,[px,py])&&!best.slice(1).some(h=>d3.polygonContains(h,[px,py]));
+ let bx=(x0+x1)/2,by=(y0+y1)/2,bd=-1;
+ const N=28;for(let i=0;i<=N;i++)for(let j=0;j<=N;j++){const px=x0+(x1-x0)*i/N,py=y0+(y1-y0)*j/N;if(!inside(px,py))continue;const d=edge(px,py);if(d>bd){bd=d;bx=px;by=py}}
+ let step=Math.max(x1-x0,y1-y0)/N;for(let k=0;k<4;k++){step/=2;for(let i=-3;i<=3;i++)for(let j=-3;j<=3;j++){const px=bx+i*step,py=by+j*step;if(!inside(px,py))continue;const d=edge(px,py);if(d>bd){bd=d;bx=px;by=py}}}
+ return [+bx.toFixed(1),+by.toFixed(1),+Math.max(bd,0).toFixed(1)];
+}
+
 const esc = s => String(s).replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
 const finland = JSON.parse(fs.readFileSync('finland.json','utf8'));
 const unitData = JSON.parse(fs.readFileSync('finland-units.json','utf8'));
@@ -169,8 +186,8 @@ const countries = data.features.map(f0 => {
   if(W/H<1.25) cd.viewBox=[L,T,W,H].map(v=>+v.toFixed(1)).join(' ');
   delete cd.autoView;
  }
- const worldD = path(f); if(!worldD) return '';
- return `<path class="country${cd?' has-data':''}" d="${worldD}" data-code="${f.properties.ADM0_A3}" data-detail="${detailPath}" tabindex="0" role="button" aria-label="${esc(name)}" aria-pressed="false" data-name="${esc(name)}"><title>${esc(name)}</title></path>`;
+ const worldD = path(f); if(!worldD) return ''; const lp = cd ? labelPoint(f) : null;
+ return `<path class="country${cd?' has-data':''}" d="${worldD}" data-code="${f.properties.ADM0_A3}" data-detail="${detailPath}" tabindex="0" role="button" aria-label="${esc(name)}" aria-pressed="false" data-name="${esc(name)}"${lp?` data-lp="${lp.join(',')}"`:''}><title>${esc(name)}</title></path>`;
 }).join('\n');
 const template = fs.readFileSync('template.html','utf8');
 for(const [code,cd] of Object.entries(countryData)) if(!cd.cities.every(city => city.point?.every(Number.isFinite))) throw new Error('Missing map coordinates: '+code);

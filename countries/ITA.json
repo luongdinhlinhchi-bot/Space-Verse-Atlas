@@ -4041,6 +4041,210 @@
      "networks": []
     }
    ]
+  },
+  {
+   "id": "castelgandolfo",
+   "city": "Castel Gandolfo (Roma)",
+   "coordinates": [
+    12.65,
+    41.75
+   ],
+   "institutions": [
+    {
+     "name": "Vatican Observatory (Specola Vaticana)",
+     "type": "observatory",
+     "research": "Khoa học hành tinh và thiên thạch (bộ sưu tập thiên thạch Vatican), quang phổ và phân loại sao, sao biến quang, thiên hà, vũ trụ học và hấp dẫn lượng tử, lịch sử thiên văn, khí quyển; vận hành Kính VATT 1,8 m trên núi Graham (Arizona).",
+     "url": "https://www.vaticanobservatory.org/",
+     "coverage": "full",
+     "structure": "Viện nghiên cứu thiên văn của Tòa Thánh (Vatican), đặt ở Ý, trực thuộc Phủ Thống đốc Nhà nước Thành Vatican, do Dòng Tên điều hành; trụ sở ở Castel Gandolfo và Nhóm Nghiên cứu Đài thiên văn Vatican (VORG) ở Tucson; giám đốc Richard D'Souza, S.J.",
+     "structureUrl": "https://vaticanobservatory.org/about/team",
+     "scopeNote": "Đủ nhân sự nghiên cứu (Castel Gandolfo và Tucson) cùng học giả liên kết theo trang Team (11/2026); không gồm nhân viên hành chính, vận hành kính VATT và Quỹ Đài thiên văn Vatican.",
+     "units": [
+      {
+       "name": "Nhân sự nghiên cứu – Castel Gandolfo",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Vatican Observatory",
+       "topics": "Hấp dẫn và vũ trụ học, thiên thạch, khí quyển, thiên văn.",
+       "url": "https://vaticanobservatory.org/about/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Richard A. D'Souza, S.J.",
+          "role": "Giám đốc Đài thiên văn Vatican; nhà thiên văn",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Gabriele Gionti, S.J. (phó giám đốc phụ trách Castel Gandolfo)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Christoforus Bayu Risanto, S.J. (khí quyển)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Robert J. Macke, S.J. (quản lý bộ sưu tập thiên thạch)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Robert Janusz, S.J. (triết học và vật lý)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Alessandro Omizzolo",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Matteo Galaverni (nhà thiên văn liên kết)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://vaticanobservatory.org/about/team"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Vatican Observatory Research Group – Tucson",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Vatican Observatory",
+       "topics": "Khoa học hành tinh, quang phổ sao, thiên hà, Kính VATT.",
+       "url": "https://vaticanobservatory.org/about/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Pavel Gabor, S.J.",
+          "role": "Phó giám đốc; phụ trách nhóm Tucson",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Guy J. Consolmagno, S.J. (giám đốc danh dự",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "thiên văn hành tinh)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Jean-Baptiste Kikwaya Eluo, S.J.",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Richard P. Boyle, S.J. (nhà khoa học kính VATT)",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Christopher J. Corbally, S.J.",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "David A. Brown, S.J.",
+          "role": "Nhà nghiên cứu",
+          "url": "https://vaticanobservatory.org/about/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://vaticanobservatory.org/about/team"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      },
+      {
+       "name": "Học giả liên kết (Adjunct Scholars)",
+       "kind": "Nhóm nghiên cứu",
+       "parent": "Vatican Observatory",
+       "topics": "Thiên văn, vũ trụ học, lịch sử và triết học khoa học.",
+       "url": "https://vaticanobservatory.org/about/team",
+       "researchers": {
+        "people": [
+         {
+          "name": "Aldo Altamore",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Louis Caruana, S.J.",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Ileana Chinnici",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Michelle Francl-Donnay",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "José G. Funes, S.J.",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Christopher Graney",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Adam Hincks, S.J.",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Michael Heller",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Dante Minniti",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Giuseppe Tanzella-Nitti",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Maria Elena Monzani",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         },
+         {
+          "name": "Claudio Costa",
+          "role": "Học giả liên kết",
+          "url": "https://vaticanobservatory.org/about/team"
+         }
+        ],
+        "external": [],
+        "sources": [
+         "https://vaticanobservatory.org/about/team"
+        ],
+        "note": "",
+        "checked": "2026-11-28"
+       }
+      }
+     ],
+     "networks": []
+    }
+   ]
   }
  ],
  "networks": {},
